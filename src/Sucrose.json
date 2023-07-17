@@ -52,7 +52,20 @@
     "Film and TV": {},
     "Food and Drinks": {},
     "Galaxy": {},
-    "Game": {},
+    "Game": {
+      "Wallpapers": {
+        "Night City-1": [
+          "src/Game",
+          "ncity.jpg",
+          "nsky.gif"
+        ],
+        "Night City-2": [
+          "src/Game",
+          "skycity.jpg",
+          "livesky.gif"
+        ]
+      }
+    },
     "Geometric Patterns": {},
     "Holidays and Seasons": {},
     "Horror and Halloween": {},
@@ -65,14 +78,46 @@
     "Nightscapes": {},
     "Patterns and Textures": {},
     "Retro": {},
-    "RGB": {},
-    "Sky": {},
-    "Space": {},
+    "RGB": {
+      "Wallpapers": {
+        "Asus ROG-1": [
+          "src/RGB",
+          "look.jpg",
+          "peek.gif"
+        ]
+      }
+    },
+    "Sky": {
+      "Wallpapers": {
+        "Storm in Sky-1": [
+          "src/Sky",
+          "thundersky.jpg",
+          "livestorm.gif"
+        ]
+      }
+    },
+    "Space": {
+      "Wallpapers": {
+        "Floating in Space-1": [
+          "src/Space",
+          "thumbnail.jpg",
+          "preview.gif"
+        ]
+      }
+    },
     "Sports": {},
     "Superheroes": {},
     "Technology": {},
     "Underwater and Marine": {},
-    "Vehicles": {},
+    "Vehicles": {
+      "Wallpapers": {
+        "Nissan Skyline-1": [
+          "src/Vehicle",
+          "thumbnail.jpg",
+          "preview.gif"
+        ]
+      }
+    },
     "Vintage": {}
   }
 }
