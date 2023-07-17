@@ -1,5 +1,3 @@
-<h1>Wallpaper</h1>
-
 <p>Wallpaper, Sucrose uygulaması için kullanıcıların kendi canlı duvar kağıtlarını yayınlamak amacıyla oluşturulmuş bir açık kaynaklı depodur. Kullanıcılar, bu depoya çekme isteği göndererek kendi canlı duvar kağıtlarını ekleyebilir ve diğer kullanıcılarla paylaşabilir. Bu depo, kullanıcıların yaratıcılıklarını sergilemelerini ve Sucrose topluluğuyla etkileşimde bulunmalarını sağlayan bir platform sunmaktadır. Her bir katkı değerlendirilir ve projeye eklenmeden önce incelenir. Siz de duvar kağıtlarınızı paylaşarak Sucrose topluluğuna katılabilirsiniz!</p>
 
 <h2>Hakkında</h2>

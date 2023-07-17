@@ -1,5 +1,3 @@
-<h1>Wallpaper</h1>
-
 <p>Wallpaper es un repositorio de código abierto creado para que los usuarios puedan publicar sus propios fondos de pantalla animados para la aplicación Sucrose. Los usuarios pueden contribuir a este repositorio enviando solicitudes de extracción (pull requests) para agregar sus propios fondos de pantalla animados y compartirlos con otros usuarios. Este repositorio brinda una plataforma para que los usuarios muestren su creatividad e interactúen con la comunidad de Sucrose. Cada contribución es evaluada y revisada antes de ser agregada al proyecto. ¡Únete a la comunidad de Sucrose compartiendo tus fondos de pantalla!</p>
 
 <h2>Acerca de</h2>
