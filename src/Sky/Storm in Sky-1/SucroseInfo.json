@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Storm in Sky",
+  "Thumbnail": "thundersky.jpg",
+  "Preview": "livestorm.gif",
+  "Description": "Storm in Sky",
+  "Author": "SOM",
+  "License": null,
+  "Contact": "https://www.youtube.com/@som8960",
+  "Type": 3,
+  "Source": "storm.mp4",
+  "Arguments": null
+}
