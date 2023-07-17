@@ -3,38 +3,38 @@
     "Abstract": {},
     "Ambience": {
       "Wallpapers": {
-        "Calming Ocean Sunset-1": [
-          "src/Ambience",
-          "ocean.jpg",
-          "sunset.gif"
-        ]
+        "Calming Ocean Sunset-1": {
+          "Source": "src/Ambience",
+          "Cover": "ocean.jpg",
+          "Live": "sunset.gif"
+        }
       }
     },
     "Animals": {
       "Wallpapers": {
-        "Cat vs Ball of Wool-1": [
-          "src/Animal",
-          "thumbnail.jpg",
-          "preview.gif"
-        ]
+        "Cat vs Ball of Wool-1": {
+          "Source": "src/Animal",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
       }
     },
     "Animation": {
       "Wallpapers": {
-        "Big Buck Bunny-1": [
-          "src/Animation",
-          "logo.jpg",
-          "wakeup.gif"
-        ]
+        "Big Buck Bunny-1": {
+          "Source": "src/Animation",
+          "Cover": "logo.jpg",
+          "Live": "wakeup.gif"
+        }
       }
     },
     "Anime": {
       "Wallpapers": {
-        "Agatsuma Zenitsu-1": [
-          "src/Anime",
-          "cover.jpg",
-          "live.gif"
-        ]
+        "Agatsuma Zenitsu-1": {
+          "Source": "src/Anime",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
+        }
       }
     },
     "Architecture and Buildings": {},
@@ -54,16 +54,16 @@
     "Galaxy": {},
     "Game": {
       "Wallpapers": {
-        "Night City-1": [
-          "src/Game",
-          "ncity.jpg",
-          "nsky.gif"
-        ],
-        "Night City-2": [
-          "src/Game",
-          "skycity.jpg",
-          "livesky.gif"
-        ]
+        "Night City-1": {
+          "Source": "src/Game",
+          "Cover": "ncity.jpg",
+          "Live": "nsky.gif"
+        },
+        "Night City-2": {
+          "Source": "src/Game",
+          "Cover": "skycity.jpg",
+          "Live": "livesky.gif"
+        }
       }
     },
     "Geometric Patterns": {},
@@ -80,29 +80,29 @@
     "Retro": {},
     "RGB": {
       "Wallpapers": {
-        "Asus ROG-1": [
-          "src/RGB",
-          "look.jpg",
-          "peek.gif"
-        ]
+        "Asus ROG-1": {
+          "Source": "src/RGB",
+          "Cover": "look.jpg",
+          "Live": "peek.gif"
+        }
       }
     },
     "Sky": {
       "Wallpapers": {
-        "Storm in Sky-1": [
-          "src/Sky",
-          "thundersky.jpg",
-          "livestorm.gif"
-        ]
+        "Storm in Sky-1": {
+          "Source": "src/Sky",
+          "Cover": "thundersky.jpg",
+          "Live": "livestorm.gif"
+        }
       }
     },
     "Space": {
       "Wallpapers": {
-        "Floating in Space-1": [
-          "src/Space",
-          "thumbnail.jpg",
-          "preview.gif"
-        ]
+        "Floating in Space-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
       }
     },
     "Sports": {},
@@ -111,11 +111,11 @@
     "Underwater and Marine": {},
     "Vehicles": {
       "Wallpapers": {
-        "Nissan Skyline-1": [
-          "src/Vehicle",
-          "thumbnail.jpg",
-          "preview.gif"
-        ]
+        "Nissan Skyline-1": {
+          "Source": "src/Vehicle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
       }
     },
     "Vintage": {}
