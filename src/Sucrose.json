@@ -2,32 +2,40 @@
   "Categories": {
     "Abstract": {},
     "Ambience": {
-      "Calming Ocean Sunset-1": [
-        "src/Ambience",
-        "ocean.jpg",
-        "sunset.gif"
-      ]
+      "Wallpapers": {
+        "Calming Ocean Sunset-1": [
+          "src/Ambience",
+          "ocean.jpg",
+          "sunset.gif"
+        ]
+      }
     },
     "Animals": {
-      "Cat vs Ball of Wool-1": [
-        "src/Animal",
-        "thumbnail.jpg",
-        "preview.gif"
-      ]
+      "Wallpapers": {
+        "Cat vs Ball of Wool-1": [
+          "src/Animal",
+          "thumbnail.jpg",
+          "preview.gif"
+        ]
+      }
     },
     "Animation": {
-      "Big Buck Bunny-1": [
-        "src/Animation",
-        "logo.jpg",
-        "wakeup.gif"
-      ]
+      "Wallpapers": {
+        "Big Buck Bunny-1": [
+          "src/Animation",
+          "logo.jpg",
+          "wakeup.gif"
+        ]
+      }
     },
     "Anime": {
-      "Agatsuma Zenitsu-1": [
-        "src/Anime",
-        "cover.jpg",
-        "live.gif"
-      ]
+      "Wallpapers": {
+        "Agatsuma Zenitsu-1": [
+          "src/Anime",
+          "cover.jpg",
+          "live.gif"
+        ]
+      }
     },
     "Architecture and Buildings": {},
     "Art and Abstract": {},
@@ -44,18 +52,7 @@
     "Film and TV": {},
     "Food and Drinks": {},
     "Galaxy": {},
-    "Game": {
-      "Night City-1": [
-        "src/Game",
-        "ncity.jpg",
-        "nsky.gif"
-      ],
-      "Night City-2": [
-        "src/Game",
-        "skycity.jpg",
-        "livesky.gif"
-      ]
-    },
+    "Game": {},
     "Geometric Patterns": {},
     "Holidays and Seasons": {},
     "Horror and Halloween": {},
@@ -68,38 +65,14 @@
     "Nightscapes": {},
     "Patterns and Textures": {},
     "Retro": {},
-    "RGB": {
-      "Asus ROG-1": [
-        "src/RGB",
-        "look.jpg",
-        "peek.gif"
-      ]
-    },
-    "Sky": {
-      "Storm in Sky-1": [
-        "src/Sky",
-        "thundersky.jpg",
-        "livestorm.gif"
-      ]
-    },
-    "Space": {
-      "Floating in Space-1": [
-        "src/Space",
-        "thumbnail.jpg",
-        "preview.gif"
-      ]
-    },
+    "RGB": {},
+    "Sky": {},
+    "Space": {},
     "Sports": {},
     "Superheroes": {},
     "Technology": {},
     "Underwater and Marine": {},
-    "Vehicles": {
-      "Nissan Skyline-1": [
-        "src/Vehicle",
-        "thumbnail.jpg",
-        "preview.gif"
-      ]
-    },
+    "Vehicles": {},
     "Vintage": {}
   }
 }
