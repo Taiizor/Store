@@ -1,4 +1,4 @@
-<h1>Sucrose Wallpaper - Pull Requests</h1>
+<h1>Wallpaper - Pull Requests</h1>
 
 <h2>About</h2>
 

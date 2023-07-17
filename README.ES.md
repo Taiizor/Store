@@ -1,4 +1,4 @@
-<h1>Sucrose Wallpaper - Solicitudes de Extracción (Pull Requests)</h1>
+<h1>Wallpaper - Solicitudes de Extracción (Pull Requests)</h1>
 
 <h2>Acerca de</h2>
 
