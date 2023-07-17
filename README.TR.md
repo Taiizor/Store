@@ -1,4 +1,4 @@
-<h1>Proje Adı - Çekme İstekleri (Pull Requests)</h1>
+<h1>Sucrose Wallpaper - Çekme İstekleri (Pull Requests)</h1>
 
 <h2>Hakkında</h2>
 
