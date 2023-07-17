@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Asus ROG",
+  "Thumbnail": "look.jpg",
+  "Preview": "peek.gif",
+  "Description": "ASUS ROG RGB",
+  "Author": "SOM",
+  "License": null,
+  "Contact": "https://www.youtube.com/@som8960",
+  "Type": 0,
+  "Source": "rog.gif",
+  "Arguments": null
+}
