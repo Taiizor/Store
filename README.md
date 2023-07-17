@@ -1,4 +1,4 @@
-<h1>Wallpaper - Pull Requests</h1>
+<h1>Wallpaper</h1>
 
 <p>Wallpaper is an open-source repository created for users to publish their own live wallpapers for the Sucrose application. Users can contribute to this repository by submitting pull requests to add their own live wallpapers and share them with other users. This repository provides a platform for users to showcase their creativity and interact with the Sucrose community. Each contribution is evaluated and reviewed before being added to the project. Join the Sucrose community by sharing your wallpapers!</p>
 
