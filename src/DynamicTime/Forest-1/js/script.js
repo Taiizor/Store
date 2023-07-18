@@ -59,7 +59,7 @@ function CheckWallpaper() {
 	var src = image.src;
 	var hour = GetComputerTime();
 	var wall = Wallpaper[hour];
-	
+
 	if (src !== wall) {
 		image.src = wall;
 	}
