@@ -47,6 +47,15 @@
     "Colorful Gradients": {},
     "Comic Books": {},
     "Digital Art": {},
+	"Dynamic Time": {
+      "Wallpapers": {
+        "Forest-1": {
+          "Source": "src/DynamicTime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Enchanted Forests": {},
     "Fantasy": {},
     "Film and TV": {},

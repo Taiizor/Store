@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dynamic Forest Landscape",
+  "Author": "adi1090x",
+  "License": "LICENSE.txt",
+  "Contact": "https://github.com/adi1090x",
+  "Type": 2,
+  "Source": "Forest.html",
+  "Arguments": null
+}
