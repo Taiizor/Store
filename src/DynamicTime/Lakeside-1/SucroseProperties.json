@@ -1,4 +1,4 @@
 {
   "TriggerTime": 1,
-  "StretchMode": "SucroseStretchMode({0});"
+  "StretchMode": "SucroseStretchMode('{0}');"
 }
