@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Firewatch",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dynamic Firewatch Landscape",
+  "Author": "adi1090x",
+  "License": "LICENSE.txt",
+  "Contact": "https://github.com/adi1090x",
+  "Type": 2,
+  "Source": "Firewatch.html",
+  "Arguments": null
+}

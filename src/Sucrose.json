@@ -53,6 +53,11 @@
           "Source": "src/DynamicTime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Firewatch-1": {
+          "Source": "src/DynamicTime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
