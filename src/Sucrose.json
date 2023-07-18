@@ -58,6 +58,11 @@
           "Source": "src/DynamicTime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "London-1": {
+          "Source": "src/DynamicTime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
