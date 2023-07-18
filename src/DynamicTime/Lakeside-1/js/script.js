@@ -27,7 +27,7 @@ var Wallpaper = {
 	23: "img/23.png"
 };
 
-function SetStretchType(Type) {
+function SucroseStretchMode(Type) {
 	switch (Type) {
 		case "None":
 			image.style.objectFit = "none";
