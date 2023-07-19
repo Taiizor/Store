@@ -46,9 +46,9 @@ function SucroseStretchMode(Type) {
 	}
 }
 
-function SucroseComputerDate(data) {
+function SucroseComputerDate(Date) {
 	var src = image.src;
-	var wall = Wallpaper[data.Hour];
+	var wall = Wallpaper[Date.Hour];
 
 	if (src !== wall) {
 		image.src = wall;
