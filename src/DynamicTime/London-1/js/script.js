@@ -46,25 +46,11 @@ function SucroseStretchMode(Type) {
 	}
 }
 
-function GetComputerTime() {
-	var date = new Date();
-	//var hours = date.getHours().toString().padStart(2, '0');
-	//var minutes = date.getMinutes().toString().padStart(2, '0');
-	//var seconds = date.getSeconds().toString().padStart(2, '0');
-	//return hours + ":" + minutes + ":" + seconds;
-	return date.getHours();
-}
-
-function CheckWallpaper() {
+function SucroseComputerDate(data) {
 	var src = image.src;
-	var hour = GetComputerTime();
-	var wall = Wallpaper[hour];
+	var wall = Wallpaper[data.Hour];
 
 	if (src !== wall) {
 		image.src = wall;
 	}
 }
-
-setInterval(CheckWallpaper, 1000);
-
-CheckWallpaper();
