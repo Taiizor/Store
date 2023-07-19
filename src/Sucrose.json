@@ -80,7 +80,15 @@
       }
     },
     "Enchanted Forests": {},
-    "Fantasy": {},
+    "Fantasy": {
+      "Wallpapers": {
+        "Wonderful Landscape-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Film and TV": {},
     "Food and Drinks": {},
     "Galaxy": {},
@@ -103,6 +111,7 @@
     "Horror and Halloween": {},
     "Inspirational Quotes": {},
     "Kids and Cartoon": {},
+    "Landscape": {},
     "Line Art": {},
     "Minimalist": {},
     "Music": {},
