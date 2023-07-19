@@ -1,6 +1,14 @@
 {
   "Categories": {
-    "Abstract": {},
+    "Abstract": {
+      "Wallpapers": {
+        "Earth on a Piece of Paper-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Ambience": {
       "Wallpapers": {
         "Calming Ocean Sunset-1": {
