@@ -53,6 +53,7 @@
     "Architecture and Buildings": {},
     "Art and Abstract": {},
     "Artworks": {},
+    "Bard": {},
     "Black and White": {},
     "Cartoon and Comics": {},
     "Cities and Places": {},
@@ -113,8 +114,17 @@
     "Kids and Cartoon": {},
     "Landscape": {},
     "Line Art": {},
+    "Medieval": {},
     "Minimalist": {},
-    "Music": {},
+    "Music": {
+      "Wallpapers": {
+        "Lost Chapter-1": {
+          "Source": "src/Music",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Nature": {},
     "Nightscapes": {},
     "Patterns and Textures": {},
@@ -158,6 +168,7 @@
     },
     "Sports": {},
     "Superheroes": {},
+    "Tavern": {},
     "Technology": {},
     "Underwater and Marine": {},
     "Vehicles": {
