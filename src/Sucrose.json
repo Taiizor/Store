@@ -118,6 +118,11 @@
     "Minimalist": {},
     "Music": {
       "Wallpapers": {
+        "Phoenix-1": {
+          "Source": "src/Music",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lost Chapter-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
