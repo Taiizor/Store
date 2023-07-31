@@ -61,20 +61,20 @@
     "Colorful Gradients": {},
     "Comic Books": {},
     "Digital Art": {},
-	"Dynamic Time": {
+	"Dynamic": {
       "Wallpapers": {
         "Forest-1": {
-          "Source": "src/DynamicTime",
+          "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
         "Lakeside-1": {
-          "Source": "src/DynamicTime",
+          "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
         "London-1": {
-          "Source": "src/DynamicTime",
+          "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         }
