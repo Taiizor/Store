@@ -1,0 +1,37 @@
+name: Wallpaper Report
+description: File a wallpaper issue
+labels: ["wallpaper"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to report this wallpaper issue!
+        Please provide us with the necessary information to help us understand and address the problem.
+  - type: input
+    id: wallpaper-location
+    attributes:
+      label: Wallpaper Location (Wallpaper Name)
+      description: Where did you find this wallpaper? Please provide its name if possible.
+      placeholder: "Example: BeachSunset.jpg"
+    validations:
+      required: true
+  - type: textarea
+    id: report-reason
+    attributes:
+      label: Report Reason
+      description: Why are you reporting this wallpaper?
+      placeholder: "Example: Low resolution, distorted colors"
+    validations:
+      required: true
+  - type: textarea
+    id: report-description
+    attributes:
+      label: Report Description
+      description: |
+        Please describe the issue in detail:
+        - What specifically is wrong with the wallpaper?
+        - How should it appear instead?
+        - Any additional information that might help us understand the problem.
+      placeholder: Describe the issue...
+    validations:
+      required: true
