@@ -25,8 +25,8 @@ body:
         - Other
         - Misleading Information
         - Harmful or Malicious
-        - Nudity or Violence
         - Copyright Violation
+        - Nudity or Violence
         - Spam
     validations:
       required: true
