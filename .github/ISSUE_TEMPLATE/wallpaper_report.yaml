@@ -23,10 +23,10 @@ body:
       multiple: false
       options:
         - Other
-        - Misleading Information
-        - Harmful or Malicious
-        - Copyright Violation
         - Nudity or Violence
+        - Copyright Violation
+        - Harmful or Malicious
+        - Misleading Information
     validations:
       required: true
   - type: textarea
