@@ -15,17 +15,12 @@ body:
       placeholder: "Example: BeachSunset.jpg"
     validations:
       required: true
-  - type: dropdown
+  - type: textarea
     id: report-reason
     attributes:
-      label: Favorite dessert
-      options:
-        - Low resolution
-        - Distorted colors
-        - Incorrect aspect ratio
-        - Inappropriate content
-        - Other
-      placeholder: "Select a reason"
+      label: Report Reason
+      description: Why are you reporting this wallpaper?
+      placeholder: "Example: Low resolution, distorted colors"
     validations:
       required: true
   - type: textarea
