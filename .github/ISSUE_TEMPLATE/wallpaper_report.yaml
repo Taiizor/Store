@@ -27,7 +27,6 @@ body:
         - Harmful or Malicious
         - Copyright Violation
         - Nudity or Violence
-        - Spam
     validations:
       required: true
   - type: textarea
