@@ -20,10 +20,11 @@ body:
     attributes:
       label: Report Reason
       description: Why are you reporting this wallpaper?
-      multiple: false
+      multiple: true
       options:
         - Other
         - Misleading Information
+        - Harmful or Malicious
         - Nudity or Violence
         - Copyright Violation
         - Spam
