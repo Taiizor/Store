@@ -15,12 +15,19 @@ body:
       placeholder: "Example: BeachSunset.jpg"
     validations:
       required: true
-  - type: textarea
+  - type: select
     id: report-reason
     attributes:
       label: Report Reason
       description: Why are you reporting this wallpaper?
-      placeholder: "Example: Low resolution, distorted colors"
+      multiple: false
+      options:
+        - option: Low resolution
+        - option: Distorted colors
+        - option: Incorrect aspect ratio
+        - option: Inappropriate content
+        - option: Other
+      placeholder: "Select a reason"
     validations:
       required: true
   - type: textarea
