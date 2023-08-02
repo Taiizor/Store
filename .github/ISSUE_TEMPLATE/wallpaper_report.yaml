@@ -27,7 +27,6 @@ body:
         - Incorrect aspect ratio
         - Inappropriate content
         - Other
-      placeholder: "Other"
     validations:
       required: true
   - type: textarea
