@@ -15,18 +15,18 @@ body:
       placeholder: "Example: BeachSunset.jpg"
     validations:
       required: true
-  - type: select
+  - type: dropdown
     id: report-reason
     attributes:
       label: Report Reason
       description: Why are you reporting this wallpaper?
       multiple: false
       options:
-        - option: Low resolution
-        - option: Distorted colors
-        - option: Incorrect aspect ratio
-        - option: Inappropriate content
-        - option: Other
+        - Low resolution
+        - Distorted colors
+        - Incorrect aspect ratio
+        - Inappropriate content
+        - Other
       placeholder: "Select a reason"
     validations:
       required: true
