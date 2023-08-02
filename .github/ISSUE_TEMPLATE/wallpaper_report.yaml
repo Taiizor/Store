@@ -10,7 +10,7 @@ body:
   - type: input
     id: wallpaper-location
     attributes:
-      label: Wallpaper Location (Wallpaper Name)
+      label: Wallpaper Location
       description: Where did you find this wallpaper? Please provide its name if possible.
       placeholder: "Example: Game/Night City-1"
     validations:
