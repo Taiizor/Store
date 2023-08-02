@@ -12,7 +12,7 @@ body:
     attributes:
       label: Wallpaper Location (Wallpaper Name)
       description: Where did you find this wallpaper? Please provide its name if possible.
-      placeholder: "Example: BeachSunset.jpg"
+      placeholder: "Example: Game/Night City-1"
     validations:
       required: true
   - type: dropdown
@@ -22,11 +22,11 @@ body:
       description: Why are you reporting this wallpaper?
       multiple: false
       options:
-        - Low resolution
-        - Distorted colors
-        - Incorrect aspect ratio
-        - Inappropriate content
         - Other
+        - Misleading Information
+        - Nudity or Violence
+        - Copyright Violation
+        - Spam
     validations:
       required: true
   - type: textarea
