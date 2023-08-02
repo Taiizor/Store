@@ -20,7 +20,7 @@ body:
     attributes:
       label: Report Reason
       description: Why are you reporting this wallpaper?
-      multiple: true
+      multiple: false
       options:
         - Other
         - Misleading Information
