@@ -1,4 +1,4 @@
-name: Wallpaper Report
+name: Wallpaper report
 description: File a wallpaper issue
 labels: ["wallpaper"]
 body:
