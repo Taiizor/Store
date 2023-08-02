@@ -35,8 +35,8 @@ body:
       label: Report Description
       description: |
         Please describe the issue in detail:
-        - What specifically is wrong with the wallpaper?
         - How should it appear instead?
+        - What specifically is wrong with the wallpaper?
         - Any additional information that might help us understand the problem.
       placeholder: Describe the issue...
     validations:
