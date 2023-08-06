@@ -27,6 +27,23 @@ var Wallpaper = {
 	23: "img/0.jpg"
 };
 
+function SucrosePropertyListener(Key, Value) {
+	switch (Key) {
+		case "Key1":
+			console.log("Key1: " + Value);
+			break;
+		case "Key2":
+			console.log("Key2: " + Value);
+			break;
+		case "Key3":
+			console.log("Key3: " + Value);
+			break;
+		case "Key4":
+			console.log("Key4: " + JSON.stringify(Value));
+			break;
+	}
+}
+
 function SucroseStretchMode(Type) {
 	switch (Type) {
 		case "None":
