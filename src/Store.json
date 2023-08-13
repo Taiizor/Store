@@ -96,6 +96,11 @@
           "Source": "src/Film and Movie",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Mandalorian-2": {
+          "Source": "src/Film and Movie",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },

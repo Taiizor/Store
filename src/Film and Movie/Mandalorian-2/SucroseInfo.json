@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Mandalorian",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Abandoned Mandalorian Helmet",
+  "Author": "SOM",
+  "License": null,
+  "Contact": "https://www.youtube.com/@som8960",
+  "Type": 3,
+  "Source": "mandalorian.mp4",
+  "Arguments": null
+}
