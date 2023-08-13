@@ -150,6 +150,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "The Last of Us Part II-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
