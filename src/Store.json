@@ -90,7 +90,15 @@
         }
       }
     },
-    "Film and TV": {},
+    "Film and Movie": {
+      "Wallpapers": {
+        "Mandalorian-1": {
+          "Source": "src/Film and Movie",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Food and Drinks": {},
     "Galaxy": {},
     "Game": {
