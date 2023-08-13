@@ -223,6 +223,11 @@
     },
     "Space": {
       "Wallpapers": {
+        "Wormhole-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Floating in Space-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
