@@ -83,7 +83,7 @@
     "Enchanted Forests": {},
     "Fantasy": {
       "Wallpapers": {
-        "Wonderful Landscape-1": {
+        "Valley-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
@@ -163,7 +163,15 @@
     "Horror and Halloween": {},
     "Inspirational Quotes": {},
     "Kids and Cartoon": {},
-    "Landscape": {},
+    "Landscape": {
+      "Wallpapers": {
+        "Wonderful Landscape-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Line Art": {},
     "Medieval": {},
     "Minimalist": {},
