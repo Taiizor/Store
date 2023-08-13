@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Windows",
+  "Thumbnail": "look.jpg",
+  "Preview": "peek.gif",
+  "Description": "Live Wallpaper PC Windows RGB",
+  "Author": "Felipe Louzada",
+  "License": null,
+  "Contact": "https://www.youtube.com/@felipe.louzada",
+  "Type": 3,
+  "Source": "windows.mp4",
+  "Arguments": null
+}
