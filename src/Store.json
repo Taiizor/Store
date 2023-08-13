@@ -103,6 +103,11 @@
     "Galaxy": {},
     "Game": {
       "Wallpapers": {
+        "Jett-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Night City-1": {
           "Source": "src/Game",
           "Cover": "ncity.jpg",

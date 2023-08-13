@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "Jett",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jett Valorant QHD live wallpaper",
+  "Author": "SOM",
+  "License": null,
+  "Contact": "https://www.youtube.com/@som8960",
+  "Type": 3,
+  "Source": "jett.mp4",
+  "Arguments": null
+}
