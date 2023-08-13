@@ -1,0 +1,14 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW M4",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW M4 - Ambient City Drive - 4K Ultra HD 60fps",
+  "Author": "VISUALDON",
+  "License": null,
+  "Contact": "https://www.youtube.com/@visualdon",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=wLd3dfix2B8",
+  "Arguments": null
+}
