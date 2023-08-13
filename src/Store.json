@@ -113,6 +113,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Ellie-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Night City-1": {
           "Source": "src/Game",
           "Cover": "ncity.jpg",
