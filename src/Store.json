@@ -123,6 +123,12 @@
           "Cover": "skycity.jpg",
           "Live": "livesky.gif"
         },
+        "PUBG Mobile-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyberpunk 2077-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
