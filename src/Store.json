@@ -83,6 +83,11 @@
     "Enchanted Forests": {},
     "Fantasy": {
       "Wallpapers": {
+        "Sacred-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Valley-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
