@@ -122,6 +122,11 @@
           "Source": "src/Game",
           "Cover": "skycity.jpg",
           "Live": "livesky.gif"
+        },
+        "Cyberpunk 2077-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
