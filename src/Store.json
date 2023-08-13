@@ -252,6 +252,11 @@
     "Underwater and Marine": {},
     "Vehicles": {
       "Wallpapers": {
+        "McLaren-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "BMW M4-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
