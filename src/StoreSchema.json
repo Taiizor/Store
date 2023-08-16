@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Sucrose Wallpaper Categories Schema",
+  "description": "JSON schema for defining wallpaper categories and their wallpapers.",
+  "type": "object",
+  "properties": {
+    "Categories": {
+      "type": "object",
+      "description": "A collection of different wallpaper categories.",
+      "patternProperties": {
+        "^[a-zA-Z0-9_-]+$": {
+          "type": "object",
+          "properties": {
+            "Wallpapers": {
+              "type": "object",
+              "description": "A collection of wallpapers within the category.",
+              "patternProperties": {
+                "^[a-zA-Z0-9_-]+$": {
+                  "type": "object",
+                  "properties": {
+                    "Source": { "type": "string", "description": "Source location of the wallpaper." },
+                    "Cover": { "type": "string", "description": "Cover image of the wallpaper." },
+                    "Live": { "type": "string", "description": "Live preview of the wallpaper." },
+                    "Adult": { "type": "boolean", "description": "Indicates if the wallpaper is intended for adults." }
+                  },
+                  "required": ["Source", "Cover", "Live"],
+                  "additionalProperties": false
+                }
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    }
+  },
+  "required": ["Categories"],
+  "additionalProperties": false
+}
