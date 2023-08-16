@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Sucrose Wallpaper Info Schema",
+  "description": "JSON schema for defining wallpaper app information.",
+  "type": "object",
+  "properties": {
+    "AppVersion": { "type": "string", "description": "Version of the app." },
+    "Version": { "type": "string", "description": "Version of the wallpaper." },
+    "Title": { "type": "string", "description": "Title of the wallpaper." },
+    "Thumbnail": { "type": "string", "description": "Thumbnail image of the wallpaper." },
+    "Preview": { "type": "string", "description": "Preview image or animation of the wallpaper." },
+    "Description": { "type": "string", "description": "Description of the wallpaper." },
+    "Author": { "type": ["string", "null"], "description": "Author of the wallpaper (string or null)." },
+    "License": { "type": ["string", "null"], "description": "License information for the wallpaper (string or null)." },
+    "Contact": { "type": ["string", "null"], "description": "Contact information for the wallpaper (string or null)." },
+    "Type": { "type": "integer", "description": "Type of the wallpaper." },
+    "Source": { "type": "string", "description": "Source location of the wallpaper." },
+    "Arguments": { "type": ["string", "null"], "description": "Arguments for the wallpaper (string or null)." }
+  },
+  "required": ["AppVersion", "Version", "Title", "Thumbnail", "Preview", "Description", "Type", "Source"],
+  "additionalProperties": false
+}
