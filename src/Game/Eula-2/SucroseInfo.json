@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Eula",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Genshin Impact - Eula",
+  "Author": "Live Wallpaper Centre",
+  "License": null,
+  "Contact": "https://www.youtube.com/@livewallpapercentre",
+  "Type": 3,
+  "Source": "eula.mp4",
+  "Arguments": null
+}

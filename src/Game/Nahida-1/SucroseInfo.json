@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Nahida",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Genshin Impact - Nahida",
+  "Author": "Live Wallpaper Centre",
+  "License": null,
+  "Contact": "https://www.youtube.com/@livewallpapercentre",
+  "Type": 3,
+  "Source": "nahida.mp4",
+  "Arguments": null
+}
