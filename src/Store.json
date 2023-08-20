@@ -196,6 +196,18 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Akali-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kai'Sa-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
