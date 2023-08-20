@@ -208,6 +208,23 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Kratos-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "God of War-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "God of War-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
