@@ -328,11 +328,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
-        "Floating in Space-2": {
-          "Source": "src/Space",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
-        },
         "Space Train-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
