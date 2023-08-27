@@ -366,6 +366,11 @@
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Astronaut and Black Hole-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
