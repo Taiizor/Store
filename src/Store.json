@@ -309,6 +309,12 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Baldur's Gate 3-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
