@@ -375,7 +375,16 @@
         }
       }
     },
-    "Underwater and Marine": {},
+    "Underwater and Marine": {
+      "Wallpapers": {
+        "Godzilla-1": {
+          "Source": "src/Underwater and Marine",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Vehicles": {
       "Wallpapers": {
         "McLaren-1": {
