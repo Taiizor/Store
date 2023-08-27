@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Panther",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Panther Live Wallpaper 4K",
+  "Author": "Live Wallpapers",
+  "License": null,
+  "Contact": "https://www.youtube.com/@LiveWallpapers-",
+  "Type": 3,
+  "Source": "ripbp.mp4",
+  "Arguments": null
+}

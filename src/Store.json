@@ -393,7 +393,15 @@
       }
     },
     "Sports": {},
-    "Superheroes": {},
+    "Superheroes": {
+      "Wallpapers": {
+        "Black Panther-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Tavern": {},
     "Technology": {},
     "Temple": {
