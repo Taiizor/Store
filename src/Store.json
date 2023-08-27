@@ -459,6 +459,16 @@
         }
       }
     },
-    "Vintage": {}
+    "Vintage": {},
+    "War": {
+      "Wallpapers": {
+        "Legendary King-1": {
+          "Source": "src/War",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    }
   }
 }
