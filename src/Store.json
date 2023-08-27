@@ -47,6 +47,11 @@
           "Source": "src/Anime",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Zenitsu Agatsuma-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
@@ -103,6 +108,11 @@
           "Live": "preview.gif"
         },
         "Mandalorian-2": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "Spider Man-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
@@ -265,6 +275,12 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "The Witcher 3-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
@@ -349,6 +365,16 @@
     "Superheroes": {},
     "Tavern": {},
     "Technology": {},
+    "Temple": {
+      "Wallpapers": {
+        "Buddhist Temple-1": {
+          "Source": "src/Temple",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Underwater and Marine": {},
     "Vehicles": {
       "Wallpapers": {
