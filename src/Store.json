@@ -112,6 +112,11 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Kylo Ren-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Mandalorian-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -484,11 +489,6 @@
     "Vintage": {},
     "War": {
       "Wallpapers": {
-        "Kylo Ren-1": {
-          "Source": "src/War",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
-        },
         "Legendary King-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
