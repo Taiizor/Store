@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Grogu",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Grogu [Baby Yoda] - Mandalorian (Star Wars)",
+  "Author": "Mara Farcasiu",
+  "License": null,
+  "Contact": "https://www.youtube.com/@marafarcasiu7159",
+  "Type": 3,
+  "Source": "grogu.mp4",
+  "Arguments": null
+}

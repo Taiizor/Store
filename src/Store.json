@@ -112,6 +112,11 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Grogu-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Darth Revan-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
