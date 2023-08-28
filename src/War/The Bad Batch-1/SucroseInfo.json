@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.27.0",
+  "Version": "1.0.0.0",
+  "Title": "The Bad Batch",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "4K Star Wars: The Bad Batch",
+  "Author": "Wallpaper Engineer",
+  "License": null,
+  "Contact": "https://www.youtube.com/@WallpaperEngineer",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=ZjqsG3_pb88",
+  "Arguments": null
+}
