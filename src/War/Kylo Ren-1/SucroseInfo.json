@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Kylo Ren",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kylo Ren - Star Wars The Last Jedi",
+  "Author": "SeveronJ",
+  "License": null,
+  "Contact": "https://www.youtube.com/@SeveronJ",
+  "Type": 3,
+  "Source": "kyloren.mp4",
+  "Arguments": null
+}
