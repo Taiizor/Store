@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.8.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Darth Revan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Star Wars Knights of the Old Republic Revan",
+  "Author": "Henwy",
+  "License": null,
+  "Contact": "https://www.youtube.com/@UnknownHenwy",
+  "Type": 3,
+  "Source": "drevan.mp4",
+  "Arguments": null
+}

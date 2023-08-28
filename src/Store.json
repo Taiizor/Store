@@ -112,6 +112,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Darth Revan-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kylo Ren-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
