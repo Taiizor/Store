@@ -438,6 +438,12 @@
     "Sports": {},
     "Superheroes": {
       "Wallpapers": {
+        "Iron Man-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Black Panther-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
