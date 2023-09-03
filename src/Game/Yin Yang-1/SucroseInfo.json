@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Yin Yang",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yin Yang Counter-Strike: Global Offensive (CS:GO)",
+  "Author": "Gus Blackk",
+  "License": null,
+  "Contact": "https://www.youtube.com/@gusblackk2013",
+  "Type": 3,
+  "Source": "yycsgo.mp4",
+  "Arguments": null
+}
