@@ -51,12 +51,14 @@
         "Agatsuma Zenitsu-1": {
           "Source": "src/Anime",
           "Cover": "cover.jpg",
-          "Live": "live.gif"
+          "Live": "live.gif",
+          "Adult": true
         },
         "Zenitsu Agatsuma-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
@@ -176,7 +178,8 @@
         "Jett-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Ellie-1": {
           "Source": "src/Game",
@@ -224,12 +227,14 @@
         "Eula-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Eula-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Kaedehara Kazuha-1": {
           "Source": "src/Game",
@@ -455,7 +460,8 @@
         "Phoenix-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Lost Chapter-1": {
           "Source": "src/Music",
