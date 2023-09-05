@@ -1,4 +1,4 @@
-<p>Wallpaper, Sucrose uygulaması için kullanıcıların kendi canlı duvar kağıtlarını yayınlamak amacıyla oluşturulmuş bir açık kaynaklı depodur. Kullanıcılar, bu depoya çekme isteği göndererek kendi canlı duvar kağıtlarını ekleyebilir ve diğer kullanıcılarla paylaşabilir. Bu depo, kullanıcıların yaratıcılıklarını sergilemelerini ve Sucrose topluluğuyla etkileşimde bulunmalarını sağlayan bir platform sunmaktadır. Her bir katkı değerlendirilir ve projeye eklenmeden önce incelenir. Siz de duvar kağıtlarınızı paylaşarak Sucrose topluluğuna katılabilirsiniz!</p>
+<p>Store, Sucrose uygulaması için kullanıcıların kendi canlı duvar kağıtlarını yayınlamak amacıyla oluşturulmuş bir açık kaynaklı depodur. Kullanıcılar, bu depoya çekme isteği göndererek kendi canlı duvar kağıtlarını ekleyebilir ve diğer kullanıcılarla paylaşabilir. Bu depo, kullanıcıların yaratıcılıklarını sergilemelerini ve Sucrose topluluğuyla etkileşimde bulunmalarını sağlayan bir platform sunmaktadır. Her bir katkı değerlendirilir ve projeye eklenmeden önce incelenir. Siz de duvar kağıtlarınızı paylaşarak Sucrose topluluğuna katılabilirsiniz!</p>
 
 <h2>Hakkında</h2>
 
@@ -8,7 +8,7 @@
 
 <p>Öncelikle projeyi yerel bir makineye klonlamanız gerekmektedir. Klonlama işlemi için aşağıdaki komutu kullanabilirsiniz:</p>
 
-<pre><code>git clone https://github.com/Taiizor/Wallpaper.git</code></pre>
+<pre><code>git clone https://github.com/Taiizor/Store.git</code></pre>
 
 <h2>Adım 2: Yeni Bir Dal Oluşturma</h2>
 

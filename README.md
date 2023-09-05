@@ -1,4 +1,4 @@
-<p>Wallpaper is an open-source repository created for users to publish their own live wallpapers for the Sucrose application. Users can contribute to this repository by submitting pull requests to add their own live wallpapers and share them with other users. This repository provides a platform for users to showcase their creativity and interact with the Sucrose community. Each contribution is evaluated and reviewed before being added to the project. Join the Sucrose community by sharing your wallpapers!</p>
+<p>Store is an open-source repository created for users to publish their own live wallpapers for the Sucrose application. Users can contribute to this repository by submitting pull requests to add their own live wallpapers and share them with other users. This repository provides a platform for users to showcase their creativity and interact with the Sucrose community. Each contribution is evaluated and reviewed before being added to the project. Join the Sucrose community by sharing your wallpapers!</p>
 
 <h2>About</h2>
 
@@ -8,7 +8,7 @@
 
 <p>First, you need to clone the project to your local machine. You can use the following command to clone the project:</p>
 
-<pre><code>git clone https://github.com/Taiizor/Wallpaper.git</code></pre>
+<pre><code>git clone https://github.com/Taiizor/Store.git</code></pre>
 
 <h2>Step 2: Create a New Branch</h2>
 

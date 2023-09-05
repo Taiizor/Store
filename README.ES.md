@@ -1,4 +1,4 @@
-<p>Wallpaper es un repositorio de código abierto creado para que los usuarios puedan publicar sus propios fondos de pantalla animados para la aplicación Sucrose. Los usuarios pueden contribuir a este repositorio enviando solicitudes de extracción (pull requests) para agregar sus propios fondos de pantalla animados y compartirlos con otros usuarios. Este repositorio brinda una plataforma para que los usuarios muestren su creatividad e interactúen con la comunidad de Sucrose. Cada contribución es evaluada y revisada antes de ser agregada al proyecto. ¡Únete a la comunidad de Sucrose compartiendo tus fondos de pantalla!</p>
+<p>Store es un repositorio de código abierto creado para que los usuarios puedan publicar sus propios fondos de pantalla animados para la aplicación Sucrose. Los usuarios pueden contribuir a este repositorio enviando solicitudes de extracción (pull requests) para agregar sus propios fondos de pantalla animados y compartirlos con otros usuarios. Este repositorio brinda una plataforma para que los usuarios muestren su creatividad e interactúen con la comunidad de Sucrose. Cada contribución es evaluada y revisada antes de ser agregada al proyecto. ¡Únete a la comunidad de Sucrose compartiendo tus fondos de pantalla!</p>
 
 <h2>Acerca de</h2>
 
@@ -8,7 +8,7 @@
 
 <p>Primero, debes clonar el proyecto en tu máquina local. Puedes usar el siguiente comando para clonar el proyecto:</p>
 
-<pre><code>git clone https://github.com/Taiizor/Wallpaper.git</code></pre>
+<pre><code>git clone https://github.com/Taiizor/Store.git</code></pre>
 
 <h2>Paso 2: Crear una Nueva Rama</h2>
 
