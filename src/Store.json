@@ -54,6 +54,11 @@
           "Source": "src/Animation",
           "Cover": "logo.jpg",
           "Live": "wakeup.gif"
+        },
+        "Windows-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
@@ -74,7 +79,6 @@
       }
     },
     "Architecture and Buildings": {},
-    "Art and Abstract": {},
     "Artworks": {},
     "Bard": {},
     "Black and White": {},
