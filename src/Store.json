@@ -565,6 +565,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Batman-2": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
