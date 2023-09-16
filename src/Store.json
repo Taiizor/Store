@@ -559,6 +559,12 @@
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Batman-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
