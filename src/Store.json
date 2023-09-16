@@ -6,6 +6,12 @@
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Joker-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
