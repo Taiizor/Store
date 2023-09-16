@@ -510,6 +510,11 @@
           "Source": "src/RGB",
           "Cover": "look.jpg",
           "Live": "peek.gif"
+        },
+        "Black Panther-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },

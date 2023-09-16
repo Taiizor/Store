@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Panther",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Panther - RGB - 4K Animated Wallpaper",
+  "Author": "Templar Animations",
+  "License": null,
+  "Contact": "https://www.youtube.com/@templar.animations",
+  "Type": 3,
+  "Source": "bp.mp4",
+  "Arguments": null
+}
