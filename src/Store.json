@@ -55,6 +55,11 @@
           "Source": "src/Animal",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Crow-1": {
+          "Source": "src/Animal",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
