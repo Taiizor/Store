@@ -580,6 +580,11 @@
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Black Widow-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
