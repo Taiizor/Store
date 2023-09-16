@@ -639,12 +639,6 @@
           "Live": "preview.gif",
           "Adult": true
         },
-        "Legendary King-1": {
-          "Source": "src/War",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "The Bad Batch-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
