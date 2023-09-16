@@ -585,6 +585,12 @@
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Black Widow-2": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
