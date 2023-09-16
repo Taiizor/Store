@@ -25,6 +25,11 @@
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Heavy Rain-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
