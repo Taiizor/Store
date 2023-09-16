@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Batman",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Live Wallpaper 4K HD of Batman",
+  "Author": "Live Wallpaper 4K HD",
+  "License": null,
+  "Contact": "https://www.youtube.com/@WonderWworld",
+  "Type": 3,
+  "Source": "batman.mp4",
+  "Arguments": null
+}

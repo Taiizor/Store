@@ -570,6 +570,11 @@
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Batman-3": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
