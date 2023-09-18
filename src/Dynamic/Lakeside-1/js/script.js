@@ -46,7 +46,7 @@ function SucroseStretchMode(Type) {
 	}
 }
 
-function SucroseComputerDate(Date) {
+function SucroseSystemDate(Date) {
 	var src = image.src;
 	var wall = Wallpaper[Date.Hour];
 
