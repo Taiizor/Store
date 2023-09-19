@@ -46,6 +46,11 @@
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Cozy Autumn Sunny Morning-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
         }
       }
     },
