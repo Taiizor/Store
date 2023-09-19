@@ -77,6 +77,11 @@
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Pumpkin Chariot Autumn-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
         }
       }
     },
