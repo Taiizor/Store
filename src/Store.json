@@ -72,6 +72,11 @@
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Cozy Fall Morning Porch-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
         }
       }
     },
