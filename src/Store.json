@@ -51,6 +51,12 @@
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Pumpkin Porch Halloween-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif",
+          "Adult": true
         }
       }
     },
