@@ -57,6 +57,11 @@
           "Cover": "cover.jpg",
           "Live": "live.gif",
           "Adult": true
+        },
+        "Soothing Sounds of Autumn Lake-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
         }
       }
     },
