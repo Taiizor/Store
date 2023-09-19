@@ -67,6 +67,11 @@
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Fall Reading Ambience-1": {
+          "Source": "src/Ambience",
+          "Cover": "cover.jpg",
+          "Live": "live.gif"
         }
       }
     },
