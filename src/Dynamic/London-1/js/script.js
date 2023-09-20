@@ -47,10 +47,12 @@ function SucroseStretchMode(Type) {
 }
 
 function SucroseSystemDate(Date) {
-	var src = image.src;
-	var wall = Wallpaper[Date.Hour];
+	if (Date.State) {
+		var src = image.src;
+		var wall = Wallpaper[Date.Hour];
 
-	if (src !== wall) {
-		image.src = wall;
+		if (src !== wall) {
+			image.src = wall;
+		}
 	}
 }
