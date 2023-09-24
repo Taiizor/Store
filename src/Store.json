@@ -570,7 +570,15 @@
     },
     "Nightscapes": {},
     "Patterns and Textures": {},
-    "Retro": {},
+    "Retro": {
+      "Wallpapers": {
+        "Moonlight Wave-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "RGB": {
       "Wallpapers": {
         "Windows-1": {
