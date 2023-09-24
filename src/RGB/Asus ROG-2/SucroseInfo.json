@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.22.0",
+  "Version": "1.0.0.0",
+  "Title": "Asus ROG",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Asus ROG RGB 4K Live Wallpaper",
+  "Author": "LiLPiggyz",
+  "License": null,
+  "Contact": "https://www.youtube.com/@lilpiggyz",
+  "Type": 3,
+  "Source": "arog.mp4",
+  "Arguments": null
+}

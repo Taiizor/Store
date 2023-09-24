@@ -587,6 +587,11 @@
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Asus ROG-2": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
