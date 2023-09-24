@@ -160,6 +160,11 @@
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Bing Wallpaper-1": {
+          "Source": "src/Dynamic",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
