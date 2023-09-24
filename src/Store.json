@@ -572,6 +572,11 @@
     "Patterns and Textures": {},
     "Retro": {
       "Wallpapers": {
+        "Neon Car-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Moonlight Wave-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
