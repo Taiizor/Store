@@ -666,7 +666,16 @@
       }
     },
     "Tavern": {},
-    "Technology": {},
+    "Technology": {
+      "Wallpapers": {
+        "Purple Gamer Girl-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Temple": {
       "Wallpapers": {
         "Buddhist Temple-1": {
