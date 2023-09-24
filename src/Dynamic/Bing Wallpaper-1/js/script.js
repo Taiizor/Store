@@ -16,21 +16,23 @@ async function GetBingWallpaper() {
 }
 
 function SucroseStretchMode(Type) {
-	switch (Type) {
-		case "None":
-			bingwallpaper.style.objectFit = "none";
-			break;
-		case "Fill":
-			bingwallpaper.style.objectFit = "fill";
-			break;
-		case "Uniform":
-			bingwallpaper.style.objectFit = "contain";
-			break;
-		case "UniformToFill":
-			bingwallpaper.style.objectFit = "cover";
-			break;
-		default:
-			break;
+	if (bingwallpaper.alt != "Bing Wallpaper") {
+		switch (Type) {
+			case "None":
+				bingwallpaper.style.objectFit = "none";
+				break;
+			case "Fill":
+				bingwallpaper.style.objectFit = "fill";
+				break;
+			case "Uniform":
+				bingwallpaper.style.objectFit = "contain";
+				break;
+			case "UniformToFill":
+				bingwallpaper.style.objectFit = "cover";
+				break;
+			default:
+				break;
+		}
 	}
 }
 
