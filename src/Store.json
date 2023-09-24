@@ -555,7 +555,8 @@
         "Lost Chapter-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Deep Blue-1": {
           "Source": "src/Music",
