@@ -862,6 +862,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Kylo Ren's Lightsaber-1": {
+          "Source": "src/War",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lady Serpent-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
