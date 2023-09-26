@@ -137,7 +137,16 @@
     "Architecture and Buildings": {},
     "Artworks": {},
     "Bard": {},
-    "Black and White": {},
+    "Black and White": {
+      "Wallpapers": {
+        "Honor of a Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Cartoon and Comics": {},
     "Cities and Places": {},
     "Clouds and Skies": {},
