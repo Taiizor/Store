@@ -88,12 +88,12 @@
     "Animals": {
       "Wallpapers": {
         "Cat vs Ball of Wool-1": {
-          "Source": "src/Animal",
+          "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
         "Crow-1": {
-          "Source": "src/Animal",
+          "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         }
