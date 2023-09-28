@@ -254,6 +254,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Rick and Morty-2": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Deadpool Booping-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",

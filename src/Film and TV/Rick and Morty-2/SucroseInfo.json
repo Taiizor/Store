@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Rick and Morty",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rick and Morty vs Monsters - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/rick-and-morty-vs-monsters-live-wallpaper",
+  "Type": 3,
+  "Source": "ram.mp4",
+  "Arguments": null
+}
