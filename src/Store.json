@@ -634,6 +634,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Abandoned Classroom-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
