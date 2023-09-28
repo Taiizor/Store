@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "World",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "One Ring - The Lord Of The Rings Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/one-ring-the-lord-of-the-rings-live-wallpaper",
+  "Type": 3,
+  "Source": "or.mp4",
+  "Arguments": null
+}
