@@ -618,6 +618,11 @@
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Train Sunset-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
