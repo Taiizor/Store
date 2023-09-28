@@ -248,6 +248,11 @@
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Rick and Morty-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
