@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Jack O' Lantern",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jack O' Lantern - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/jack-o-lantern-live-wallpaper",
+  "Type": 3,
+  "Source": "jol.mp4",
+  "Arguments": null
+}
