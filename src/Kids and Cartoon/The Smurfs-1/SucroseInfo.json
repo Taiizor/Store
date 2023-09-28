@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "The Smurfs",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Smurfs - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/the-smurfs-live-wallpaper",
+  "Type": 3,
+  "Source": "ts.mp4",
+  "Arguments": null
+}
