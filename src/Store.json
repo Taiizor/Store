@@ -250,6 +250,11 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Spider Gwen-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Joker-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
