@@ -96,6 +96,12 @@
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "The Last Wish-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
