@@ -781,7 +781,16 @@
         }
       }
     },
-    "Minimalist": {},
+    "Minimalist": {
+      "Wallpapers": {
+        "Venom-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Music": {
       "Wallpapers": {
         "Phoenix-1": {
