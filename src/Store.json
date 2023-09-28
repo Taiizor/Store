@@ -682,6 +682,11 @@
     "Inspirational Quotes": {},
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Sonic-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Jake Listening-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
