@@ -253,6 +253,12 @@
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Deadpool Bathing-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
