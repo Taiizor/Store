@@ -666,6 +666,11 @@
     "Inspirational Quotes": {},
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Jake Listening-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Rainy Day-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
