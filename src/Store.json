@@ -698,6 +698,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Pikachu-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "The Smurfs-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
