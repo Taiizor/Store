@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Rick and Morty",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rick Sanchez In The Field Rick and Morty - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/rick-sanchez-in-the-field-rick-and-morty-live-wallpaper",
+  "Type": 3,
+  "Source": "ram.mp4",
+  "Arguments": null
+}
