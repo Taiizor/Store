@@ -254,6 +254,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Deadpool Booping-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Deadpool Bathing-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
