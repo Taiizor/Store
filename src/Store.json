@@ -658,7 +658,16 @@
       }
     },
     "Inspirational Quotes": {},
-    "Kids and Cartoon": {},
+    "Kids and Cartoon": {
+      "Wallpapers": {
+        "Depression Spongebob-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Landscape": {
       "Wallpapers": {
         "Wonderful Landscape-1": {
