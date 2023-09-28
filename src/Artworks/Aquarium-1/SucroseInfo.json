@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Aquarium",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aquarium - Artworks - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/aquarium-artworks-live-wallpaper",
+  "Type": 3,
+  "Source": "aquarium.mp4",
+  "Arguments": null
+}

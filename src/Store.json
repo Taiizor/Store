@@ -141,7 +141,15 @@
       }
     },
     "Architecture and Buildings": {},
-    "Artworks": {},
+    "Artworks": {
+      "Wallpapers": {
+        "Artworks-1": {
+          "Source": "src/Artworks",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
