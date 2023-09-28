@@ -607,7 +607,15 @@
         }
       }
     },
-    "Geometric Patterns": {},
+    "Geometric Patterns": {
+      "Wallpapers": {
+        "Abstract Geometric-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Holidays and Seasons": {},
     "Horror and Halloween": {
       "Wallpapers": {
