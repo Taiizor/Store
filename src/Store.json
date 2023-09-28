@@ -783,6 +783,11 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Space-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Venom-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",

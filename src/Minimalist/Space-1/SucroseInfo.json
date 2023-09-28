@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Space - Minimalistic - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/minimalist-space-live-wallpaper",
+  "Type": 3,
+  "Source": "space.mp4",
+  "Arguments": null
+}
