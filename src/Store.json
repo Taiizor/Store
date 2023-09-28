@@ -627,7 +627,16 @@
       }
     },
     "Line Art": {},
-    "Medieval": {},
+    "Medieval": {
+      "Wallpapers": {
+        "Northern-1": {
+          "Source": "src/Medieval",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Minimalist": {},
     "Music": {
       "Wallpapers": {
