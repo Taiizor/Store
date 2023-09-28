@@ -609,7 +609,16 @@
     },
     "Geometric Patterns": {},
     "Holidays and Seasons": {},
-    "Horror and Halloween": {},
+    "Horror and Halloween": {
+      "Wallpapers": {
+        "Bloodhound Pumpkin-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
+    },
     "Inspirational Quotes": {},
     "Kids and Cartoon": {},
     "Landscape": {
