@@ -901,6 +901,11 @@
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "DeLorean Floating-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
