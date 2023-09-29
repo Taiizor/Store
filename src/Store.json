@@ -44,7 +44,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
-        }
+        },
+        "Pondering-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
       }
     },
     "Ambience": {
