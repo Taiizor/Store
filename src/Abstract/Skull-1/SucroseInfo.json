@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Skull",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Skull - Abstract - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-skull-live-wallpaper",
+  "Type": 3,
+  "Source": "skull.mp4",
+  "Arguments": null
+}
