@@ -906,6 +906,11 @@
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Pink Sun-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
