@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Ice",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ice - Abstract - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-ice-live-wallpaper",
+  "Type": 3,
+  "Source": "ice.mp4",
+  "Arguments": null
+}

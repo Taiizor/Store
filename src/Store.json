@@ -12,6 +12,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Ice-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cube-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
