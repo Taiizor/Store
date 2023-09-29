@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Cube",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cube - Abstract - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-cube-live-wallpaper",
+  "Type": 3,
+  "Source": "cube.mp4",
+  "Arguments": null
+}
