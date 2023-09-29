@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Colorful Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Colorful Cat - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/colorful-cat-live-wallpaper",
+  "Type": 3,
+  "Source": "cc.mp4",
+  "Arguments": null
+}
