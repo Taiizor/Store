@@ -50,6 +50,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Galaxy Triangles-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
       }
     },
     "Ambience": {
