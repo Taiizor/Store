@@ -54,6 +54,11 @@
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Colorful Water-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
