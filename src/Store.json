@@ -911,6 +911,11 @@
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Black Panther-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
