@@ -994,6 +994,11 @@
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Universe Waterfall-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
