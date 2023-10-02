@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Dimensional Portal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dimensional Portal - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/dimensional-portal-live-wallpaper",
+  "Type": 3,
+  "Source": "dp.mp4",
+  "Arguments": null
+}
