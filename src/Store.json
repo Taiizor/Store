@@ -1058,7 +1058,13 @@
           "Adult": true
         },
         "Hacker Data Breach-1": {
-          "Source": "src/Galaxy",
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Coding Deck-1": {
+          "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
