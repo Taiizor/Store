@@ -1009,6 +1009,12 @@
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Astronaut Void Space-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },

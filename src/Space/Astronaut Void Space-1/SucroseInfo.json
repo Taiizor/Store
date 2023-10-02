@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Astronaut Void Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Astronaut Void Space - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/astronaut-void-space-live-wallpaper",
+  "Type": 3,
+  "Source": "avs.mp4",
+  "Arguments": null
+}
