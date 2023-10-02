@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Ultron",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ultron - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/ultron-live-wallpaper",
+  "Type": 3,
+  "Source": "ultron.mp4",
+  "Arguments": null
+}
