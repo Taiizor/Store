@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Star Wars Travel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Star Wars Travel - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/star-wars-travel-live-wallpaper",
+  "Type": 3,
+  "Source": "swt.mp4",
+  "Arguments": null
+}
