@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Skull Astronaut",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Skull Astronaut - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/skull-astronaut-live-wallpaper",
+  "Type": 3,
+  "Source": "sa.mp4",
+  "Arguments": null
+}
