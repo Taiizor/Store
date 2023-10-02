@@ -999,6 +999,11 @@
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Black Hole-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
