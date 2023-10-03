@@ -6,10 +6,18 @@
   "properties": {
     "AppVersion": { "type": "string", "description": "Version of the app." },
     "Version": { "type": "string", "description": "Version of the wallpaper." },
-    "Title": { "type": "string", "description": "Title of the wallpaper." },
+    "Title": {
+      "type": "string",
+      "description": "Title of the wallpaper.",
+      "maxLength": 50
+    },
     "Thumbnail": { "type": "string", "description": "Thumbnail image of the wallpaper." },
     "Preview": { "type": "string", "description": "Preview image or animation of the wallpaper." },
-    "Description": { "type": "string", "description": "Description of the wallpaper." },
+    "Description": {
+      "type": "string",
+      "description": "Description of the wallpaper.",
+      "maxLength": 500
+    },
     "Author": { "type": ["string", "null"], "description": "Author of the wallpaper (string or null)." },
     "License": { "type": ["string", "null"], "description": "License information for the wallpaper (string or null)." },
     "Contact": { "type": ["string", "null"], "description": "Contact information for the wallpaper (string or null)." },
