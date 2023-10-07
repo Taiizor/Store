@@ -278,6 +278,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Baby Groot-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Darth Revan-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -379,11 +384,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
-        },
-        "Baby Groot-1": {
-          "Source": "src/Film and TV",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
         }
       }
     },
