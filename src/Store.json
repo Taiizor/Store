@@ -1025,6 +1025,11 @@
           "Source": "src/Sky",
           "Cover": "thundersky.jpg",
           "Live": "livestorm.gif"
+        },
+        "Floating Castle In The Clouds-1": {
+          "Source": "src/Sky",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
