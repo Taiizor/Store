@@ -249,6 +249,11 @@
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Fantasy Elf Forest-1": {
+          "Source": "src/Enchanted Forests",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
