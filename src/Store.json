@@ -154,6 +154,11 @@
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Galaxy Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
