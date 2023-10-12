@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Diana",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Diana - League of Legends - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/diana-league-of-legends-live-wallpaper",
+  "Type": 3,
+  "Source": "dlol.mp4",
+  "Arguments": null
+}
