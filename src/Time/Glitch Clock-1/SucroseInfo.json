@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Glitch Clock",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Glitch Clock",
+  "Author": "FEAR ØF CODE",
+  "License": "LICENSE.txt",
+  "Contact": "https://codepen.io/fearOfCode",
+  "Type": 2,
+  "Source": "Clock.html",
+  "Arguments": null
+}

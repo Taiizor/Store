@@ -1237,6 +1237,15 @@
         }
       }
     },
+    "Time": {
+      "Wallpapers": {
+        "Glitch Clock-1": {
+          "Source": "src/Time",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Underwater and Marine": {
       "Wallpapers": {
         "Godzilla-1": {
