@@ -577,6 +577,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Kaedehara Kazuha-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Mona-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
