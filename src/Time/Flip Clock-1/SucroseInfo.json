@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Flip Clock",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Flip Clock",
+  "Author": "Matthew Davis",
+  "License": "LICENSE.txt",
+  "Contact": "https://codepen.io/gametroll",
+  "Type": 2,
+  "Source": "Clock.html",
+  "Arguments": null
+}
