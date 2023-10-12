@@ -1,10 +1,10 @@
 {
   "AppVersion": "23.10.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Glitch Clock",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Glitch Clock",
+  "Description": "It is designed inspired by the Matrix movie. The clock is placed in the center of the screen and visually enhanced with a glitch effect to create a science fiction atmosphere.",
   "Author": "FEAR ØF CODE",
   "License": "LICENSE.txt",
   "Contact": "https://codepen.io/fearOfCode",

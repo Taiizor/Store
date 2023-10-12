@@ -1190,6 +1190,7 @@
         }
       }
     },
+    "System": {},
     "Tavern": {
       "Wallpapers": {
         "Tavern Sextet-1": {
@@ -1240,6 +1241,11 @@
     "Time": {
       "Wallpapers": {
         "Glitch Clock-1": {
+          "Source": "src/Time",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "Digital Analog Clock-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"

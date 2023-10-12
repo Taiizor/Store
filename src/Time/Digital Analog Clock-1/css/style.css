@@ -1,0 +1,579 @@
+@-webkit-keyframes spin-one {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes spin-one {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin-two {
+  0% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(540deg);
+  }
+}
+@keyframes spin-two {
+  0% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(540deg);
+  }
+}
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #dedede;
+  background: linear-gradient(45deg, #dedede 0%, #efefef 100%);
+}
+
+.wrapper {
+  width: 100%;
+  min-width: 840px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.digit {
+  max-width: calc((60px + 4px) * 3);
+  float: left;
+}
+
+.sep {
+  max-width: calc((60px + 4px) * 1);
+  float: left;
+}
+.sep .clock #hand-1 {
+  -webkit-animation: spin-one 10s linear infinite;
+          animation: spin-one 10s linear infinite;
+}
+.sep .clock #hand-2 {
+  -webkit-animation: spin-two 10s linear infinite alternate;
+          animation: spin-two 10s linear infinite alternate;
+}
+
+.clock {
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(270deg, #eee 0%, #fff 100%);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 100%;
+  position: relative;
+  margin: 2px;
+  float: left;
+}
+.clock span {
+  position: absolute;
+  top: calc(50% - 1px);
+  left: 50%;
+  width: 49%;
+  height: 2px;
+  background: #323232;
+  transform-origin: 0% 50%;
+  transform: rotate(270deg);
+  transition: all ease 2s;
+}
+.clock span:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 2px;
+  height: 2px;
+  display: block;
+  background: inherit;
+  border-radius: 100%;
+}
+
+#clock-1 #hand-1, #clock-9 #hand-1 {
+  transition: all ease-in 1.5s;
+}
+#clock-1 #hand-2, #clock-9 #hand-2 {
+  transition: all ease 2s;
+}
+#clock-2 #hand-1, #clock-10 #hand-1 {
+  transition: all ease-out 4s;
+}
+#clock-2 #hand-2, #clock-10 #hand-2 {
+  transition: all ease-in 1.75s;
+}
+#clock-3 #hand-1, #clock-11 #hand-1 {
+  transition: all linear 3s;
+}
+#clock-3 #hand-2, #clock-11 #hand-2 {
+  transition: all ease-in 1s;
+}
+#clock-4 #hand-1, #clock-12 #hand-1 {
+  transition: all ease-out 2.3s;
+}
+#clock-4 #hand-2, #clock-12 #hand-2 {
+  transition: all ease 2.15s;
+}
+#clock-5 #hand-1, #clock-13 #hand-1 {
+  transition: all ease-in 4s;
+}
+#clock-5 #hand-2, #clock-13 #hand-2 {
+  transition: all ease-out 3s;
+}
+#clock-6 #hand-1, #clock-14 #hand-1, #clock-18 #hand-1 {
+  transition: all linear 2.3s;
+}
+#clock-6 #hand-2, #clock-14 #hand-2, #clock-18 #hand-2 {
+  transition: all ease-out 1.2s;
+}
+#clock-7 #hand-1, #clock-15 #hand-1 {
+  transition: all ease-in 4s;
+}
+#clock-7 #hand-2, #clock-15 #hand-2 {
+  transition: all ease 1.5s;
+}
+#clock-8 #hand-1, #clock-16 #hand-1 {
+  transition: all ease 2s;
+}
+#clock-8 #hand-2, #clock-16 #hand-2 {
+  transition: all ease 2.6s;
+}
+#clock-9 #hand-1, #clock-17 #hand-1 {
+  transition: all linear 1.3s;
+}
+#clock-9 #hand-2, #clock-17 #hand-2 {
+  transition: all ease 2.4s;
+}
+
+.t-1 #clock-2 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-1 #clock-2 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-1 #clock-3 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-1 #clock-3 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-1 #clock-5 #hand-1, .t-1 #clock-6 #hand-1, .t-1 #clock-8 #hand-1, .t-1 #clock-9 #hand-1, .t-1 #clock-11 #hand-1, .t-1 #clock-12 #hand-1, .t-1 #clock-14 #hand-1, .t-1 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-1 #clock-5 #hand-2, .t-1 #clock-6 #hand-2, .t-1 #clock-8 #hand-2, .t-1 #clock-9 #hand-2, .t-1 #clock-11 #hand-2, .t-1 #clock-12 #hand-2, .t-1 #clock-14 #hand-2, .t-1 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-1 #clock-17 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-1 #clock-17 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-1 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-1 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-2 #clock-1 #hand-1, .t-2 #clock-7 #hand-1, .t-2 #clock-11 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-2 #clock-1 #hand-2, .t-2 #clock-7 #hand-2, .t-2 #clock-11 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-2 #clock-2 #hand-1, .t-2 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-2 #clock-2 #hand-2, .t-2 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-2 #clock-3 #hand-1, .t-2 #clock-15 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-2 #clock-3 #hand-2, .t-2 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-2 #clock-4 #hand-1, .t-2 #clock-14 #hand-1, .t-2 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-2 #clock-4 #hand-2, .t-2 #clock-14 #hand-2, .t-2 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-2 #clock-5 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-2 #clock-5 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-2 #clock-6 #hand-1, .t-2 #clock-9 #hand-1, .t-2 #clock-10 #hand-1, .t-2 #clock-13 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-2 #clock-6 #hand-2, .t-2 #clock-9 #hand-2, .t-2 #clock-10 #hand-2, .t-2 #clock-13 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-2 #clock-8 #hand-1, .t-2 #clock-12 #hand-1, .t-2 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-2 #clock-8 #hand-2, .t-2 #clock-12 #hand-2, .t-2 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-3 #clock-1 #hand-1, .t-3 #clock-7 #hand-1, .t-3 #clock-13 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-3 #clock-1 #hand-2, .t-3 #clock-7 #hand-2, .t-3 #clock-13 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-3 #clock-2 #hand-1, .t-3 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-3 #clock-2 #hand-2, .t-3 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-3 #clock-3 #hand-1, .t-3 #clock-11 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-3 #clock-3 #hand-2, .t-3 #clock-11 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-3 #clock-4 #hand-1, .t-3 #clock-10 #hand-1, .t-3 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-3 #clock-4 #hand-2, .t-3 #clock-10 #hand-2, .t-3 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-3 #clock-5 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-3 #clock-5 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-3 #clock-6 #hand-1, .t-3 #clock-9 #hand-1, .t-3 #clock-12 #hand-1, .t-3 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-3 #clock-6 #hand-2, .t-3 #clock-9 #hand-2, .t-3 #clock-12 #hand-2, .t-3 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-3 #clock-8 #hand-1, .t-3 #clock-14 #hand-1, .t-3 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-3 #clock-8 #hand-2, .t-3 #clock-14 #hand-2, .t-3 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-4 #clock-1 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-4 #clock-1 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-4 #clock-3 #hand-1, .t-4 #clock-11 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-4 #clock-3 #hand-2, .t-4 #clock-11 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-4 #clock-10 #hand-1, .t-4 #clock-17 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-4 #clock-10 #hand-2, .t-4 #clock-17 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-4 #clock-2 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-4 #clock-2 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-4 #clock-4 #hand-1, .t-4 #clock-5 #hand-1, .t-4 #clock-6 #hand-1, .t-4 #clock-7 #hand-1, .t-4 #clock-8 #hand-1, .t-4 #clock-9 #hand-1, .t-4 #clock-12 #hand-1, .t-4 #clock-14 #hand-1, .t-4 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-4 #clock-4 #hand-2, .t-4 #clock-5 #hand-2, .t-4 #clock-6 #hand-2, .t-4 #clock-7 #hand-2, .t-4 #clock-8 #hand-2, .t-4 #clock-9 #hand-2, .t-4 #clock-12 #hand-2, .t-4 #clock-14 #hand-2, .t-4 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-4 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-4 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-5 #clock-1 #hand-1, .t-5 #clock-5 #hand-1, .t-5 #clock-13 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-5 #clock-1 #hand-2, .t-5 #clock-5 #hand-2, .t-5 #clock-13 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-5 #clock-2 #hand-1, .t-5 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-5 #clock-2 #hand-2, .t-5 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-5 #clock-3 #hand-1, .t-5 #clock-9 #hand-1, .t-5 #clock-11 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-5 #clock-3 #hand-2, .t-5 #clock-9 #hand-2, .t-5 #clock-11 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-5 #clock-8 #hand-1, .t-5 #clock-10 #hand-1, .t-5 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-5 #clock-8 #hand-2, .t-5 #clock-10 #hand-2, .t-5 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-5 #clock-4 #hand-1, .t-5 #clock-7 #hand-1, .t-5 #clock-12 #hand-1, .t-5 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-5 #clock-4 #hand-2, .t-5 #clock-7 #hand-2, .t-5 #clock-12 #hand-2, .t-5 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-5 #clock-6 #hand-1, .t-5 #clock-14 #hand-1, .t-5 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-5 #clock-6 #hand-2, .t-5 #clock-14 #hand-2, .t-5 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-6 #clock-1 #hand-1, .t-6 #clock-5 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-6 #clock-1 #hand-2, .t-6 #clock-5 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-6 #clock-3 #hand-1, .t-6 #clock-9 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-6 #clock-3 #hand-2, .t-6 #clock-9 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-6 #clock-8 #hand-1, .t-6 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-6 #clock-8 #hand-2, .t-6 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-6 #clock-6 #hand-1, .t-6 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-6 #clock-6 #hand-2, .t-6 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-6 #clock-2 #hand-1, .t-6 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-6 #clock-2 #hand-2, .t-6 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-6 #clock-4 #hand-1, .t-6 #clock-7 #hand-1, .t-6 #clock-10 #hand-1, .t-6 #clock-12 #hand-1, .t-6 #clock-13 #hand-1, .t-6 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-6 #clock-4 #hand-2, .t-6 #clock-7 #hand-2, .t-6 #clock-10 #hand-2, .t-6 #clock-12 #hand-2, .t-6 #clock-13 #hand-2, .t-6 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-6 #clock-11 #hand-1 {
+  transform: rotate(60deg);
+}
+.t-6 #clock-11 #hand-2 {
+  transform: rotate(120deg);
+}
+.t-6 #clock-14 #hand-1 {
+  transform: rotate(240deg);
+}
+.t-6 #clock-14 #hand-2 {
+  transform: rotate(300deg);
+}
+
+.t-7 #clock-1 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-7 #clock-1 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-7 #clock-2 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-7 #clock-2 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-7 #clock-3 #hand-1, .t-7 #clock-5 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-7 #clock-3 #hand-2, .t-7 #clock-5 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-7 #clock-6 #hand-1, .t-7 #clock-8 #hand-1, .t-7 #clock-9 #hand-1, .t-7 #clock-11 #hand-1, .t-7 #clock-12 #hand-1, .t-7 #clock-14 #hand-1, .t-7 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-7 #clock-6 #hand-2, .t-7 #clock-8 #hand-2, .t-7 #clock-9 #hand-2, .t-7 #clock-11 #hand-2, .t-7 #clock-12 #hand-2, .t-7 #clock-14 #hand-2, .t-7 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-7 #clock-4 #hand-1, .t-7 #clock-17 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-7 #clock-4 #hand-2, .t-7 #clock-17 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-7 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-7 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+
+.t-8 #clock-1 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-8 #clock-1 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-8 #clock-3 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-8 #clock-3 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-8 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-8 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-8 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-8 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-8 #clock-2 #hand-1, .t-8 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-8 #clock-2 #hand-2, .t-8 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-8 #clock-4 #hand-1, .t-8 #clock-6 #hand-1, .t-8 #clock-7 #hand-1, .t-8 #clock-9 #hand-1, .t-8 #clock-10 #hand-1, .t-8 #clock-12 #hand-1, .t-8 #clock-13 #hand-1, .t-8 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-8 #clock-4 #hand-2, .t-8 #clock-6 #hand-2, .t-8 #clock-7 #hand-2, .t-8 #clock-9 #hand-2, .t-8 #clock-10 #hand-2, .t-8 #clock-12 #hand-2, .t-8 #clock-13 #hand-2, .t-8 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-8 #clock-5 #hand-1, .t-8 #clock-11 #hand-1 {
+  transform: rotate(60deg);
+}
+.t-8 #clock-5 #hand-2, .t-8 #clock-11 #hand-2 {
+  transform: rotate(120deg);
+}
+.t-8 #clock-8 #hand-1, .t-8 #clock-14 #hand-1 {
+  transform: rotate(240deg);
+}
+.t-8 #clock-8 #hand-2, .t-8 #clock-14 #hand-2 {
+  transform: rotate(300deg);
+}
+
+.t-9 #clock-1 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-9 #clock-1 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-9 #clock-3 #hand-1, .t-9 #clock-11 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-9 #clock-3 #hand-2, .t-9 #clock-11 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-9 #clock-10 #hand-1, .t-9 #clock-17 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-9 #clock-10 #hand-2, .t-9 #clock-17 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-9 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-9 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-9 #clock-2 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-9 #clock-2 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-9 #clock-4 #hand-1, .t-9 #clock-6 #hand-1, .t-9 #clock-7 #hand-1, .t-9 #clock-9 #hand-1, .t-9 #clock-12 #hand-1, .t-9 #clock-14 #hand-1, .t-9 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-9 #clock-4 #hand-2, .t-9 #clock-6 #hand-2, .t-9 #clock-7 #hand-2, .t-9 #clock-9 #hand-2, .t-9 #clock-12 #hand-2, .t-9 #clock-14 #hand-2, .t-9 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-9 #clock-5 #hand-1 {
+  transform: rotate(60deg);
+}
+.t-9 #clock-5 #hand-2 {
+  transform: rotate(120deg);
+}
+.t-9 #clock-8 #hand-1 {
+  transform: rotate(240deg);
+}
+.t-9 #clock-8 #hand-2 {
+  transform: rotate(300deg);
+}
+
+.t-0 #clock-1 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-0 #clock-1 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-0 #clock-3 #hand-1 {
+  transform: rotate(180deg);
+}
+.t-0 #clock-3 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-0 #clock-16 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-0 #clock-16 #hand-2 {
+  transform: rotate(0deg);
+}
+.t-0 #clock-18 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-0 #clock-18 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-0 #clock-2 #hand-1, .t-0 #clock-17 #hand-1 {
+  transform: rotate(0deg);
+}
+.t-0 #clock-2 #hand-2, .t-0 #clock-17 #hand-2 {
+  transform: rotate(180deg);
+}
+.t-0 #clock-4 #hand-1, .t-0 #clock-6 #hand-1, .t-0 #clock-7 #hand-1, .t-0 #clock-8 #hand-1, .t-0 #clock-9 #hand-1, .t-0 #clock-10 #hand-1, .t-0 #clock-12 #hand-1, .t-0 #clock-13 #hand-1, .t-0 #clock-11 #hand-1, .t-0 #clock-15 #hand-1 {
+  transform: rotate(270deg);
+}
+.t-0 #clock-4 #hand-2, .t-0 #clock-6 #hand-2, .t-0 #clock-7 #hand-2, .t-0 #clock-8 #hand-2, .t-0 #clock-9 #hand-2, .t-0 #clock-10 #hand-2, .t-0 #clock-12 #hand-2, .t-0 #clock-13 #hand-2, .t-0 #clock-11 #hand-2, .t-0 #clock-15 #hand-2 {
+  transform: rotate(90deg);
+}
+.t-0 #clock-5 #hand-1 {
+  transform: rotate(60deg);
+}
+.t-0 #clock-5 #hand-2 {
+  transform: rotate(120deg);
+}
+.t-0 #clock-14 #hand-1 {
+  transform: rotate(240deg);
+}
+.t-0 #clock-14 #hand-2 {
+  transform: rotate(300deg);
+}

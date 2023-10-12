@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Digital Analog Clock",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "It offers a unique combination of traditional analog clock design alongside the precision of a computer clock. The clock placed at the center of the screen reflects the aesthetics of both traditional analog clocks with their hour and minute hands, and the accuracy of a computer clock.",
+  "Author": "Maneesh",
+  "License": "LICENSE.txt",
+  "Contact": "https://codepen.io/maneeshc",
+  "Type": 2,
+  "Source": "Clock.html",
+  "Arguments": null
+}
