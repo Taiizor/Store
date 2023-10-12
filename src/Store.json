@@ -159,6 +159,11 @@
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Isabell's Day Off-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
