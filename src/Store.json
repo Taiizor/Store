@@ -962,6 +962,11 @@
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Moon Night Onmyoji-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
