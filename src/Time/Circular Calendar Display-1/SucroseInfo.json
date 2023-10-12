@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Circular Calendar Display",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Circular Calendar Display",
+  "Author": "Matthew Juggins",
+  "License": "LICENSE.txt",
+  "Contact": "https://codepen.io/mattjuggins",
+  "Type": 2,
+  "Source": "Calendar.html",
+  "Arguments": null
+}
