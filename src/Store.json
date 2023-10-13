@@ -1037,6 +1037,12 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Spirit Blossom Yasuo-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
