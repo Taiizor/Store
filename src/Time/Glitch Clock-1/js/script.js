@@ -8,18 +8,17 @@ $(document).ready(function() {
 		e.preventDefault();
 		$('.screen').toggleClass('glitch');
 	});
+});
 
-	var newDate = new Date();
-	newDate.setDate(newDate.getDate());
-
-	setInterval(function() {
-		var hours = new Date().getHours();
-		var seconds = new Date().getSeconds();
-		var minutes = new Date().getMinutes();
+function SucroseSystemDate(Date) {
+	if (Date.State) {
+		var hours = Date.Hour;
+		var seconds = Date.Second;
+		var minutes = Date.Minute;
 
 		var realTime = (hours < 10 ? '0' : '') + hours + ' : ' + (minutes < 10 ? '0' : '') + minutes + ' : ' + (seconds < 10 ? '0' : '') + seconds
 
 		$('.time').html(realTime);
 		$('.time').attr('data-time', realTime);
-	}, 1000);
-});
+	}
+}
