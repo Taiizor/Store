@@ -887,6 +887,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Lonely Ganyu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nilou-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
