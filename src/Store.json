@@ -979,7 +979,13 @@
           "Live": "preview.gif",
           "Adult": true
         },
-        "Yae Miko-1": {
+        "Ahri Moonlight Flower-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Foxfire Ahri-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
