@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Angel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Angel - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/dark-angel-2-live-wallpaper",
+  "Type": 3,
+  "Source": "da.mp4",
+  "Arguments": null
+}
