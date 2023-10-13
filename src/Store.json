@@ -1026,6 +1026,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Spirit Blossom Ahri-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
