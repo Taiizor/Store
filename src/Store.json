@@ -1294,6 +1294,12 @@
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Crescent Moon-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
