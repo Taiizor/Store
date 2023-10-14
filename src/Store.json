@@ -164,6 +164,11 @@
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Eagle-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
