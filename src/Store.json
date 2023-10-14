@@ -1269,6 +1269,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Chill Seashore-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Deer In The Smoky Mountains-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
