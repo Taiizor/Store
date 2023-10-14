@@ -380,6 +380,11 @@
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Sakura River Town-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
