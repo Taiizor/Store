@@ -570,6 +570,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Tree Island-1": {
+          "Source": "src/Galaxy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
