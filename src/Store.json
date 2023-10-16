@@ -297,6 +297,12 @@
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Cyberpunk Anime Girl Shooting-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
