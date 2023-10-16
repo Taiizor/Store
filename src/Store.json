@@ -1608,6 +1608,16 @@
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Windows 11-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "Windows 11-2": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
