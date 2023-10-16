@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "ag.mp4",
+  "Arguments": null
+}
