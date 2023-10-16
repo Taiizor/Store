@@ -532,7 +532,14 @@
         }
       }
     },
-    "Food and Drinks": {},
+    "Food and Drinks": {
+      "Wallpapers": {
+        "Cat Noodles-1": {
+          "Source": "src/Food and Drinks",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+	},
     "Galaxy": {
       "Wallpapers": {
         "Purple Cat Multiverse-1": {
