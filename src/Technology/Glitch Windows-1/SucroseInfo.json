@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Glitch Windows",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Glitch Windows - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/glitch-windows-live-wallpaper",
+  "Type": 3,
+  "Source": "gw.mp4",
+  "Arguments": null
+}

@@ -1603,6 +1603,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Glitch Windows-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
