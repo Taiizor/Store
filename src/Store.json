@@ -1598,6 +1598,11 @@
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Planetary System-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
