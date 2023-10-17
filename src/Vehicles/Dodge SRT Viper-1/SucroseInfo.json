@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.18.0",
+  "Version": "1.0.0.0",
+  "Title": "Dodge SRT Viper",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dodge SRT Viper - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/dodge-srt-viper-live-wallpaper",
+  "Type": 3,
+  "Source": "dsrtv.mp4",
+  "Arguments": null
+}
