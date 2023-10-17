@@ -1948,6 +1948,11 @@
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Batmobile Pursuit-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
