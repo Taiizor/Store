@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.18.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Hole Void",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Hole Void - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/black-hole-void-live-wallpaper",
+  "Type": 3,
+  "Source": "bhv.mp4",
+  "Arguments": null
+}
