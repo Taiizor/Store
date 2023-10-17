@@ -1,0 +1,14 @@
+{
+  "AppVersion": "23.10.18.0",
+  "Version": "1.0.0.0",
+  "Title": "Cosmos",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cosmos - Live Wallpaper",
+  "Author": "moewalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/cosmos-2-live-wallpaper",
+  "Type": 3,
+  "Source": "cosmos.mp4",
+  "Arguments": null
+}
