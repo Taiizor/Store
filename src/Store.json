@@ -1863,6 +1863,11 @@
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "UFO Kidnapping-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
