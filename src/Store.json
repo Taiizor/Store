@@ -340,6 +340,11 @@
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Gojo Blue Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
