@@ -10,13 +10,14 @@
     "Thumbnail": { "type": "string", "description": "Thumbnail image of the wallpaper." },
     "Preview": { "type": "string", "description": "Preview image or animation of the wallpaper." },
     "Description": { "type": "string", "description": "Description of the wallpaper.", "maxLength": 500 },
-    "Author": { "type": ["string", "null"], "description": "Author of the wallpaper (string or null).", "maxLength": 50 },
+    "Author": { "type": "string", "description": "Author of the wallpaper.", "maxLength": 50 },
     "License": { "type": ["string", "null"], "description": "License information for the wallpaper (string or null)." },
-    "Contact": { "type": ["string", "null"], "description": "Contact information for the wallpaper (string or null).", "maxLength": 250 },
+    "Contact": { "type": "string", "description": "Contact information for the wallpaper.", "maxLength": 250 },
     "Type": { "type": "integer", "description": "Type of the wallpaper." },
     "Source": { "type": "string", "description": "Source location of the wallpaper." },
+    "Tags": { "type": ["array", "null"], "items": { "type": "string" }, "description": "Tags associated with the wallpaper (array or null)." },
     "Arguments": { "type": ["string", "null"], "description": "Arguments for the wallpaper (string or null).", "maxLength": 250 }
   },
-  "required": ["AppVersion", "Version", "Title", "Thumbnail", "Preview", "Description", "Type", "Source"],
+  "required": ["AppVersion", "Version", "Title", "Thumbnail", "Preview", "Description", "Author", "License", "Contact", "Type", "Source", "Tags", "Arguments"],
   "additionalProperties": false
 }
