@@ -1,0 +1,17 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Skull",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Skull - AI - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/skull-ai-live-wallpaper",
+  "Type": 3,
+  "Source": "skull.mp4",
+  "Tags": [
+    "Hoodie"
+  ],
+  "Arguments": null
+}
