@@ -1,0 +1,20 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Furina",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Furina - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/furina-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "fgi.mp4",
+  "Tags": [
+    "Short Hair",
+    "Blue Hair",
+    "Blue Eyes",
+    "Space"
+  ],
+  "Arguments": null
+}
