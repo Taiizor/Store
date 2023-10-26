@@ -459,6 +459,11 @@
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Moonlight Magical Tree-1": {
+          "Source": "src/Enchanted Forests",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },

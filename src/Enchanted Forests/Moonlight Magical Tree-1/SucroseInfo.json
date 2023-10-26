@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Furina",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moonlight Magical Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/moonlight-magical-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "mmt.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Shooting Star",
+    "Clouds"
+  ],
+  "Arguments": null
+}
