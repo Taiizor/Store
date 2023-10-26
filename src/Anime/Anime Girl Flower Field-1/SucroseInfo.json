@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Flower Field",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Flower Field - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-flower-field-live-wallpaper",
+  "Type": 3,
+  "Source": "agff.mp4",
+  "Tags": [
+    "White Dress",
+    "Sunlight",
+    "Cats"
+  ],
+  "Arguments": null
+}
