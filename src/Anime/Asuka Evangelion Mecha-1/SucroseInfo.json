@@ -1,0 +1,21 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Asuka Evangelion Mecha",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Asuka Evangelion Mecha - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/asuka-evangelion-mecha-live-wallpaper",
+  "Type": 3,
+  "Source": "aem.mp4",
+  "Tags": [
+    "Asuka Langley Sohryu",
+    "Evangelion Series",
+    "Orange Hair",
+    "Blue Eyes",
+    "Mecha"
+  ],
+  "Arguments": null
+}
