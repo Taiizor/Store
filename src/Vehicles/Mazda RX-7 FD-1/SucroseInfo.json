@@ -1,0 +1,20 @@
+{
+  "AppVersion": "23.10.26.0",
+  "Version": "1.0.0.0",
+  "Title": "Mazda RX-7 FD",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mazda RX-7 FD - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/mazda-rx-7-fd-3-live-wallpaper",
+  "Type": 3,
+  "Source": "mrx7fd.mp4",
+  "Tags": [
+    "Autum Tree",
+    "Sunlight",
+    "Mazda",
+    "RX-7"
+  ],
+  "Arguments": null
+}
