@@ -586,6 +586,12 @@
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Ancient God Dragon-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
