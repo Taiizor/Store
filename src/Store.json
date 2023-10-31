@@ -179,6 +179,11 @@
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Cat Stray-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },

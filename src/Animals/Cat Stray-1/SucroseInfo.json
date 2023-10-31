@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.10.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Cat Stray",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cat Stray - The Slums - Dark Cyberpunk - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/cat-stray-the-slums-dark-cyberpunk-live-wallpaper",
+  "Type": 3,
+  "Source": "cstsdc.mp4",
+  "Tags": [
+    "Dystopian",
+    "Night"
+  ],
+  "Arguments": null
+}
