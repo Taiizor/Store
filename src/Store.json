@@ -406,6 +406,11 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Elaina Moonlight Flower-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "White Gundam-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
