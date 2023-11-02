@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.11.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Watching",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Watching - Horizon Sunset - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-watching-horizon-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "agwhs.mp4",
+  "Tags": [
+    "Landscape",
+    "Sunlight",
+    "Clouds"
+  ],
+  "Arguments": null
+}
