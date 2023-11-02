@@ -1,0 +1,17 @@
+{
+  "AppVersion": "23.11.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Princess Of The Dragon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Princess Of The Dragon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/princess-of-the-dragon-live-wallpaper",
+  "Type": 3,
+  "Source": "potd.mp4",
+  "Tags": [
+    "Fantasy Girl"
+  ],
+  "Arguments": null
+}
