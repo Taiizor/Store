@@ -436,6 +436,12 @@
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Kobeni Literally Me-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },

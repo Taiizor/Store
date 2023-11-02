@@ -1,6 +1,6 @@
 {
   "AppVersion": "23.11.3.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Gojo Smiling",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,7 +11,7 @@
   "Type": 3,
   "Source": "gsjk.mp4",
   "Tags": [
-    "White Hair ",
+    "White Hair",
     "Sunglasses"
   ],
   "Arguments": null
