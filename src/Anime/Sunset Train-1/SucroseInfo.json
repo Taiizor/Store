@@ -1,0 +1,21 @@
+{
+  "AppVersion": "23.11.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset Train",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset Train - Bocchi The Rock! - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sunset-train-bocchi-the-rock-live-wallpaper",
+  "Type": 3,
+  "Source": "stbtr.mp4",
+  "Tags": [
+    "Nijika Ijichi",
+    "Hitori Gotou",
+    "Kessoku Band",
+    "Ryou Yamada",
+    "Ikuyo Kita"
+  ],
+  "Arguments": null
+}
