@@ -129,6 +129,11 @@
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
           "Live": "live.gif"
+        },
+        "Traditional Japanese House-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
