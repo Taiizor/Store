@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.11.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Cat Pumpkin Halloween",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cat Pumpkin Halloween - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/cat-pumpkin-halloween-live-wallpaper",
+  "Type": 3,
+  "Source": "cph.mp4",
+  "Tags": [
+    "Holidays",
+    "Pumpkin"
+  ],
+  "Arguments": null
+}
