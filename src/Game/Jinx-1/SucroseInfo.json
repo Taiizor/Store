@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.11.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Jinx",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jinx - League of Legends - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/jinx-live-wallpaper",
+  "Type": 3,
+  "Source": "jinx.mp4",
+  "Tags": [
+    "Blue Eyes",
+    "Blue Hair"
+  ],
+  "Arguments": null
+}
