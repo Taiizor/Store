@@ -1,0 +1,17 @@
+{
+  "AppVersion": "23.11.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Hole Nebula",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Hole Nebula - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/black-hole-nebula-live-wallpaper",
+  "Type": 3,
+  "Source": "bhn.mp4",
+  "Tags": [
+    "Space"
+  ],
+  "Arguments": null
+}
