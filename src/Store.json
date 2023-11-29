@@ -1638,6 +1638,12 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "2B-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
