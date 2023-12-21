@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.12.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Supermassive Black Hole",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Supermassive Black Hole - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/supermassive-black-hole-2-live-wallpaper",
+  "Type": 3,
+  "Source": "sbh.mp4",
+  "Tags": [
+    "Spinning",
+    "Space"
+  ],
+  "Arguments": null
+}
