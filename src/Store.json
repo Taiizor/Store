@@ -1665,6 +1665,12 @@
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Agent Assassin Omen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },

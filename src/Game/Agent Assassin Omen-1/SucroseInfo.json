@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.12.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Agent Assassin Omen",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Agent Assassin Omen - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/agent-assassin-omen-valorant-live-wallpaper",
+  "Type": 3,
+  "Source": "aaov.mp4",
+  "Tags": [
+    "Knife",
+    "Cloak",
+    "Gun"
+  ],
+  "Arguments": null
+}
