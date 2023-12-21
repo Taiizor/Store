@@ -1,0 +1,20 @@
+{
+  "AppVersion": "23.12.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Grand Theft Auto VI",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Grand Theft Auto VI - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/grand-theft-auto-vi-live-wallpaper",
+  "Type": 3,
+  "Source": "gtavi.mp4",
+  "Tags": [
+    "Retrowave",
+    "Logo",
+    "Neon",
+    "GTA"
+  ],
+  "Arguments": null
+}
