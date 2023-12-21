@@ -1842,6 +1842,11 @@
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Boatman Aurora Sky Stars-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
