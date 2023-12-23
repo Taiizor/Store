@@ -2017,6 +2017,12 @@
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Cyberpunk Biker Girl Purple Neon-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
