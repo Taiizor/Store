@@ -1,0 +1,20 @@
+{
+  "AppVersion": "23.12.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Jade",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jade - Ghostblade - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/jade-ghostblade-live-wallpaper",
+  "Type": 3,
+  "Source": "jg.mp4",
+  "Tags": [
+    "Sunlight",
+    "Katana",
+    "Sword",
+    "Torli"
+  ],
+  "Arguments": null
+}
