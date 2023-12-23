@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.12.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Gamer Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gamer Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/gamer-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "gg.mp4",
+  "Tags": [
+    "Computer",
+    "Room"
+  ],
+  "Arguments": null
+}
