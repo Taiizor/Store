@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.12.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Sky Lanterns",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sky Lanterns - Ghostblade - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/ghostblade-sky-lanterns-live-wallpaper",
+  "Type": 3,
+  "Source": "slg.mp4",
+  "Tags": [
+    "Top View",
+    "Novels",
+    "Sky"
+  ],
+  "Arguments": null
+}

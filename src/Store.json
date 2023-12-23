@@ -695,6 +695,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Sky Lanterns-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Burning Rose-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
