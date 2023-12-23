@@ -1,0 +1,17 @@
+{
+  "AppVersion": "23.12.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Rainy Street",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Rainy Street - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-rainy-street-live-wallpaper",
+  "Type": 3,
+  "Source": "agrs.mp4",
+  "Tags": [
+    "Blurry"
+  ],
+  "Arguments": null
+}
