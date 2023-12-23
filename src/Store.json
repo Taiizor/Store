@@ -728,6 +728,12 @@
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Fantasy Samurai Girl In The Snow-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
