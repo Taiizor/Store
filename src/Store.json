@@ -1737,18 +1737,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
-        },
-        "Gamer Girl-1": {
-          "Source": "src/Game",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
-        "Gamer Girl-2": {
-          "Source": "src/Game",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
         }
       }
     },
@@ -1915,6 +1903,22 @@
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        }
+      }
+    },
+    "Lifestyle": {
+      "Wallpapers": {
+        "Gamer Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gamer Girl-2": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
