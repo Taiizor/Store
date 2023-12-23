@@ -717,6 +717,12 @@
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Demon Hunter Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },

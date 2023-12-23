@@ -1,0 +1,19 @@
+{
+  "AppVersion": "23.12.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Demon Hunter Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Demon Hunter Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/demon-hunter-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "dhg.mp4",
+  "Tags": [
+    "Samurai",
+    "Katana",
+    "Sword"
+  ],
+  "Arguments": null
+}
