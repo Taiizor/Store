@@ -1,0 +1,21 @@
+{
+  "AppVersion": "23.12.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Nissan GT-R Cyberpunk",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nissan GT-R Cyberpunk - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/nissan-gt-r-cyberpunk-live-wallpaper",
+  "Type": 3,
+  "Source": "ngtrc.mp4",
+  "Tags": [
+    "Supercar",
+    "Alley",
+    "Smoke",
+    "Light",
+    "Snow"
+  ],
+  "Arguments": null
+}

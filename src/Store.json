@@ -2434,6 +2434,11 @@
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Nissan GT-R Cyberpunk-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
