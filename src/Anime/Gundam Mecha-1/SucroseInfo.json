@@ -1,0 +1,18 @@
+{
+  "AppVersion": "23.12.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Gundam Mecha",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gundam Mecha - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/gundam-mecha-live-wallpaper",
+  "Type": 3,
+  "Source": "gm.mp4",
+  "Tags": [
+    "Glowing",
+    "Robot"
+  ],
+  "Arguments": null
+}
