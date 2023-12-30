@@ -467,6 +467,11 @@
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Anime Girl and Nissan GTR-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
