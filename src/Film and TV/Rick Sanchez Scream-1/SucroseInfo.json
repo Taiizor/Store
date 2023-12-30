@@ -1,0 +1,17 @@
+{
+  "AppVersion": "23.12.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Rick Sanchez Scream",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rick Sanchez Scream - Rick and Morty - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/rick-sanchez-scream-rick-and-morty-live-wallpaper",
+  "Type": 3,
+  "Source": "rssram.mp4",
+  "Tags": [
+    "Cartoon"
+  ],
+  "Arguments": null
+}

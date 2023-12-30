@@ -919,6 +919,12 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
+        },
+        "Rick Sanchez Scream-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
