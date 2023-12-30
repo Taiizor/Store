@@ -472,6 +472,18 @@
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Giyu Water Breathing-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Giyuu Fourth Form-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
         }
       }
     },
