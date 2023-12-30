@@ -1,0 +1,20 @@
+{
+  "AppVersion": "23.12.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Valkyrie",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Valkyrie - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/valkyrie-live-wallpaper",
+  "Type": 3,
+  "Source": "valkyrie.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Blonde Hair",
+    "Warrior",
+    "Wings"
+  ],
+  "Arguments": null
+}
