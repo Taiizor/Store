@@ -1,0 +1,21 @@
+{
+  "AppVersion": "23.12.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Lofi Van Life",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lofi Van Life - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/lofi-van-life-live-wallpaper",
+  "Type": 3,
+  "Source": "lvl.mp4",
+  "Tags": [
+    "Black Cat",
+    "Peaceful",
+    "Clouds",
+    "Field",
+    "Sky"
+  ],
+  "Arguments": null
+}

@@ -1940,6 +1940,11 @@
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Lofi Van Life-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
