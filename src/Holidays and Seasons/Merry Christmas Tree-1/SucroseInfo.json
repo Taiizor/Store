@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.1.1.0",
+  "Version": "1.0.0.1",
+  "Title": "Merry Christmas Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Merry Christmas Tree!",
+  "Author": "Chris Gannon",
+  "License": "LICENSE.txt",
+  "Contact": "https://codepen.io/chrisgannon",
+  "Type": 2,
+  "Source": "Tree.html",
+  "Tags": [
+    "Star"
+  ],
+  "Arguments": null
+}
