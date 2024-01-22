@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.1.22.0",
+  "Version": "1.0.0.0",
+  "Title": "Lonely Spongebob In Krusty Krab",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lonely Spongebob In Krusty Krab - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/lonely-spongebob-in-krusty-krab-live-wallpaper",
+  "Type": 3,
+  "Source": "lsikk.mp4",
+  "Tags": [
+    "Cartoon",
+    "Alone"
+  ],
+  "Arguments": null
+}

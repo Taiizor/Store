@@ -1850,6 +1850,11 @@
     "Inspirational Quotes": {},
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Lonely Spongebob In Krusty Krab-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Star Wars Travel-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
