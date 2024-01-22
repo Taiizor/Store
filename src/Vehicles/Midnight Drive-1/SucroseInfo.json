@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.1.22.0",
+  "Version": "1.0.0.0",
+  "Title": "Midnight Drive",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Midnight Drive - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/midnight-drive-live-wallpaper",
+  "Type": 3,
+  "Source": "md.mp4",
+  "Tags": [
+    "Driving",
+    "Clouds",
+    "Racing",
+    "Moon"
+  ],
+  "Arguments": null
+}
