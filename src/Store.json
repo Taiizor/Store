@@ -570,6 +570,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Scythe-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Samurai Girl Red Dragon-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

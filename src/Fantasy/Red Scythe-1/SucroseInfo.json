@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.1.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Scythe",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Scythe - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/red-scythe-live-wallpaper",
+  "Type": 3,
+  "Source": "rs.mp4",
+  "Tags": [
+    "Fire"
+  ],
+  "Arguments": null
+}
