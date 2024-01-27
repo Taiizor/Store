@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.1.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Train Cloudy Day",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Train Cloudy Day - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/train-cloudy-day-live-wallpaper",
+  "Type": 3,
+  "Source": "tcd.mp4",
+  "Tags": [
+    "Leaves",
+    "Bird"
+  ],
+  "Arguments": null
+}
