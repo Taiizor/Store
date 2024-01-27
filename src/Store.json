@@ -2232,7 +2232,15 @@
         }
       }
     },
-    "Sports": {},
+    "Sports": {
+      "Wallpapers": {
+        "Cristiano Ronaldo Portugal-1": {
+          "Source": "src/Sports",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Superheroes": {
       "Wallpapers": {
         "Black Panther-2": {
