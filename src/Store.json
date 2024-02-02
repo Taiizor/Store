@@ -213,6 +213,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Mecha Armor-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Samurai Green Lightning Katana-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
