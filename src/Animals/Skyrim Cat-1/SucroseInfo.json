@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.2.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Skyrim Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Skyrim Cat - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/animal/skyrim-cat-live-wallpaper",
+  "Type": 3,
+  "Source": "sc.mp4",
+  "Tags": [
+    "Darkness",
+    "Khajiit",
+    "Sadness"
+  ],
+  "Arguments": null
+}

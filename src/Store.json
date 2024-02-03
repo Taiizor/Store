@@ -139,6 +139,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Skyrim Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Abstract Smoke Wolf-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
