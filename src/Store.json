@@ -1933,6 +1933,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Milky Way Starry Sky-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Train Cloudy Day-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
