@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Tendou Alice Blue Archive",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tendou Alice Blue Archive - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/tendou-alice-blue-archive-live-wallpaper",
+  "Type": 3,
+  "Source": "taba.mp4",
+  "Tags": [
+    "Smiling"
+  ],
+  "Arguments": null
+}

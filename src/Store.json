@@ -213,6 +213,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tendou Alice Blue Archive-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Anime Boy And Cat-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
