@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.2.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest Milky Way Deer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Forest Milky Way Deer - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/forest-milky-way-deer-live-wallpaper",
+  "Type": 3,
+  "Source": "fmwd.mp4",
+  "Tags": [
+    "Fireflies",
+    "Nature",
+    "Stars",
+    "Road",
+    "Sky"
+  ],
+  "Arguments": null
+}
