@@ -1944,6 +1944,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Garden In The Sky-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Milky Way Starry Sky-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

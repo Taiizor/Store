@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.2.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Garden In The Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Garden In The Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/garden-in-the-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "gits.mp4",
+  "Tags": [
+    "Clouds",
+    "Plants"
+  ],
+  "Arguments": null
+}
