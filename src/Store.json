@@ -2284,6 +2284,11 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Miles Morales Moonlight Glitching-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Black Panther-2": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
