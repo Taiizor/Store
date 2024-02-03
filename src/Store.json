@@ -213,6 +213,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Boy And Cat-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Anime Girl Mecha Armor-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
