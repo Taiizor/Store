@@ -2073,6 +2073,11 @@
     },
     "Music": {
       "Wallpapers": {
+        "Just Breaking-1": {
+          "Source": "src/Music",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Deep Blue-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
