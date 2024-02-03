@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Abstract Smoke Wolf",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Abstract Smoke Wolf - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/animal/abstract-smoke-wolf-live-wallpaper",
+  "Type": 3,
+  "Source": "asw.mp4",
+  "Tags": [
+    "Colorful"
+  ],
+  "Arguments": null
+}
