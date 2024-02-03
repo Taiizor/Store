@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Milky Way Starry Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Milky Way Starry Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/milky-way-starry-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "mwss.mp4",
+  "Tags": [
+    "Nature"
+  ],
+  "Arguments": null
+}
