@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/samurai-anime-girl-2-live-wallpaper",
+  "Type": 3,
+  "Source": "sag.mp4",
+  "Tags": [
+    "Katana"
+  ],
+  "Arguments": null
+}
