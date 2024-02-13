@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.2.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Minecraft Fireplace",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Minecraft Fireplace - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/minecraft-fireplace-live-wallpaper",
+  "Type": 3,
+  "Source": "mf.mp4",
+  "Tags": [
+    "Pixel",
+    "Note"
+  ],
+  "Arguments": null
+}
