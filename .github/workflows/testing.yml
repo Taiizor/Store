@@ -1,0 +1,32 @@
+name: Congratulations and Label
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  Congratulation-And-Label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if it's the first issue
+        id: first_issue_check
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const { data: issues } = await github.issues.listForRepo({ owner, repo });
+            const issueCount = issues.length;
+            console.log(`Total issues: ${issueCount}`);
+            if (issueCount === 1) {
+              core.setOutput('first_issue', 'true');
+            } else {
+              core.setOutput('first_issue', 'false');
+            }
+
+      - name: Congratulations message and label
+        if: steps.first_issue_check.outputs.first_issue == 'true'
+        run: |
+          echo "This is the first issue. Congratulations!"
+          # Adding a label
+          gh issue label add ${{ github.event.issue.number }} "good first issue"
