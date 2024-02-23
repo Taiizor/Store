@@ -17,3 +17,11 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'We grateful you making your first issue notification. You can be sure that a return will be made as soon as possible.'
         pr-message: 'We grateful you making your first pull request notification. You can be sure that a return will be made as soon as possible.'
+
+    - name: Add label to first-time issue creators
+      if: github.event_name == 'issues' && github.event.action == 'opened' && github.event.issue.author_association == 'FIRST_TIMER'
+      uses: actions/labeler@v2
+      with:
+        repository: ${{ github.repository }}
+        issue-number: ${{ github.event.issue.number }}
+        labels: good first issue
