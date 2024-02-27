@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.0",
+  "Title": "River Cave Liyue",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "River Cave Liyue - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/river-cave-liyue-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "rclgi.mp4",
+  "Tags": [
+    "Nature",
+    "Water"
+  ],
+  "Arguments": null
+}
