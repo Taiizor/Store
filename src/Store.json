@@ -607,6 +607,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Sunset Field-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Samurai vs Purple Fire Dragon-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
