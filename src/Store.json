@@ -2206,6 +2206,11 @@
     "Patterns and Textures": {},
     "Retro": {
       "Wallpapers": {
+        "Retrowave Ocean Mountain-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Bedroom Neon Futuristic City-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Retrowave Ocean Mountain",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Retrowave Ocean Mountain - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/retrowave-ocean-mountain-live-wallpaper",
+  "Type": 3,
+  "Source": "rom.mp4",
+  "Tags": [
+    "Synthwave"
+  ],
+  "Arguments": null
+}
