@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.16.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Princess Lylian",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/fantasy/princess-lylian-ghostblade-live-wallpaper",
   "Type": 3,
   "Source": "plg.mp4",
+  "Tags": null,
   "Arguments": null
 }

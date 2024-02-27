@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.9.30.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Colorful Water",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/abstract/abstract-colorful-water-live-wallpaper",
   "Type": 3,
   "Source": "acw.mp4",
+  "Tags": null,
   "Arguments": null
 }

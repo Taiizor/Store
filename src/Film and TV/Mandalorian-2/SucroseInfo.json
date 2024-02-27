@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.14.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Mandalorian",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@som8960",
   "Type": 3,
   "Source": "mandalorian.mp4",
+  "Tags": null,
   "Arguments": null
 }

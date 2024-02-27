@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.9.16.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Heavy Rain",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@AmbientRenders",
   "Type": 4,
   "Source": "https://www.youtube.com/watch?v=6in_MDUXdk8",
+  "Tags": null,
   "Arguments": null
 }

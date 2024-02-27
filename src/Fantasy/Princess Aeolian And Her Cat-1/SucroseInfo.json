@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.16.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Princess Aeolian And Her Cat",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/fantasy/princess-aeolian-and-her-cat-live-wallpaper",
   "Type": 3,
   "Source": "paahcg.mp4",
+  "Tags": null,
   "Arguments": null
 }

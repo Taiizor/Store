@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.23.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Raiden Shogun Lying",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/anime/raiden-shogun-lying-in-the-water-genshin-impact-live-wallpaper",
   "Type": 3,
   "Source": "rslitwgi.mp4",
+  "Tags": null,
   "Arguments": null
 }

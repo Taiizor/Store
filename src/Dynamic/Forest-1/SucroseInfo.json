@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.9.20.0",
-  "Version": "1.0.0.2",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.3",
   "Title": "Forest",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://github.com/adi1090x",
   "Type": 2,
   "Source": "Forest.html",
+  "Tags": null,
   "Arguments": null
 }

@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.14.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Asus ROG",
   "Thumbnail": "look.jpg",
   "Preview": "peek.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@som8960",
   "Type": 0,
   "Source": "rog.gif",
+  "Tags": null,
   "Arguments": null
 }

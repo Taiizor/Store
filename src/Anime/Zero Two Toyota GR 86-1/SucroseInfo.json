@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.18.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Zero Two Toyota GR 86",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/anime/zero-two-toyota-gr-86-live-wallpaper",
   "Type": 3,
   "Source": "zttgr86.mp4",
+  "Tags": null,
   "Arguments": null
 }

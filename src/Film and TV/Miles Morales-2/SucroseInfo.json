@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.9.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Miles Morales",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/movies/miles-morales-swinging-spider-man-live-wallpaper",
   "Type": 3,
   "Source": "mmssm.mp4",
+  "Tags": null,
   "Arguments": null
 }

@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.14.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Big Buck Bunny",
   "Thumbnail": "logo.jpg",
   "Preview": "wakeup.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@BlenderOfficial",
   "Type": 4,
   "Source": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+  "Tags": null,
   "Arguments": null
 }

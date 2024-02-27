@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.9.16.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Batman",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@WonderWworld",
   "Type": 3,
   "Source": "batman.mp4",
+  "Tags": null,
   "Arguments": null
 }

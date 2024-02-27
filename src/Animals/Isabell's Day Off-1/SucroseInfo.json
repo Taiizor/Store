@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.9.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Isabell's Day Off",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://codepen.io/acupoftee",
   "Type": 2,
   "Source": "index.html",
+  "Tags": null,
   "Arguments": null
 }

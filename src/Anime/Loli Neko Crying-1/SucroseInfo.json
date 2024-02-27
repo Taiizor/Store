@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.18.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Loli Neko Crying",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/anime/loli-neko-crying-live-wallpaper",
   "Type": 3,
   "Source": "lnc.mp4",
+  "Tags": null,
   "Arguments": null
 }

@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.13.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Digital Analog Clock",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://codepen.io/maneeshc",
   "Type": 2,
   "Source": "Clock.html",
+  "Tags": null,
   "Arguments": null
 }

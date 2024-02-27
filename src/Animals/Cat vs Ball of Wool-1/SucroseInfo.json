@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.14.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Cat vs Ball of Wool",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://codepen.io/Yakudoo",
   "Type": 2,
   "Source": "index.html",
+  "Tags": null,
   "Arguments": null
 }

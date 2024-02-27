@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.16.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Raiden Shogun x Raiden Makoto",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/anime/raiden-shogun-x-raiden-makoto-genshin-impact-live-wallpaper",
   "Type": 3,
   "Source": "rsxrmgi.mp4",
+  "Tags": null,
   "Arguments": null
 }

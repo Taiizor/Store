@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.18.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Sith Red Lightsaber",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/sci-fi/sith-red-lightsaber-star-wars-live-wallpaper",
   "Type": 3,
   "Source": "srlsw.mp4",
+  "Tags": null,
   "Arguments": null
 }

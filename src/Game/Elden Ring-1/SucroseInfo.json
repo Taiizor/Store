@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.27.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Elden Ring",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/games/elden-ring-2-live-wallpaper",
   "Type": 3,
   "Source": "ering.mp4",
+  "Tags": null,
   "Arguments": null
 }

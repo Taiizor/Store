@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.27.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Spider Man",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@live_wallpaper3479",
   "Type": 3,
   "Source": "milesm.mp4",
+  "Tags": null,
   "Arguments": null
 }

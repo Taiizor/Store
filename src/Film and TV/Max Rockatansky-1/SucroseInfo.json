@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.5.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Max Rockatansky",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/movies/max-rockatansky-mad-max-fury-road-live-wallpaper",
   "Type": 3,
   "Source": "mrmmfr.mp4",
+  "Tags": null,
   "Arguments": null
 }

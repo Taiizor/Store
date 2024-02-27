@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.13.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Spirit Blossom Darius",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/games/spirit-blossom-darius-league-of-legends-live-wallpaper",
   "Type": 3,
   "Source": "sbdlol.mp4",
+  "Tags": null,
   "Arguments": null
 }

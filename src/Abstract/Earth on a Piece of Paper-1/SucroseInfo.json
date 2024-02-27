@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.8.14.0",
-  "Version": "1.0.0.1",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.2",
   "Title": "Earth on a Piece of Paper",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://www.youtube.com/@RomanDeGiuli",
   "Type": 4,
   "Source": "https://www.youtube.com/watch?v=J4pKA-U8p6g",
+  "Tags": null,
   "Arguments": null
 }

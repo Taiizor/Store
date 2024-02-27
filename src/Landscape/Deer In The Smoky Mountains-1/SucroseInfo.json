@@ -1,6 +1,6 @@
 {
-  "AppVersion": "23.10.15.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.1",
   "Title": "Deer In The Smoky Mountains",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,5 +10,6 @@
   "Contact": "https://moewalls.com/landscape/deer-in-the-smoky-mountains-live-wallpaper",
   "Type": 3,
   "Source": "ditsm.mp4",
+  "Tags": null,
   "Arguments": null
 }
