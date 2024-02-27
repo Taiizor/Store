@@ -224,6 +224,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Plana Blue Archive-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Straw Hat Itachi Akatsuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",

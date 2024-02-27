@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Plana Blue Archive",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Plana Blue Archive - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/plana-blue-archive-live-wallpaper",
+  "Type": 3,
+  "Source": "pba.mp4",
+  "Tags": [
+    "Blue Hair",
+    "Halo"
+  ],
+  "Arguments": null
+}
