@@ -224,6 +224,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Straw Hat Itachi Akatsuki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Samurai Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
