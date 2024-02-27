@@ -543,6 +543,12 @@
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
+        "Zoro Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Honor of a Samurai-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
