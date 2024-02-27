@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Rainbow Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Rainbow Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/fantasy-rainbow-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "frt.mp4",
+  "Tags": [
+    "Flower Petals",
+    "Clouds"
+  ],
+  "Arguments": null
+}
