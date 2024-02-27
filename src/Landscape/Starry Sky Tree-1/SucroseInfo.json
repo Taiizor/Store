@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Starry Sky Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Starry Sky Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/starry-sky-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "sst.mp4",
+  "Tags": [
+    "Clouds"
+  ],
+  "Arguments": null
+}

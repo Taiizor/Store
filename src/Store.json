@@ -1994,6 +1994,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Starry Sky Tree-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "River Cave Liyue-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
