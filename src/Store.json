@@ -2562,6 +2562,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Nissan GT-R R35 Nismo-2": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nissan GT-R R35 Nismo-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
