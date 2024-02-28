@@ -1124,6 +1124,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Elden Ring Shadow of the Erdtree-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cattiva Sleeping-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
