@@ -224,6 +224,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Killua Hunter x Hunter-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Plana Blue Archive-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
