@@ -224,6 +224,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shiroko Sunset City-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Killua Hunter x Hunter-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
