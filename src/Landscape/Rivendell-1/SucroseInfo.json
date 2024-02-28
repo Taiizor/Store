@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.2.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Rivendell",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rivendell - The Lord of the Rings - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/rivendell-the-lord-of-the-rings-live-wallpaper",
+  "Type": 3,
+  "Source": "rtlotr.mp4",
+  "Tags": [
+    "Castle"
+  ],
+  "Arguments": null
+}
