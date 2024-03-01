@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.3.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Drummer Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Drummer Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/drummer-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "dg.mp4",
+  "Tags": [
+    "Earphone",
+    "Musical",
+    "Clouds",
+    "Milk",
+    "Tea"
+  ],
+  "Arguments": null
+}
