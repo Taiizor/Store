@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.3.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Bride Of Death",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bride Of Death - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/bride-of-death-live-wallpaper",
+  "Type": 3,
+  "Source": "bod.mp4",
+  "Tags": [
+    "Angel Ring",
+    "Wings"
+  ],
+  "Arguments": null
+}

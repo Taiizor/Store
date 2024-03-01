@@ -645,6 +645,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Bride Of Death-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Sunset Field-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
