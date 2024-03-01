@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Sparkle Fox Max",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sparkle Fox Max - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sparkle-fox-max-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "sfmhsr.mp4",
+  "Tags": [
+    "Kitsune"
+  ],
+  "Arguments": null
+}
