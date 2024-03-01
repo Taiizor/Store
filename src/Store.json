@@ -645,6 +645,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Death Angel Bride-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Guard-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
