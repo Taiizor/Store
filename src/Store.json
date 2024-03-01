@@ -645,6 +645,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Jade Dragon Tattoo-2": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Death Angel Bride-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
