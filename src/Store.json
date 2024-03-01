@@ -565,6 +565,11 @@
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
+        "Princess Aeolian Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Zoro Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
