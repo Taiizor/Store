@@ -645,6 +645,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Girl Wearing Veil Mask-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Jade Dragon Tattoo-2": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
