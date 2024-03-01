@@ -645,6 +645,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Guard-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Bride Of Death-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

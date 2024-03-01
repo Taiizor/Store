@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.3.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Guard",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Guard - Ghostblade - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/guard-ghostblade-live-wallpaper",
+  "Type": 3,
+  "Source": "gg.mp4",
+  "Tags": [
+    "Medieval",
+    "Armor",
+    "Novels"
+  ],
+  "Arguments": null
+}
