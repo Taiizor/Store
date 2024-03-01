@@ -1147,11 +1147,10 @@
     },
     "Game": {
       "Wallpapers": {
-        "Sparkle Fox Max-1": {
+        "Yae Miko Sleeping-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
+          "Live": "preview.gif"
         },
         "Sparkle Fox Max-1": {
           "Source": "src/Game",
