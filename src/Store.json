@@ -1153,6 +1153,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Sparkle Fox Max-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Elden Ring Shadow of the Erdtree-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

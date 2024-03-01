@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.3.1.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Sparkle Fox Max",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,7 +11,8 @@
   "Type": 3,
   "Source": "sfmhsr.mp4",
   "Tags": [
-    "Kitsune"
+    "Kitsune",
+    "Mask"
   ],
   "Arguments": null
 }
