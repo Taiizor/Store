@@ -576,6 +576,12 @@
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
+        "Moonlight Samurai Jin Sakai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Princess Aeolian Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
