@@ -2083,6 +2083,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Legendary Sword-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Rivendell-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
