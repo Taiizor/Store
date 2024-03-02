@@ -224,6 +224,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tanjiro Water Flame-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Uzumaki Naruto-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
