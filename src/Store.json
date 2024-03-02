@@ -2100,6 +2100,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Cherry Blossom Tree-2": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Legendary Sword-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

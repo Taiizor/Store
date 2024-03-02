@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.3.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Cherry Blossom Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cherry Blossom Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/cherry-blossom-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "cbt.mp4",
+  "Tags": [
+    "Clouds",
+    "Nature",
+    "Sakura"
+  ],
+  "Arguments": null
+}
