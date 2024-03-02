@@ -224,6 +224,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Floating In The Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Tanjiro Water Flame-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
