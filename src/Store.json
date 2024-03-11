@@ -2302,6 +2302,11 @@
     },
     "Music": {
       "Wallpapers": {
+        "Wonderful-1": {
+          "Source": "src/Music",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Safety Net-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
