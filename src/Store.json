@@ -2060,6 +2060,11 @@
     "Inspirational Quotes": {},
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Jake and Finn Camping-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lonely Spongebob In Krusty Krab-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
