@@ -937,6 +937,11 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Spider Man Symbiote-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nazgul Rider-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
