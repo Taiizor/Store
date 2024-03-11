@@ -1212,6 +1212,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ghost Riley Death Sniper-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Yae Miko Sleeping-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
