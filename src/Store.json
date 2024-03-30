@@ -731,6 +731,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Japanese Samurai VS Dragon-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Girl Wearing Veil Mask-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
