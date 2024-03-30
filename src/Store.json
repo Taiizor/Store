@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gojo In Shibuya-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Sung Jin Woo Assassin-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
