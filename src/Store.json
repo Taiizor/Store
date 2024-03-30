@@ -240,6 +240,11 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Roronoa Zoro Chibi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Frieren Beyond Journey’s End-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -323,11 +328,6 @@
           "Adult": true
         },
         "Vegeta Ultra Ego-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
-        },
-        "Roronoa Zoro Chibi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
