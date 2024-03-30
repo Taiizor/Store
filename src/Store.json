@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sukuna Red Shrine Torii-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Darkness Army-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
