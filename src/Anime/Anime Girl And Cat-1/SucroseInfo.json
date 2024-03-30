@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl And Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl And Cat - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-and-cat-live-wallpaper",
+  "Type": 3,
+  "Source": "agac.mp4",
+  "Tags": [
+    "Cherry Blossom",
+    "Blushing",
+    "Sakura"
+  ],
+  "Arguments": null
+}
