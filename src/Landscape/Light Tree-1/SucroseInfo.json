@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Light Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Light Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/light-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "lt.mp4",
+  "Tags": [
+    "Nature",
+    "Field",
+    "Stars"
+  ],
+  "Arguments": null
+}

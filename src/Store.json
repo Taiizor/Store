@@ -2131,6 +2131,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Light Tree-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cherry Blossom Tree-2": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
