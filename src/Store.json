@@ -2860,6 +2860,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Nissan GTR R34 Japanese Neon Street-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nissan GT-R R35 Nismo-2": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
