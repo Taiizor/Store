@@ -660,6 +660,12 @@
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
+        "Death And Life-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zenitsu Thunder Breathing Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
