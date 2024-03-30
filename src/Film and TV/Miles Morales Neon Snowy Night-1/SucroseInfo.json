@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.3.30.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Miles Morales Neon Snowy Night",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -12,9 +12,7 @@
   "Source": "mmnsnsp.mp4",
   "Tags": [
     "Hoodie",
-    "Night",
-    "Neon",
-    "Snow"
+    "Marvel"
   ],
   "Arguments": null
 }

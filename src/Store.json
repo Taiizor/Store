@@ -234,6 +234,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Darkness Army-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Killua Lightning Bolt Hunter X Hunter-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
