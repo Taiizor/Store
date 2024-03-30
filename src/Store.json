@@ -2531,6 +2531,11 @@
     "Patterns and Textures": {},
     "Retro": {
       "Wallpapers": {
+        "Pink Sunset Ocean-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Purple Nebula Mountains-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
