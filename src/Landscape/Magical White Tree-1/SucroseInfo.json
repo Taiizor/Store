@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Magical White Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Magical White Tree - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/magical-white-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "mwt.mp4",
+  "Tags": [
+    "Shooting Star"
+  ],
+  "Arguments": null
+}

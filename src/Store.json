@@ -2212,6 +2212,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Magical White Tree-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Light Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
