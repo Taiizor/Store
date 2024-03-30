@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Roronoa Zoro",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Roronoa Zoro - One Piece - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/roronoa-zoro-one-piece-live-wallpaper",
+  "Type": 3,
+  "Source": "rzop.mp4",
+  "Tags": [
+    "Lightning"
+  ],
+  "Arguments": null
+}
