@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Eren Villain",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Eren Villain - Attack On Titan - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/eren-villain-attack-on-titan-live-wallpaper",
+  "Type": 3,
+  "Source": "evaot.mp4",
+  "Tags": [
+    "Eren Yeager"
+  ],
+  "Arguments": null
+}

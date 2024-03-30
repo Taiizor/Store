@@ -234,6 +234,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Eren Villain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sukuna Red Shrine Torii-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
