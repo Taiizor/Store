@@ -2076,6 +2076,11 @@
     "Inspirational Quotes": {},
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Sonic Explosion-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Jake and Finn Camping-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",

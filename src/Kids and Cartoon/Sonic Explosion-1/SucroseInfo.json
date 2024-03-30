@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Sonic Explosion",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sonic Explosion - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/sonic-explosion-live-wallpaper",
+  "Type": 3,
+  "Source": "se.mp4",
+  "Tags": [
+    "Hedgehog"
+  ],
+  "Arguments": null
+}
