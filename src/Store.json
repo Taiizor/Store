@@ -1298,6 +1298,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Arlecchino Umbrella-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Mario Kart DS-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
