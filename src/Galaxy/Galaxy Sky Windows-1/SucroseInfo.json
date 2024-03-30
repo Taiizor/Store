@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Galaxy Sky Windows",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Galaxy Sky Windows - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/galaxy-sky-windows-live-wallpaper",
+  "Type": 3,
+  "Source": "gsw.mp4",
+  "Tags": [
+    "Clouds",
+    "Stars"
+  ],
+  "Arguments": null
+}
