@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Itachi Last Breath-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Anime Girl Floating In The Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
