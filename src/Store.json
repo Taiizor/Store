@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Vegeta Ultra Ego-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Roronoa Zoro Chibi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
