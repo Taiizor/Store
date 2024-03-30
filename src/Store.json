@@ -234,6 +234,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zenitsu Thunder Breathing-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Miyamoto Musashi In The Rain-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1251,7 +1257,8 @@
         "Yae Miko Morning Wake Up-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Arlecchino-1": {
           "Source": "src/Game",
