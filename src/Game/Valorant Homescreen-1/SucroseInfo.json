@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Valorant Homescreen",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Valorant Homescreen - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/valorant-homescreen-live-wallpaper",
+  "Type": 3,
+  "Source": "vh.mp4",
+  "Tags": [
+    "Abstract"
+  ],
+  "Arguments": null
+}

@@ -1353,6 +1353,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Valorant Homescreen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Galaxy Ranger Acheron-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
