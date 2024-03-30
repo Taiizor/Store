@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Roronoa Zoro Chibi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Makoto Yuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
