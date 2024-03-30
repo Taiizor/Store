@@ -2385,6 +2385,11 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Infinite Road-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Tokyo Rainy Night-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

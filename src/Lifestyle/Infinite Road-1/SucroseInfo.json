@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Infinite Road",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Infinite Road - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/infinite-road-live-wallpaper",
+  "Type": 3,
+  "Source": "ir.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Driving",
+    "Car",
+    "Sun"
+  ],
+  "Arguments": null
+}
