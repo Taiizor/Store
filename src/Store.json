@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Makoto Yuki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Itachi Last Breath-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
