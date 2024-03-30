@@ -2257,6 +2257,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Late Night Smoking-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Drummer Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
