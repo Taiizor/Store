@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Totoro In The Flower Field-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Toji Fushiguro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
