@@ -1353,6 +1353,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Aventurine Tossing Coin-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Valorant Homescreen-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
