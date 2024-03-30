@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Bronya ",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bronya - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/bronya-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "bhsr.mp4",
+  "Tags": [
+    "Butterfly"
+  ],
+  "Arguments": null
+}

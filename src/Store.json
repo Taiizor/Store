@@ -1330,6 +1330,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Bronya-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Arlecchino Umbrella-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
