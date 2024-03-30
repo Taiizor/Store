@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Tokyo Rainy Night",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tokyo Rainy Night - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/tokyo-rainy-night-live-wallpaper",
+  "Type": 3,
+  "Source": "trn.mp4",
+  "Tags": [
+    "Buildings",
+    "Clouds",
+    "City"
+  ],
+  "Arguments": null
+}

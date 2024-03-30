@@ -2359,6 +2359,11 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Tokyo Rainy Night-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lofi Rainy Cozy Shop-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
