@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.3.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Mario Kart DS",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mario Kart DS - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/mario-kart-ds-live-wallpaper",
+  "Type": 3,
+  "Source": "mkds.mp4",
+  "Tags": [
+    "Nintendo",
+    "Retro"
+  ],
+  "Arguments": null
+}

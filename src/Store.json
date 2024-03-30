@@ -1287,6 +1287,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Mario Kart DS-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Yae Miko Morning Wake Up-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
