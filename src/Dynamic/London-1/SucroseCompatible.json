@@ -1,5 +1,4 @@
 {
-  "TriggerTime": 1000,
   "SystemDate": "SucroseSystemDate({0});",
   "StretchMode": "SucroseStretchMode('{0}');"
 }
