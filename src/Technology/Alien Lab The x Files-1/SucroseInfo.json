@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.4.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Alien Lab The x Files",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Alien Lab The x Files - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/alien-lab-the-x-files-live-wallpaper",
+  "Type": 3,
+  "Source": "altxf.mp4",
+  "Tags": [
+    "Scientist",
+    "Spaceship",
+    "Colonist"
+  ],
+  "Arguments": null
+}
