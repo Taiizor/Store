@@ -234,6 +234,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Yangyang x Rover-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gojo Purple Hollow-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
