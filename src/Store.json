@@ -2658,6 +2658,11 @@
     "Patterns and Textures": {},
     "Retro": {
       "Wallpapers": {
+        "Purple Night Moon Clouds-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Pink Sunset Ocean-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
