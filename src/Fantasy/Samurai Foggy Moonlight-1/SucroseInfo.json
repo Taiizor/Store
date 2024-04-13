@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.4.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Foggy Moonlight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Foggy Moonlight - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-foggy-moonlight-live-wallpaper",
+  "Type": 3,
+  "Source": "sfm.mp4",
+  "Tags": [
+    "Straw Hat"
+  ],
+  "Arguments": null
+}
