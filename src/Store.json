@@ -2952,6 +2952,11 @@
     },
     "Underwater and Marine": {
       "Wallpapers": {
+        "Floating In The Ocean-1": {
+          "Source": "src/Underwater and Marine",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Chihiro x Haku-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",

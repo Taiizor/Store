@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.4.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Floating In The Ocean",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Floating In The Ocean - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/floating-in-the-ocean-live-wallpaper",
+  "Type": 3,
+  "Source": "fito.mp4",
+  "Tags": [
+    "Bubbles",
+    "Water"
+  ],
+  "Arguments": null
+}
