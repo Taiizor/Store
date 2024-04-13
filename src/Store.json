@@ -234,6 +234,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Rengoku Death-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Roronoa Zoro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
