@@ -2894,6 +2894,11 @@
     },
     "System": {
       "Wallpapers": {
+        "Living Room-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Simple Visualizer-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",

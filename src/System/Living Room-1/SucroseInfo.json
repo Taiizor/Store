@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.4.19.0",
+  "Version": "1.0.0.0",
+  "Title": "Living Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A living room with music, visualizer and more!",
+  "Author": "Taiizor",
+  "License": "License.txt",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "Room.html",
+  "Tags": null,
+  "Arguments": null
+}
