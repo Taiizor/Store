@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.4.19.0",
+  "Version": "1.0.0.0",
+  "Title": "Music TV (HQ)",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "TV that shows currently playing music with visualizer",
+  "Author": "Dani John",
+  "License": "License.txt",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "TV.html",
+  "Tags": null,
+  "Arguments": null
+}

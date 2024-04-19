@@ -2899,12 +2899,7 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
-        "Music TV-1": {
-          "Source": "src/System",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
-        },
-        "Ferrari 458 Italia-1": {
+        "Living Room-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
@@ -2914,7 +2909,17 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
-        "Living Room-1": {
+        "Music TV-2": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "Music TV-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
+        "Ferrari 458 Italia-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
