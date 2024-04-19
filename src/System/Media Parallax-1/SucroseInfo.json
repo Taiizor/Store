@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.4.19.0",
+  "Version": "1.0.0.0",
+  "Title": "Media Parallax",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Visualizer, music and mouse parallax in one",
+  "Author": "Taiizor",
+  "License": "License.txt",
+  "Contact": "https://github.com/Taiizor",
+  "Type": 2,
+  "Source": "Parallax.html",
+  "Tags": null,
+  "Arguments": null
+}

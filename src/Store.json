@@ -2894,6 +2894,11 @@
     },
     "System": {
       "Wallpapers": {
+        "Media Parallax-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Living Room-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
