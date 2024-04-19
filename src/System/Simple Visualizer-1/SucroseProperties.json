@@ -1,0 +1,20 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "lineColor": {
+      "text": "Lines",
+      "type": "color",
+      "value": "#FF0000"
+    },
+    "backgroundColor": {
+      "text": "Background",
+      "type": "color",
+      "value": "#000000"
+    },
+    "square": {
+      "text": "Square",
+      "type": "checkbox",
+      "value": true
+    }
+  }
+}

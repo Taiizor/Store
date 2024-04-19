@@ -2892,7 +2892,15 @@
         }
       }
     },
-    "System": {},
+    "System": {
+      "Wallpapers": {
+        "Simple Visualizer-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    }
     "Tavern": {
       "Wallpapers": {
         "Tavern Sextet-1": {

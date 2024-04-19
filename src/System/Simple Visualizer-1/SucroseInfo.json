@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.4.19.0",
+  "Version": "1.0.0.0",
+  "Title": "Simple Visualizer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Simple Audio Visualizer",
+  "Author": "Dani John",
+  "License": "MIT",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "Visualizer.html",
+  "Tags": null,
+  "Arguments": null
+}
