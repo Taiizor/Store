@@ -38,8 +38,7 @@
     </script>
         <script type="text/javascript">
             //Global variables
-            var fps = 30,
-                useHighResModel = false;
+            var fps = 30;
             var orbitalControl, cameraContainer, isSignalNotFound;
             //Using two separate canvas to simplify code
             let canvasArtist = document.createElement("canvas");
@@ -122,7 +121,7 @@
                 scene.environment.mapping = THREE.EquirectangularReflectionMapping;
                 // TV
                 const loader = new GLTFLoader();
-                loader.load(useHighResModel ? "models/screen_high.glb" : "models/screen_low.glb", function(gltf) {
+                loader.load("models/screen_low.glb", function(gltf) {
                     const planeGeometry = new THREE.PlaneGeometry(100, 100);
                     const plane = new THREE.Mesh(planeGeometry, new THREE.ShadowMaterial({
                         color: new THREE.Color(0x000000),
