@@ -1,0 +1,35 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "bodyColor": {
+      "text": "Body",
+      "type": "color",
+      "value": "#FF0000"
+    },
+    "datailColor": {
+      "text": "Detail",
+      "type": "color",
+      "value": "#FFFFFF"
+    },
+    "floorColor": {
+      "text": "Floor",
+      "type": "color",
+      "value": "#333333"
+    },
+    "cameraConfig": {
+      "type": "dropdown",
+      "value": 1,
+      "text": "Camera",
+      "items": [
+        "Fixed",
+        "Rotate",
+        "Free"
+      ]
+    },
+    "30fps": {
+      "type": "checkbox",
+      "value": false,
+      "text": "30 FPS"
+    }
+  }
+}
