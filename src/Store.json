@@ -2894,6 +2894,11 @@
     },
     "System": {
       "Wallpapers": {
+        "Simple System-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Music Tunnel-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
