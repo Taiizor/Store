@@ -212,19 +212,9 @@ function SucrosePropertyListener(name, val) {
 		case "parallaxToggle":
 			_parallax = val.value;
 			break;
-			/*
-    case "parallax":
-      parallaxVal = val;
-      "parallax": {
-        "max": -30,
-        "min": -100,
-        "tick": 71,
-        "text": "Parallax strength",
-        "type": "slider",
-        "value": -75
-      },
-      break;
-      */
+		case "parallax":
+			parallaxVal = val.value;
+			break;
 		case "sortingMode":
 			switch (val.value) {
 				case 0:
