@@ -836,6 +836,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Foggy Moonlight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

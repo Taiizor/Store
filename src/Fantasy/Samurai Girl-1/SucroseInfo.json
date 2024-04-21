@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.4.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-girl-2-live-wallpaper",
+  "Type": 3,
+  "Source": "sg.mp4",
+  "Tags": [
+    "Blue Eyes",
+    "Ponytail",
+    "Katana"
+  ],
+  "Arguments": null
+}
