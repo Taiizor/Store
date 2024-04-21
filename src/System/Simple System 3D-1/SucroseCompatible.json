@@ -1,0 +1,7 @@
+{
+  "SystemCpu": "SucroseCpuData({0});",
+  "SystemAudio": "SucroseAudioData({0});",
+  "SystemGraphic": "SucroseGpuData({0});",
+  "SystemMemory": "SucroseMemoryData({0});",
+  "SystemNetwork": "SucroseNetworkData({0});"
+}

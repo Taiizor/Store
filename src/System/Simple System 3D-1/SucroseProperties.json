@@ -1,0 +1,52 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "label1": {
+      "type": "label",
+      "value": "Camera"
+    },
+    "xAngleCamera": {
+      "max": 30,
+      "min": -30,
+      "step": 1,
+      "text": "Vertical",
+      "type": "slider",
+      "value": -5
+    },
+    "yAngleCamera": {
+      "max": 60,
+      "min": -60,
+      "step": 1,
+      "text": "Horizontal",
+      "type": "slider",
+      "value": 20
+    },
+    "zoomCamera": {
+      "max": 10,
+      "min": -10,
+      "step": 0.1,
+      "text": "Zoom",
+      "type": "slider",
+      "value": 0
+    },
+    "label2": {
+      "type": "label",
+      "value": "Memory"
+    },
+    "userColor": {
+      "text": "Color",
+      "type": "color",
+      "value": "#FF0000"
+    },
+    "cycleRGB": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Rainbow"
+    },
+    "audioRGB": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Audio"
+    }
+  }
+}

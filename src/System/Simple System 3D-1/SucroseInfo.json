@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.4.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Simple System 3D",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "3D wallpaper that shows hardware readings",
+  "Author": "Dani John",
+  "License": "License.txt",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "System.html",
+  "Tags": null,
+  "Arguments": null
+}

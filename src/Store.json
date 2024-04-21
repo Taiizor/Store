@@ -2894,6 +2894,11 @@
     },
     "System": {
       "Wallpapers": {
+        "Simple System 3D-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Simple System-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
