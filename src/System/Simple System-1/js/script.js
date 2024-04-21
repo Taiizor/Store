@@ -11,7 +11,10 @@ var gpuName = "";
 var memoryName = "";
 var netCardName = "";
 var isChartInit = false;
-var gpu, cpu, mem, net = false;
+var cpu = false;
+var gpu = false;
+var mem = false;
+var net = false;
 
 var chartColors = {
 	red: 'rgb(255, 99, 132)',
@@ -296,91 +299,99 @@ function initChart() {
 };
 
 function SucroseCpuData(obj) {
-	if (obj.State) {
+	if (obj != null) {
 		cpu = true;
 
-		//hw name
-		cpuName = obj.Name;
+		if (obj.State) {
+			//hw name
+			cpuName = obj.Name;
 
-		//chart data
-		cpuCounter = obj.Now;
+			//chart data
+			cpuCounter = obj.Now;
+		}
 	}
 }
 
 function SucroseGpuData(obj) {
-	if (obj.State) {
+	if (obj != null) {
 		gpu = true;
 
-		amdGpu = obj.Amd;
-		intelGpu = obj.Intel;
-		nvidiaGpu = obj.Nvidia;
+		if (obj.State) {
+			amdGpu = obj.Amd;
+			intelGpu = obj.Intel;
+			nvidiaGpu = obj.Nvidia;
 
-		let highestNow = -Infinity;
+			let highestNow = -Infinity;
 
-		//hw name
-		//chart data
+			//hw name
+			//chart data
 
-		if (nvidiaGpu != null) {
-			gpuName = nvidiaGpu[0].Name;
+			if (nvidiaGpu != null) {
+				gpuName = nvidiaGpu[0].Name;
 
-			nvidiaGpu.forEach(gpu => {
-				if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-					highestNow = gpu.Now;
-				}
-			});
+				nvidiaGpu.forEach(gpu => {
+					if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+						highestNow = gpu.Now;
+					}
+				});
 
-			gpuCounter = highestNow.toFixed(2);
-		} else if (amdGpu != null) {
-			gpuName = amdGpu[0].Name;
+				gpuCounter = highestNow.toFixed(2);
+			} else if (amdGpu != null) {
+				gpuName = amdGpu[0].Name;
 
-			amdGpu.forEach(gpu => {
-				if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-					highestNow = gpu.Now;
-				}
-			});
+				amdGpu.forEach(gpu => {
+					if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+						highestNow = gpu.Now;
+					}
+				});
 
-			gpuCounter = highestNow.toFixed(2);
-		} else if (intelGpu != null) {
-			gpuName = intelGpu[0].Name;
+				gpuCounter = highestNow.toFixed(2);
+			} else if (intelGpu != null) {
+				gpuName = intelGpu[0].Name;
 
-			intelGpu.forEach(gpu => {
-				if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-					highestNow = gpu.Now;
-				}
-			});
+				intelGpu.forEach(gpu => {
+					if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+						highestNow = gpu.Now;
+					}
+				});
 
-			gpuCounter = highestNow.toFixed(2);
-		} else {
-			gpuName = "Unknown";
-			gpuCounter = 0;
+				gpuCounter = highestNow.toFixed(2);
+			} else {
+				gpuName = "Unknown";
+				gpuCounter = 0;
+			}
 		}
 	}
 }
 
 function SucroseNetworkData(obj) {
-	if (obj.State) {
+	if (obj != null) {
 		net = true;
 
-		//hw name
-		netCardName = obj.Name;
+		if (obj.State) {
+			//hw name
+			netCardName = obj.Name;
 
-		//chart data
-		netDownCounter = obj.Download / (1024 * 1024);
-		netUpCounter = obj.Upload / (1024 * 1024);
+			//chart data
+			netDownCounter = obj.Download / (1024 * 1024);
+			netUpCounter = obj.Upload / (1024 * 1024);
+		}
 	}
 }
 
 function SucroseMemoryData(obj) {
-	if (obj.State) {
+	if (obj != null) {
 		mem = true;
 
-		var totalRam = obj.MemoryAvailable + obj.MemoryUsed;
+		if (obj.State) {
+			var totalRam = obj.MemoryAvailable + obj.MemoryUsed;
 
-		//hw name
-		memoryName = obj.Name + " (" + totalRam.toFixed(0) + " GB)";
+			//hw name
+			memoryName = obj.Name + " (" + totalRam.toFixed(0) + " GB)";
 
-		//chart data
-		memUsed = obj.MemoryLoad;
+			//chart data
+			memUsed = obj.MemoryLoad;
+		}
 	}
 }
 
