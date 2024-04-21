@@ -234,6 +234,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sad Anime Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Guts In The Rain-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",

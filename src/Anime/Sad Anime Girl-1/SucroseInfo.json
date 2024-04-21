@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.4.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Sad Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sad Anime Girl Listening To Music - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sad-anime-girl-listening-to-music-live-wallpaper",
+  "Type": 3,
+  "Source": "sagltm.mp4",
+  "Tags": [
+    "Earphone"
+  ],
+  "Arguments": null
+}
