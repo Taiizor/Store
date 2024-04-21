@@ -10,6 +10,8 @@
   "Contact": "https://github.com/rocksdanister",
   "Type": 2,
   "Source": "Room.html",
-  "Tags": null,
+  "Tags": [
+    "Clock"
+  ],
   "Arguments": null
 }

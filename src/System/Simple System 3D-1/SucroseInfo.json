@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.4.21.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Simple System 3D",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,12 @@
   "Contact": "https://github.com/rocksdanister",
   "Type": 2,
   "Source": "System.html",
-  "Tags": null,
+  "Tags": [
+    "Information",
+    "Graphic",
+    "Chart",
+    "Music",
+    "Wave"
+  ],
   "Arguments": null
 }

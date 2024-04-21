@@ -10,6 +10,8 @@
   "Contact": "https://github.com/rocksdanister",
   "Type": 2,
   "Source": "Parallax.html",
-  "Tags": null,
+  "Tags": [
+    "Wave"
+  ],
   "Arguments": null
 }

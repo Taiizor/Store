@@ -1,6 +1,6 @@
 {
-  "AppVersion": "24.4.19.0",
-  "Version": "1.0.0.0",
+  "AppVersion": "24.4.21.0",
+  "Version": "1.0.0.1",
   "Title": "Music Tunnel",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,8 @@
   "Contact": "https://github.com/rocksdanister",
   "Type": 2,
   "Source": "Tunnel.html",
-  "Tags": null,
+  "Tags": [
+    "Worm"
+  ],
   "Arguments": null
 }

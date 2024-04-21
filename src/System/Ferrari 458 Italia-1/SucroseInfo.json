@@ -10,6 +10,9 @@
   "Contact": "https://github.com/rocksdanister",
   "Type": 2,
   "Source": "Ferrari.html",
-  "Tags": null,
+  "Tags": [
+    "Music",
+    "Light"
+  ],
   "Arguments": null
 }
