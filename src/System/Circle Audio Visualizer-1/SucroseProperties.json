@@ -1,0 +1,255 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "imageLabel": {
+      "type": "label",
+      "value": "Images:"
+    },
+    "bgImage": {
+      "title": "Select Background Image",
+      "type": "filedropdown",
+      "value": "tP5iLDT.jpg",
+      "text": "Background image",
+      "desc": "Image Files",
+      "filter": "*.jpg|*.jpeg|*.png|*.webp|*.gif",
+      "folder": "images"
+    },
+    "bgBlur": {
+      "max": 10,
+      "min": 0,
+      "step": 1,
+      "text": "Background image blur",
+      "type": "slider",
+      "value": 0
+    },
+    "useMiddleImage": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Show center image"
+    },
+    "middleImage": {
+      "title": "Select Center Image",
+      "type": "filedropdown",
+      "value": "cldkid.svg",
+      "text": "Center image",
+      "desc": "Image Files",
+      "filter": "*.jpg|*.jpeg|*.png|*.webp|*.gif|*.svg",
+      "folder": "logos"
+    },
+    "middleImageScale": {
+      "max": 105,
+      "min": 10,
+      "step": 1,
+      "text": "Center image scale",
+      "type": "slider",
+      "value": 95
+    },
+    "barLabel": {
+      "type": "label",
+      "value": "Bars:"
+    },
+    "maxLength": {
+      "max": 500,
+      "min": 50,
+      "step": 5,
+      "text": "Bar length",
+      "type": "slider",
+      "value": 100
+    },
+    "barWidth": {
+      "max": 150,
+      "min": 1,
+      "step": 5,
+      "text": "Bar width",
+      "type": "slider",
+      "value": 30
+    },
+    "barGlow": {
+      "max": 25,
+      "min": 0,
+      "step": 1,
+      "text": "Bar glow",
+      "type": "slider",
+      "value": 10
+    },
+    "roundedBars": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Rounded bars"
+    },
+    "innerRadius": {
+      "max": 90,
+      "min": 0,
+      "step": 1,
+      "text": "Visualizer size",
+      "type": "slider",
+      "value": 50
+    },
+    "innerMovement": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Inner circle reactivity",
+      "type": "slider",
+      "value": 25
+    },
+    "barCompensation": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Bass compensation",
+      "type": "slider",
+      "value": 25
+    },
+    "colorLabel": {
+      "type": "label",
+      "value": "Colors:"
+    },
+    "startHue": {
+      "max": 360,
+      "min": 0,
+      "step": 1,
+      "text": "Top color",
+      "type": "slider",
+      "value": 206
+    },
+    "endHue": {
+      "max": 360,
+      "min": 0,
+      "step": 1,
+      "text": "Bottom color",
+      "type": "slider",
+      "value": 170
+    },
+    "saturation": {
+      "max": 100,
+      "min": 0,
+      "step": 5,
+      "text": "Color saturation",
+      "type": "slider",
+      "value": 50
+    },
+    "lightness": {
+      "max": 100,
+      "min": 0,
+      "step": 5,
+      "text": "Color lightness",
+      "type": "slider",
+      "value": 50
+    },
+    "shakeLabel": {
+      "type": "label",
+      "value": "Visualizer shake/wobble:"
+    },
+    "shakeSpeed": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Shake speed",
+      "type": "slider",
+      "value": 50
+    },
+    "shakeRadius": {
+      "max": 50,
+      "min": 0,
+      "step": 1,
+      "text": "Shake radius",
+      "type": "slider",
+      "value": 15
+    },
+    "starsLabel": {
+      "type": "label",
+      "value": "Background stars:"
+    },
+    "showStars": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Show background stars"
+    },
+    "starColor": {
+      "text": "Star color",
+      "type": "colorpicker",
+      "value": "#FFFFFFFF"
+    },
+    "starOpacity": {
+      "max": 100,
+      "min": 1,
+      "step": 1,
+      "text": "Star opacity",
+      "type": "slider",
+      "value": 35
+    },
+    "starGlow": {
+      "max": 25,
+      "min": 0,
+      "step": 1,
+      "text": "Star glow",
+      "type": "slider",
+      "value": 15
+    },
+    "starBlur": {
+      "max": 20,
+      "min": 0,
+      "step": 1,
+      "text": "Star blur",
+      "type": "slider",
+      "value": 10
+    },
+    "locationLabel": {
+      "type": "label",
+      "value": "Visualizer location:"
+    },
+    "xPercent": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Horizontal location",
+      "type": "slider",
+      "value": 50
+    },
+    "yPercent": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Vertical location",
+      "type": "slider",
+      "value": 50
+    },
+    "shadowLabel": {
+      "type": "label",
+      "value": "Visualizer shadow:"
+    },
+    "shadowX": {
+      "max": 32,
+      "min": 0,
+      "step": 1,
+      "text": "Shadow horizontal offset",
+      "type": "slider",
+      "value": 4
+    },
+    "shadowY": {
+      "max": 32,
+      "min": 0,
+      "step": 1,
+      "text": "Shadow vertical offset",
+      "type": "slider",
+      "value": 4
+    },
+    "shadowBlur": {
+      "max": 20,
+      "min": 0,
+      "step": 1,
+      "text": "Shadow blur",
+      "type": "slider",
+      "value": 4
+    },
+    "shadowOpacity": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Shadow opacity",
+      "type": "slider",
+      "value": 25
+    }
+  }
+}

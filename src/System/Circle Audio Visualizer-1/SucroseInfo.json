@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Circle Audio Visualizer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A simple audio visualizer with a circular spectrum",
+  "Author": "Elias Floreteng",
+  "License": null,
+  "Contact": "https://github.com/elias123tre",
+  "Type": 2,
+  "Source": "Audio.html",
+  "Tags": [
+    "Shake",
+    "Stars",
+    "Wave",
+    "Snow"
+  ],
+  "Arguments": null
+}

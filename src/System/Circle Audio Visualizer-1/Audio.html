@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Circle Audio Visualizer</title>
+        <style>
+            html,
+            body,
+            #canvas,
+            #starfield {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+                overflow: hidden;
+                user-select: none;
+            }
+
+            #starfield {
+                position: absolute;
+                z-index: -10;
+            }
+
+            body {
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+
+            #middle {
+                object-fit: cover;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+            #debug {
+                position: absolute;
+                top: 0;
+                left: 0;
+                word-break: break-all;
+                white-space: break-spaces;
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="starfield"></canvas>
+        <div id="visualizer">
+            <img id="middle" />
+            <canvas id="canvas"></canvas>
+        </div>
+        <pre id="debug"></pre>
+        <script src="./js/noise.js"></script>
+        <script src="./js/main.js"></script>
+        <script src="./js/stars.js"></script>
+    </body>
+</html>

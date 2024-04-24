@@ -2905,6 +2905,11 @@
     },
     "System": {
       "Wallpapers": {
+        "Circle Audio Visualizer-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "AudiOrbits-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
