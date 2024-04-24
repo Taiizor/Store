@@ -778,6 +778,11 @@
     "Digital Art": {},
     "Dynamic": {
       "Wallpapers": {
+        "Alve's Town-1": {
+          "Source": "src/Dynamic",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Bing Wallpaper-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",

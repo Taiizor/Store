@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Alve's Town",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Alve's Town: Pixelart city view with realtime day-night cycle",
+  "Author": "Gabrz",
+  "License": null,
+  "Contact": "https://github.com/gabrz",
+  "Type": 2,
+  "Source": "Alve.html",
+  "Tags": [
+    "Shake",
+    "Stars",
+    "Wave",
+    "Snow"
+  ],
+  "Arguments": null
+}
