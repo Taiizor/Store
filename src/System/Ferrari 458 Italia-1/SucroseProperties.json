@@ -3,17 +3,17 @@
   "PropertyList": {
     "bodyColor": {
       "text": "Body",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#FF0000"
     },
     "datailColor": {
       "text": "Detail",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#FFFFFF"
     },
     "floorColor": {
       "text": "Floor",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#333333"
     },
     "cameraConfig": {
