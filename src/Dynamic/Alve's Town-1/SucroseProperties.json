@@ -47,7 +47,7 @@
     },
     "weatherApiInput": {
       "text": "API Key - openweathermap.org",
-      "help": "Enter your openweathermap API Key",
+      "help": "Enter your openweathermap api key",
       "type": "passwordbox",
       "value": ""
     },
