@@ -2,10 +2,12 @@
   "PropertyListener": "SucrosePropertyListener('{0}', {1});",
   "PropertyList": {
     "imgSelect": {
-      "type": "folderDropdown",
+      "title": "Select Image",
+      "type": "filedropdown",
       "value": "jellyfish.jpg",
       "text": "Picture Frame",
-      "filter": "*.jpg|*.png",
+      "desc": "Image Files",
+      "filter": "*.jpeg|*.jpg|*.png",
       "folder": "photos"
     },
     "xAngleCamera": {
