@@ -3,12 +3,12 @@
   "PropertyList": {
     "lineColor": {
       "text": "Lines",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#FF0000"
     },
     "backgroundColor": {
       "text": "Background",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#000000"
     },
     "square": {
