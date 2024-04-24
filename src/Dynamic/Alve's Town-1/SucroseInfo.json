@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.4.24.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Alve's Town",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,10 +11,8 @@
   "Type": 2,
   "Source": "Alve.html",
   "Tags": [
-    "Shake",
-    "Stars",
-    "Wave",
-    "Snow"
+    "Weather",
+    "Clock"
   ],
   "Arguments": null
 }
