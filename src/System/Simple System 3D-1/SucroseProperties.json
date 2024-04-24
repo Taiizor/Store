@@ -36,7 +36,7 @@
     "userColor": {
       "text": "Color",
       "type": "colorpicker",
-      "value": "#FF0000"
+      "value": "#FFFF0000"
     },
     "cycleRGB": {
       "type": "checkbox",

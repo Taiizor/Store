@@ -139,16 +139,15 @@
             let cpuFan, gpuFanBot, gpuFanTop, ramMaterial;
             let ramColorHue = 0,
                 ramLightStrip;
-
-			var amdGpu = [];
-			var intelGpu = [];
-			var nvidiaGpu = [];
-			var cpu = false;
-			var gpu = false;
-			var mem = false;
-			var net = false;
-			var CurrentCpu = 0;
-			var CurrentGpu = 0;
+            var amdGpu = [];
+            var intelGpu = [];
+            var nvidiaGpu = [];
+            var cpu = false;
+            var gpu = false;
+            var mem = false;
+            var net = false;
+            var CurrentCpu = 0;
+            var CurrentGpu = 0;
 
             function init() {
                 const container = document.getElementById("container");
@@ -382,7 +381,7 @@
                         ramRainbow = val.value;
                         break;
                     case "userColor":
-                        ramColor = val.value;
+                        ramColor = argbToRgb(parseInt(val.value.substring(3), 16));
                         break;
                     case "audioRGB":
                         ramAudio = val.value;
@@ -407,83 +406,73 @@
                 memText = "Memory 1.20/8.00 GB";
             let initialized = false;
 
-			function SucroseCpuData(data) {
-				if (data != null) {
-					cpu = true;
+            function SucroseCpuData(data) {
+                if (data != null) {
+                    cpu = true;
+                    if (data.State) {
+                        CurrentCpu = data.Now;
+                        cpuText = data.Name + " " + data.Now.toFixed(0) + "%";
+                    }
+                }
+            }
 
-					if (data.State) {
+            function SucroseGpuData(data) {
+                if (data != null) {
+                    gpu = true;
+                    if (data.State) {
+                        amdGpu = data.Amd;
+                        intelGpu = data.Intel;
+                        nvidiaGpu = data.Nvidia;
+                        let highestNow = -Infinity;
+                        if (nvidiaGpu != null) {
+                            nvidiaGpu.forEach(gpu => {
+                                if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+                                    highestNow = gpu.Now;
+                                }
+                            });
+                            CurrentGpu = highestNow.toFixed(0);
+                            gpuText = nvidiaGpu[0].Name + " " + highestNow.toFixed(0) + "%";
+                        } else if (amdGpu != null) {
+                            amdGpu.forEach(gpu => {
+                                if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+                                    highestNow = gpu.Now;
+                                }
+                            });
+                            CurrentGpu = highestNow.toFixed(0);
+                            gpuText = amdGpu[0].Name + " " + highestNow.toFixed(0) + "%";
+                        } else if (intelGpu != null) {
+                            intelGpu.forEach(gpu => {
+                                if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
+                                    highestNow = gpu.Now;
+                                }
+                            });
+                            CurrentGpu = highestNow.toFixed(0);
+                            gpuText = intelGpu[0].Name + " " + highestNow.toFixed(0) + "%";
+                        } else {
+                            CurrentGpu = 0;
+                            gpuText = "Unknown 0%";
+                        }
+                    }
+                }
+            }
 
-						CurrentCpu = data.Now;
-						cpuText = data.Name + " " + data.Now.toFixed(0) + "%";
-					}
-				}
-			}
+            function SucroseNetworkData(data) {
+                if (data != null) {
+                    net = true;
+                    if (data.State) {
+                        nicText = data.Name + " " + (data.Download / (1024 * 1024)).toFixed(2) + " MB/s";
+                    }
+                }
+            }
 
-			function SucroseGpuData(data) {
-				if (data != null) {
-					gpu = true;
-
-					if (data.State) {
-						amdGpu = data.Amd;
-						intelGpu = data.Intel;
-						nvidiaGpu = data.Nvidia;
-
-						let highestNow = -Infinity;
-
-						if (nvidiaGpu != null) {
-							nvidiaGpu.forEach(gpu => {
-								if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-									highestNow = gpu.Now;
-								}
-							});
-
-							CurrentGpu = highestNow.toFixed(0);
-							gpuText = nvidiaGpu[0].Name + " " + highestNow.toFixed(0) + "%";
-						} else if (amdGpu != null) {
-							amdGpu.forEach(gpu => {
-								if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-									highestNow = gpu.Now;
-								}
-							});
-
-							CurrentGpu = highestNow.toFixed(0);
-							gpuText = amdGpu[0].Name + " " + highestNow.toFixed(0) + "%";
-						} else if (intelGpu != null) {
-							intelGpu.forEach(gpu => {
-								if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
-									highestNow = gpu.Now;
-								}
-							});
-
-							CurrentGpu = highestNow.toFixed(0);
-							gpuText = intelGpu[0].Name + " " + highestNow.toFixed(0) + "%";
-						} else {
-							CurrentGpu = 0;
-							gpuText = "Unknown 0%";
-						}
-					}
-				}
-			}
-
-			function SucroseNetworkData(data) {
-				if (data != null) {
-					net = true;
-
-					if (data.State) {
-						nicText = data.Name + " " + (data.Download / (1024 * 1024)).toFixed(2) + " MB/s";
-					}
-				}
-			}
-
-			function SucroseMemoryData(data) {
-				if (data != null) {
-					mem = true;
-
-					if (data.State) {
-						memText = data.Name + " " + data.MemoryUsed.toFixed(2) + "/" + (data.MemoryAvailable + data.MemoryUsed).toFixed(2) + " GB";
-					}
-				}
-			}
+            function SucroseMemoryData(data) {
+                if (data != null) {
+                    mem = true;
+                    if (data.State) {
+                        memText = data.Name + " " + data.MemoryUsed.toFixed(2) + "/" + (data.MemoryAvailable + data.MemoryUsed).toFixed(2) + " GB";
+                    }
+                }
+            }
 
             function showModel() {
                 document.getElementById("loader").style.visibility = "collapse";
@@ -560,9 +549,8 @@
                     songTitle = obj.Title;
                     isNoMedia = false;
                     albumImg.src = obj.ThumbnailString == null ? "./textures/icons8-no-image-100.png" : "data:image/png;base64, " + obj.ThumbnailString;
-
-					AudioData(obj.Data);
-				}
+                    AudioData(obj.Data);
+                }
             }
             let albumImg = new Image();
             albumImg.onload = () => {
@@ -641,26 +629,31 @@
                 if (audioIntensity < 0) audioIntensity = 0;
             }
 
-			function informationCallback() {
-				if (!initialized && gpu && cpu && mem && net) {
-					//takes time to initialize
-					initialized = true;
-					if (!isDebugging) showModel();
-				}
-				else if (initialized) {
-					if (CurrentCpu > 75 || CurrentGpu > 75) document.body.style.setProperty("--gradientColor1", `rgb(255,0,0)`);
-					else if (CurrentCpu > 50 || CurrentGpu > 50) document.body.style.setProperty("--gradientColor1", `rgb(255,87,51)`);
-					else if (CurrentCpu > 35 || CurrentGpu > 35) document.body.style.setProperty("--gradientColor1", `rgb(233,116,81)`);
-					else document.body.style.setProperty("--gradientColor1", `rgb(45,45,45)`);
-					
-					gpuFanSpeed = CurrentGpu > 50 ? (0.25 * CurrentGpu) / 125 : 0.025;
-					cpuFanSpeed = 0.1 + (0.5 * CurrentCpu) / 100;
+            function argbToRgb(argb) {
+                var alpha = (argb >> 24) & 0xFF;
+                var red = (argb >> 16) & 0xFF;
+                var green = (argb >> 8) & 0xFF;
+                var blue = argb & 0xFF;
+                var rgbHex = (red << 16) | (green << 8) | blue;
+                return "#" + rgbHex.toString(16).padStart(6, '0');
+            }
 
-					UpdateHardware();
-				}
-			}
-
-			setInterval(informationCallback, 1000);
+            function informationCallback() {
+                if (!initialized && gpu && cpu && mem && net) {
+                    //takes time to initialize
+                    initialized = true;
+                    if (!isDebugging) showModel();
+                } else if (initialized) {
+                    if (CurrentCpu > 75 || CurrentGpu > 75) document.body.style.setProperty("--gradientColor1", `rgb(255,0,0)`);
+                    else if (CurrentCpu > 50 || CurrentGpu > 50) document.body.style.setProperty("--gradientColor1", `rgb(255,87,51)`);
+                    else if (CurrentCpu > 35 || CurrentGpu > 35) document.body.style.setProperty("--gradientColor1", `rgb(233,116,81)`);
+                    else document.body.style.setProperty("--gradientColor1", `rgb(45,45,45)`);
+                    gpuFanSpeed = CurrentGpu > 50 ? (0.25 * CurrentGpu) / 125 : 0.025;
+                    cpuFanSpeed = 0.1 + (0.5 * CurrentCpu) / 100;
+                    UpdateHardware();
+                }
+            }
+            setInterval(informationCallback, 1000);
         </script>
     </body>
 </html>
