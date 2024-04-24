@@ -4,17 +4,17 @@
     "bodyColor": {
       "text": "Body",
       "type": "colorpicker",
-      "value": "#FF0000"
+      "value": "#FFFF0000"
     },
     "datailColor": {
       "text": "Detail",
       "type": "colorpicker",
-      "value": "#FFFFFF"
+      "value": "#FFFFFFFF"
     },
     "floorColor": {
       "text": "Floor",
       "type": "colorpicker",
-      "value": "#333333"
+      "value": "#FF333333"
     },
     "cameraConfig": {
       "type": "dropdown",

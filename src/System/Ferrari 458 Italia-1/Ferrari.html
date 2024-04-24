@@ -218,13 +218,13 @@
             function SucrosePropertyListener(name, val) {
                 switch (name) {
                     case "bodyColor":
-                        bodyMaterial.color.set(val.value);
+                        bodyMaterial.color.set(argbToRgb(parseInt(val.value.substring(3), 16)));
                         break;
                     case "datailColor":
-                        detailsMaterial.color.set(val.value);
+                        detailsMaterial.color.set(argbToRgb(parseInt(val.value.substring(3), 16)));
                         break;
                     case "floorColor":
-                        floorMaterial.color.set(val.value);
+                        floorMaterial.color.set(argbToRgb(parseInt(val.value.substring(3), 16)));
                         break;
                     case "cameraConfig":
                         switch (val.value) {
@@ -257,6 +257,15 @@
                 audioIntensity = (Math.floor(bass * 0.5 * 5) * 10) / 100;
                 if (audioIntensity > 1) audioIntensity = 1;
                 if (audioIntensity < 0) audioIntensity = 0;
+            }
+
+            function argbToRgb(argb) {
+                var alpha = (argb >> 24) & 0xFF;
+                var red = (argb >> 16) & 0xFF;
+                var green = (argb >> 8) & 0xFF;
+                var blue = argb & 0xFF;
+                var rgbHex = (red << 16) | (green << 8) | blue;
+                return "#" + rgbHex.toString(16).padStart(6, '0');
             }
         </script>
     </body>
