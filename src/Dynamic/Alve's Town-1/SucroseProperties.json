@@ -41,10 +41,6 @@
       "type": "checkbox",
       "value": false
     },
-    "weatherLabel": {
-      "type": "label",
-      "value": "API Key"
-    },
     "weatherApiInput": {
       "text": "API Key - openweathermap.org",
       "help": "Enter your openweathermap api key",
