@@ -1,0 +1,99 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "label_general": {
+      "type": "label",
+      "value": "General"
+    },
+    "zoom_val": {
+      "max": 20,
+      "min": 0,
+      "step": 0.1,
+      "text": "Zoom speed",
+      "type": "slider",
+      "value": 1
+    },
+    "rotation_val": {
+      "max": 10,
+      "min": -10,
+      "step": 0.1,
+      "text": "Rotation speed",
+      "type": "slider",
+      "value": 0
+    },
+    "default_brightness": {
+      "max": 100,
+      "min": 1,
+      "step": 0.1,
+      "text": "Brightness",
+      "type": "slider",
+      "value": 60
+    },
+    "default_saturation": {
+      "max": 100,
+      "min": 1,
+      "step": 0.1,
+      "text": "Saturation",
+      "type": "slider",
+      "value": 90
+    },
+    "label_parallax": {
+      "type": "label",
+      "value": "Parallax"
+    },
+    "parallax_option": {
+      "type": "dropdown",
+      "value": 0,
+      "text": "Type",
+      "items": [
+        "Off",
+        "Cursor",
+        "Automatic"
+      ]
+    },
+    "parallax_strength": {
+      "max": 20,
+      "min": 1,
+      "step": 0.1,
+      "text": "Strength",
+      "type": "slider",
+      "value": 3
+    },
+    "fps_30": {
+      "type": "checkbox",
+      "value": false,
+      "text": "30FPS Lock"
+    },
+    "label_color": {
+      "type": "label",
+      "value": "Color"
+    },
+    "main_color": {
+      "text": "Background",
+      "type": "colorpicker",
+      "value": "#FF000000"
+    },
+    "user_color_a": {
+      "text": "Particle Main",
+      "type": "colorpicker",
+      "value": "#FFFF7F00"
+    },
+    "user_color_b": {
+      "text": "Particle Secondary",
+      "type": "colorpicker",
+      "value": "#FF007FFF"
+    },
+    "color_mode": {
+      "type": "dropdown",
+      "value": 0,
+      "text": "Particle Mode",
+      "items": [
+        "Random",
+        "Single",
+        "Gradiant",
+        "Range (random)",
+        "Range (audio)"
+      ]
+    }
+  }
+}

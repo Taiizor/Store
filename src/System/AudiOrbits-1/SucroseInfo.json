@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "AudiOrbits",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Reacts to music by projecting the audio-spectrum onto the Orbits in form of color, saturation and brightness.",
+  "Author": "Dani John",
+  "License": "License.txt",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "Orbits.html",
+  "Tags": [
+    "Gradiant",
+    "Parallax"
+  ],
+  "Arguments": null
+}
