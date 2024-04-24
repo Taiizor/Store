@@ -35,7 +35,7 @@
     },
     "userColor": {
       "text": "Color",
-      "type": "color",
+      "type": "colorpicker",
       "value": "#FF0000"
     },
     "cycleRGB": {
