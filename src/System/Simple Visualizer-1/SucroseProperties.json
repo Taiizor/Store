@@ -4,12 +4,12 @@
     "lineColor": {
       "text": "Lines",
       "type": "colorpicker",
-      "value": "#FF0000"
+      "value": "#FFFF0000"
     },
     "backgroundColor": {
       "text": "Background",
       "type": "colorpicker",
-      "value": "#000000"
+      "value": "#FF000000"
     },
     "square": {
       "text": "Square",
