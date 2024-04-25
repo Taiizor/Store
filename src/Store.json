@@ -2668,6 +2668,11 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
+        "Snowy-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Forest Stream-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

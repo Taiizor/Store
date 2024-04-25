@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta property="og:image" content="./social.jpg" />
+        <title>Snowy Window</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    </head>
+    <style>
+        body {
+            background-color: #000;
+            margin: 0px;
+            overflow: hidden;
+        }
+
+        #container {
+            transform: scale(1.09);
+        }
+    </style>
+    <body>
+        <div id="container"></div>
+        <input id="filePicker" type="file" accept=".jpg, .jpeg, .png, .mp4, .webm" style="visibility: hidden" />
+        <script src="./js/three.min.js"></script>
+        <script src="./js/dat.gui.min.js"></script>
+        <script src="./js/script.js"></script>
+    </body>
+</html>
