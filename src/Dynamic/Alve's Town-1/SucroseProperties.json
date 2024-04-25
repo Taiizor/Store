@@ -80,7 +80,7 @@
       "help": "Select you language",
       "value": 0,
       "items": [
-        "English_World",
+        "English_WORLD",
         "Bahasa_Indonesia",
         "Bahasa_Melayu",
         "Bulgarian",

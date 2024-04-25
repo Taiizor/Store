@@ -54,14 +54,14 @@ function SucrosePropertyListener(name, val) {
 		case "miscSunrise":
 			root.defaultSunrise = val.value;
 			// Re-set default values of weather (when api is not used)
-			if (root.apiData.cityName === "" || root.apiData.cityName === "city, country" || root.apiData.apiKey === "" || root.apiData.apiKey === "openweathermap.org key") {
+			if (root.apiData.cityName === "" || root.apiData.cityName === "city, country" || root.apiData.apiKey === "") {
 				reDrawWeatherScene();
 			}
 			break;
 		case "miscSunset":
 			root.defaultSunset = val.value;
 			// Re-set default values of weather (when api is not used)
-			if (root.apiData.cityName === "" || root.apiData.cityName === "city, country" || root.apiData.apiKey === "" || root.apiData.apiKey === "openweathermap.org key") {
+			if (root.apiData.cityName === "" || root.apiData.cityName === "city, country" || root.apiData.apiKey === "") {
 				reDrawWeatherScene();
 			}
 			break;
