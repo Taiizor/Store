@@ -1,0 +1,126 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "dateLabel": {
+      "type": "label",
+      "value": "DATE"
+    },
+    "dateVisible": {
+      "type": "checkbox",
+      "text": "Visible",
+      "value": true
+    },
+    "dateX": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Horizontal location",
+      "type": "slider",
+      "value": 51
+    },
+    "dateY": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Vertical location",
+      "type": "slider",
+      "value": 6
+    },
+    "dateScale": {
+      "max": 1000,
+      "min": 0,
+      "step": 1,
+      "text": "Scale",
+      "type": "slider",
+      "value": 600
+    },
+    "dateColor1": {
+      "text": "Font Color 1",
+      "type": "colorpicker",
+      "value": "#FFF7F9F4"
+    },
+    "dateColor2": {
+      "text": "Font Color 2",
+      "type": "colorpicker",
+      "value": "#FFDC8A3D"
+    },
+    "miscHour12": {
+      "type": "checkbox",
+      "text": "12 Hour Clock",
+      "value": false
+    },
+    "weatherLabel": {
+      "type": "label",
+      "value": "WEATHER"
+    },
+    "weatherVisible": {
+      "type": "checkbox",
+      "text": "Visible",
+      "value": true
+    },
+    "weatherApiInput": {
+      "text": "API Key - openweathermap.org",
+      "help": "Enter your openweathermap api key",
+      "type": "passwordbox",
+      "value": ""
+    },
+    "weatherCityInput": {
+      "text": "Location",
+      "type": "textbox",
+      "value": "city, country"
+    },
+    "weatherBtnRefresh": {
+      "text": "Update Weather",
+      "type": "button",
+      "value": "Refresh"
+    },
+    "miscLabel": {
+      "type": "label",
+      "value": "MISC"
+    },
+    "miscPlayVideo": {
+      "type": "checkbox",
+      "text": "Animate Background",
+      "value": true
+    },
+    "miscLanguage": {
+      "type": "dropdown",
+      "text": "Language",
+      "value": 0,
+      "items": [
+        "English_WORLD",
+        "Bahasa_Indonesia",
+        "Bahasa_Melayu",
+        "Bulgarian",
+        "Chinese",
+        "Croatian",
+        "Czech",
+        "Danish",
+        "Dutch",
+        "English_GB",
+        "English_US",
+        "Finnish",
+        "French",
+        "German",
+        "Greek",
+        "Hindi",
+        "Hungarian",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Norwegian",
+        "Polish",
+        "Portuguese",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Spanish",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Vietnamese"
+      ]
+    }
+  }
+}

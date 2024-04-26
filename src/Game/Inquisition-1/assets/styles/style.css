@@ -1,0 +1,91 @@
+body {
+    background: black;
+    margin: 0;
+    overflow: hidden;
+}
+
+video {
+  height: 100vh;
+  width: 100%;
+  object-fit: fill; 
+}
+
+#mainContainer {
+    position: relative;
+}
+
+#dateContainer {
+    position: absolute;
+    transform-origin: top left;
+    left: 50%;
+    top: 6%;
+    scale: 0.6;
+    font-family: 'Porter';
+    color: #F9ECE5;
+    height: 437px;
+    width: 366px;
+}
+
+#dateDate {
+    font-size: 250pt;
+    font-family: 'Gobold';
+    background: -webkit-linear-gradient(90deg, #DC8A3D01 10%, #DC8A3DDC 50% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color:transparent;
+}
+
+#dateDay {
+    position: relative;
+    transform-origin: top left;
+    left: 45px;
+    bottom: 60px;
+    font-size: 12pt;
+    rotate: -90deg;
+    letter-spacing: 14pt;
+}
+
+#dateMonth {
+    position: absolute;
+    left: 96px;
+    top: 170px;
+    font-size: 56pt;
+}
+
+#dateTime {
+    position: absolute;
+    left: 103px;
+    top: 259px;
+    font-size: 16pt;
+}
+
+#dateYear {
+    position: absolute;
+    left: 103px;
+    top: 150px;
+    font-size: 16pt;
+}
+
+#weatherContainer {
+  position: absolute;
+  transform-origin: top left;
+  left: 75px;
+  top: 260px;
+  font-size: 14pt;
+  height: 137px;
+  width: 866px;
+}
+#weatherCurrentTemp {
+  font-size: 32pt;
+}
+
+@font-face {
+    font-family: 'Gobold';
+    src: url('../fonts/Gobold\ Bold.otf');
+}
+
+@font-face {
+    font-family: 'Porter';
+    src: url('../fonts/Porter.otf');
+}

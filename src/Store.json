@@ -1409,6 +1409,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Inquisition-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Aventurine Tossing Coin-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./assets/styles/style.css">
+        <link rel="stylesheet" type="text/css" href="./assets/styles/weather-icons.min.css">
+        <script src="./assets/scripts/jquery.min.js"></script>
+    </head>
+    <body>
+        <div id="mainContainer">
+            <div id="videoContainer">
+                <video id="video" src="./assets/video/inquisition.webm" autoplay muted loop></video>
+            </div>
+            <div id="dateContainer">
+                <div id="dateDate"></div>
+                <div id="dateDay"></div>
+                <div id="dateMonth"></div>
+                <div id="dateTime"></div>
+                <div id="dateYear"></div>
+                <div id="weatherContainer">
+                    <table style="padding: 0px">
+                        <tr>
+                            <td style="padding-top: 25px;">
+                                <i id="weatherIcon" class="wi wi-day-cloudy" style="font-size: 6em;"></i>
+                            </td>
+                            <td style="padding-left: 5px;">
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <div id="weatherCurrentTemp">--&deg;</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="wi wi-direction-down" style="font-size: 1.2em;"></i>&nbsp; <span id="weatherMinTemp">10</span>&deg;&nbsp;&nbsp; <i class="wi wi-direction-up" style="font-size: 1.2em;"></i>&nbsp; <span id="weatherMaxTemp">10</span>&deg;
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span id="weatherDescription">10</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <i class="wi wi-thermometer">&nbsp;</i>
+                                            <span id="weatherFeels">10</span>&deg;&nbsp;
+                                        </td>
+                                        <td>
+                                            <i class="wi wi-humidity">&nbsp;</i>
+                                            <span id="weatherHumidity">79</span>%&nbsp;
+                                        </td>
+                                        <td>
+                                            <i class="wi wi-barometer">&nbsp;</i>
+                                            <span id="weatherPressure">1000</span>&nbsp;
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <table>
+                                    <tr>
+                                        <td>&nbsp;&nbsp;&nbsp;</td>
+                                        <td>
+                                            <i class="wi wi-sunrise"></i>
+                                            <span id="sunriseTime">08:10</span>&nbsp;&nbsp;
+                                        </td>
+                                        <td>
+                                            <i class="wi wi-sunset"></i>
+                                            <span id="sunsetTime">19:00</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <script src="./assets/scripts/init.js"></script>
+        <script src="./assets/scripts/date.js"></script>
+        <script src="./assets/scripts/weather.js"></script>
+        <script src="./assets/scripts/sucrose.js"></script>
+    </body>
+</html>

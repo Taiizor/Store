@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Inquisition",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dragon Age: Inquisition animated wallpaper",
+  "Author": "Gabrz",
+  "License": null,
+  "Contact": "https://github.com/gabrz",
+  "Type": 2,
+  "Source": "Inquisiton.html",
+  "Tags": [
+    "Weather",
+    "Shield",
+    "Armor",
+    "Clock",
+    "Sword"
+  ],
+  "Arguments": null
+}
