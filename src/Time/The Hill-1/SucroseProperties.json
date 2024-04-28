@@ -1,0 +1,48 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "hillOpacityFac": {
+      "max": 1000,
+      "min": 0,
+      "step": 50,
+      "text": "Hill Opacity",
+      "type": "slider",
+      "value": 50
+    },
+    "bgColor": {
+      "text": "Background",
+      "type": "colorpicker",
+      "value": "#FF0E0E0E"
+    },
+    "hillColor": {
+      "text": "Hill",
+      "type": "colorpicker",
+      "value": "#FFFFFFFF"
+    },
+    "fontColor": {
+      "text": "Font",
+      "type": "colorpicker",
+      "value": "#FFFFFFFF"
+    },
+    "timeToggle": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Time"
+    },
+    "dateToggle": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Date"
+    },
+    "_12hour": {
+      "type": "checkbox",
+      "value": false,
+      "text": "12 Hour"
+    },
+    "mmddyy": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Month/Day Format"
+    }
+  }
+}

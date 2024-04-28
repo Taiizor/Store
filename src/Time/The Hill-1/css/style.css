@@ -1,0 +1,62 @@
+/*
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script&family=Roboto+Mono&display=swap');
+*/
+
+@font-face
+{
+    font-family: 'Roboto Mono';
+    font-weight: 400;
+    font-style: normal;
+    src: url('fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: 'Cinzel';
+    font-weight: 400;
+    font-style: normal;
+    src: url('fonts/Cinzel/Cinzel-Regular.otf');
+}
+
+@font-face
+{
+    font-family: 'Dancing Script';
+    font-weight: 400;
+    font-style: normal;
+    src: url('fonts/Dancing/DancingScript-Regular.otf');
+}
+
+.p-summary {
+  position: absolute;
+  top: 25%;
+  left: 37.3%;
+  z-index: 2;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+}
+.p-summary #clock {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 3em;
+}
+.p-summary #day {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5em;
+  line-height: .3em;
+  transform: rotate(-4deg);
+  height: .4em;
+  opacity: .7;
+}
+.p-summary #date {
+  font-family: 'Cinzel', serif;
+  font-size: 3em;
+}
+
+.p-canvas-webgl {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}

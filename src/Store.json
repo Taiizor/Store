@@ -3067,6 +3067,11 @@
     },
     "Time": {
       "Wallpapers": {
+        "The Hill-1": {
+          "Source": "src/Time",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Circular Calendar Display-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
