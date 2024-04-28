@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Matrix Rain",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Matrix like rain animation using HTML5 Canvas.",
+  "Author": "khuong",
+  "License": null,
+  "Contact": "https://github.com/bad1dea",
+  "Type": 2,
+  "Source": "Matrix.html",
+  "Tags": [
+    "Hacker"
+  ],
+  "Arguments": null
+}

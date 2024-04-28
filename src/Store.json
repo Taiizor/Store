@@ -2994,6 +2994,11 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Matrix Rain-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Alien Lab The x Files-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
