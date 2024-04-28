@@ -1,0 +1,80 @@
+body {
+    overflow: hidden;
+    background: #0c0c0c;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #dcddde;
+    font-size: 16px;
+}
+
+#main {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+#clock {
+    font-size: 5rem;
+    text-align: center;
+}
+.date {
+    font-size: 2rem;
+}
+
+#WeatherWhole {
+    margin-top: 10%;
+}
+.weather {
+    display: inline-block;
+    text-align: center;
+}
+#WeatherWhole > table {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.weather > span {
+    font-size: 4rem;
+}
+.weather > img {
+    height: 5rem;
+    margin-bottom: -1rem;
+}
+.forecast .forecastImg {
+    height: 3rem;
+    margin-bottom: 0px;
+    display: block;
+}
+.minmaxTemp {
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.forecast {
+    font-size: 1.5rem;
+    float: right;
+    text-align: right;
+}
+.forecast td {
+    margin: -30px 0;
+}
+#updatedTime {
+    display: block;
+    text-align: right;
+    font-size: 0.7rem;
+}
+object {
+    width: 2rem;
+}
+#error {
+    font-size: 2rem;
+    color: white;
+    margin: 3rem;
+    display: none;
+}
+
+.dark {
+    color: #2c2c2c;
+}
+.dark svg {
+    fill: #2c2c2c;
+}

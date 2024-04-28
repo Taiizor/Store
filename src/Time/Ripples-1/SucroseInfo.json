@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Ripples",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Puddle that shows weather.",
+  "Author": "Dani John",
+  "License": "License.txt",
+  "Contact": "https://github.com/rocksdanister",
+  "Type": 2,
+  "Source": "Ripple.html",
+  "Tags": [
+    "Clock"
+  ],
+  "Arguments": null
+}

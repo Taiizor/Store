@@ -1,0 +1,107 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "label1": {
+      "type": "label",
+      "value": "Puddle"
+    },
+    "dropRadius": {
+      "max": 100,
+      "min": 1,
+      "step": 1,
+      "text": "Radius",
+      "type": "slider",
+      "value": 20
+    },
+    "perturbance": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Perturbance",
+      "type": "slider",
+      "value": 1
+    },
+    "imgSelectBG": {
+      "type": "filedropdown",
+      "value": "pebbles.jpg",
+      "text": "Background",
+      "title": "Select Background Image",
+      "desc": "All Images",
+      "filter": "*.jpg|*.png",
+      "folder": "images/bg"
+    },
+    "imgSelectFG": {
+      "type": "filedropdown",
+      "value": "pebbles.jpg",
+      "text": "Foreground",
+      "title": "Select Foreground Image",
+      "desc": "All Images",
+      "filter": "*.jpg|*.png",
+      "folder": "images/fg"
+    },
+    "randomDrops": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Random Drops"
+    },
+    "mouse": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Mouse"
+    },
+    "darkMode": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Dark Mode"
+    },
+    "clock": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Clock"
+    },
+    "_12hour": {
+      "type": "checkbox",
+      "value": false,
+      "text": "12 Hour"
+    },
+    "panel": {
+      "type": "checkbox",
+      "value": true,
+      "text": "Panel"
+    },
+    "btnReset": {
+      "text": "Click to Reset",
+      "type": "button",
+      "value": "Clear"
+    },
+    "label2": {
+      "type": "label",
+      "value": "Weather"
+    },
+    "apiInput": {
+      "text": "API Key - openweathermap.org",
+      "help": "Enter your openweathermap api key",
+      "type": "passwordbox",
+      "value": ""
+    },
+    "cityInput": {
+      "text": "Location",
+      "type": "textbox",
+      "value": "city, country"
+    },
+    "unit": {
+      "type": "dropdown",
+      "value": 0,
+      "text": "Unit",
+      "items": [
+        "Metric",
+        "Imperial"
+      ]
+    },
+    "btnRefresh": {
+      "text": "Click to Update",
+      "type": "button",
+      "value": "Refresh"
+    }
+  }
+}
