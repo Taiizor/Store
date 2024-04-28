@@ -144,6 +144,11 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Particulate Medusae-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Astrocat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
