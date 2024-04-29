@@ -2188,6 +2188,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Kaedehara Kazuha-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kaedehara Kazuha-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
