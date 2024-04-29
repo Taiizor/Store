@@ -2387,6 +2387,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Lighthouse-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Another World-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
