@@ -69,11 +69,6 @@
       "value": true,
       "text": "Panel"
     },
-    "btnReset": {
-      "text": "Click to Reset",
-      "type": "button",
-      "value": "Clear"
-    },
     "label2": {
       "type": "label",
       "value": "Weather"
