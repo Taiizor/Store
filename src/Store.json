@@ -2270,6 +2270,11 @@
     },
     "Geometric Patterns": {
       "Wallpapers": {
+        "Triangles and Light-1": {
+          "Source": "src/Geometric Patterns",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Abstract Geometric-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
