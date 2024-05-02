@@ -2804,7 +2804,15 @@
         }
       }
     },
-    "Science": {},
+    "Science": {
+      "Wallpapers": {
+        "Periodic Table-1": {
+          "Source": "src/Science",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Sky": {
       "Wallpapers": {
         "Floating Castle In The Clouds-1": {
