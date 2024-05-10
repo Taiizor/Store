@@ -1130,6 +1130,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Ariel Little Mermaid-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Miles Morales Neon Snowy Night-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.5.10.0",
+  "Version": "1.0.0.0",
+  "Title": "Ariel Little Mermaid",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ariel Little Mermaid - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/ariel-little-mermaid-live-wallpaper",
+  "Type": 3,
+  "Source": "alm.mp4",
+  "Tags": [
+    "Underwater",
+    "Blue Eyes",
+    "Red Hair"
+  ],
+  "Arguments": null
+}
