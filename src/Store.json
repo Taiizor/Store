@@ -2824,6 +2824,15 @@
         }
       }
     },
+    "Science Fiction": {
+      "Wallpapers": {
+        "Space Portal-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Sky": {
       "Wallpapers": {
         "Floating Castle In The Clouds-1": {

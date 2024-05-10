@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.5.10.0",
+  "Version": "1.0.0.0",
+  "Title": "Space Portal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Space Portal - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/space-portal-3-live-wallpaper",
+  "Type": 3,
+  "Source": "sp.mp4",
+  "Tags": [
+    "Clouds",
+    "Gate"
+  ],
+  "Arguments": null
+}
