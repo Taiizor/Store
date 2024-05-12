@@ -239,6 +239,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Spells-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Samurai Anime Girl And Dragon-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
