@@ -239,6 +239,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Clare-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sakura Miko Eating Baguette-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
