@@ -239,6 +239,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Samurai Anime Girl And Dragon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Danjin-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
