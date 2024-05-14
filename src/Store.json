@@ -1449,6 +1449,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Song So Mi Matrix-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Inquisition-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

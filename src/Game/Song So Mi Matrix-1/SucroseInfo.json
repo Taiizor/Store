@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Song So Mi Matrix",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Song So Mi Matrix - Cyberpunk 2077 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/song-so-mi-matrix-cyberpunk-2077-live-wallpaper",
+  "Type": 3,
+  "Source": "ssmmc2077.mp4",
+  "Tags": [
+    "Chain"
+  ],
+  "Arguments": null
+}
