@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Fluid Simulation-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cosmic Pathway-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
