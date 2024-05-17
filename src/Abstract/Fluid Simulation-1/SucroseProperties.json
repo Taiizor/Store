@@ -44,12 +44,12 @@
       "value": 10
     },
     "velocityDiffusion": {
-      "max": 400,
+      "max": 40,
       "min": 0,
       "step": 1,
       "text": "Velocity Diffusion",
       "type": "slider",
-      "value": 100
+      "value": 20
     },
     "pressure": {
       "max": 100,
@@ -57,7 +57,15 @@
       "step": 1,
       "text": "Pressure",
       "type": "slider",
-      "value": 10
+      "value": 80
+    },
+    "pressureIterations": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Pressure Iterations",
+      "type": "slider",
+      "value": 20
     },
     "vorticity": {
       "max": 50,
@@ -65,7 +73,7 @@
       "step": 1,
       "text": "Vorticity",
       "type": "slider",
-      "value": 20
+      "value": 30
     },
     "splatRadius": {
       "max": 100,
@@ -73,7 +81,15 @@
       "step": 1,
       "text": "Splat Radius",
       "type": "slider",
-      "value": 20
+      "value": 25
+    },
+    "splatForce": {
+      "max": 1000,
+      "min": 100,
+      "step": 10,
+      "text": "Splat Force",
+      "type": "slider",
+      "value": 600
     },
     "shading": {
       "type": "checkbox",
@@ -90,13 +106,33 @@
       "value": true,
       "text": "Bloom"
     },
+    "bloomResolution": {
+      "type": "dropdown",
+      "value": 3,
+      "text": "Bloom Resolution",
+      "items": [
+        "32",
+        "64",
+        "128",
+        "256",
+        "512"
+      ]
+    },
+    "bloomIterations": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Bloom Iterations",
+      "type": "slider",
+      "value": 80
+    },
     "bloomIntensity": {
       "max": 200,
       "min": 10,
       "step": 1,
       "text": "Bloom Intensity",
       "type": "slider",
-      "value": 15
+      "value": 80
     },
     "bloomThreshold": {
       "max": 100,
@@ -104,7 +140,15 @@
       "step": 1,
       "text": "Bloom Threshold",
       "type": "slider",
-      "value": 75
+      "value": 60
+    },
+    "bloomSoftKnee": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Bloom Soft Knee",
+      "type": "slider",
+      "value": 70
     },
     "sunRaysEnable": {
       "type": "checkbox",
@@ -117,7 +161,7 @@
       "step": 1,
       "text": "Sunray Weight",
       "type": "slider",
-      "value": 40
+      "value": 100
     },
     "bgColor": {
       "text": "BG Color",
@@ -137,6 +181,11 @@
       "type": "checkbox",
       "value": false,
       "text": "Background"
+    },
+    "transparent": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Transparent"
     }
   }
 }

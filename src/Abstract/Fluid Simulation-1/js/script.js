@@ -185,11 +185,17 @@ function SucrosePropertyListener(name, val) {
 		case "pressure":
 			config.PRESSURE = val.value / 100;
 			break;
+		case "pressureIterations":
+			config.ITERATIONS = val.value;
+			break;
 		case "vorticity":
 			config.CURL = val.value;
 			break;
 		case "splatRadius":
 			config.SPLAT_RADIUS = val.value / 100;
+			break;
+		case "splatForce":
+			config.SPLAT_FORCE = val.value * 10;
 			break;
 		case "shading":
 			config.SHADING = val.value;
@@ -202,11 +208,36 @@ function SucrosePropertyListener(name, val) {
 			config.BLOOM = val.value;
 			updateKeywords();
 			break;
+		case "bloomResolution":
+			switch (val.value) {
+				case 0:
+					config.BLOOM_RESOLUTION = 32;
+					break;
+				case 1:
+					config.BLOOM_RESOLUTION = 64;
+					break;
+				case 2:
+					config.BLOOM_RESOLUTION = 128;
+					break;
+				case 3:
+					config.BLOOM_RESOLUTION = 256;
+					break;
+				case 4:
+					config.BLOOM_RESOLUTION = 512;
+					break;
+			}
+			break;
+		case "bloomIterations":
+			config.BLOOM_ITERATIONS = val.value;
+			break;
 		case "bloomIntensity":
 			config.BLOOM_INTENSITY = val.value / 100;
 			break;
 		case "bloomThreshold":
 			config.BLOOM_THRESHOLD = val.value / 100;
+			break;
+		case "bloomSoftKnee":
+			config.BLOOM_SOFT_KNEE = val.value / 100;
 			break;
 		case "sunRaysEnable":
 			config.SUNRAYS = val.value;
@@ -223,10 +254,12 @@ function SucrosePropertyListener(name, val) {
 			break;
 		case "bgImgChk":
 			_bgImageChk = val.value;
-			config.TRANSPARENT = val.value;
 			if (_bgImageChk) {
 				document.body.style.backgroundImage = "url(" + _bgImagePath.replace('\\', '/') + ")";
 			}
+			break;
+		case "transparent":
+			config.TRANSPARENT = val.value;
 			break;
 		case "imgSelect":
 			_bgImagePath = val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/');
