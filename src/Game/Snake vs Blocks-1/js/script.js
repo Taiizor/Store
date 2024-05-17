@@ -2981,7 +2981,7 @@ var sketchProc = function(processingInstance) {
                 fill(0);
                 text("How", width * 0.5, height * 0.1);
                 textSize(16);
-                text("Arrow/WASD keys to move the snake\n\nYou need to eat all the food to move to the next level (15 levels in total)\n\nWatch out for the blocks and lazers, and make sure you don't eat yourself\n\nThe plain block that randomly appears will award you special abilities of either:\n- Double points\n- Shread your skin (shrink)\n- Indestructable (against static/moving blocks and lazers)\n\nPress P to pause at any time\n\nPress V to toggle the sound on/off", width * 0.1, height * 0.15, width * 0.8, height);
+                text("Arrow/WASD keys to move the snake\n\nYou need to eat all the food to move to the next level (15 levels in total)\n\nWatch out for the blocks and lazers, and make sure you don't eat yourself\n\nThe plain block that randomly appears will award you special abilities of either:\n- Double points\n- Shread your skin (shrink)\n- Indestructable (against static/moving blocks and lazers)\n\nPress P to pause at any time", width * 0.1, height * 0.15, width * 0.8, height);
                 //text("Arrow/WASD keys to move the snake\n\nYou need to eat all the food to move to the next level (15 levels in total)\n\nWatch out for the blocks and lazers, and make sure you don't eat yourself\n\nThe plain block that randomly appears will award you special abilities of either:\n- Double points\n- Shread your skin (shrink)\n- Indestructable (against static/moving blocks and lazers)\n\nPress P to pause at any time\n\nPress V to toggle the sound on/off\n\nPress C to generate a save code so you can start back where you left off\n(level / score / best score)", width * 0.1, height * 0.15, width * 0.8, height);
             popStyle();
 
@@ -3051,7 +3051,7 @@ var sketchProc = function(processingInstance) {
                     keyCode = 0;
                 }
                 else if(keyCode === 86) { //V - toggle sound
-                    game.sound = !game.sound;
+                    //game.sound = !game.sound;
                     keyCode = 0;
                 }
                 else if(keyCode === 67) { //C - generate save code
