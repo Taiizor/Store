@@ -1454,6 +1454,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Santa's Helper-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Radius Raid-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

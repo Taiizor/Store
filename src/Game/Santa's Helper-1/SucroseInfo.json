@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Santa's Helper",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Press and hold anywhere to stretch out a sugar cane, it has to be the exact length or Santa will fall down",
+  "Author": "Housamz",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/housamz",
+  "Type": 2,
+  "Source": "Santa.html",
+  "Tags": [
+    "Interaction"
+  ],
+  "Arguments": null
+}
