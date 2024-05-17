@@ -181,11 +181,6 @@
       "type": "checkbox",
       "value": false,
       "text": "Background"
-    },
-    "transparent": {
-      "type": "checkbox",
-      "value": false,
-      "text": "Transparent"
     }
   }
 }

@@ -254,12 +254,10 @@ function SucrosePropertyListener(name, val) {
 			break;
 		case "bgImgChk":
 			_bgImageChk = val.value;
+			config.TRANSPARENT = val.value;
 			if (_bgImageChk) {
 				document.body.style.backgroundImage = "url(" + _bgImagePath.replace('\\', '/') + ")";
 			}
-			break;
-		case "transparent":
-			config.TRANSPARENT = val.value;
 			break;
 		case "imgSelect":
 			_bgImagePath = val.folder.replace('\\', '/') + "/" + val.value.replace('\\', '/');
