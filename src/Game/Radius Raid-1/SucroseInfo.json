@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Radius Raid",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effects, and locally stored stats.",
+  "Author": "Jack Rugile",
+  "License": "License.md",
+  "Contact": "https://github.com/jackrugile",
+  "Type": 2,
+  "Source": "Raid.html",
+  "Tags": [
+    "Interaction"
+  ],
+  "Arguments": null
+}

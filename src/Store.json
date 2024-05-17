@@ -1454,6 +1454,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Radius Raid-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Snake vs Blocks-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
