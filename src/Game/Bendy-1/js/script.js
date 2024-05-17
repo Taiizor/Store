@@ -5,9 +5,6 @@
 var saveCode = localStorage.getItem("bendy_savecode") ?? "=-=-<";
 
 
-
-
-
 const messageElement = document.getElementById('message')
 const saveCodeElement = document.getElementById('saveCode')
 
