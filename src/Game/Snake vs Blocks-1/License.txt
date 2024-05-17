@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2022 by Karim Maaloul (https://codepen.io/Yakudoo/pen/oXJYxy)
+Copyright (c) 2024 Grant Jenkins (https://codepen.io/grantjenkins/pen/bGqOoNV)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1454,6 +1454,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Snake vs Blocks-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Bendy-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
