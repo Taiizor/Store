@@ -1449,6 +1449,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Bendy-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Song So Mi Matrix-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

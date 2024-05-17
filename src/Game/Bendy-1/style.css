@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dosis&display=swap");
+* {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+body {
+  background: #323C41;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  padding: 2vmin;
+  font-family: "Righteous", cursive;
+  font-family: "Dosis", sans-serif;
+  font-size: clamp(0.9em, 1.5vmin, 1.1em);
+}
+body .heading h1 {
+  color: #fffa;
+  font-size: clamp(2em, 5vmin, 3em);
+}
+body .heading #message {
+  color: #fffd;
+}
+body .heading #saveCode {
+  padding: 1vmin;
+  font-size: 1.2em;
+  color: #7ED2AA;
+}
+@media only screen and (max-height: 900px) {
+  body .heading {
+    display: none;
+  }
+}
+body canvas {
+  box-shadow: 0.2em 0.2em 2em #0008;
+  border: none;
+  outline: none;
+}

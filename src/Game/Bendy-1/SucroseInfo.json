@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.5.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Bendy",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Interactive mini game",
+  "Author": "Grant Jenkins",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/grantjenkins",
+  "Type": 2,
+  "Source": "Bendy.html",
+  "Tags": [
+    "Interaction",
+    "Portal",
+    "Stick"
+  ],
+  "Arguments": null
+}
