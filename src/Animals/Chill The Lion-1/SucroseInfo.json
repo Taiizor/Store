@@ -1,15 +1,15 @@
 {
   "AppVersion": "24.5.17.0",
-  "Version": "1.0.0.3",
-  "Title": "Cat vs Ball of Wool",
+  "Version": "1.0.0.0",
+  "Title": "Chill The Lion",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Cat vs Ball of Wool",
-  "Author": "Yakudoo",
+  "Description": "Press and drag to make wind the lion will surely appreciate",
+  "Author": "Karim Maaloul",
   "License": "License.txt",
   "Contact": "https://codepen.io/Yakudoo",
   "Type": 2,
-  "Source": "Cat.html",
+  "Source": "Lion.html",
   "Tags": [
     "Interaction"
   ],

@@ -144,6 +144,11 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Chill The Lion-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Particulate Medusae-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
