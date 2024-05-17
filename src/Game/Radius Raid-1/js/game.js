@@ -1027,7 +1027,7 @@ $.setState = function( state ) {
 	if( state == 'credits' ) {
 		$.mouse.down = 0;
 
-		var js13kButton = new $.Button( {
+		/*var js13kButton = new $.Button( {
 			x: $.cw / 2 + 1,
 			y: 476,
 			lockedWidth: 299,
@@ -1039,11 +1039,12 @@ $.setState = function( state ) {
 				$.mouse.down = 0;
 			}
 		} );
-		$.buttons.push( js13kButton );
+		$.buttons.push( js13kButton );*/
 
 		var menuButton = new $.Button( {
 			x: $.cw / 2 + 1,
-			y: js13kButton.ey + 25,
+			y: 476,
+			//y: js13kButton.ey + 25,
 			lockedWidth: 299,
 			lockedHeight: 49,
 			scale: 3,
