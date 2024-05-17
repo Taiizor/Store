@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Pong",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Interactive mini game",
+  "Author": "Austin Condiff",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/austincondiff",
+  "Type": 2,
+  "Source": "Pong.html",
+  "Tags": [
+    "Interaction"
+  ],
+  "Arguments": null
+}
