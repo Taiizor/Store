@@ -1465,6 +1465,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Fallout 5-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Pong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
