@@ -1168,6 +1168,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Lucy MacLean-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ariel Little Mermaid-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
