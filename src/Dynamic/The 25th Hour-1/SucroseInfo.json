@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.1.2.0",
+  "Version": "1.0.0.0",
+  "Title": "The 25th Hour",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The 25th Hour",
+  "Author": "Louis Coyle",
+  "License": null,
+  "Contact": "louiscoyle.design@gmail.com",
+  "Type": 1,
+  "Source": "https://louie.co.nz/25th_hour",
+  "Tags": null,
+  "Arguments": null
+}
