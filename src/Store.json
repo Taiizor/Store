@@ -2490,6 +2490,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Infinite Portals-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lighthouse-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

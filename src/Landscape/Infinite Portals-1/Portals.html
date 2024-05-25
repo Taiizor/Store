@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Infinite Portals</title>
+        <link rel="stylesheet" href="./css/normalize.min.css">
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+    <body>
+        <!-- partial:index.partial.html -->
+        <canvas class="webgl"></canvas>
+    </body>
+	<script type="x-shader/x-vertex" id="vertexShader"> precision highp float;
+		varying vec2 vUv;
+		void main() {
+			vUv = uv;
+			vec4 modelViewPosition = modelViewMatrix * vec4(position, 1.0);
+			gl_Position = projectionMatrix * modelViewPosition; 
+		}
+	</script>
+	<script type="x-shader/x-fragment" id="fragmentShader"> #define PI 3.1415
+		#define TAU 6.2832
+		uniform sampler2D map;
+		uniform sampler2D noiseMap;
+		uniform float time;
+		uniform float effectIntensity;
+		uniform float effectMultiplier;
+		varying vec2 vUv;
+
+		void main() {
+			// center uv
+			vec2 vUv2 = vUv - .5; 
+			// get each point angle
+			float angle = atan(vUv2.y, vUv2.x); 
+			// get distance to each point
+			float l = length(vUv2); 
+			float l2 = pow(l, .5);
+
+			// create a radial moving noise 
+			float u = angle * 2. / TAU + time * .1;
+			float v = fract(l + time * .2);
+			vec4 noise = texture2D( noiseMap, vec2(u, v));
+
+			// create waves
+			float noiseDisp = noise.r * noise.g * 4. * effectMultiplier;
+			float radialMask = l;
+			float wavesCount = 5.0;
+			float wavesSpeed = time * 5.;
+			float pnt = sin(2.0 * l * PI * wavesCount + noiseDisp + wavesSpeed) * radialMask;
+
+			// calculate displacement according to waves
+			float dx = pnt * cos(angle) ;
+
+			// normalize
+			float dy = pnt * sin(angle);
+
+			// sample texture and apply wave displacement
+			vec4 color = texture2D( map, vUv + vec2(dx,dy) * l * .3 * effectIntensity * effectMultiplier);
+
+			// lighten according to waves
+			color *= 1. + pnt * .5 * effectIntensity;
+
+			// highlights 
+			float highlight = smoothstep(.0, .2, dx * dy);
+			color += highlight * effectIntensity;
+
+			// gradient greyscale at the borders
+			float grey = dot(color.rgb, vec3(0.299, 0.587, 0.114));
+			color.rgb = mix(color.rgb, vec3(grey), effectIntensity * l * effectMultiplier);
+
+			// add redish color at the borders
+			color.r += smoothstep( .1, .7, l) * .5 * effectIntensity;
+
+			gl_FragColor = linearToOutputTexel(color);
+			//gl_FragColor = linearToOutputTexel(vec4(highlight,highlight,highlight,1.));
+		}
+	</script>
+	<script type="module" src="./js/script.js"></script>
+</html>

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.5.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Infinite Portals",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A birdhouse inside a sand castle inside a birdhouse... Dive into these recursive worlds and enjoy the infinite transition.",
+  "Author": "Karim Maaloul",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/Yakudoo",
+  "Type": 2,
+  "Source": "Portals.html",
+  "Tags": [
+    "Interaction",
+    "Lizard",
+    "Crow"
+  ],
+  "Arguments": null
+}
