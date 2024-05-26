@@ -160,3 +160,4 @@ FontStruct shall in no event be liable to You or any third party for any damages
 whatsoever arising out of or relating to this Agreement or the use of the Font
 Software, including but not limited to incidental, special damages, any lost
 profits or lost savings or any claim made by a third party.
+
