@@ -1239,4 +1239,3 @@ window.onload = function () {
         return params;
     }
 };
-
