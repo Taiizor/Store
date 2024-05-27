@@ -1,10 +1,10 @@
 {
   "AppVersion": "24.5.17.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Bendy",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Interactive mini game",
+  "Description": "Click to grow bendy to the correct length then let go to let him fall. Land on the portals to progress to the next level. There are 100 levels in total (progressively harder as you go).",
   "Author": "Grant Jenkins",
   "License": "License.txt",
   "Contact": "https://codepen.io/grantjenkins",
