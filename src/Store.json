@@ -249,6 +249,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zenitsu Crying-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Clare-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
