@@ -103,6 +103,7 @@ body {
   height: 100%;
   margin: 0px;
   width: 100%;
+  user-select: none;
 }
 
 h1 {
