@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.5.27.0",
+  "Version": "1.0.0.0",
+  "Title": "Blade Titan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blade Titan - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/blade-titan-live-wallpaper",
+  "Type": 3,
+  "Source": "bt.mp4",
+  "Tags": [
+    "Warrior",
+    "Battle",
+    "Giant"
+  ],
+  "Arguments": null
+}
