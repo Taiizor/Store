@@ -1,10 +1,10 @@
 {
   "AppVersion": "24.5.17.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Snake vs Blocks",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Interactive mini game",
+  "Description": "Eat all the food (circles) in this 15 level snake game! Don't hit blocks and lasers, and eat the white blocks that randomly flicker around the map. They give you powerups. Use WASD or the arrow keys to move, P to pause.",
   "Author": "Grant Jenkins",
   "License": "License.txt",
   "Contact": "https://codepen.io/grantjenkins",
