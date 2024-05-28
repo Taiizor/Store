@@ -895,6 +895,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Priest Fantasy Demon Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blade Titan-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
