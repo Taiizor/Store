@@ -1,0 +1,40 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "uiCheck": {
+      "text": "User Interface",
+      "type": "checkbox",
+      "value": true
+    },
+    "weather": {
+      "type": "label",
+      "value": "Weather"
+    },
+    "apiInput": {
+      "text": "API Key - openweathermap.org",
+      "help": "Enter your openweathermap api key",
+      "type": "passwordbox",
+      "value": ""
+    },
+    "cityInput": {
+      "text": "Location",
+      "help": "Enter your city, country",
+      "type": "textbox",
+      "value": "city, country"
+    },
+    "unit": {
+      "type": "dropdown",
+      "text": "Unit",
+      "value": 0,
+      "items": [
+        "Metric",
+        "Imperial"
+      ]
+    },
+    "btnRefresh": {
+      "text": "Update Weather",
+      "type": "button",
+      "value": "Refresh"
+    }
+  }
+}
