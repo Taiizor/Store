@@ -1,0 +1,68 @@
+@font-face
+{
+    font-family: 'Yozakura';
+    font-weight: 400;
+    font-style: normal;
+    src: url('fonts/Yozakura/YozakuraJP-Regular.otf');
+}
+
+/*vignette, fullpage box shadow*/
+html:before {
+  position:fixed;
+  width:100%;
+  height:100%;
+  content:"";
+  box-shadow: 0px 50px 220px black inset;  
+  pointer-events:none;
+  z-index:1000;
+}
+
+body {
+  overflow: hidden;
+  user-select: none;
+  background-color: #191b2a;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container{
+	position: absolute;
+	bottom: -10%;
+	left: -5%;
+	/*click disable*/
+	user-select: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-o-user-select: none;
+}
+
+.weather{
+  display: inline-block;
+  line-height: 75px;
+  position: absolute;
+  left: 60%;
+  top: 30%;
+}
+
+.date {
+  color: #33528d;
+  font-family: 'Yozakura';
+  font-size: 2.5em;
+}
+
+.time {
+  text-shadow: 4px 0px #33528d;
+  font-family: 'Yozakura';
+  font-size: 7.5em;
+}
+
+.temp{
+  font-family: 'Yozakura';
+  font-size: 2.5em;
+}
+
+.summary{
+  font-family: 'Yozakura';
+  font-size: 2.5em;
+  color: #33528d;
+}

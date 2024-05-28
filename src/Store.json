@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "The Great Wave off Kanagawa-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Fluid Simulation-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",

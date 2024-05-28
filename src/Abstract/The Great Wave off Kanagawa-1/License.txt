@@ -1,0 +1,7 @@
+Image Credit: "The Great Wave off Kanagawa"
+https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa
+(public domain)
+
+Parallax.js
+https://github.com/wagerfield/parallax
+(MIT License)

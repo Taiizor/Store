@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The Great Wave off Kanagawa</title>
+        <!-- Behavioral Meta Data -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+    </head>
+    <body>
+        <div id="container" class="container">
+            <div id="scene" class="scene">
+                <div data-depth="0.00">
+                    <img style="width: 120%; height: 120%;" src="./images/sky.jpg">
+                </div>
+                <div data-depth="0.05">
+                    <img style="width: 110%; position: relative; left: 0%;" src="./images/mountain.png">
+                </div>
+                <div data-depth="0.10">
+                    <img style="width: 109%; position: relative; left: 5%;" src="./images/wave_bg_2.png">
+                </div>
+                <div data-depth="0.15">
+                    <img style="width: 109%; position: relative; left: -1%;" src="./images/wave_bg_1.png">
+                </div>
+                <!--<div data-depth="0.12"><img style="width: 106%;" src="./images/ship_bg_4.png"></div>-->
+                <div data-depth="0.20">
+                    <img style="width: 105%; position: relative; left: 2.5%;" src="./images/wave_bg_3.png">
+                </div>
+                <div data-depth="0.25">
+                    <img style="width: 105%; position: relative; left: 4%;" src="./images/ship_fg_1.png">
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+        <div id="card" class="weather">
+            <div class="details">
+                <div id="date" class="date">Monday 22 August</div>
+                <div id="time" class="time">11:30pm</div>
+                <div id="currentTemp" class="temp">99 <span>c</span>
+                </div>
+                <div id="summary" class="summary">Info</div>
+            </div>
+        </div>
+        <!-- Scripts -->
+        <script src="./js/parallax.min.js"></script>
+        <script src="./js/weather.js"></script>
+        <script>
+            var scene = document.getElementById('scene');
+            var parallax = new Parallax(scene);
+            elements = document.querySelectorAll('#scene > div');
+            for (var x = 1; x < elements.length; x++) {
+                elements[x].style.top = "";
+                elements[x].style.bottom = "0px"
+            }
+            elements[0].children[0].style.position = "relative";
+            elements[0].children[0].style.bottom = "150px";
+            elements[1].children[0].style.position = "relative";
+            elements[1].children[0].style.bottom = "-85px";
+            elements[2].children[0].style.position = "relative";
+            elements[2].children[0].style.bottom = "-85px";
+            elements[3].children[0].style.position = "relative";
+            elements[3].children[0].style.bottom = "-150px";
+            elements[5].children[0].style.position = "relative";
+            elements[5].children[0].style.bottom = "50px";
+
+            function ResizeFn() {
+                elements[0].style.height = window.outerHeight + "px"
+            }
+            ResizeFn();
+            window.onresize = e => ResizeFn();
+        </script>
+    </body>
+</html>
