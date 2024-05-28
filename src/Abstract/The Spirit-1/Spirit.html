@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The Spirit</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="icon" type="image/x-icon" href="./favicon.ico">
+        <link rel="stylesheet" href="./css/normalize.css">
+        <link rel="stylesheet" href="./css/index.css">
+    </head>
+    <body>
+        <div class="logo"></div>
+        <div class="instruction">Press space key to toggle movement</div>
+        <script src="./js/three.r74.min.js"></script>
+        <script src="./js/index.js"></script>
+    </body>
+    <script type="text/javascript">
+        function SucrosePropertyListener(name, val) {
+            switch (name) {
+                case "followMouse":
+                    guiInterface("bool", "follow mouse", val.value);
+                    break;
+                case "orbit":
+                    guiInterface("bool", "Orbit", val.value);
+                    break;
+                case "newParticle":
+                    guiInterface("bool", "new particle");
+                    break;
+                case "speed":
+                    guiInterface("text", "speed", val.value / 10);
+                    break;
+                case "dieSpeed":
+                    guiInterface("text", "dieSpeed", val.value / 1000);
+                    break;
+                case "radius":
+                    guiInterface("text", "radius", val.value / 100);
+                    break;
+                case "curlSize":
+                    guiInterface("text", "curlSize", val.value / 1000);
+                    break;
+                case "attraction":
+                    guiInterface("text", "attraction", val.value / 100);
+                    break;
+                case "shadow":
+                    guiInterface("text", "shadow", val.value / 100);
+                    break;
+                case "baseColor":
+                    guiInterface("color", "base Color", "#" + val.value.substring(3)); //in hex.
+                    break;
+                case "fadeColor":
+                    guiInterface("color", "fade Color", "#" + val.value.substring(3));
+                    break;
+                case "bgColor":
+                    guiInterface("color", "background Color", "#" + val.value.substring(3));
+                    break;
+                case "particleAmt":
+                    switch (val.value) {
+                        case 0:
+                            guiInterface("combo", "amount", "4k");
+                            break;
+                        case 1:
+                            guiInterface("combo", "amount", "8k");
+                            break;
+                        case 2:
+                            guiInterface("combo", "amount", "16k");
+                            break;
+                        case 3:
+                            guiInterface("combo", "amount", "32k");
+                            break;
+                        case 4:
+                            guiInterface("combo", "amount", "65k");
+                            break;
+                        case 5:
+                            guiInterface("combo", "amount", "131k");
+                            break;
+                        case 6:
+                            guiInterface("combo", "amount", "252k");
+                            break;
+                        case 7:
+                            guiInterface("combo", "amount", "524k");
+                            break;
+                        case 8:
+                            guiInterface("combo", "amount", "1m");
+                            break;
+                        case 9:
+                            guiInterface("combo", "amount", "2m");
+                            break;
+                        case 10:
+                            guiInterface("combo", "amount", "3m");
+                            break;
+                        case 11:
+                            guiInterface("combo", "amount", "4m");
+                            break;
+                    }
+                    break;
+                case "fxaa":
+                    guiInterface("bool", "fxaa", val.value);
+                    break;
+                case "motionBlur":
+                    guiInterface("bool", "motionBlur", val.value);
+                    break;
+                case "bloom":
+                    guiInterface("bool", "bloom", val.value);
+                    break;
+            }
+        }
+
+        function guiInterface(type, target, val) {
+            const evt = document.createEvent("HTMLEvents");
+            for (var el of document.querySelectorAll('.property-name')) {
+                if (el.innerText == target) {
+                    if (type !== "combo") {
+                        const input = el.nextElementSibling.querySelector('input');
+                        if (type == "text") {
+                            input.value = val;
+                            evt.initEvent("change", false, true);
+                            input.dispatchEvent(evt);
+                        } else if (type == "bool") {
+                            if (input.checked != val) {
+                                evt.initEvent("change", false, true);
+                                input.dispatchEvent(evt);
+                            }
+                        } else {
+                            input.value = val;
+                            evt.initEvent("blur", false, true);
+                            input.dispatchEvent(evt);
+                        }
+                    } else if (type === "combo") {
+                        const input = el.nextElementSibling.querySelector('select');
+                        if (input.value != val) {
+                            input.value = val;
+                            evt.initEvent("change", false, true);
+                            input.dispatchEvent(evt);
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .dg.ac,
+        .footer,
+        .instruction {
+            display: none !important;
+        }
+    </style>
+</html>

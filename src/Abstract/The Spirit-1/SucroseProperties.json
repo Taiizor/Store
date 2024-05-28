@@ -1,0 +1,121 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "particleAmt": {
+      "type": "dropdown",
+      "text": "Particle Amount",
+      "value": 3,
+      "items": [
+        "4k",
+        "8k",
+        "16k",
+        "32k",
+        "65k",
+        "131k",
+        "252k",
+        "524k",
+        "1m",
+        "2m",
+        "3m",
+        "4m"
+      ]
+    },
+    "baseColor": {
+      "text": "Base Color",
+      "type": "colorpicker",
+      "value": "#FFFFFFFF"
+    },
+    "fadeColor": {
+      "text": "Fade Color",
+      "type": "colorpicker",
+      "value": "#FFFFFFFF"
+    },
+    "bgColor": {
+      "text": "Background Color",
+      "type": "colorpicker",
+      "value": "#FF202020"
+    },
+    "speed": {
+      "max": 30,
+      "min": 0,
+      "step": 1,
+      "text": "Speed",
+      "type": "slider",
+      "value": 10
+    },
+    "dieSpeed": {
+      "max": 50,
+      "min": 1,
+      "step": 1,
+      "text": "Die Speed",
+      "type": "slider",
+      "value": 15
+    },
+    "radius": {
+      "max": 300,
+      "min": 20,
+      "step": 1,
+      "text": "Radius",
+      "type": "slider",
+      "value": 60
+    },
+    "curlSize": {
+      "max": 50,
+      "min": 1,
+      "step": 1,
+      "text": "Curl Size",
+      "type": "slider",
+      "value": 20
+    },
+    "attraction": {
+      "max": 200,
+      "min": -200,
+      "step": 1,
+      "text": "Attraction",
+      "type": "slider",
+      "value": 100
+    },
+    "shadow": {
+      "max": 100,
+      "min": 0,
+      "step": 1,
+      "text": "Shadow",
+      "type": "slider",
+      "value": 45
+    },
+    "newParticle": {
+      "text": "New Particle",
+      "type": "checkbox",
+      "value": true
+    },
+    "followMouse": {
+      "text": "Mouse",
+      "type": "checkbox",
+      "value": true
+    },
+    "orbit": {
+      "text": "Click to Orbit",
+      "type": "checkbox",
+      "value": false
+    },
+    "label1": {
+      "type": "label",
+      "value": "Post-Processing"
+    },
+    "fxaa": {
+      "text": "Anti-Aliasing",
+      "type": "checkbox",
+      "value": true
+    },
+    "motionBlur": {
+      "text": "Motion Blur",
+      "type": "checkbox",
+      "value": false
+    },
+    "bloom": {
+      "text": "Bloom",
+      "type": "checkbox",
+      "value": false
+    }
+  }
+}

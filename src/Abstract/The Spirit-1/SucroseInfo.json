@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.28.0",
+  "Version": "1.0.0.0",
+  "Title": "The Spirit",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "WebGL smoke like particle simulation.",
+  "Author": "Edan Kwan",
+  "License": "License.txt",
+  "Contact": "https://github.com/edankwan",
+  "Type": 2,
+  "Source": "Spirit.html",
+  "Tags": [
+    "Smoky"
+  ],
+  "Arguments": null
+}
