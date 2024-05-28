@@ -900,6 +900,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Girl Playing With Cat-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Fantasy Samurai Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
