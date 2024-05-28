@@ -900,6 +900,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Fantasy Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Yakuza Fantasy Girl China Dress-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
