@@ -781,6 +781,11 @@
     "Bard": {},
     "Black and White": {
       "Wallpapers": {
+        "Fantasy Girl Resting Under Tree Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Death And Life-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
