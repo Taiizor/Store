@@ -900,6 +900,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Samurai Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Girl Archer-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
