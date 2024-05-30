@@ -2993,6 +2993,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Water Station-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Interdimensional-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
