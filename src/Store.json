@@ -844,7 +844,15 @@
       }
     },
     "Cartoon and Comics": {},
-    "Cities and Places": {},
+    "Cities and Places": {
+      "Wallpapers": {
+        "Lo-Fi City-1": {
+          "Source": "src/Cities and Places",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Clouds and Skies": {},
     "Colorful Gradients": {},
     "Comic Books": {},
