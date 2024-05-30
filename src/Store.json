@@ -84,6 +84,11 @@
     },
     "Ambience": {
       "Wallpapers": {
+        "Contact Beach Scene-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Anomaly-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
