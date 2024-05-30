@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.5.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Cybertruck",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A smooth 60fps loop of a Tesla Cybertruck driving in a cyberpunk synthwave style city in 4K.",
+  "Author": "VISUALDON",
+  "License": null,
+  "Contact": "https://www.youtube.com/@visualdon",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=r_pSbvgSNhA",
+  "Tags": null,
+  "Arguments": null
+}
