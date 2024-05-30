@@ -3355,6 +3355,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Synthwave Countach-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Synthwave Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
