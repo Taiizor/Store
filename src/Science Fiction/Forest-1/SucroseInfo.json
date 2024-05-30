@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.5.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "An astronaut goes on a long journey.",
+  "Author": "VISUALDON",
+  "License": null,
+  "Contact": "https://www.youtube.com/@visualdon",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=MlnNZV7Jujs",
+  "Tags": null,
+  "Arguments": null
+}
