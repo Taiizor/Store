@@ -84,6 +84,11 @@
     },
     "Ambience": {
       "Wallpapers": {
+        "Moon Over The Ocean-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Contact Beach Scene-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
