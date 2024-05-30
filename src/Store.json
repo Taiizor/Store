@@ -2993,6 +2993,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Interdimensional-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "The Traveller-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
