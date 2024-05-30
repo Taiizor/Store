@@ -3383,6 +3383,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "DeLorean-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "The Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
