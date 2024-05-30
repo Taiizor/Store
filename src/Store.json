@@ -2993,6 +2993,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "The Traveller-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Space Portal-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
