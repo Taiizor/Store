@@ -3016,6 +3016,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Interstellar Wormhole-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Water Station-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
