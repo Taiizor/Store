@@ -1244,6 +1244,11 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Top Gun Supersonic Jet-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lucy MacLean-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
