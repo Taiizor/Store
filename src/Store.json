@@ -846,6 +846,11 @@
     "Cartoon and Comics": {},
     "Cities and Places": {
       "Wallpapers": {
+        "Cyberpunk City Flying-1": {
+          "Source": "src/Cities and Places",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Lo-Fi City-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
