@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.5.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Synthwave Drive",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A side scrolling synthwave city visual featuring the iconic original Lamborghini Countach.",
+  "Author": "VISUALDON",
+  "License": null,
+  "Contact": "https://www.youtube.com/@visualdon",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=YR4n8mndRyQ",
+  "Tags": null,
+  "Arguments": null
+}

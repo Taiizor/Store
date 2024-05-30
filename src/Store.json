@@ -3355,6 +3355,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Synthwave Drive-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Hyundai N Vision 74 Retrowave-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
