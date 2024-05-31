@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.5.31.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset Winter Road",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset Winter Road - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/sunset-winter-road-live-wallpaper",
+  "Type": 3,
+  "Source": "swr.mp4",
+  "Tags": [
+    "Nature",
+    "Trees",
+    "Snow"
+  ],
+  "Arguments": null
+}
