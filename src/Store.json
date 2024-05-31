@@ -1589,6 +1589,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Raiden Shogun Winter-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Hall Of Legends Ahri-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
