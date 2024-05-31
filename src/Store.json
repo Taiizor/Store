@@ -299,6 +299,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gojo In Dystopian City-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Gojo Unlimited Void-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
