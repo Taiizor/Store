@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Sanhua",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sanhua - Wuthering Waves - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sanhua-wuthering-waves-live-wallpaper",
+  "Type": 3,
+  "Source": "sww.mp4",
+  "Tags": [
+    "Katana",
+    "Moon",
+    "Hat"
+  ],
+  "Arguments": null
+}
