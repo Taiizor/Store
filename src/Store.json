@@ -3464,6 +3464,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Ferrari 458 Italia-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cyberpunk DeLorean Night City-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Ferrari 458 Italia",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ferrari 458 Italia - Need For Speed - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/ferrari-458-italia-need-for-speed-live-wallpaper",
+  "Type": 3,
+  "Source": "f458infs.mp4",
+  "Tags": [
+    "Raining",
+    "Night"
+  ],
+  "Arguments": null
+}
