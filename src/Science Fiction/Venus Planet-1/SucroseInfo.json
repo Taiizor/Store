@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Venus Planet",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Venus Planet - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/venus-planet-live-wallpaper",
+  "Type": 3,
+  "Source": "vp.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Space"
+  ],
+  "Arguments": null
+}
