@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Astronaut Ice Cream-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Colorful Smoke Planet-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
