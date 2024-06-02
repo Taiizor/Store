@@ -3093,6 +3093,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Blue Gate-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Black Hole Energy-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

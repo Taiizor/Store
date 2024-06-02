@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Blue Gate",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blue Gate - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/blue-gate-live-wallpaper",
+  "Type": 3,
+  "Source": "bg.mp4",
+  "Tags": [
+    "Dimensional",
+    "Clouds",
+    "Portal"
+  ],
+  "Arguments": null
+}
