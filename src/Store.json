@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Colorful Smoke Planet-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "The Great Wave off Kanagawa-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
