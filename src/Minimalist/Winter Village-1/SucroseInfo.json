@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Winter Village",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Winter Village - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/winter-village-live-wallpaper",
+  "Type": 3,
+  "Source": "wv.mp4",
+  "Tags": [
+    "Trees",
+    "Snow"
+  ],
+  "Arguments": null
+}

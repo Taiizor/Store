@@ -2912,6 +2912,11 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Winter Village-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Windows 11 Bats-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",
