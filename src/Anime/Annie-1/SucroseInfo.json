@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.6.3.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Annie",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,7 +11,8 @@
   "Type": 3,
   "Source": "aaot.mp4",
   "Tags": [
-    "Blonde Hair"
+    "Blonde Hair",
+    "Blue Eyes"
   ],
   "Arguments": null
 }
