@@ -3239,6 +3239,11 @@
     },
     "RGB": {
       "Wallpapers": {
+        "Haeyong Razer RGB Room-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Skull-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
