@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Sukuna",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sukuna - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sukuna-jujutsu",
+  "Type": 3,
+  "Source": "sjk.mp4",
+  "Tags": [
+    "Supernatural",
+    "Antagonist",
+    "Powerful",
+    "Shonen",
+    "Demon"
+  ],
+  "Arguments": null
+}

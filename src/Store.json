@@ -321,6 +321,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lucy-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
