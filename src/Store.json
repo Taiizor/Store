@@ -321,6 +321,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Lucy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Chibi Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
