@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Lamborghini Veneno",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lamborghini Veneno - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/lamborghini-veneno-live-wallpaper",
+  "Type": 3,
+  "Source": "lv.mp4",
+  "Tags": [
+    "Silver Car",
+    "Supercar"
+  ],
+  "Arguments": null
+}
