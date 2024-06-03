@@ -1027,6 +1027,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Enchanted Evening-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Flower Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
