@@ -1039,6 +1039,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Toxic Masterpiece-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Elf Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
