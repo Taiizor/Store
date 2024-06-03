@@ -3624,6 +3624,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Skeleton Riding a Bike-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lamborghini Veneno-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
