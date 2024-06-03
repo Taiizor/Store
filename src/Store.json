@@ -1660,6 +1660,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Irithyll Of The Boreal Valley-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Porcelain Kindred-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
