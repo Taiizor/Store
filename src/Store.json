@@ -1000,6 +1000,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Cyberpunk Girl Dragon Tattoo-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Fantasy Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
