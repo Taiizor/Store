@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.2",
+  "Title": "ROG 2024",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "ROG 2024 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rog-2024",
+  "Type": 3,
+  "Source": "rog2024.mp4",
+  "Tags": [
+    "Technology"
+  ],
+  "Arguments": null
+}
