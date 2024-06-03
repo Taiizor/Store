@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Spider Gwen",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spider-Gwen with Headphones - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Spider-Gwen-Headphones",
+  "Type": 3,
+  "Source": "sgwh.mp4",
+  "Tags": [
+    "Orange Hair"
+  ],
+  "Arguments": null
+}
