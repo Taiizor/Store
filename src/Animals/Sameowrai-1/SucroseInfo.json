@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Sameowrai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sameowrai - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Sameowrai-cat",
+  "Type": 3,
+  "Source": "sc.mp4",
+  "Tags": [
+    "Samurai",
+    "Warrior",
+    "Red"
+  ],
+  "Arguments": null
+}

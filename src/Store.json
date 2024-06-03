@@ -209,6 +209,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Sameowrai-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Wizard Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
