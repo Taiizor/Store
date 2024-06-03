@@ -1738,6 +1738,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "City of Ephyra-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Omen-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
