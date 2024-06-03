@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.2.24.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Furina",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -12,8 +12,8 @@
   "Source": "fgi.mp4",
   "Tags": [
     "Short Hair",
-    "Blue Hair",
     "Blue Eyes",
+    "Blue Hair",
     "Space"
   ],
   "Arguments": null
