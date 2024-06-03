@@ -321,6 +321,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Annie-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Anime Girl Error System-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
