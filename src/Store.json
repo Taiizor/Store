@@ -209,6 +209,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Wizard Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chill The Lion-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",

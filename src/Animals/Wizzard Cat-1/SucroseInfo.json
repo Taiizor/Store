@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Wizzard Cat",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Wizzard Cat - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/wizzard-cat",
+  "Type": 3,
+  "Source": "wc.mp4",
+  "Tags": [
+    "Magical",
+    "Sorcery"
+  ],
+  "Arguments": null
+}
