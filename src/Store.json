@@ -321,6 +321,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Arise-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Undead Roronoa Zoro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",

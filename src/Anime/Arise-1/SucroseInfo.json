@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Arise",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Arise - Solo Leveling - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/solo-leveling-arise",
+  "Type": 3,
+  "Source": "asl.mp4",
+  "Tags": [
+    "Dungeon",
+    "Monster",
+    "Hunter",
+    "Manhwa",
+    "Blade"
+  ],
+  "Arguments": null
+}
