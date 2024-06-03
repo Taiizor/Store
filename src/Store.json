@@ -1660,6 +1660,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Rope In The Rain-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sakai Katana In The Field-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
