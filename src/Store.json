@@ -3014,6 +3014,15 @@
     },
     "Nightscapes": {},
     "Patterns and Textures": {},
+    "Pixel Art": {
+      "Wallpapers": {
+        "Furries Subway Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        }
+      }
+    },
     "Retro": {
       "Wallpapers": {
         "Purple Night Moon Clouds-1": {

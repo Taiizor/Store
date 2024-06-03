@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Furries Subway Pixel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Furries Subway Pixel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/furries-subway-pixel-live-wallpaper",
+  "Type": 3,
+  "Source": "fsp.mp4",
+  "Tags": [
+    "Furry",
+    "Train"
+  ],
+  "Arguments": null
+}
