@@ -1738,6 +1738,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Omen-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Irithyll Of The Boreal Valley-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
