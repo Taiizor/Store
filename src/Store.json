@@ -1000,6 +1000,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Moon Fishing-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cyberpunk Girl Dragon Tattoo-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
