@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "T36",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "T36 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/t36-live-wallpaper",
+  "Type": 3,
+  "Source": "t36.mp4",
+  "Tags": [
+    "Terminator",
+    "Cyborg",
+    "Helmet",
+    "Sword"
+  ],
+  "Arguments": null
+}
