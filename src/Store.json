@@ -3239,6 +3239,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Astronaut in Space-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Blue Gate-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
