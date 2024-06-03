@@ -3624,6 +3624,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Nissan Skyline GT-R R34 V-Spec II-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nitro Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

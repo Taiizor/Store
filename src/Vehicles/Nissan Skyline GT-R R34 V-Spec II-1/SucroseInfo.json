@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Nissan Skyline GT-R R34 V-Spec II",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nissan Skyline GT-R R34 V-Spec II - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/nissan-skyline",
+  "Type": 3,
+  "Source": "nsgtrr34vsii.mp4",
+  "Tags": [
+    "Turbocharged",
+    "Automotive",
+    "Japanese",
+    "Racing",
+    "Girl"
+  ],
+  "Arguments": null
+}
