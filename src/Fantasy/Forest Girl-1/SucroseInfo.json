@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Forest Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/forest-girl",
+  "Type": 3,
+  "Source": "fg.mp4",
+  "Tags": [
+    "Mythical",
+    "Magical",
+    "Scenery",
+    "Nature",
+    "Water"
+  ],
+  "Arguments": null
+}
