@@ -309,6 +309,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Error System-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sanhua-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
