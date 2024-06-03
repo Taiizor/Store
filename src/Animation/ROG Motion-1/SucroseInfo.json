@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "ROG Motion",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "ROG Motion - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rog-motion",
+  "Type": 3,
+  "Source": "rogm.mp4",
+  "Tags": [
+    "Technology"
+  ],
+  "Arguments": null
+}

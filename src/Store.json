@@ -307,6 +307,11 @@
     },
     "Animation": {
       "Wallpapers": {
+        "ROG Motion-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Windows-2": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
