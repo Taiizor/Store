@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Moon Girl Shadow",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moon Girl Shadow - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/moon-girl-shadow-live-wallpaper",
+  "Type": 3,
+  "Source": "mgs.mp4",
+  "Tags": [
+    "Silhouette",
+    "Moonlight"
+  ],
+  "Arguments": null
+}
