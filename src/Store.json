@@ -1000,6 +1000,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Girl Kneeling In Rain-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Moon Fishing-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
