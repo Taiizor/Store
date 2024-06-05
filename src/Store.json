@@ -2981,6 +2981,11 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Rain Jazz Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Moon Girl Shadow-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
