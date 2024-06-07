@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Mileena",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mileena - Mortal Kombat - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mk-mileena",
+  "Type": 3,
+  "Source": "mmk.mp4",
+  "Tags": [
+    "Ninja Assassin",
+    "Femme Fetale",
+    "Fighter",
+    "Deadly"
+  ],
+  "Arguments": null
+}
