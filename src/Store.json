@@ -1061,6 +1061,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Pretty Witch-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Police Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
