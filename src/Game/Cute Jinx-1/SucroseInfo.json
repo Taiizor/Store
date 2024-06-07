@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Cute Jinx",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cute Jinx - League of Legends - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Cute%20Jinx%20Live%20Wallpaper",
+  "Type": 3,
+  "Source": "cjlol.mp4",
+  "Tags": [
+    "Energetic",
+    "Excitable",
+    "Colorful",
+    "Marksman"
+  ],
+  "Arguments": null
+}

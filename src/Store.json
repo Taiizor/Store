@@ -1778,6 +1778,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Cute Jinx-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mileena-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
