@@ -1,21 +1,20 @@
 {
-  "AppVersion": "24.3.30.0",
-  "Version": "1.0.0.1",
-  "Title": "Frieren Beyond Journey's End",
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Frieren: Beyond Journey's End",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Frieren Beyond Journey's End - Live Wallpaper",
-  "Author": "MoeWalls",
+  "Description": "Frieren: Beyond Journey's End - Live Wallpaper",
+  "Author": "DesktopHut",
   "License": null,
-  "Contact": "https://moewalls.com/anime/frieren-beyond-journeys-end-live-wallpaper",
+  "Contact": "https://www.desktophut.com/Frieren-Beyond-Journey",
   "Type": 3,
   "Source": "fbje.mp4",
   "Tags": [
-    "Sousou No Frieren",
-    "Shooting Star",
-    "White Hair",
-    "Clouds",
-    "Sky"
+    "Immortality",
+    "Adventure",
+    "Mythical",
+    "Anime"
   ],
   "Arguments": null
 }
