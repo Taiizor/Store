@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Malevelon Creek",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Malevelon Creek - Helldivers 2 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/helldivers-game",
+  "Type": 3,
+  "Source": "mch2.mp4",
+  "Tags": [
+    "Fictional Setting",
+    "Invasion",
+    "Battles",
+    "Intense",
+    "Alien"
+  ],
+  "Arguments": null
+}
