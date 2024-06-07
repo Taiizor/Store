@@ -3203,6 +3203,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Neon Neko-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sad Purple Girl-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Neon Neko",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neon Neko - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/neon-neko-live-wallpaper",
+  "Type": 3,
+  "Source": "nn.mp4",
+  "Tags": [
+    "Futuristic",
+    "Cyberpunk",
+    "Catgirl"
+  ],
+  "Arguments": null
+}
