@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Sekiro",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sekiro - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sekiro",
+  "Type": 3,
+  "Source": "s.mp4",
+  "Tags": [
+    "Feudal Japan",
+    "Adventure",
+    "Samurai",
+    "Shinobi",
+    "Sakura"
+  ],
+  "Arguments": null
+}
