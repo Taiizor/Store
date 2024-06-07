@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Bulb-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "ROG 2024-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",

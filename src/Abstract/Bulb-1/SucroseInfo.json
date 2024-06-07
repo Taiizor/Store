@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Bulb",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bulb - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fantasy-bulb",
+  "Type": 3,
+  "Source": "b.mp4",
+  "Tags": [
+    "Inspiration",
+    "Fantasy",
+    "Magic"
+  ],
+  "Arguments": null
+}
