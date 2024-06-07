@@ -3203,6 +3203,11 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Sad Purple Girl-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Purple Night Moon Clouds-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
