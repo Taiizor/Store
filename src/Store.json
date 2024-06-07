@@ -1790,6 +1790,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Fallout Power Armor-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Sekiro-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
