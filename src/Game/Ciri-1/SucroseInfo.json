@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Ciri",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ciri - The Witcher - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/witcher-ciri",
+  "Type": 3,
+  "Source": "ctw.mp4",
+  "Tags": [
+    "White Hair",
+    "Sorceress",
+    "Fantasy",
+    "Magic"
+  ],
+  "Arguments": null
+}
