@@ -1,19 +1,19 @@
 {
   "AppVersion": "24.6.7.0",
-  "Version": "1.0.0.0",
-  "Title": "Neon Neko",
+  "Version": "1.0.0.1",
+  "Title": "Biker Couple",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Neon Neko - Live Wallpaper",
+  "Description": "Biker Couple - Live Wallpaper",
   "Author": "DesktopHut",
   "License": null,
-  "Contact": "https://www.desktophut.com/neon-neko-live-wallpaper",
+  "Contact": "https://www.desktophut.com/Biker-Couple",
   "Type": 3,
-  "Source": "nn.mp4",
+  "Source": "bc.mp4",
   "Tags": [
-    "Futuristic",
-    "Cyberpunk",
-    "Catgirl"
+    "Motorcycle",
+    "Road Trip",
+    "Romance"
   ],
   "Arguments": null
 }

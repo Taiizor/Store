@@ -3738,7 +3738,8 @@
         "Biker Couple-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif"
+          "Live": "preview.gif",
+          "Adult": true
         },
         "Nissan Skyline GT-R R34 V-Spec II-1": {
           "Source": "src/Vehicles",
