@@ -3429,6 +3429,11 @@
     },
     "Sports": {
       "Wallpapers": {
+        "Baseball Girl-1": {
+          "Source": "src/Sports",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cristiano Ronaldo Portugal-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",
