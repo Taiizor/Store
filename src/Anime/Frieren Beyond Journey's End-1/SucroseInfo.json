@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Frieren: Beyond Journey's End",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Frieren: Beyond Journey's End - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Frieren-Beyond-Journey",
+  "Type": 3,
+  "Source": "fbje.mp4",
+  "Tags": [
+    "Immortality",
+    "Adventure",
+    "Mythical",
+    "Anime"
+  ],
+  "Arguments": null
+}
