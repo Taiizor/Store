@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Spartan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spartan - Halo - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/halo-spartan",
+  "Type": 3,
+  "Source": "sh.mp4",
+  "Tags": [
+    "Shooter",
+    "Master",
+    "Armor",
+    "Chief"
+  ],
+  "Arguments": null
+}
