@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.5.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Myth Wukong",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Myth Wukong - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/black-myth-wukong-2-live-wallpaper",
+  "Type": 3,
+  "Source": "bmw.mp4",
+  "Tags": [
+    "Golden Headband"
+  ],
+  "Arguments": null
+}
