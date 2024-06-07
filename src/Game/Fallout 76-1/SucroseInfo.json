@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.5.29.0",
+  "Version": "1.0.0.0",
+  "Title": "Fallout 76",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fallout 76 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/fallout-76-live-wallpaper",
+  "Type": 3,
+  "Source": "f76.mp4",
+  "Tags": [
+    "Raining",
+    "Forest",
+    "Hoodie",
+    "Torch"
+  ],
+  "Arguments": null
+}
