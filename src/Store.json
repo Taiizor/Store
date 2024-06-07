@@ -336,7 +336,7 @@
     },
     "Anime": {
       "Wallpapers": {
-        "Frieren Beyond Journey's End-1": {
+        "Frieren Beyond Journey's End-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
@@ -485,7 +485,7 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
         },
-        "Frieren Beyond Journey’s End-1": {
+        "Frieren Beyond Journey's End-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
