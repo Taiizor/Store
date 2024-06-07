@@ -3221,6 +3221,11 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Neon Night Dream-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Neon Neko-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
