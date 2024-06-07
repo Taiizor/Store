@@ -1061,6 +1061,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Police Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Demoness-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
