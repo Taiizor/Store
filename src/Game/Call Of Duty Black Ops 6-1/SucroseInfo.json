@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Call Of Duty: Black Ops 6",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Call Of Duty: Black Ops 6 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/call-of-duty-black-ops-6-live-wallpaper",
+  "Type": 3,
+  "Source": "codbo6.mp4",
+  "Tags": [
+    "Rifle",
+    "Gun"
+  ],
+  "Arguments": null
+}
