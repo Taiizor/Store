@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.6.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Abstract Fluid Colorful",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Abstract Fluid Colorful - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-fluid-colorful-live-wallpaper",
+  "Type": 3,
+  "Source": "afc.mp4",
+  "Tags": [
+    "Abstraction"
+  ],
+  "Arguments": null
+}

@@ -2,6 +2,11 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Abstract Fluid Colorful-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Bulb-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
