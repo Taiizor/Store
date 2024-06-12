@@ -1801,6 +1801,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Forest Night-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Call Of Duty Black Ops 6-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
