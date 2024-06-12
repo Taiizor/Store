@@ -1795,6 +1795,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Clorinde-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Malevelon Creek-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
