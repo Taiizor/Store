@@ -3654,6 +3654,11 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Hacker Room Rainy Night-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Neo Matrix-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",

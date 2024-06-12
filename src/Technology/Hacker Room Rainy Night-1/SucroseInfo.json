@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Hacker Room Rainy Night",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hacker Room Rainy Night - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/hacker-room-rainy-night-live-wallpaper",
+  "Type": 3,
+  "Source": "hrrn.mp4",
+  "Tags": [
+    "Computer",
+    "Raining",
+    "Lofi"
+  ],
+  "Arguments": null
+}
