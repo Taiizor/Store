@@ -1077,6 +1077,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Yin Yang Swordsman-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Straw Hat Samurai Girl In The Rain-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
