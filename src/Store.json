@@ -3797,6 +3797,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Retro Car Porsche 911-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Chillout-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
