@@ -2948,6 +2948,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Dusk On Shore-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Sunset Winter Road-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

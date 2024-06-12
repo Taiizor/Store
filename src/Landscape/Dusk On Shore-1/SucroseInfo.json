@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Dusk On Shore",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dusk On Shore - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/dusk-on-shore-live-wallpaper",
+  "Type": 3,
+  "Source": "dos.mp4",
+  "Tags": [
+    "Clouds",
+    "Nature",
+    "Sunset",
+    "Water",
+    "Beach"
+  ],
+  "Arguments": null
+}
