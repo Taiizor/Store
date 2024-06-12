@@ -341,6 +341,11 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Neko Anime Girl-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Frieren Beyond Journey's End-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Neko Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neko Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/neko-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "nag.mp4",
+  "Tags": [
+    "White Hair",
+    "Blue Eyes",
+    "Cats",
+    "Halo"
+  ],
+  "Arguments": null
+}
