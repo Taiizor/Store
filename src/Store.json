@@ -1824,6 +1824,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Black Myth Wukong-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Forest Night-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
