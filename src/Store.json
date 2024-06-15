@@ -1824,6 +1824,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Autumn Tree Moonlight Night-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Black Myth Wukong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
