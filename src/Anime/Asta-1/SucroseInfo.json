@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.15.0",
+  "Version": "1.0.0.0",
+  "Title": "Asta",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Asta - Black Clover - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/asta-anime",
+  "Type": 3,
+  "Source": "abc.mp4",
+  "Tags": [
+    "Japanese",
+    "Shounen",
+    "Magic"
+  ],
+  "Arguments": null
+}
