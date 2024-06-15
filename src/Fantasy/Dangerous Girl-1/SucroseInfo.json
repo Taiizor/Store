@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.15.0",
+  "Version": "1.0.0.0",
+  "Title": "Dangerous Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dangerous Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dangerous-girl",
+  "Type": 3,
+  "Source": "dg.mp4",
+  "Tags": [
+    "Femme Fatale",
+    "Mystery",
+    "Edgy"
+  ],
+  "Arguments": null
+}
