@@ -341,6 +341,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kaneki Chibi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chibi Naruto With Kurama-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
