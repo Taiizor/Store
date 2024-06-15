@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.15.0",
+  "Version": "1.0.0.0",
+  "Title": "Chibi Naruto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chibi Naruto - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/asta-anime",
+  "Type": 3,
+  "Source": "cn.mp4",
+  "Tags": [
+    "Japanese",
+    "Shounen",
+    "Cute"
+  ],
+  "Arguments": null
+}
