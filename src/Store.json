@@ -3887,6 +3887,11 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "BMW M5 F90-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Nissan GTR R35-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

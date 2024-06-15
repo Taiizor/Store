@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.15.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW M5 F90",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW M5 F90 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/bmw-m5",
+  "Type": 3,
+  "Source": "bmwm5f90.mp4",
+  "Tags": [
+    "Automotive",
+    "Luxury Car",
+    "Sports Car"
+  ],
+  "Arguments": null
+}
