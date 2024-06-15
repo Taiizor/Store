@@ -3633,6 +3633,11 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Chibi Spider Man-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Miles Morales Moonlight Glitching-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
