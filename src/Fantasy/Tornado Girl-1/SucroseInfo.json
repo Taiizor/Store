@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.18.0",
+  "Version": "1.0.0.0",
+  "Title": "Tornado Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tornado Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/tornado-girl",
+  "Type": 3,
+  "Source": "tg.mp4",
+  "Tags": [
+    "Intense",
+    "Danger",
+    "Nature",
+    "Storm",
+    "Wind"
+  ],
+  "Arguments": null
+}

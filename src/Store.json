@@ -1098,6 +1098,11 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Tornado Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Dangerous Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
