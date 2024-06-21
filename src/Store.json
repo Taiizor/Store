@@ -3528,6 +3528,11 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Starman-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Astronaut in Space-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
