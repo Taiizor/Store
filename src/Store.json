@@ -346,6 +346,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Jinhsi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jianxin-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
