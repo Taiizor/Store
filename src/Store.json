@@ -3366,6 +3366,11 @@
     "Patterns and Textures": {},
     "Pixel Art": {
       "Wallpapers": {
+        "Pixel Forest-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Furries Subway Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",

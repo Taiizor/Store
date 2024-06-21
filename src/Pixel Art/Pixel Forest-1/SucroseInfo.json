@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Pixel Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pixel Forest - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/pixel-forest",
+  "Type": 3,
+  "Source": "pf.mp4",
+  "Tags": [
+    "Digital Art",
+    "Adventure",
+    "Fantasy",
+    "Nature"
+  ],
+  "Arguments": null
+}
