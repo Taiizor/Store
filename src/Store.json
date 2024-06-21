@@ -3042,6 +3042,11 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Outer World Ambience-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Dusk On Shore-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
