@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Changli",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Changli - Wuthering Waves - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Changli-Wuthering-Waves",
+  "Type": 3,
+  "Source": "cww.mp4",
+  "Tags": [
+    "Japanese",
+    "Fantasy",
+    "Gacha"
+  ],
+  "Arguments": null
+}
