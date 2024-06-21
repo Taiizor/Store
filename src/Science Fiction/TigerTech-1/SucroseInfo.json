@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.6.21.0",
+  "Version": "1.0.0.0",
+  "Title": "TigerTech",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "TigerTech: Jungle Recon - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/jungle-recon",
+  "Type": 3,
+  "Source": "ttjr.mp4",
+  "Tags": [
+    "Futuristic",
+    "Technology",
+    "Wildlife",
+    "Cyborg"
+  ],
+  "Arguments": null
+}

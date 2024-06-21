@@ -3533,6 +3533,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "TigerTech-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Starman-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
