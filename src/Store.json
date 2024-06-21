@@ -224,6 +224,11 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Torchic Pokemon-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Sameowrai-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
