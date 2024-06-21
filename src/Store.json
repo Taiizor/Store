@@ -3198,6 +3198,11 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Ghibli Lofi Coffee-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Rain Jazz Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

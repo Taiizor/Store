@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghibli Lofi Coffee",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghibli Lofi Coffee - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Ghibli-coffee",
+  "Type": 3,
+  "Source": "glc.mp4",
+  "Tags": [
+    "Instrumental",
+    "Japanese",
+    "Chill",
+    "Music",
+    "Study"
+  ],
+  "Arguments": null
+}
