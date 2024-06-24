@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+            }
+
+            html,
+            body {
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+
+            canvas {
+                height: 100vh;
+                width: 100vw
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="AudioCanvas"></canvas>
+        <script>
+            let audioCanvas = null;
+            let audioCanvasCtx = null;
+            let backgroundColor = `rgb(0,0,0)`;
+            let leftLineColor = `rgb(255,0,0)`;
+            let rightLineColor = `rgb(0,0,255)`;
+
+            function SucrosePropertyListener(name, val) {
+                switch (name) {
+                    case "leftLineColor":
+                        var color = hexToRgb(val.value);
+                        leftLineColor = `rgb(${color.r},${color.g},${color.b})`;
+                        break;
+                    case "rightLineColor":
+                        var color = hexToRgb(val.value);
+                        rightLineColor = `rgb(${color.r},${color.g},${color.b})`;
+                        break;
+                    case "backgroundColor":
+                        var color = hexToRgb(val.value);
+                        backgroundColor = `rgb(${color.r},${color.g},${color.b})`;
+                        break;
+                }
+            }
+
+            function SucroseAudioData(audioArray) {
+                // Clear the canvas and set it to black
+                audioCanvasCtx.fillStyle = backgroundColor;
+                audioCanvasCtx.fillRect(0, 0, audioCanvas.width, audioCanvas.height);
+                // Render bars along the full width of the canvas
+                var barWidth = Math.round(1.0 / 128.0 * audioCanvas.width);
+                var halfCount = audioArray.Data.length / 2;
+                // Begin with the left channel in red
+                audioCanvasCtx.fillStyle = leftLineColor;
+                // Iterate over the first 64 array elements (0 - 63) for the left channel audio data
+                for (var i = 0; i < halfCount; ++i) {
+                    // Create an audio bar with its hight depending on the audio volume level of the current frequency
+                    var height = audioCanvas.height * Math.min(audioArray.Data[i], 1);
+                    audioCanvasCtx.fillRect(barWidth * i, audioCanvas.height - height, barWidth, height);
+                }
+                // Now draw the right channel in blue
+                audioCanvasCtx.fillStyle = rightLineColor;
+                // Iterate over the last 64 array elements (64 - 127) for the right channel audio data
+                for (var i = halfCount; i < audioArray.Data.length; ++i) {
+                    // Create an audio bar with its hight depending on the audio volume level
+                    // Using audioArray.Data[191 - i] here to inverse the right channel for aesthetics
+                    var height = audioCanvas.height * Math.min(audioArray.Data[191 - i], 1);
+                    audioCanvasCtx.fillRect(barWidth * i, audioCanvas.height - height, barWidth, height);
+                }
+            }
+
+            function hexToRgb(hex) {
+                var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+                return result ? {
+                    r: parseInt(result[2], 16),
+                    g: parseInt(result[3], 16),
+                    b: parseInt(result[4], 16)
+                } : null;
+            }
+
+            // Get the audio canvas once the page has loaded
+            audioCanvas = document.getElementById('AudioCanvas');
+            // Setting internal canvas resolution to user screen resolution
+            // (CSS canvas size differs from internal canvas size)
+            audioCanvas.height = window.innerHeight;
+            audioCanvas.width = window.innerWidth;
+            // Get the 2D context of the canvas to draw on it in wallpaperAudioListener
+            audioCanvasCtx = audioCanvas.getContext('2d');
+        </script>
+    </body>
+</html>

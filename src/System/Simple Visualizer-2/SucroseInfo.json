@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.6.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Simple Visualizer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Simple Audio Visualizer",
+  "Author": "Taiizor",
+  "License": null,
+  "Contact": "https://github.com/Taiizor",
+  "Type": 2,
+  "Source": "Visualizer.html",
+  "Tags": [
+    "Music",
+    "Wave"
+  ],
+  "Arguments": null
+}

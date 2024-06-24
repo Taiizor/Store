@@ -1,0 +1,52 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "leftLineColor": {
+      "text": "loc_leftlinecolor",
+      "type": "colorpicker",
+      "value": "#FFFF0000"
+    },
+    "rightLineColor": {
+      "text": "loc_rightlinecolor",
+      "type": "colorpicker",
+      "value": "#FF0000FF"
+    },
+    "backgroundColor": {
+      "text": "loc_background",
+      "type": "colorpicker",
+      "value": "#FF000000"
+    }
+  },
+  "PropertyLocalization": {
+    "EN": {
+      "loc_leftlinecolor": "Left Line Color",
+      "loc_rightlinecolor": "Right Line Color",
+      "loc_background": "Background"
+    },
+    "DE": {
+      "loc_leftlinecolor": "Linke Linienfarbe",
+      "loc_rightlinecolor": "Rechte Linienfarbe",
+      "loc_background": "Hintergrund"
+    },
+    "ES": {
+      "loc_leftlinecolor": "Color de Línea Izquierda",
+      "loc_rightlinecolor": "Color de Línea Derecha",
+      "loc_background": "Fondo"
+    },
+    "FR": {
+      "loc_leftlinecolor": "Couleur de la Ligne Gauche",
+      "loc_rightlinecolor": "Couleur de la Ligne Droite",
+      "loc_background": "Arrière-plan"
+    },
+    "PL": {
+      "loc_leftlinecolor": "Kolor Lewej Linii",
+      "loc_rightlinecolor": "Kolor Prawej Linii",
+      "loc_background": "Tło"
+    },
+    "TR": {
+      "loc_leftlinecolor": "Sol Çubuk Rengi",
+      "loc_rightlinecolor": "Sağ Çubuk Rengi",
+      "loc_background": "Arkaplan"
+    }
+  }
+}
