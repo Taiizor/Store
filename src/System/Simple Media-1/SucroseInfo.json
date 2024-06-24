@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.4.24.0",
+  "Version": "1.0.0.0",
+  "Title": "Simple Media",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Simple Media Integration",
+  "Author": "Taiizor",
+  "License": null,
+  "Contact": "https://github.com/Taiizor",
+  "Type": 2,
+  "Source": "Media.html",
+  "Tags": [
+    "Music"
+  ],
+  "Arguments": null
+}

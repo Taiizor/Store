@@ -3808,6 +3808,11 @@
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif"
+        },
+        "Simple Media-1": {
+          "Source": "src/System",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
         }
       }
     },
