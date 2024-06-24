@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.6.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Sam",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sam - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/sam-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "shsr.mp4",
+  "Tags": [
+    "Robot",
+    "Smoke",
+    "Mecha"
+  ],
+  "Arguments": null
+}

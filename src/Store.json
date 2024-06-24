@@ -1890,6 +1890,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Sam-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Autumn Tree Moonlight Night-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
