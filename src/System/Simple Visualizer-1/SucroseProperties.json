@@ -2,19 +2,51 @@
   "PropertyListener": "SucrosePropertyListener('{0}', {1});",
   "PropertyList": {
     "lineColor": {
-      "text": "Lines",
+      "text": "loc_lines",
       "type": "colorpicker",
       "value": "#FFFF0000"
     },
     "backgroundColor": {
-      "text": "Background",
+      "text": "loc_background",
       "type": "colorpicker",
       "value": "#FF000000"
     },
     "square": {
-      "text": "Square",
+      "text": "loc_square",
       "type": "checkbox",
       "value": true
+    }
+  },
+  "PropertyLocalization": {
+    "EN": {
+      "loc_lines": "Lines",
+      "loc_background": "Background",
+      "loc_square": "Square"
+    },
+    "DE": {
+      "loc_lines": "Linien",
+      "loc_background": "Hintergrund",
+      "loc_square": "Quadrat"
+    },
+    "ES": {
+      "loc_lines": "Líneas",
+      "loc_background": "Fondo",
+      "loc_square": "Cuadrado"
+    },
+    "FR": {
+      "loc_lines": "Lignes",
+      "loc_background": "Arrière-plan",
+      "loc_square": "Carré"
+    },
+    "PL": {
+      "loc_lines": "Linie",
+      "loc_background": "Tło",
+      "loc_square": "Kwadrat"
+    },
+    "TR": {
+      "loc_lines": "Çubuklar",
+      "loc_background": "Arkaplan",
+      "loc_square": "Köşeli"
     }
   }
 }
