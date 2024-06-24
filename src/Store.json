@@ -346,6 +346,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Holding Sword-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Changli-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
