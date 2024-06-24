@@ -2,22 +2,53 @@
   "PropertyListener": "SucrosePropertyListener('{0}', {1});",
   "PropertyList": {
     "matrixColor": {
-      "text": "Font Color",
+      "text": "loc_matrix_color",
       "type": "colorpicker",
       "value": "#FF00FF46"
     },
     "rainBow": {
       "type": "checkbox",
       "value": false,
-      "text": "Rainbow"
+      "text": "loc_rainbow"
     },
     "rainbowSpeed": {
       "max": 100,
       "min": 0,
       "step": 1,
-      "text": "Rainbow Speed",
+      "text": "loc_rainbow_speed",
       "type": "slider",
       "value": 50
     }
-  }
+  },
+  "PropertyLocalization": {
+    "EN": {
+      "loc_matrix_color": "Font Color",
+      "loc_rainbow": "Rainbow",
+      "loc_rainbow_speed": "Rainbow Speed"
+    },
+    "DE": {
+      "loc_matrix_color": "Schriftfarbe",
+      "loc_rainbow": "Regenbogen",
+      "loc_rainbow_speed": "Regenbogengeschwindigkeit"
+    },
+    "ES": {
+      "loc_matrix_color": "Color de Fuente",
+      "loc_rainbow": "Arco Iris",
+      "loc_rainbow_speed": "Velocidad del Arco Iris"
+    },
+    "FR": {
+      "loc_matrix_color": "Couleur de la Police",
+      "loc_rainbow": "Arc-en-Ciel",
+      "loc_rainbow_speed": "Vitesse de l'Arc-en-Ciel"
+    },
+    "PL": {
+      "loc_matrix_color": "Kolor Czcionki",
+      "loc_rainbow": "Tęcza",
+      "loc_rainbow_speed": "Prędkość Tęczy"
+    },
+    "TR": {
+      "loc_matrix_color": "Yazı Rengi",
+      "loc_rainbow": "Gökkuşağı",
+      "loc_rainbow_speed": "Gökkuşağı Hızı"
+    }
 }
