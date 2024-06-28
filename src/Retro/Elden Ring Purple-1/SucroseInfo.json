@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.6.28.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Elden Ring Purple",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -9,7 +9,7 @@
   "License": null,
   "Contact": "https://www.desktophut.com/Elden-Ring-purple",
   "Type": 3,
-  "Source": "erdlc.mp4",
+  "Source": "erp.mp4",
   "Tags": [
     "Adventure",
     "Expansion",
