@@ -1896,6 +1896,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Shaman Village-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Shadow Of The Erdtree-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
