@@ -1133,6 +1133,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Girl In The Rain-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Girl With Lion Dance-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
