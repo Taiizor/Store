@@ -224,6 +224,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Bulldog Jedi-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Torchic Pokemon-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",

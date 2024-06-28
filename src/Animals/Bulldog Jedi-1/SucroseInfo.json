@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Bulldog Jedi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bulldog Jedi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/bulldog-jedi",
+  "Type": 3,
+  "Source": "bj.mp4",
+  "Tags": [
+    "Lightsaber",
+    "Star Wars",
+    "Fantasy",
+    "Force",
+    "Cute"
+  ],
+  "Arguments": null
+}
