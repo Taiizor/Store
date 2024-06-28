@@ -1890,6 +1890,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Shadow Of The Erdtree-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sam-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
