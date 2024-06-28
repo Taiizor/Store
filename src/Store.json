@@ -1896,6 +1896,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Gekko Walking-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shaman Village-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
