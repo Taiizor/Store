@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Purple Eyes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Purple Eyes - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Purple-Eyes",
+  "Type": 3,
+  "Source": "pe.mp4",
+  "Tags": [
+    "Aesthetic",
+    "Stylish",
+    "Fantasy",
+    "Mystic",
+    "Anime"
+  ],
+  "Arguments": null
+}

@@ -3438,6 +3438,11 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Purple Eyes-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Cyber Nun-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
