@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Scream",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Scream - Dead by Daylight - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/scream-mask",
+  "Type": 3,
+  "Source": "sdbd.mp4",
+  "Tags": [
+    "Ghostface",
+    "Horror",
+    "Killer",
+    "Knife",
+    "Game"
+  ],
+  "Arguments": null
+}
