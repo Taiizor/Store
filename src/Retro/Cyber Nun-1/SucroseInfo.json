@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.6.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Cyber Nun",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cyber Nun - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cyber-nun",
+  "Type": 3,
+  "Source": "cn.mp4",
+  "Tags": [
+    "Futuristic",
+    "Cyberpunk",
+    "Religious",
+    "Fantasy",
+    "Robotic"
+  ],
+  "Arguments": null
+}
