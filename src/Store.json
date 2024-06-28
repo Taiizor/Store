@@ -3420,6 +3420,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Elden Ring Purple-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Neon Night Dream-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
