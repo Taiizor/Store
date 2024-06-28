@@ -1133,6 +1133,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Oni Girl Cyberpunk-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Oni Samurai Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
