@@ -3462,6 +3462,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Thousand Sunny Sunset Sea-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Outer World Ambience-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
