@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.1.0",
+  "Version": "1.0.0.0",
+  "Title": "My Class",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "My Class - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/my-class",
+  "Type": 3,
+  "Source": "mc.mp4",
+  "Tags": [
+    "Education",
+    "Student",
+    "School",
+    "Table",
+    "Girl"
+  ],
+  "Arguments": null
+}
