@@ -408,6 +408,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gokachu-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "My Class-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
