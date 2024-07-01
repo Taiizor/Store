@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Grey Rock",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Grey Rock - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/grey-rock-live-wallpaper",
+  "Type": 3,
+  "Source": "gr.mp4",
+  "Tags": [
+    "Abstraction",
+    "Water"
+  ],
+  "Arguments": null
+}

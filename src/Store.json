@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Grey Rock-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Abstract Fluid Colorful-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
