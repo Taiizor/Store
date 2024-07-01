@@ -3313,6 +3313,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Murder Drones-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Scream-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
