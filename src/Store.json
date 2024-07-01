@@ -3462,6 +3462,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Tropical Room-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Orange Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
