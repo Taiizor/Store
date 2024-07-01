@@ -408,6 +408,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Ryomen Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gokachu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
