@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Primordial Aatrox",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Primordial Aatrox - League of Legends - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/primordial-aatrox-league-of-legends-live-wallpaper",
+  "Type": 3,
+  "Source": "palol.mp4",
+  "Tags": [
+    "Horns",
+    "Sword",
+    "Wings"
+  ],
+  "Arguments": null
+}
