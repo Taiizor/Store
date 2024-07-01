@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Nier",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Nier - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dark-nier",
+  "Type": 3,
+  "Source": "dn.mp4",
+  "Tags": [
+    "Futuristic",
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "RPG"
+  ],
+  "Arguments": null
+}
