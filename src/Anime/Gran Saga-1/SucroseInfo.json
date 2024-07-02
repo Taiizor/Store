@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Gran Saga",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gran Saga - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/gran-saga",
+  "Type": 3,
+  "Source": "gs.mp4",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Girl"
+  ],
+  "Arguments": null
+}

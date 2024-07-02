@@ -414,6 +414,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gran Saga-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kimetsu no Yaiba-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
