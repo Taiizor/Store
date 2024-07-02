@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Neko Ninja Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neko Ninja Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/neko-ninja-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "nnag.mp4",
+  "Tags": [
+    "White Hair",
+    "Raining",
+    "Hoodie",
+    "Mask"
+  ],
+  "Arguments": null
+}
