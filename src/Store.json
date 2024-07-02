@@ -414,6 +414,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Itachi Uchiha-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Muichiro Tokito-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
