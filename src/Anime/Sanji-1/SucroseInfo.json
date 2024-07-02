@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Sanji",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sanji - One Piece - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sanji-one-piece",
+  "Type": 3,
+  "Source": "sop.mp4",
+  "Tags": [
+    "Straw Hat",
+    "Vinsmoke",
+    "Shonen",
+    "Manga",
+    "Chef"
+  ],
+  "Arguments": null
+}
