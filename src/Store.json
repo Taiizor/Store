@@ -1335,6 +1335,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Green Eyes-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bamboo Samurai Remastered 4K-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

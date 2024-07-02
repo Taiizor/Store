@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Green Eyes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Green Eyes - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/girl-green-eyes",
+  "Type": 3,
+  "Source": "ge.mp4",
+  "Tags": [
+    "Anime Girl",
+    "Aesthetic",
+    "Beautiful",
+    "Manga",
+    "Cute"
+  ],
+  "Arguments": null
+}
