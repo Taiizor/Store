@@ -2173,6 +2173,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Malenia Blade Of Miquella-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sun Wukong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
