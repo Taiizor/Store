@@ -2191,6 +2191,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Battle Bat Xayah-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Malenia Blade Of Miquella-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
