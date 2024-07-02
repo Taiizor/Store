@@ -2191,6 +2191,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Shadow Of The Erdtree-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Firefly Sunset City-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
