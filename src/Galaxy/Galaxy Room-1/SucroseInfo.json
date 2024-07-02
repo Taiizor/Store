@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Galaxy Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Galaxy Room - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/galaxy-room",
+  "Type": 3,
+  "Source": "gr.mp4",
+  "Tags": [
+    "Astronomy",
+    "Celestial",
+    "Cosmic",
+    "Space",
+    "Stars"
+  ],
+  "Arguments": null
+}
