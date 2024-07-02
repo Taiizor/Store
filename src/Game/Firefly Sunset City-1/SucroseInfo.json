@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.2.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Firefly Sunset City",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -12,6 +12,7 @@
   "Source": "fschsr.mp4",
   "Tags": [
     "Shooting Star",
+    "Nightingale",
     "Buildings",
     "Top View",
     "Smiling"
