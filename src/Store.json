@@ -414,11 +414,17 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Muichiro Tokito-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gojo Prison Realm-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
-          "Adult": false
+          "Adult": true
         },
         "Geoxor and Poixone-1": {
           "Source": "src/Anime",
