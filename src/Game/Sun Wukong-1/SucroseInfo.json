@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Sun Wukong",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sun Wukong - Black Myth Wukong - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/sun-wukong-black-myth-wukong-live-wallpaper",
+  "Type": 3,
+  "Source": "swbmw.mp4",
+  "Tags": [
+    "Closed Eyes",
+    "Armor",
+    "Snow"
+  ],
+  "Arguments": null
+}
