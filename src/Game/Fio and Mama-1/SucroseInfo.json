@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Fio and Mama",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fio & Mama - Nier Reincarnation - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Fio-Mama-Nier-Reincarnation",
+  "Type": 3,
+  "Source": "famnr.mp4",
+  "Tags": [
+    "Nier Automata",
+    "Adventure",
+    "Chibi",
+    "RPG"
+  ],
+  "Arguments": null
+}

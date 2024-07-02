@@ -2215,6 +2215,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Fio and Mama-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shadow Of The Erdtree-3": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
