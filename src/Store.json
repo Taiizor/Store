@@ -3416,6 +3416,12 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Pokemon Cute Pikachu-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sonic Explosion-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
