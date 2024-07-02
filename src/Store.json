@@ -414,6 +414,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Luffy Gear 5 Lightning God-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neko Ninja Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
