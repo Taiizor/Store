@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Power",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Power - Naruto - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/naruto-power",
+  "Type": 3,
+  "Source": "pn.mp4",
+  "Tags": [
+    "Determination",
+    "Strength",
+    "Shinobi",
+    "Manga"
+  ],
+  "Arguments": null
+}
