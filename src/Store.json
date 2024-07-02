@@ -1335,6 +1335,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Bamboo Samurai Remastered 4K-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Oni Girl Cyberpunk-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
