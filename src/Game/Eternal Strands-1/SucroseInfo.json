@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Eternal Strands",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Eternal Strands - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Muichiro-Tokito-Demon-Slayer",
+  "Type": 3,
+  "Source": "es.mp4",
+  "Tags": [
+    "Towering Creatures",
+    "Magical Abilities",
+    "Powerful Weapons",
+    "Epic Battles",
+    "Action"
+  ],
+  "Arguments": null
+}
