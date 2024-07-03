@@ -4421,6 +4421,12 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Black Widow Train-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chibi Spider Man-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",

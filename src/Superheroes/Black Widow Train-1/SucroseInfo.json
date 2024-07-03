@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Widow Train",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Widow Train - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/black-widow",
+  "Type": 3,
+  "Source": "bwt.mp4",
+  "Tags": [
+    "Natasha Romanoff",
+    "Espionage",
+    "Superhero",
+    "Thriller",
+    "Intense"
+  ],
+  "Arguments": null
+}
