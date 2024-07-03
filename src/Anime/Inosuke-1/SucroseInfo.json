@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Inosuke",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Inosuke - Kimetsu No Yaiba - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Inosuke-kimetsu",
+  "Type": 3,
+  "Source": "ikny.mp4",
+  "Tags": [
+    "Demon Slayer",
+    "Swordsman",
+    "Tanjiro",
+    "Shonen",
+    "Manga"
+  ],
+  "Arguments": null
+}
