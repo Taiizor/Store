@@ -4797,6 +4797,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Mercedes G 63-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "BMW M5 F90-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
