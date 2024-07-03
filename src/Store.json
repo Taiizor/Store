@@ -2287,6 +2287,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Firefly-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ayleid Ruins-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

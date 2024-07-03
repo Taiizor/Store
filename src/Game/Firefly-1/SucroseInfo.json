@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Firefly",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Firefly - Honkai: Star Rail - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/firefly-star-rail",
+  "Type": 3,
+  "Source": "fhsr.mp4",
+  "Tags": [
+    "Adventure",
+    "Hoyoverse",
+    "Fantasy",
+    "Gacha",
+    "RPG"
+  ],
+  "Arguments": null
+}
