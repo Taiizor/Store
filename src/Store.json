@@ -1247,6 +1247,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Lonely Samurai Autumn Tree-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Girl Resting Under Tree Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
