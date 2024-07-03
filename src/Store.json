@@ -3600,6 +3600,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Winter Night Train-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tropical Room-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
