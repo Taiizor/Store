@@ -392,6 +392,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Furry Aztec Queen-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "ROG Motion-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
