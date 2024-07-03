@@ -414,6 +414,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Bed Time Now-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Zenless Zone Zero-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
