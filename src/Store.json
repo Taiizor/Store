@@ -2269,6 +2269,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Jinx Summer Beach-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Acheron Black Hole-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
