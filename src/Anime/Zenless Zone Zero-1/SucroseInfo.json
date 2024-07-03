@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Zenless Zone Zero",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "zzz.mp4",
+  "Tags": [
+    "Nicole Demara",
+    "Anby Demara",
+    "Billy Kid"
+  ],
+  "Arguments": null
+}
