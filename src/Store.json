@@ -414,6 +414,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hatsune Miku in Sand Planet-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bed Time Now-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
