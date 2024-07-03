@@ -1897,6 +1897,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Homelander-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Godfather-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
