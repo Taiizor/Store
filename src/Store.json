@@ -4135,6 +4135,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Lofi Room Neon Lights-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Nissan GTR R34-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
