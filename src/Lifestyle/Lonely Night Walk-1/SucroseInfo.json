@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Lonely Night Walk",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lonely Night Walk - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/lonely-night-walk-live-wallpaper",
+  "Type": 3,
+  "Source": "lnw.mp4",
+  "Tags": [
+    "Skyscrapers",
+    "Street",
+    "Cat"
+  ],
+  "Arguments": null
+}

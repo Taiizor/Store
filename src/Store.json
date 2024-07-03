@@ -3856,6 +3856,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Lonely Night Walk-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ghibli Lofi Coffee-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
