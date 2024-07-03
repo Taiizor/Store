@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Hoshimi Miyabi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hoshimi Miyabi - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/hoshimi-miyabi-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "hmzzz.mp4",
+  "Tags": [
+    "Animal Ears",
+    "Red Eyes",
+    "Samurai",
+    "Katana"
+  ],
+  "Arguments": null
+}
