@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Steam Summer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Steam Summer - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/steam-summer",
+  "Type": 3,
+  "Source": "ss.mp4",
+  "Tags": [
+    "Bargains",
+    "Wishlist",
+    "Valve",
+    "Sale"
+  ],
+  "Arguments": null
+}
