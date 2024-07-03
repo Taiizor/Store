@@ -3991,6 +3991,12 @@
     },
     "Music": {
       "Wallpapers": {
+        "Leave Me Forever-1": {
+          "Source": "src/Music",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Wonderful-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
