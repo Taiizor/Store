@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.3.0",
+  "Version": "1.0.0.0",
+  "Title": "River Vials",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "River Vials - Dota 2 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/river-vials-dota-2-live-wallpaper",
+  "Type": 3,
+  "Source": "rvd2.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Dead Trees",
+    "Magical",
+    "Water"
+  ],
+  "Arguments": null
+}

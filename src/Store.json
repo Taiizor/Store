@@ -2275,6 +2275,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "River Vials-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Jinx Summer Beach-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
