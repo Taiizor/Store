@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Cozy Lake House",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cozy Lake House - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/minecraft-cozy-lake-house-live-wallpaper",
+  "Type": 3,
+  "Source": "clhm.mp4",
+  "Tags": [
+    "Aurora Borealis",
+    "Starry Night",
+    "Reflection",
+    "Water",
+    "Sky"
+  ],
+  "Arguments": null
+}
