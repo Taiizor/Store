@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Oni Cyber Samurai Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Twins Samurai Oni-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
