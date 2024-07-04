@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Cherry Blossom House",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cherry Blossom House - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/cherry-blossom-house-minecraft-live-wallpaper",
+  "Type": 3,
+  "Source": "cbhm.mp4",
+  "Tags": [
+    "Flower Petals",
+    "Landscape",
+    "Sakura"
+  ],
+  "Arguments": null
+}

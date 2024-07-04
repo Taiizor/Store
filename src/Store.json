@@ -2088,6 +2088,11 @@
     },
     "Game": {
       "Wallpapers": {
+        "Cherry Blossom House-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Steam Summer-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
