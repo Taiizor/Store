@@ -3720,6 +3720,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Sunset Over Mountain Forest-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Winter Night Train-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

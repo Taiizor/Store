@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset Over Mountain Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset Over Mountain Forest - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/sunset-over-mountain-forest-live-wallpaper",
+  "Type": 3,
+  "Source": "somf.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Sunlight",
+    "Nature",
+    "Trees"
+  ],
+  "Arguments": null
+}
