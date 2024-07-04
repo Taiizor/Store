@@ -4183,6 +4183,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Zoro Purple Fire Enma Katana-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lofi Room Neon Lights-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
