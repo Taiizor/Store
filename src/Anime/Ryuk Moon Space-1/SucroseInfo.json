@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Ryuk Moon Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ryuk Moon Space - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/ryuk-moon-space-live-wallpaper",
+  "Type": 3,
+  "Source": "rms.mp4",
+  "Tags": [
+    "Moonlight",
+    "Flying",
+    "Stars"
+  ],
+  "Arguments": null
+}
