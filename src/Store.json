@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Twins Samurai Oni-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ryuk Moon Space-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
