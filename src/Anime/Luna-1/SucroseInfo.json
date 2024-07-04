@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Luna",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Luna - Sailor Moon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/luna-sailor-moon-live-wallpaper",
+  "Type": 3,
+  "Source": "lsm.mp4",
+  "Tags": [
+    "Face Portrait",
+    "Purple Hair",
+    "Earrings",
+    "Smile"
+  ],
+  "Arguments": null
+}
