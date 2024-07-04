@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Lonely Anime Girl Watching The Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Inosuke-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
