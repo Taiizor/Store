@@ -2299,6 +2299,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Swamp Nighttime-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cozy Lake House-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

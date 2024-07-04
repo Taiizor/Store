@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Swamp Nighttime",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Swamp Nighttime - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/minecraft-swamp-nighttime-live-wallpaper",
+  "Type": 3,
+  "Source": "snm.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Fireflies",
+    "Raining"
+  ],
+  "Arguments": null
+}
