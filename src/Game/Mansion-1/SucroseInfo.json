@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Mansion",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mansion - Lethal Company - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/lethal-company-mansion-live-wallpaper",
+  "Type": 3,
+  "Source": "mlc.mp4",
+  "Tags": [
+    "Heater"
+  ],
+  "Arguments": null
+}
