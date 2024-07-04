@@ -4345,6 +4345,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Home-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "TigerTech-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
