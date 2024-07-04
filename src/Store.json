@@ -3922,6 +3922,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Relax Cafe Rainy Night Live-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lonely Night Walk-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

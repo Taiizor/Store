@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.4.0",
+  "Version": "1.0.0.0",
+  "Title": "Relax Cafe Rainy Night Live",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Relax Cafe Rainy Night Live - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/relax-cafe-rainy-night-live-wallpaper",
+  "Type": 3,
+  "Source": "rcrnl.mp4",
+  "Tags": [
+    "Relaxing",
+    "Raining",
+    "Coffee"
+  ],
+  "Arguments": null
+}
