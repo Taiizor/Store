@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Epsilon Moonlit Night Eminence In Shadow-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Oni Cyber Samurai Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
