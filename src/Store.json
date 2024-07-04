@@ -3337,6 +3337,12 @@
           "Live": "preview.gif",
           "Adult": false
         },
+        "Girls In Space-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Witcher 3-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
