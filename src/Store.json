@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Queen Makima-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sano Manjiro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
