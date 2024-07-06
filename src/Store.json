@@ -2365,6 +2365,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Marvel's Spider-Man 2-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Angels-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
