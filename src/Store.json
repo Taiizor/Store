@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gohan-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Luffy Gear 5 Lightning Bolt-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",

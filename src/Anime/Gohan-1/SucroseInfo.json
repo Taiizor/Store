@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.6.0",
+  "Version": "1.0.0.0",
+  "Title": "Gohan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gohan - Dragon Ball Z - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/gohan-z",
+  "Type": 3,
+  "Source": "gdbz.mp4",
+  "Tags": [
+    "Akira Toriyama",
+    "Son Goku",
+    "Saiyan",
+    "Shonen",
+    "Manga"
+  ],
+  "Arguments": null
+}
