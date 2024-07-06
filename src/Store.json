@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Happy Gear 5 Luffy Sketch-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gohan-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
