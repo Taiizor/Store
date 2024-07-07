@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Winter is Here",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Winter is Here - Game of Thrones - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Cool-Jon-Snow-4k-Live-Wallpaper-Game-Of-Thrones",
+  "Type": 3,
+  "Source": "wihgot.mp4",
+  "Tags": [
+    "Daenerys Targaryen",
+    "Blue Eyes",
+    "Jon Snow",
+    "Dragon",
+    "North"
+  ],
+  "Arguments": null
+}
