@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Lich King",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lich King - Game of Thrones - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/lich-king-game-of-thrones-live-wallpaper",
+  "Type": 3,
+  "Source": "lkgot.mp4",
+  "Tags": [
+    "Dragon",
+    "Sword",
+    "Snow",
+    "Ice",
+    "War"
+  ],
+  "Arguments": null
+}
