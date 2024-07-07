@@ -2437,6 +2437,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "D.Va In Hat-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Marvel's Spider-Man 2-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
