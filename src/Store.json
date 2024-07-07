@@ -1785,6 +1785,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Oni Mask-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Sunset Field-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

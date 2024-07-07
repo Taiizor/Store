@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Oni Mask",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Oni Mask - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/oni-mask-live-wallpaper",
+  "Type": 3,
+  "Source": "om.mp4",
+  "Tags": [
+    "Minimalistic",
+    "Abstraction",
+    "Sharp Teeth",
+    "Earrings",
+    "Horns"
+  ],
+  "Arguments": null
+}
