@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Jon Snow",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jon Snow - Game of Thrones - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Jon-Snow-Game-Of-Thrones-Live-Wallpaper",
+  "Type": 3,
+  "Source": "jsgot.mp4",
+  "Tags": [
+    "Winter",
+    "Sword"
+  ],
+  "Arguments": null
+}
