@@ -4084,6 +4084,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chinese Girl Cherry Blossom-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chinese Girl Blossom-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
