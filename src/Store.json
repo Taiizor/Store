@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Goku Kid Epic-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Happy Gear 5 Luffy Sketch-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
