@@ -1527,6 +1527,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Cyberpunk Oni Samurai Mask-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Old Japanese Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
