@@ -3847,6 +3847,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Hallowen Demon Girl-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Murder Drones-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
