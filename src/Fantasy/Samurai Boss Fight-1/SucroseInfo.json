@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Boss Fight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Boss Fight! - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-boss-fight-live-wallpaper",
+  "Type": 3,
+  "Source": "sbf.mp4",
+  "Tags": [
+    "Oni Mask",
+    "Katana",
+    "Foggy",
+    "Torii",
+    "Trees"
+  ],
+  "Arguments": null
+}

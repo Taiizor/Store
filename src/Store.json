@@ -1521,6 +1521,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Boss Fight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Girl Chinese Dragon-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
