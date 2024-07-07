@@ -4252,6 +4252,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Hoodie Anime Boy Gangster-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gangster Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
