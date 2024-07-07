@@ -1337,6 +1337,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Crow Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lonely Samurai Autumn Tree-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",

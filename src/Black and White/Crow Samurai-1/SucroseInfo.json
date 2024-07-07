@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Crow Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Crow Samurai - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/crow-samurai-live-wallpaper",
+  "Type": 3,
+  "Source": "cs.mp4",
+  "Tags": [
+    "Monochrome",
+    "Katana",
+    "Shadow",
+    "Dark"
+  ],
+  "Arguments": null
+}
