@@ -1527,6 +1527,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Demon Girl Dragon-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Cyberpunk Oni Samurai Mask-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
