@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai In The Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai In The Forest - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-in-the-forest-live-wallpaper",
+  "Type": 3,
+  "Source": "sitf.mp4",
+  "Tags": [
+    "Warrior",
+    "Katana",
+    "Sword",
+    "Trees",
+    "Woods"
+  ],
+  "Arguments": null
+}
