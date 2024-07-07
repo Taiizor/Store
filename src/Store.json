@@ -1965,6 +1965,12 @@
           "Live": "preview.gif",
           "Adult": false
         },
+        "Vikings Boat Crossing The Sea-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Goblet of Giants-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
