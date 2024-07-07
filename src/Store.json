@@ -2245,6 +2245,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Petyr Baelish-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lich King-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
