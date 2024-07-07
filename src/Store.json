@@ -4084,6 +4084,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Beautiful Girl With Glasses-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Relax Cafe Rainy Night Live-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
