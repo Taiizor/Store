@@ -5314,6 +5314,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "War Scene-1": {
+          "Source": "src/War",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kylo Ren's Lightsaber-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
