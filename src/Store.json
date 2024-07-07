@@ -4084,6 +4084,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chinese Girl Lunar New Year Festival-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Beautiful Chinese Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
