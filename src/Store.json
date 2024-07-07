@@ -1418,7 +1418,14 @@
       }
     },
     "Cartoon and Comics": {
-      "Wallpapers": {}
+      "Wallpapers": {
+        "Supergirl-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        }
+      }
     },
     "Cities and Places": {
       "Wallpapers": {
