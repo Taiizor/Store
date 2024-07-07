@@ -1527,6 +1527,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fantasy Girl Smoking In The Rain-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Girl Cowboy Smoking In The Rain-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
