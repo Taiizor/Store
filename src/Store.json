@@ -1533,6 +1533,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Goth Angel Babe-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Katana Babe-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
