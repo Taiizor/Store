@@ -1533,6 +1533,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Wings Angel-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Girl With Pet Chipmunk-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
