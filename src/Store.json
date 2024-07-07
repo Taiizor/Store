@@ -1391,6 +1391,12 @@
           "Live": "preview.gif",
           "Adult": true
         },
+        "Samurai Of Honor Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Honor of a Samurai-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
