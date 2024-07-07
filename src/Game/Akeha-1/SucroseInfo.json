@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.7.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Akeha",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -9,7 +9,7 @@
   "License": null,
   "Contact": "https://moewalls.com/anime/akeha-nier-reincarnation-live-wallpaper",
   "Type": 3,
-  "Source": "asamnrr.mp4",
+  "Source": "anrr.mp4",
   "Tags": [
     "Japanese",
     "Samurai",
