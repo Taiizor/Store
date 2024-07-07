@@ -2005,12 +2005,6 @@
     },
     "Film and TV": {
       "Wallpapers": {
-        "Beyond The Wall Night King-1": {
-          "Source": "src/Film and TV",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Winter is Here-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -2276,6 +2270,12 @@
           "Adult": false
         },
         "Darth Revan-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Beyond The Wall Night King-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
