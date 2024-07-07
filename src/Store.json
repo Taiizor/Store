@@ -1533,6 +1533,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Beautiful Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Straw Hat Samurai Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
