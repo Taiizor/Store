@@ -1533,6 +1533,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Futuristic Biker Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Rei Evangelion-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
