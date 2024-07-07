@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Stark",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Stark - Game of Thrones - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Game-of-Thrones-StarkLive-Wallpaper",
+  "Type": 3,
+  "Source": "sgot.mp4",
+  "Tags": [
+    "Direwolf",
+    "Coming",
+    "Winter",
+    "Snow",
+    "Wolf"
+  ],
+  "Arguments": null
+}
