@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Demon Slayer Gyomei Himejima-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Goku Kid Epic-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1527,12 +1533,6 @@
     },
     "Fantasy": {
       "Wallpapers": {
-        "Fantasy Girl Oni Mask-1": {
-          "Source": "src/Fantasy",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Straw Hat Samurai Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -1654,6 +1654,12 @@
           "Adult": true
         },
         "Straw Hat Samurai Girl In The Rain-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Fantasy Girl Oni Mask-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
