@@ -1337,6 +1337,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Japanese Oni Demon Symbol-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Akeha Samurai Assassin Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
