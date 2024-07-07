@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Cool Jon Snow",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cool Jon Snow - Game of Thrones - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Cool-Jon-Snow-4k-Live-Wallpaper-Game-Of-Thrones",
+  "Type": 3,
+  "Source": "cjsgot.mp4",
+  "Tags": [
+    "Winter",
+    "Sword"
+  ],
+  "Arguments": null
+}

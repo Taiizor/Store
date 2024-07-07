@@ -2005,7 +2005,19 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Cool Jon Snow-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Winter is Coming-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Stark-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
@@ -2016,12 +2028,6 @@
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
-        },
-        "Stark-1": {
-          "Source": "src/Film and TV",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
         },
         "Daenerys Targaryen-1": {
           "Source": "src/Film and TV",
