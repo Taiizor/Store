@@ -1521,12 +1521,6 @@
     },
     "Fantasy": {
       "Wallpapers": {
-        "Samurai In The Forest-1": {
-          "Source": "src/Fantasy",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Samurai Boss Fight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -1804,6 +1798,12 @@
           "Adult": true
         },
         "Fantasy Samurai Girl Red Dragon-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Samurai In The Forest-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
