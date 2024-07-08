@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Dead Redemption 2",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Dead Redemption 2 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Red-Dead-Redemption",
+  "Type": 3,
+  "Source": "rdr2.mp4",
+  "Tags": [
+    "Gunslingers",
+    "Wild West",
+    "Outlaws",
+    "Western"
+  ],
+  "Arguments": null
+}
