@@ -2612,6 +2612,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Captain Averys Ship-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Uncharted 4-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
