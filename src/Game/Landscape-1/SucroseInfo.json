@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Landscape",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Landscape - Red Dead Redemption 2 - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/landscape-rdr2-live-wallpaper",
+  "Type": 3,
+  "Source": "lrdr2.mp4",
+  "Tags": [
+    "Arthur Morgan",
+    "Mountains",
+    "Horseman",
+    "Clouds",
+    "Trees"
+  ],
+  "Arguments": null
+}
