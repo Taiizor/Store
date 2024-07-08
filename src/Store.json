@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Levi Ackerman-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Muzan and Ubuyashiki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1558,6 +1564,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Girl Tattoo Katana-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Futuristic Biker Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
