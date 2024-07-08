@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Dead Redemption 2",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Dead Redemption 2 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/red-dead-redemption-2-live-wallpaper",
+  "Type": 3,
+  "Source": "rdr2.mp4",
+  "Tags": [
+    "Cowboy Hat",
+    "Western",
+    "Cowboy",
+    "Sunset",
+    "Guns"
+  ],
+  "Arguments": null
+}
