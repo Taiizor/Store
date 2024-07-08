@@ -2624,6 +2624,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Peaceful Wild West-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Red Dead Redemption 2-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
