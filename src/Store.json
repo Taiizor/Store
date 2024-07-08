@@ -2624,6 +2624,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Red Dead Redemption 2-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Dead Redemption 2-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
