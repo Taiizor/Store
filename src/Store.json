@@ -426,6 +426,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Meliodas Seven Deadly Sins-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dusty White-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
