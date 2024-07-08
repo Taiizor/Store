@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Dusty White",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dusty White - Forbidden Zone - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dusty-white",
+  "Type": 3,
+  "Source": "dwfz.mp4",
+  "Tags": [
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Barren",
+    "Desert"
+  ],
+  "Arguments": null
+}
