@@ -2624,6 +2624,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Winter House-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Snowy Cabin-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
