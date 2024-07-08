@@ -2624,6 +2624,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Arthur Morgan Wild West Train-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Silhouette Arthur Morgan Sunset-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
