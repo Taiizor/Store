@@ -2612,6 +2612,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "034-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Captain Averys Ship-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
