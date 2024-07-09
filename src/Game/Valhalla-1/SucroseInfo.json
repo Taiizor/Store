@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Valhalla",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Assassin's Creed Valhalla - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/assassins-creed-valhalla-live-wallpaper",
+  "Type": 3,
+  "Source": "acv.mp4",
+  "Tags": [
+    "Fighting",
+    "Medieval",
+    "Weapon",
+    "Snow"
+  ],
+  "Arguments": null
+}
