@@ -2666,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Evening Snow-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Revelations-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
