@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Eivor",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -9,7 +9,7 @@
   "License": null,
   "Contact": "https://moewalls.com/games/eivor-assassins-creed-valhalla-live-wallpaper",
   "Type": 3,
-  "Source": "eac.mp4",
+  "Source": "eacv.mp4",
   "Tags": [
     "Face Portrait",
     "Viking",
