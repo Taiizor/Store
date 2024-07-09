@@ -426,6 +426,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anby Demara-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Trunks Super Saiyan Rage-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Levi Ackerman-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1367,6 +1379,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Dual Katanas Miyamoto Musashi-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Japanese Oni Demon Symbol-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -2648,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ayaka Lying In A Flower Lake-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Yoimiya-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -4195,6 +4219,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Anime Girl Standing In Lake-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Over Mountain Forest-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
