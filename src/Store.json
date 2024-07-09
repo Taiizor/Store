@@ -2666,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Fancy Center-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Syndicate-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Fancy Center",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fancy Center - Minecraft - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Minecraft-Fancy-Center-Live-Wallpaper",
+  "Type": 3,
+  "Source": "fcm.mp4",
+  "Tags": [
+    "Terrain",
+    "Clouds",
+    "Trees",
+    "Water",
+    "Snow"
+  ],
+  "Arguments": null
+}
