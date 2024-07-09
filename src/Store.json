@@ -2642,6 +2642,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Yoimiya-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Landscape-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
