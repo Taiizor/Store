@@ -426,6 +426,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Incomplete Malevolent Shrine Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sukuna Ryoumen Malevolent Shrine-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo vs Sukuna Domain Clash-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Anby Demara-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
