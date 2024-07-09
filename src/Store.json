@@ -2666,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Crimson Sunset-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Norse Church in Fjord-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
