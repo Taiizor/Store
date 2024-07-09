@@ -1564,6 +1564,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Holy Cyber Nun-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Girl Tattoo Katana-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

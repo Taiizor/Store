@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Holy Cyber Nun",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Holy Cyber Nun - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/holy-cyber-nun",
+  "Type": 3,
+  "Source": "hcn.mp4",
+  "Tags": [
+    "Cybernetic",
+    "Cyperpunk",
+    "Dystopian",
+    "Spiritual",
+    "Religion"
+  ],
+  "Arguments": null
+}
