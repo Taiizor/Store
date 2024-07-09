@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Bayek Of Siwa",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -9,7 +9,7 @@
   "License": null,
   "Contact": "https://moewalls.com/games/bayek-of-siwa-assassins-creed-origins-live-wallpaper",
   "Type": 3,
-  "Source": "bosac.mp4",
+  "Source": "bosaco.mp4",
   "Tags": [
     "Pyramid",
     "Clouds",
