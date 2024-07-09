@@ -2666,6 +2666,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Cherry Grove-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Rainy Day-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lively-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
