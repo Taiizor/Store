@@ -2666,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Black Flag-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Eivor-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

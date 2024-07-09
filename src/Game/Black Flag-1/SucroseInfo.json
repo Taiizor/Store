@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Flag",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Assassin's Creed IV: Black Flag - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/assassins-creed-iv-black-flag-live-wallpaper",
+  "Type": 3,
+  "Source": "acivbf.mp4",
+  "Tags": [
+    "Hoodie",
+    "Sword",
+    "Gun"
+  ],
+  "Arguments": null
+}
