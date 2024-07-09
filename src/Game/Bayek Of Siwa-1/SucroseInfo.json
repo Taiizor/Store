@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.9.0",
+  "Version": "1.0.0.0",
+  "Title": "Bayek Of Siwa",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bayek Of Siwa - Assassin's Creed Origins - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/bayek-of-siwa-assassins-creed-origins-live-wallpaper",
+  "Type": 3,
+  "Source": "bosac.mp4",
+  "Tags": [
+    "Pyramid",
+    "Clouds",
+    "Hoodie",
+    "Sword",
+    "Amun"
+  ],
+  "Arguments": null
+}

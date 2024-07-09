@@ -2666,6 +2666,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Bayek Of Siwa-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ayaka Lying In A Flower Lake-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
