@@ -426,6 +426,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Red Sword-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Muzan Kibutsuji Demon Slayer-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Car Street-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Goku Ultra Instinct Kamehameha-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl White Dragon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Incomplete Malevolent Shrine Sukuna-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1600,6 +1630,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Twilight Delicate-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Holy Cyber Nun-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
