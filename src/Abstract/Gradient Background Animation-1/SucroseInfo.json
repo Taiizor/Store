@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.10.0",
+  "Version": "1.0.0.0",
+  "Title": "Gradient Background Animation",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A simple and clean gradient background animation using only CSS.",
+  "Author": "Manuel Pinto",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/P1N2O",
+  "Type": 2,
+  "Source": "Gradient.html",
+  "Tags": [
+    "Colorfully",
+    "Colorful",
+    "RGB"
+  ],
+  "Arguments": null
+}

@@ -2,83 +2,75 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Gradient Background Animation-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif"
+        },
         "Grey Rock-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Abstract Fluid Colorful-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bulb-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "ROG 2024-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astronaut Ice Cream-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Colorful Smoke Planet-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Great Wave off Kanagawa-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fluid Simulation-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Spirit-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cosmic Pathway-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Colorful Water-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Galaxy Triangles-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pondering-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Skull-1": {
           "Source": "src/Abstract",
@@ -101,32 +93,27 @@
         "Broken-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cube-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ice-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ocean Waves-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Earth on a Piece of Paper-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -135,86 +122,72 @@
         "Paradise-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Space Walk-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Moon Over The Ocean-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bioluminescent Beach-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Contact Beach Scene-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anomaly-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Full Moon Ocean-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Spirit Tree-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Traditional Japanese House-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pumpkin Chariot Autumn-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Cozy Fall Morning Porch-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Fall Reading-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Autumn Lakeside Cottage Morning-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Soothing Sounds of Autumn Lake-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Pumpkin Porch Halloween-1": {
           "Source": "src/Ambience",
@@ -225,44 +198,37 @@
         "Cozy Autumn Sunny Morning-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Mountain-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Starry Night-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Heavy Rain-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "High Sky-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cozy Cabin Rain and Fireplace-1": {
           "Source": "src/Ambience",
           "Cover": "cover.jpg",
-          "Live": "live.gif",
-          "Adult": false
+          "Live": "live.gif"
         },
         "Calming Ocean Sunset-1": {
           "Source": "src/Ambience",
           "Cover": "ocean.jpg",
-          "Live": "sunset.gif",
-          "Adult": false
+          "Live": "sunset.gif"
         }
       }
     },
@@ -271,8 +237,7 @@
         "Lonely Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bulldog Jedi-1": {
           "Source": "src/Animals",
@@ -283,8 +248,7 @@
         "Torchic Pokemon-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sameowrai-1": {
           "Source": "src/Animals",
@@ -301,20 +265,17 @@
         "Chill The Lion-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Particulate Medusae-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astrocat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Skyrim Cat-1": {
           "Source": "src/Animals",
@@ -325,50 +286,42 @@
         "Abstract Smoke Wolf-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cat Stray-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fox Autumn Forest Pond-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyan Wolf Moon-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Eagle-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Isabell's Day Off-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Galaxy Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Colorful Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Last Wish-1": {
           "Source": "src/Animals",
@@ -379,14 +332,12 @@
         "Crow-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cat vs Ball of Wool-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -401,26 +352,22 @@
         "ROG Motion-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows-2": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Big Buck Bunny-1": {
           "Source": "src/Animation",
           "Cover": "logo.jpg",
-          "Live": "wakeup.gif",
-          "Adult": false
+          "Live": "wakeup.gif"
         }
       }
     },
@@ -477,8 +424,7 @@
         "Anby Demara-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Trunks Super Saiyan Rage-1": {
           "Source": "src/Anime",
@@ -495,8 +441,7 @@
         "Muzan and Ubuyashiki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Meliodas Seven Deadly Sins-1": {
           "Source": "src/Anime",
@@ -519,8 +464,7 @@
         "Goku Kid Epic-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Happy Gear 5 Luffy Sketch-1": {
           "Source": "src/Anime",
@@ -567,8 +511,7 @@
         "Luna-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Queen Makima-1": {
           "Source": "src/Anime",
@@ -579,14 +522,12 @@
         "Sano Manjiro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Anime Girl Watching The Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Inosuke-1": {
           "Source": "src/Anime",
@@ -603,14 +544,12 @@
         "Hatsune Miku in Sand Planet-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bed Time Now-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zenless Zone Zero-1": {
           "Source": "src/Anime",
@@ -621,8 +560,7 @@
         "Power-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Itachi Uchiha-1": {
           "Source": "src/Anime",
@@ -669,14 +607,12 @@
         "Luffy Gear 5 Lightning God-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neko Ninja Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ryomen Sukuna-1": {
           "Source": "src/Anime",
@@ -687,8 +623,7 @@
         "Gokachu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "My Class-1": {
           "Source": "src/Anime",
@@ -699,14 +634,12 @@
         "Yinlin Touching You-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Green Paint-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Holding Sword-1": {
           "Source": "src/Anime",
@@ -741,26 +674,22 @@
         "Chibi Naruto With Kurama-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chibi Naruto-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Asta-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neko Anime Girl-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Frieren Beyond Journey's End-2": {
           "Source": "src/Anime",
@@ -789,20 +718,17 @@
         "Lucy-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chibi Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Annie-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Error System-1": {
           "Source": "src/Anime",
@@ -819,26 +745,22 @@
         "Rin Shima-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Gojo In Dystopian City-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Gojo Unlimited Void-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zenitsu Crying-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Clare-1": {
           "Source": "src/Anime",
@@ -849,14 +771,12 @@
         "Sakura Miko Eating Baguette-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Spells-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Samurai Anime Girl And Dragon-1": {
           "Source": "src/Anime",
@@ -873,8 +793,7 @@
         "Sad Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Guts In The Rain-1": {
           "Source": "src/Anime",
@@ -897,14 +816,12 @@
         "Gojo Purple Hollow-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rengoku Death-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rengoku Death-1": {
           "Source": "src/Anime",
@@ -921,8 +838,7 @@
         "Roronoa Zoro Chibi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Frieren Beyond Journey's End-1": {
           "Source": "src/Anime",
@@ -939,8 +855,7 @@
         "Sukuna Red Shrine Torii-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Darkness Army-1": {
           "Source": "src/Anime",
@@ -951,26 +866,22 @@
         "Killua Lightning Bolt Hunter X Hunter-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Goku Super Saiyan Blue Kamehameha-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Thousand Sunny Ship In The Sea-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Gojo In Shibuya-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sung Jin Woo Assassin-1": {
           "Source": "src/Anime",
@@ -981,8 +892,7 @@
         "Totoro In The Flower Field-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Toji Fushiguro-1": {
           "Source": "src/Anime",
@@ -993,14 +903,12 @@
         "Elaina Wandering Witch-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl And Cat-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zenitsu Thunder Breathing-1": {
           "Source": "src/Anime",
@@ -1017,26 +925,22 @@
         "Vegeta Ultra Ego-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Makoto Yuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Itachi Last Breath-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Floating In The Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tanjiro Water Flame-1": {
           "Source": "src/Anime",
@@ -1059,20 +963,17 @@
         "Killua Hunter x Hunter-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Plana Blue Archive-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Straw Hat Itachi Akatsuki-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Samurai Anime Girl-1": {
           "Source": "src/Anime",
@@ -1083,20 +984,17 @@
         "Tendou Alice Blue Archive-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Boy And Cat-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Mecha Armor-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Samurai Green Lightning Katana-1": {
           "Source": "src/Anime",
@@ -1119,32 +1017,27 @@
         "Anime Girl and Nissan GTR-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Gundam Mecha-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Rainy Street-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Waterfalls-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Train-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Kobeni Literally Me-1": {
           "Source": "src/Anime",
@@ -1155,14 +1048,12 @@
         "Gojo Smiling-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime School Girl Sakura-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Suguru Geto-1": {
           "Source": "src/Anime",
@@ -1173,20 +1064,17 @@
         "Anime Girl Watching-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "White Gundam-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Elaina Moonlight Flower-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tsugikuni Yoriichi-1": {
           "Source": "src/Anime",
@@ -1197,14 +1085,12 @@
         "Anime Girl Flower Field-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Asuka Evangelion Mecha-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Warrior-1": {
           "Source": "src/Anime",
@@ -1227,8 +1113,7 @@
         "Umika And Yuu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rengoku Flaming Nichirin-1": {
           "Source": "src/Anime",
@@ -1239,14 +1124,12 @@
         "Gojo Blue Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Crying-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zero Two Toyota GR 86-1": {
           "Source": "src/Anime",
@@ -1263,32 +1146,27 @@
         "Tired Anime Girl Napping-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl And Kitten-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Butterflies Sunlight-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Anime Girl-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyberpunk Anime Girl Shooting-1": {
           "Source": "src/Anime",
@@ -1299,8 +1177,7 @@
         "Anime Girl Cyberpunk Helmet-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girls Aquarium-1": {
           "Source": "src/Anime",
@@ -1311,8 +1188,7 @@
         "Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dragon Anime Girl-1": {
           "Source": "src/Anime",
@@ -1323,8 +1199,7 @@
         "Dark Angel-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nezuko Kamado-1": {
           "Source": "src/Anime",
@@ -1341,8 +1216,7 @@
         "Twins Lying-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neko Anime Girl-1": {
           "Source": "src/Anime",
@@ -1371,26 +1245,22 @@
         "Fantasy Girl Playing-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Fox Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Winter Snow-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Anime Girl Blue Stars-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zenitsu Agatsuma-1": {
           "Source": "src/Anime",
@@ -1417,8 +1287,7 @@
         "Aquarium-1": {
           "Source": "src/Artworks",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -1460,8 +1329,7 @@
         "Fantasy Girl Resting Under Tree Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Death And Life-1": {
           "Source": "src/Black and White",
@@ -1484,8 +1352,7 @@
         "Princess Aeolian Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Zoro Monochrome-1": {
           "Source": "src/Black and White",
@@ -1522,14 +1389,12 @@
         "Cyberpunk City Flying-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lo-Fi City-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -1550,38 +1415,32 @@
         "Alve's Town-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bing Wallpaper-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "London-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lakeside-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Forest-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The 25th Hour-1": {
           "Source": "src/Dynamic",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -1593,38 +1452,32 @@
         "Fireflies Forest-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Forest Milky Way Deer-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Moonlight Magical Tree-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lotus Pond Forest-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fantasy Elf Forest-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Little Boy-1": {
           "Source": "src/Enchanted Forests",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -1669,8 +1522,7 @@
         "Girl With Pet Chipmunk-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Goth Angel Babe-1": {
           "Source": "src/Fantasy",
@@ -1765,8 +1617,7 @@
         "Green Eyes-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bamboo Samurai Remastered 4K-1": {
           "Source": "src/Fantasy",
@@ -1795,14 +1646,12 @@
         "Girl With Lion Dance-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tornado Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dangerous Girl-1": {
           "Source": "src/Fantasy",
@@ -1873,20 +1722,17 @@
         "Elf Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Enchanted Evening-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Flower Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Majin Android 21-1": {
           "Source": "src/Fantasy",
@@ -1921,8 +1767,7 @@
         "Moon Fishing-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyberpunk Girl Dragon Tattoo-1": {
           "Source": "src/Fantasy",
@@ -1945,8 +1790,7 @@
         "Fantasy Girl Playing With Cat-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fantasy Samurai Girl-1": {
           "Source": "src/Fantasy",
@@ -1993,8 +1837,7 @@
         "Fantasy Girl Wearing Veil Mask-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Jade Dragon Tattoo-2": {
           "Source": "src/Fantasy",
@@ -2011,8 +1854,7 @@
         "Guard-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bride Of Death-1": {
           "Source": "src/Fantasy",
@@ -2059,8 +1901,7 @@
         "Valkyrie-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fantasy Samurai Girl In The Snow-1": {
           "Source": "src/Fantasy",
@@ -2071,8 +1912,7 @@
         "Yakuza Fantasy Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Demon Hunter Girl-1": {
           "Source": "src/Fantasy",
@@ -2083,8 +1923,7 @@
         "Lenia The Burning Rose-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Jade Dragon Tattoo-1": {
           "Source": "src/Fantasy",
@@ -2113,14 +1952,12 @@
         "Princess Yan Playing Piano Underwater-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Yggdrasil Tree Of Life Mystical Forest-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chinese Fantasy Girl-1": {
           "Source": "src/Fantasy",
@@ -2155,8 +1992,7 @@
         "Rainy River Boatman-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chinese God Dragon-1": {
           "Source": "src/Fantasy",
@@ -2167,14 +2003,12 @@
         "Princess Aeolian Checking Out Her Jewelry-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Princess Aeolian And Her Cat-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Princess Aeolian Playing-1": {
           "Source": "src/Fantasy",
@@ -2203,20 +2037,17 @@
         "Princess Yan Sad-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Princess Aeolian Sea Travel-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Princess Yan Palace Terrace-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Princess And The Grave-1": {
           "Source": "src/Fantasy",
@@ -2227,8 +2058,7 @@
         "Princess Yan Smiling-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Reflection Ghostblade-1": {
           "Source": "src/Fantasy",
@@ -2245,14 +2075,12 @@
         "Fantasy World-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sakura River Town-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Vikings Boat Crossing The Sea-1": {
           "Source": "src/Fantasy",
@@ -2263,32 +2091,27 @@
         "Goblet of Giants-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fantasy Warrior-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "World-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Valley-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sacred-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -2297,20 +2120,17 @@
         "Winter is Here-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Winter is Coming-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Stark-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cool Jon Snow-1": {
           "Source": "src/Film and TV",
@@ -2327,8 +2147,7 @@
         "Daenerys Targaryen-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Homelander-1": {
           "Source": "src/Film and TV",
@@ -2351,14 +2170,12 @@
         "Miles Morales Lonely Winter Street-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Top Gun Supersonic Jet-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lucy MacLean-1": {
           "Source": "src/Film and TV",
@@ -2375,14 +2192,12 @@
         "Miles Morales Neon Snowy Night-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Spider Man Symbiote-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nazgul Rider-1": {
           "Source": "src/Film and TV",
@@ -2453,20 +2268,17 @@
         "Robot-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chinatown-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Night-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Deadpool Bathing-1": {
           "Source": "src/Film and TV",
@@ -2483,14 +2295,12 @@
         "Rick and Morty-4": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rick and Morty-3": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rick and Morty-2": {
           "Source": "src/Film and TV",
@@ -2501,14 +2311,12 @@
         "Rick and Morty-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "One Ring-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Joker-1": {
           "Source": "src/Film and TV",
@@ -2519,14 +2327,12 @@
         "Miles Morales-2": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Miles Morales-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Spider Gwen-1": {
           "Source": "src/Film and TV",
@@ -2537,26 +2343,22 @@
         "Spider Man-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Mandalorian-2": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Mandalorian-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Kylo Ren-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Darth Revan-1": {
           "Source": "src/Film and TV",
@@ -2591,14 +2393,12 @@
         "Baby Groot-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Grogu-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -2607,8 +2407,7 @@
         "Cat Noodles-1": {
           "Source": "src/Food and Drinks",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -2617,56 +2416,47 @@
         "Galaxy Room-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Galaxy Sky Windows-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Supermassive Black Hole-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Hole Nebula-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cosmos-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Galaxy Andromeda-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Hole Void-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nebula Black Hole-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tree Island-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Skull Astronaut-1": {
           "Source": "src/Galaxy",
@@ -2677,44 +2467,37 @@
         "Dimensional Portal-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Stellaris-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Millions of Planets-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Hole-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astronaut-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nebula-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Purple Cat Multiverse-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -2723,26 +2506,22 @@
         "Cherry Grove-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rainy Day-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lively-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fancy Center-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Syndicate-1": {
           "Source": "src/Game",
@@ -2771,8 +2550,7 @@
         "Norse Church in Fjord-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Project Legacy-1": {
           "Source": "src/Game",
@@ -2807,20 +2585,17 @@
         "Ayaka Lying In A Flower Lake-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Yoimiya-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Landscape-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Red Dead Redemption 2-3": {
           "Source": "src/Game",
@@ -2831,20 +2606,17 @@
         "Red Dead Redemption 2-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Winter House-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Snowy Cabin-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Peaceful Wild West-1": {
           "Source": "src/Game",
@@ -2867,8 +2639,7 @@
         "Arthur Morgan Wild West Train-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Silhouette Arthur Morgan Sunset-1": {
           "Source": "src/Game",
@@ -2879,14 +2650,12 @@
         "A Thiefs End-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "A Thiefs End-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "034-1": {
           "Source": "src/Game",
@@ -2897,20 +2666,17 @@
         "Captain Averys Ship-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Uncharted 4-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Akali Rogue Assassin-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Akeha-1": {
           "Source": "src/Game",
@@ -2921,14 +2687,12 @@
         "D.Va In Hat-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Marvel's Spider-Man 2-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dark Angels-1": {
           "Source": "src/Game",
@@ -2951,26 +2715,22 @@
         "Swamp Nighttime-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cozy Lake House-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cherry Blossom House-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Steam Summer-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Firefly-1": {
           "Source": "src/Game",
@@ -2981,14 +2741,12 @@
         "Ayleid Ruins-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "River Vials-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Jinx Summer Beach-1": {
           "Source": "src/Game",
@@ -3011,8 +2769,7 @@
         "Fio and Mama-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shadow Of The Erdtree-3": {
           "Source": "src/Game",
@@ -3023,8 +2780,7 @@
         "Firefly Sunset City-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Battle Bat Xayah-1": {
           "Source": "src/Game",
@@ -3041,8 +2797,7 @@
         "Sun Wukong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Primordial Aatrox-1": {
           "Source": "src/Game",
@@ -3053,8 +2808,7 @@
         "Nature-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dark Nier-1": {
           "Source": "src/Game",
@@ -3071,8 +2825,7 @@
         "Shaman Village-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shadow Of The Erdtree-2": {
           "Source": "src/Game",
@@ -3089,8 +2842,7 @@
         "Autumn Tree Moonlight Night-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Myth Wukong-2": {
           "Source": "src/Game",
@@ -3101,8 +2853,7 @@
         "Forest Night-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Call Of Duty Black Ops 6-1": {
           "Source": "src/Game",
@@ -3125,8 +2876,7 @@
         "Clorinde-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Malevelon Creek-1": {
           "Source": "src/Game",
@@ -3137,8 +2887,7 @@
         "Fallout Power Armor-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sekiro-1": {
           "Source": "src/Game",
@@ -3149,8 +2898,7 @@
         "Spartan-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cute Jinx-1": {
           "Source": "src/Game",
@@ -3179,14 +2927,12 @@
         "Black Myth Wukong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "City of Ephyra-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Omen-2": {
           "Source": "src/Game",
@@ -3197,20 +2943,17 @@
         "Irithyll Of The Boreal Valley-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Porcelain Kindred-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rope In The Rain-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sakai Katana In The Field-1": {
           "Source": "src/Game",
@@ -3221,14 +2964,12 @@
         "Raiden Shogun Winter-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Hall Of Legends Ahri-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyberpunk 2077-3": {
           "Source": "src/Game",
@@ -3239,38 +2980,32 @@
         "Fallout 5-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Santa's Helper-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Radius Raid-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Snake vs Blocks-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bendy-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Song So Mi Matrix-1": {
           "Source": "src/Game",
@@ -3281,14 +3016,12 @@
         "Inquisition-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Aventurine Tossing Coin-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Valorant Homescreen-1": {
           "Source": "src/Game",
@@ -3305,20 +3038,17 @@
         "Bronya-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Arlecchino Umbrella-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Mario Kart DS-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Yae Miko Morning Wake Up-1": {
           "Source": "src/Game",
@@ -3329,8 +3059,7 @@
         "Arlecchino-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Swan-1": {
           "Source": "src/Game",
@@ -3347,8 +3076,7 @@
         "Yae Miko Sleeping-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sparkle Fox Max-1": {
           "Source": "src/Game",
@@ -3365,8 +3093,7 @@
         "Cattiva Sleeping-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Firefly Lying In The Water-1": {
           "Source": "src/Game",
@@ -3377,8 +3104,7 @@
         "Minecraft Fireplace-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Shogun Purple Lightning Sword-1": {
           "Source": "src/Game",
@@ -3389,8 +3115,7 @@
         "Yae Miko Looking At You-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ghost Ready For Battle-1": {
           "Source": "src/Game",
@@ -3401,8 +3126,7 @@
         "Furina Smiling-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Agent Assassin Omen-1": {
           "Source": "src/Game",
@@ -3413,14 +3137,12 @@
         "Lucia and Jason-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Grand Theft Auto VI-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "High Noon Leona x Tahm Kench-1": {
           "Source": "src/Game",
@@ -3437,20 +3159,17 @@
         "Jinx-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Xiao White Lily-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Furina-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Shogun Lying-1": {
           "Source": "src/Game",
@@ -3461,8 +3180,7 @@
         "Cyberpunk 2077 Logo-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Noelle Maid-1": {
           "Source": "src/Game",
@@ -3503,14 +3221,12 @@
         "Raiden Shogun Meditating-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Shogun x Yae Miko-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Baal Musou Shinsetsu-1": {
           "Source": "src/Game",
@@ -3527,14 +3243,12 @@
         "Raiden Shogun In The Rain-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Ei x Raiden Makoto-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Shogun Lonely-1": {
           "Source": "src/Game",
@@ -3659,8 +3373,7 @@
         "Spirit Blossom Sakura Ahri-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Spirit Blossom Ahri-2": {
           "Source": "src/Game",
@@ -3731,14 +3444,12 @@
         "Irelia-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Karma-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Diana-1": {
           "Source": "src/Game",
@@ -3749,20 +3460,17 @@
         "Mulberry Moonlight-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shenhe-3": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shenhe-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shenhe-1": {
           "Source": "src/Game",
@@ -3779,8 +3487,7 @@
         "Nilou-5": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nilou-4": {
           "Source": "src/Game",
@@ -3797,32 +3504,27 @@
         "Nilou-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nilou-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Ganyu-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ganyu-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Raiden Shogun x Yae Miko-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Post Apocalyptic Soldiers-1": {
           "Source": "src/Game",
@@ -3905,14 +3607,12 @@
         "Genshin Impact-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Omen-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ghost-2": {
           "Source": "src/Game",
@@ -3983,14 +3683,12 @@
         "Enchanted Sword-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Girls In Space-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Witcher 3-1": {
           "Source": "src/Game",
@@ -4001,14 +3699,12 @@
         "Age of the Stars-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Shadow Of The Erdtree-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "CS GO-2": {
           "Source": "src/Game",
@@ -4061,8 +3757,7 @@
         "Kratos-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Kai'Sa-1": {
           "Source": "src/Game",
@@ -4079,20 +3774,17 @@
         "Traveler Lumine-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Traveler Aether-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nahida-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Mona-1": {
           "Source": "src/Game",
@@ -4109,14 +3801,12 @@
         "Kaedehara Kazuha-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Kaedehara Kazuha-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Eula-2": {
           "Source": "src/Game",
@@ -4133,8 +3823,7 @@
         "The Last of Us Part II-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Johnny Silverhand-1": {
           "Source": "src/Game",
@@ -4145,8 +3834,7 @@
         "Cyberpunk 2077-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "PUBG Mobile-1": {
           "Source": "src/Game",
@@ -4157,20 +3845,17 @@
         "Night City-2": {
           "Source": "src/Game",
           "Cover": "skycity.jpg",
-          "Live": "livesky.gif",
-          "Adult": false
+          "Live": "livesky.gif"
         },
         "Night City-1": {
           "Source": "src/Game",
           "Cover": "ncity.jpg",
-          "Live": "nsky.gif",
-          "Adult": false
+          "Live": "nsky.gif"
         },
         "Ellie-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ellie-1": {
           "Source": "src/Game",
@@ -4191,14 +3876,12 @@
         "Triangles and Light-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Abstract Geometric-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4207,8 +3890,7 @@
         "Merry Christmas Tree-1": {
           "Source": "src/Holidays and Seasons",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4235,8 +3917,7 @@
         "Cat Pumpkin Halloween-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Witch Cauldron-1": {
           "Source": "src/Horror and Halloween",
@@ -4284,32 +3965,27 @@
         "Pokemon Cute Pikachu-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sonic Explosion-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Jake and Finn Camping-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Spongebob In Krusty Krab-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Star Wars Travel-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Depression Spongebob-1": {
           "Source": "src/Kids and Cartoon",
@@ -4320,38 +3996,32 @@
         "Conch Street-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rainy Day-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Jake Listening-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Smurfs-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pikachu-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sonic-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4360,92 +4030,77 @@
         "Anime Girl Standing In Lake-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Over Mountain Forest-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Winter Night Train-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tropical Room-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Orange Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Thousand Sunny Sunset Sea-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Outer World Ambience-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dusk On Shore-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Winter Road-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Infinite Portals-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lighthouse-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Another World-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Magical White Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Light Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cherry Blossom Tree-2": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Legendary Sword-1": {
           "Source": "src/Landscape",
@@ -4456,80 +4111,67 @@
         "Rivendell-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cherry Blossom Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Fantasy Rainbow Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Starry Sky Tree-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "River Cave Liyue-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Garden In The Sky-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Milky Way Starry Sky-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Train Cloudy Day-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Boatman Aurora Sky Stars-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cherry Blossom Trees-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Palace City-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Forest River-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Magical Castle-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Crescent Moon-1": {
           "Source": "src/Landscape",
@@ -4540,38 +4182,32 @@
         "Deer In The Smoky Mountains-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chill Seashore-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Blue Sea Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Moon Night Onmyoji-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Train Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Wonderful Landscape-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4592,80 +4228,67 @@
         "Chinese Girl Cherry Blossom-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chinese Girl Blossom-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chinese Girl Lunar New Year Festival-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Beautiful Chinese Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Beautiful Girl With Glasses-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Relax Cafe Rainy Night Live-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lonely Night Walk-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ghibli Lofi Coffee-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Rain Jazz Girl-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Moon Girl Shadow-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Infinite Road-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Tokyo Rainy Night-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lofi Rainy Cozy Shop-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Late Night Smoking-1": {
           "Source": "src/Lifestyle",
@@ -4682,20 +4305,17 @@
         "Jade Lunar New Year-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lofi Van Life-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lofi Girl Using Laptop In Balcony-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Gamer Girl-3": {
           "Source": "src/Lifestyle",
@@ -4747,14 +4367,12 @@
         "Winter Village-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows 11 Bats-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Venom-1": {
           "Source": "src/Minimalist",
@@ -4765,8 +4383,7 @@
         "Space-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4775,26 +4392,22 @@
         "Aching Forever-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Leave Me Forever-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Wonderful-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Safety Net-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Get Even-1": {
           "Source": "src/Music",
@@ -4811,14 +4424,12 @@
         "Just Breathing-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Deep Blue-1": {
           "Source": "src/Music",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lost Chapter-1": {
           "Source": "src/Music",
@@ -4839,20 +4450,17 @@
         "Rainy-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Snowy-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Forest Stream-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4867,14 +4475,12 @@
         "Pixel Forest-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Furries Subway Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -4889,20 +4495,17 @@
         "Lofi Room Neon Lights-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GTR R34-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Purple Eyes-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyber Nun-1": {
           "Source": "src/Retro",
@@ -4919,8 +4522,7 @@
         "Neon Night Dream-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neon Neko-1": {
           "Source": "src/Retro",
@@ -4931,38 +4533,32 @@
         "Sad Purple Girl-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Purple Night Moon Clouds-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pink Sunset Ocean-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Purple Nebula Mountains-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Retrowave Ocean Mountain-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Bedroom Neon Futuristic City-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyberpunk Biker Girl Purple Neon-1": {
           "Source": "src/Retro",
@@ -4973,44 +4569,37 @@
         "Pink Nebula-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Panther-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Pink Sun-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "DeLorean Floating-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Moonlight Wave-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neon Car-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5019,8 +4608,7 @@
         "Haeyong Razer RGB Room-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Skull-1": {
           "Source": "src/RGB",
@@ -5031,26 +4619,22 @@
         "Asus ROG-2": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Panther-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Asus ROG-1": {
           "Source": "src/RGB",
           "Cover": "look.jpg",
-          "Live": "peek.gif",
-          "Adult": false
+          "Live": "peek.gif"
         },
         "Windows-1": {
           "Source": "src/RGB",
           "Cover": "look.jpg",
-          "Live": "peek.gif",
-          "Adult": false
+          "Live": "peek.gif"
         }
       }
     },
@@ -5059,8 +4643,7 @@
         "Periodic Table-1": {
           "Source": "src/Science",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5069,8 +4652,7 @@
         "Home-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "TigerTech-1": {
           "Source": "src/Science Fiction",
@@ -5081,68 +4663,57 @@
         "Starman-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astronaut in Space-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Blue Gate-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Hole Energy-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Venus Planet-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Forest-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Interstellar Wormhole-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Water Station-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Interdimensional-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Traveller-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Space Portal-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5151,14 +4722,12 @@
         "Floating Castle In The Clouds-1": {
           "Source": "src/Sky",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Storm in Sky-1": {
           "Source": "src/Sky",
           "Cover": "thundersky.jpg",
-          "Live": "livestorm.gif",
-          "Adult": false
+          "Live": "livestorm.gif"
         }
       }
     },
@@ -5173,20 +4742,17 @@
         "Planetary System-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Space Station City-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Travel Space Hole-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astronaut Void Space-1": {
           "Source": "src/Space",
@@ -5197,38 +4763,32 @@
         "Black Hole-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Universe Waterfall-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Astronaut and Black Hole-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Space Train-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Floating in Space-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Wormhole-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5237,14 +4797,12 @@
         "Baseball Girl-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cristiano Ronaldo Portugal-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5259,20 +4817,17 @@
         "Chibi Spider Man-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Miles Morales Moonlight Glitching-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Panther-2": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Black Widow-2": {
           "Source": "src/Superheroes",
@@ -5283,20 +4838,17 @@
         "Black Widow-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Batman-3": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Batman-2": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Batman-1": {
           "Source": "src/Superheroes",
@@ -5307,8 +4859,7 @@
         "Black Panther-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Iron Man-1": {
           "Source": "src/Superheroes",
@@ -5323,80 +4874,67 @@
         "Circle Audio Visualizer-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "AudiOrbits-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Simple System 3D-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Simple System-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Music Tunnel-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Living Room-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Media Parallax-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Music TV-2": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Music TV-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ferrari 458 Italia-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Simple Visualizer-2": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Simple Visualizer-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Simple Media-1": {
           "Source": "src/System",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5421,50 +4959,42 @@
         "Hacker Room Rainy Night-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Neo Matrix-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Matrix Rain-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Alien Lab The x Files-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "UFO Kidnapping-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows 11-2": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Windows 11-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Glitch Windows-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Coding Deck-1": {
           "Source": "src/Technology",
@@ -5487,8 +5017,7 @@
         "Digital Code-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5513,38 +5042,32 @@
         "Ripples-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Hill-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Circular Calendar Display-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Digital Analog Clock-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Glitch Clock-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Flip Clock-1": {
           "Source": "src/Time",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
@@ -5553,20 +5076,17 @@
         "Floating In The Ocean-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chihiro x Haku-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Magical Underwater-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Colorful Sea Dragon-1": {
           "Source": "src/Underwater and Marine",
@@ -5587,32 +5107,27 @@
         "Mercedes G 63-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "BMW M5 F90-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GTR R35-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Retro Car Porsche 911-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chillout-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Biker Couple-1": {
           "Source": "src/Vehicles",
@@ -5623,14 +5138,12 @@
         "Nissan Skyline GT-R R34 V-Spec II-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nitro Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Skeleton Riding a Bike-1": {
           "Source": "src/Vehicles",
@@ -5641,176 +5154,147 @@
         "Lamborghini Veneno-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dodge Cyberpunk Rainy Street-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Ferrari 458 Italia-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cyberpunk DeLorean Night City-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Drive In The Clouds-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Space Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "DeLorean-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "The Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Cybertruck-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Night Drive-2": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Night Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sunset Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Synthwave Countach-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Synthwave Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Hyundai N Vision 74 Retrowave-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GTR R34 Japanese Neon Street-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GT-R R35 Nismo-2": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GT-R R35 Nismo-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Futuristic Car Neon Cyberpunk City-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Midnight Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan GT-R Cyberpunk-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Mazda RX-7 FD-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Dodge SRT Viper-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Chevrolet Corvette Stingray C8-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lamborghini Terzo Millennio-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Porsche 992 Turbo S Techart-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Retrowave DJ Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Batmobile Pursuit-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Sports Cars-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Beast Car-1": {
           "Source": "src/Vehicles",
@@ -5821,38 +5305,32 @@
         "Bugatti-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Lamborghini Aventador-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "Nissan Skyline-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "BMW M4-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "McLaren-2": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         },
         "McLaren-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
+          "Live": "preview.gif"
         }
       }
     },
