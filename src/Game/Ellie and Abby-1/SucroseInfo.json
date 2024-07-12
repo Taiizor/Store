@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Ellie and Abby",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ellie and Abby - The Last Of Us Part II - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/The-Last-Of-US-Part-2-Elie-&-Abby-Live-Wallpaper",
+  "Type": 3,
+  "Source": "eaatloupii.mp4",
+  "Tags": [
+    "Abigail Anderson",
+    "Ellie Williams",
+    "Abby Anderson"
+  ],
+  "Arguments": null
+}

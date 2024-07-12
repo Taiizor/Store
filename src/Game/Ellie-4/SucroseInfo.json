@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Ellie",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ellie - The Last Of Us - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/ellie-last-of-us-live-wallpaper",
+  "Type": 3,
+  "Source": "etlou.mp4",
+  "Tags": [
+    "Ellie Williams"
+  ],
+  "Arguments": null
+}

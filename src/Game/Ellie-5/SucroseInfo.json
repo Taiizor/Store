@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Ellie",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ellie - The Last Of Us Part II - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Live-Wallpaper-The-Last-of-Us-2-",
+  "Type": 3,
+  "Source": "etloupii.mp4",
+  "Tags": [
+    "Ellie Williams"
+  ],
+  "Arguments": null
+}
