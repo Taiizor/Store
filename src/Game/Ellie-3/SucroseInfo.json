@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Ellie",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ellie - The Last Of Us - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/The-Last-of-Us-Ellie-HD-Live-Wallpaper",
+  "Type": 3,
+  "Source": "etlou.mp4",
+  "Tags": [
+    "Ellie Williams",
+    "Guitar",
+    "Smoke"
+  ],
+  "Arguments": null
+}
