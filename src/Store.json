@@ -2726,12 +2726,6 @@
     },
     "Game": {
       "Wallpapers": {
-        "Ellie and Abby-1": {
-          "Source": "src/Game",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Window-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -2889,6 +2883,18 @@
           "Adult": false
         },
         "Silhouette Arthur Morgan Sunset-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellie-6": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellie and Abby-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
