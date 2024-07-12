@@ -2300,6 +2300,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "The Last of Us-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Winter is Here-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
