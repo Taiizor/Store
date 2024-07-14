@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Gamer Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gamer Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/gamer-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "gag.mp4",
+  "Tags": [
+    "Relaxing",
+    "Chicken",
+    "Gun"
+  ],
+  "Arguments": null
+}
