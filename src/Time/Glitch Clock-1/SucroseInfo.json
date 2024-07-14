@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.1.0",
-  "Version": "1.0.0.6",
+  "Version": "1.0.0.7",
   "Title": "Glitch Clock",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,8 @@
   "Contact": "https://codepen.io/fearOfCode",
   "Type": 2,
   "Source": "Clock.html",
-  "Tags": null,
+  "Tags": [
+    "Time"
+  ],
   "Arguments": null
 }

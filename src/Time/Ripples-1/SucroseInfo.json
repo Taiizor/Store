@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.1.0",
-  "Version": "1.0.0.3",
+  "Version": "1.0.0.4",
   "Title": "Ripples",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,7 +11,8 @@
   "Type": 2,
   "Source": "Ripple.html",
   "Tags": [
-    "Clock"
+    "Clock",
+    "Time"
   ],
   "Arguments": null
 }
