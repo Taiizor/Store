@@ -2762,6 +2762,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Mercy-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Xayah-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Window-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
