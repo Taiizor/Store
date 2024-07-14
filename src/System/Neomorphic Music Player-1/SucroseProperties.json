@@ -1,0 +1,14 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "mediaSelect": {
+      "type": "filedropdown",
+      "value": "ivy.png",
+      "title": "Select Background Image",
+      "text": "Background (.jpg, .png, .webm)",
+      "desc": "All Images",
+      "filter": "*.jpg|*.jpeg|*.png|*.webm",
+      "folder": "media"
+    }
+  }
+}
