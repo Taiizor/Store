@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Peaceful Night River",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Peaceful Night River - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/peaceful-night-river-live-wallpaper",
+  "Type": 3,
+  "Source": "pnr.mp4",
+  "Tags": [
+    "Clouds",
+    "Trees",
+    "Moon"
+  ],
+  "Arguments": null
+}

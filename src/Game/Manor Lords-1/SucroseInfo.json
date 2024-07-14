@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Manor Lords",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Manor Lords - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/manor-lords-live-wallpaper",
+  "Type": 3,
+  "Source": "ml.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Horseman",
+    "Village",
+    "Castle",
+    "Clouds"
+  ],
+  "Arguments": null
+}

@@ -2762,6 +2762,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Manor Lords-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ranni Age Of Stars-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mercy-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -4938,6 +4950,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Peaceful Night River-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Rainy-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
