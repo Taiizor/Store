@@ -1648,6 +1648,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dream Chaser-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Blue Hair Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lofi Scifi Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Twilight Delicate-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Blue Hair Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blue Hair Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/blue-girl",
+  "Type": 3,
+  "Source": "bhg.mp4",
+  "Tags": [
+    "Aesthetic",
+    "Beautiful",
+    "Colorful",
+    "Youthful",
+    "Vibrant"
+  ],
+  "Arguments": null
+}
