@@ -13,6 +13,7 @@
 	const currentTimeIndicator = document.querySelector(".musicTime__current");
 	const leftTimeIndicator = document.querySelector(".musicTime__last");
 	const progressBar = document.getElementById("length");
+	const player = document.getElementById("player");
 
 	const albumClass = document.getElementById("jsAlbum");
 	const cover = document.getElementById("cover");
@@ -198,7 +199,11 @@
 				for (var i = 0; i < rules.length; i++) {
 					var rule = rules[i];
 					if (rule.selectorText === '.album::before') {
-						rule.style.backgroundImage = 'url("data:image/png;base64,' + obj.ThumbnailString + '")';
+						if (obj.ThumbnailString == null || obj.ThumbnailString == "") {
+							rule.style.backgroundImage = 'url("./../image/no_signal.gif")';
+						} else {
+							rule.style.backgroundImage = 'url("data:image/png;base64,' + obj.ThumbnailString + '")';
+						}
 						rule.style.animationPlayState = 'running';
 						break;
 					}
@@ -212,7 +217,11 @@
 				for (var i = 0; i < rules.length; i++) {
 					var rule = rules[i];
 					if (rule.selectorText === '.album::before') {
-						rule.style.backgroundImage = 'url("data:image/png;base64,' + obj.ThumbnailString + '")';
+						if (obj.ThumbnailString == null || obj.ThumbnailString == "") {
+							rule.style.backgroundImage = 'url("./../image/no_signal.gif")';
+						} else {
+							rule.style.backgroundImage = 'url("data:image/png;base64,' + obj.ThumbnailString + '")';
+						}
 						rule.style.animationPlayState = 'paused';
 						break;
 					}
@@ -227,7 +236,7 @@
 			for (var i = 0; i < rules.length; i++) {
 				var rule = rules[i];
 				if (rule.selectorText === '.album::before') {
-					rule.style.backgroundImage = 'url("./image/record.gif")';
+					rule.style.backgroundImage = 'url("./../image/record.gif")';
 					rule.style.animationPlayState = 'paused';
 					break;
 				}
@@ -268,8 +277,11 @@
 
 	window.SucrosePropertyListener = function(name, val) {
 		switch (name) {
-			case "mediaSelect":
+			case "backgroundImage":
 				container.style.backgroundImage = 'url("./' + val.folder + '/' + val.value + '")';
+				break;
+			case "foregroundImage":
+				player.style.backgroundImage = 'url("./' + val.folder + '/' + val.value + '")';
 				break;
 		}
 	}

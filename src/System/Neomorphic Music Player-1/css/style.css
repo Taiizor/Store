@@ -24,7 +24,7 @@ ____________________________________________________________*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url("./../media/ivy.png");
+    background-image: url("./../media/bg/ivy.png");
 }
 
 /*____________________________________________________________
@@ -39,6 +39,10 @@ ____________________________________________________________*/
     transform: translate(-50%, -50%);
     border-radius: 50px;
     background-color: #f5f6e7;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("./../media/fg/default.png");
     box-shadow: -3px -3px 9px 0.1px #fff, 3px 3px 9px 0.1px #ccc;
     overflow: hidden;
 }
@@ -203,7 +207,7 @@ ____________________________________________________________*/
     top: 451px;
     left: 50%;
     transform: translateX(-50%);
-    width: 185px;
+    width: 450px;
     height: 58px;
 }
 .musicInfo__name {

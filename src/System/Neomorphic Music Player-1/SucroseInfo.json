@@ -1,10 +1,10 @@
 {
   "AppVersion": "24.7.13.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Neomorphic Music Player",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Neomorphic Music Player 🎧",
+  "Description": "Neomorphic Music Player",
   "Author": "Roden",
   "License": "License.txt",
   "Contact": "https://codepen.io/RodenKerthin",
