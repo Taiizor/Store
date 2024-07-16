@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Gawr Gura",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gawr Gura - Virtual YouTuber - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/gawr-gura-virtual-youtuber-live-wallpaper",
+  "Type": 3,
+  "Source": "ggvyt.mp4",
+  "Tags": [
+    "White Hair",
+    "Blue Eyes",
+    "Blue Hair"
+  ],
+  "Arguments": null
+}

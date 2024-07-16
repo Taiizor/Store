@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Lost In Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lost In Space - Signalis - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/lost-in-space-signalis-live-wallpaper",
+  "Type": 3,
+  "Source": "liss.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Spaceship",
+    "Stars"
+  ],
+  "Arguments": null
+}

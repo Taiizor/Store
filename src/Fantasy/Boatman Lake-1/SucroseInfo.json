@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Boatman Lake",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Boatman Lake - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/boatman-lake-live-wallpaper",
+  "Type": 3,
+  "Source": "bl.mp4",
+  "Tags": [
+    "Clouds",
+    "Birds",
+    "River",
+    "Fish",
+    "Loak"
+  ],
+  "Arguments": null
+}

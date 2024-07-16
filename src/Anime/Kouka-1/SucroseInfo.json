@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Kouka",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kouka - Gintama - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/kouka-gintama-live-wallpaper",
+  "Type": 3,
+  "Source": "kg.mp4",
+  "Tags": [
+    "Flower Petals",
+    "Red Hair"
+  ],
+  "Arguments": null
+}

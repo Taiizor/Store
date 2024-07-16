@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Shxtou",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Shxtou - Virtual YouTuber - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/shxtou-virtual-youtuber-live-wallpaper",
+  "Type": 3,
+  "Source": "svyt.mp4",
+  "Tags": [
+    "Anime Boy",
+    "Scythe"
+  ],
+  "Arguments": null
+}

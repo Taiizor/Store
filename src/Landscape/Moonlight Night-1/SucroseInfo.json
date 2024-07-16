@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Moonlight Night",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moonlight Night - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/moonlight-night-live-wallpaper",
+  "Type": 3,
+  "Source": "mn.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Waterfall",
+    "Clouds",
+    "Birds"
+  ],
+  "Arguments": null
+}

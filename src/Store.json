@@ -438,6 +438,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "You Look Lonely Guts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Texas Drinking Wine-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kouka-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Shxtou-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gawr Gura-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gabimaru-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1726,6 +1756,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Boatman Lake-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cyberpunk Dystopian Fortress-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cyber City-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2870,6 +2912,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Lost In Space-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kafka-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kafka-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Stellar Blade-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -4603,6 +4663,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Moonlight Night-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Girl Standing In Lake-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
