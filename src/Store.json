@@ -456,6 +456,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sleeping Snorlax-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Guns Girls Z-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3008,6 +3014,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Elden Ring Embers-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chun Li-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5310,6 +5322,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Waterfall Village-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Peaceful Night River-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

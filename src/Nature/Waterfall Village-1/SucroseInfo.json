@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Waterfall Village",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Waterfall Village - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/waterfall-village-live-wallpaper",
+  "Type": 3,
+  "Source": "wv.mp4",
+  "Tags": [
+    "Clouds",
+    "House",
+    "Trees"
+  ],
+  "Arguments": null
+}
