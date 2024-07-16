@@ -450,6 +450,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tank Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Black Curtain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Plana Umbrella Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1665,6 +1677,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Gear 5 Comics-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Supergirl-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -1786,6 +1804,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Koi Pond Boat Ride-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Boatman Lake-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2948,6 +2972,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Chun Li-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Genshin Impact 3rd Anniversary-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5288,6 +5318,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Neon Beast Girl-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zoro Purple Fire Enma Katana-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
