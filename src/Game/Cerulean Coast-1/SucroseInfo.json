@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Cerulean Coast",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cerulean Coast - Elden Ring - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/cerulean-coast-elden-ring-live-wallpaper",
+  "Type": 3,
+  "Source": "ccer.mp4",
+  "Tags": [
+    "Flower Field",
+    "Landscape",
+    "Tomb"
+  ],
+  "Arguments": null
+}

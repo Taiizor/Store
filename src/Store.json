@@ -274,6 +274,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Bear-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lonely Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -432,6 +438,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Serial Experiments Lain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Changli and Rover-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ellen Joe-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2762,6 +2780,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Cerulean Coast-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Manor Lords-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5710,6 +5734,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Night Street-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mercedes G 63-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
