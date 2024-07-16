@@ -438,6 +438,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Akashi Junko-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bocchi The Rock-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1672,6 +1678,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Silver Hair Hooded Warrior-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cyborg Arm Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Asian Farm Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2792,6 +2810,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "2B Ancient Ruins-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Keqing-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cerulean Coast-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -4727,6 +4757,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Sunset Rooftop Pool-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Hoodie Anime Boy Gangster-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
