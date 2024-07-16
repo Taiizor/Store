@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Ana de Armas Hologram",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ana de Armas Hologram - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/ana-de-armas",
+  "Type": 3,
+  "Source": "adah.mp4",
+  "Tags": [
+    "Blade Runner 2049",
+    "Futuristic",
+    "Cinematic",
+    "Cyberpunk",
+    "Actress"
+  ],
+  "Arguments": null
+}
