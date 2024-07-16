@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Tunnel Drift",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tunnel Drift - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/tunnel-drift-live-wallpaper",
+  "Type": 3,
+  "Source": "td.mp4",
+  "Tags": [
+    "Car"
+  ],
+  "Arguments": null
+}

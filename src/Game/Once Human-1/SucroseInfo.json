@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Once Human",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Once Human - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/once-human-game",
+  "Type": 3,
+  "Source": "oh.mp4",
+  "Tags": [
+    "Post Apocalyptic",
+    "Futuristic",
+    "Monsters",
+    "Horror"
+  ],
+  "Arguments": null
+}

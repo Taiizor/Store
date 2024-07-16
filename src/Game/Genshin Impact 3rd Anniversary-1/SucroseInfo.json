@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Genshin Impact 3rd Anniversary",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Genshin Impact 3rd Anniversary - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/genshin-impact-3rd-anniversary-live-wallpaper",
+  "Type": 3,
+  "Source": "gi3rda.mp4",
+  "Tags": [
+    "Raiden Shogun",
+    "Zhongli",
+    "Furina",
+    "Nahida",
+    "Venti"
+  ],
+  "Arguments": null
+}
