@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Gabimaru",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gabimaru - Jigokuraku - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Gabimaru",
+  "Type": 3,
+  "Source": "gj.mp4",
+  "Tags": [
+    "Yuuji Kaku",
+    "Fantasy",
+    "Shonen",
+    "Manga",
+    "Ninja"
+  ],
+  "Arguments": null
+}

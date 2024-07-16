@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Cyber City",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cyber City - Samurai - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cyber-city-samurai",
+  "Type": 3,
+  "Source": "ccs.mp4",
+  "Tags": [
+    "Neon Lights",
+    "Cyberpunk",
+    "Dystopian",
+    "High Tech",
+    "Blade"
+  ],
+  "Arguments": null
+}

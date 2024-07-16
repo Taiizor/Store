@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Mystic Gojo Satoru",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mystic Gojo Satoru - Jujitsu Kaisen - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mystic-gojo-jujutsu",
+  "Type": 3,
+  "Source": "mgsjk.mp4",
+  "Tags": [
+    "Cursed Energy",
+    "Satoru Gojo",
+    "Sorcerer",
+    "Shonen",
+    "Manga"
+  ],
+  "Arguments": null
+}

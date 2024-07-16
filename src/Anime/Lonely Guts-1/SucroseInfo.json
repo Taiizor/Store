@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Lonely Guts",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lonely Guts - Berserk - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lonely-guts",
+  "Type": 3,
+  "Source": "lgb.mp4",
+  "Tags": [
+    "Kentaro Miura",
+    "Dark Fantasy",
+    "Medieval",
+    "Shonen",
+    "Manga"
+  ],
+  "Arguments": null
+}

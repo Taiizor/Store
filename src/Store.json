@@ -438,6 +438,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gabimaru-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lonely Guts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mystic Gojo Satoru-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo Eyes-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Korra Waterbender-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1702,6 +1726,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Cyber City-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Elf Girl Night Break-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2840,6 +2870,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Stellar Blade-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "2B Ancient Ruins-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5288,6 +5324,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Cyber Dreams-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Home-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
