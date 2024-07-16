@@ -438,6 +438,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Bocchi The Rock-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Serial Experiments Lain-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1666,6 +1672,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Asian Farm Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dream Chaser-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
