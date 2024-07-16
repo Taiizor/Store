@@ -144,6 +144,12 @@
     },
     "Ambience": {
       "Wallpapers": {
+        "Blue Moon Ocean-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Paradise-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
@@ -450,6 +456,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Guns Girls Z-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tank Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1804,6 +1816,30 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Pretty Slim Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Goth Girl With Skull-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Butterfly Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Samurai Girl Resting-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Koi Pond Boat Ride-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4979,6 +5015,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chill Rain-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bart Smoke-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -5318,6 +5360,18 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Cyberpunk Lofi Girl-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cat-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Beast Girl-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
