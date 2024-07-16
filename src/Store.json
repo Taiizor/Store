@@ -5364,6 +5364,12 @@
     },
     "RGB": {
       "Wallpapers": {
+        "Ghost Rider Skull RGB-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Haeyong Razer RGB Room-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
@@ -6301,16 +6307,6 @@
         },
         "Legendary King-1": {
           "Source": "src/War",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        }
-      }
-    },
-    "": {
-      "Wallpapers": {
-        "Ghost Rider Skull RGB-1": {
-          "Source": "src/",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
           "Adult": true
