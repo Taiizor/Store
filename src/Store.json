@@ -280,6 +280,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Cute Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bear-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -4943,6 +4949,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Bart Smoke-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Homer-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Old Town Rain-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Rooftop Pool-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -5116,6 +5140,12 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Waving Cubes-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Winter Village-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",

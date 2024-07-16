@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Waving Cubes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Waving Cubes - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/waving-cubes-live-wallpaper",
+  "Type": 3,
+  "Source": "wc.mp4",
+  "Tags": [
+    "Abstraction",
+    "Aesthetics"
+  ],
+  "Arguments": null
+}
