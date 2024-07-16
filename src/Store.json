@@ -438,6 +438,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Korra Waterbender-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kafka-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Encore-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Shinobu Kocho Butterfly Garden-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Akashi Junko-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1678,6 +1702,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Elf Girl Night Break-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Silver Hair Hooded Warrior-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
