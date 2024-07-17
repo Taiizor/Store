@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Lotus Lake Dreamscape",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lotus Lake Dreamscape - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lotus-lake",
+  "Type": 3,
+  "Source": "lld.mp4",
+  "Tags": [
+    "Peaceful",
+    "Tranquil",
+    "Nature",
+    "Serene",
+    "Water"
+  ],
+  "Arguments": null
+}
