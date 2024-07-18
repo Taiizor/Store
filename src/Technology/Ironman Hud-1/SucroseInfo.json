@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Ironman Hud",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ironman Hud - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/ironman-hud-live-wallpaper",
+  "Type": 3,
+  "Source": "ih.mp4",
+  "Tags": [
+    "Superhero",
+    "Emulator"
+  ],
+  "Arguments": null
+}

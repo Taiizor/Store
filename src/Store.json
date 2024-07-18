@@ -5364,6 +5364,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Magma Volcano-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Waterfall Village-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -5574,6 +5580,12 @@
     },
     "RGB": {
       "Wallpapers": {
+        "Neon Gaming Room-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ghost Rider Skull RGB-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
@@ -5820,6 +5832,12 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Dark Iron Man-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Widow Train-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",
@@ -5994,6 +6012,12 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Ironman Hud-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hacker Room Rainy Night-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Magma Volcano",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Magma Volcano - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/magma-volcano-live-wallpaper",
+  "Type": 3,
+  "Source": "mv.mp4",
+  "Tags": [
+    "Fire",
+    "Lava"
+  ],
+  "Arguments": null
+}
