@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Moonlight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Moonlight - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/red-moonlight-live-wallpaper",
+  "Type": 3,
+  "Source": "rm.mp4",
+  "Tags": [
+    "Blood Moon",
+    "Clouds",
+    "Nature",
+    "Night",
+    "Sky"
+  ],
+  "Arguments": null
+}

@@ -456,6 +456,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Firefly Fireworks-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellen Joe-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Pikachu At The Train Station On A Rainy Day-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Girl With Empty Thought-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1840,6 +1858,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Oni Mask Cyberpunk City-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Clowns-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4831,6 +4855,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Red Moonlight-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ethereal Surreal Warm Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
