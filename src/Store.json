@@ -456,6 +456,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl With Empty Thought-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cute Sagiri Izumi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1619,6 +1625,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Dark Joker-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dual Katanas Miyamoto Musashi-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -1828,6 +1840,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Clowns-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pretty Slim Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2582,6 +2600,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Jokers Operation-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ana de Armas Hologram-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -4807,6 +4831,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Ethereal Surreal Warm Sunset-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lotus Lake Dreamscape-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

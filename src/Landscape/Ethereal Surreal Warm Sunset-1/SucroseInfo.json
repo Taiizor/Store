@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Ethereal Surreal Warm Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ethereal Surreal Warm Sunset - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/ethereal-surreal-warm-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "esws.mp4",
+  "Tags": [
+    "Cherry Blossom",
+    "Reflection",
+    "Nature",
+    "Sakura",
+    "Water"
+  ],
+  "Arguments": null
+}

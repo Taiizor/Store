@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Clowns",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Clowns - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/clowns-live-wallpaper",
+  "Type": 3,
+  "Source": "c.mp4",
+  "Tags": [
+    "Red Eyes",
+    "Crown",
+    "Joker",
+    "Card"
+  ],
+  "Arguments": null
+}

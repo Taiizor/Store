@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Jokers Operation",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jokers Operation - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/jokers-operation-live-wallpaper",
+  "Type": 3,
+  "Source": "jo.mp4",
+  "Tags": [
+    "Villain",
+    "Crazy",
+    "Guns"
+  ],
+  "Arguments": null
+}

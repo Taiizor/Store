@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Joker",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Joker - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/dark-joker-live-wallpaper",
+  "Type": 3,
+  "Source": "dj.mp4",
+  "Tags": [
+    "Heath Ledger",
+    "Depressed",
+    "Alone",
+    "Clown",
+    "Snow"
+  ],
+  "Arguments": null
+}
