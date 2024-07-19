@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Cute Naruto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cute Naruto - Live Wallpaper",
+  "Author": "π Wallpapers",
+  "License": null,
+  "Contact": "https://www.youtube.com/@Pi_Wallpapers",
+  "Type": 3,
+  "Source": "cn.mp4",
+  "Tags": [
+    "Chibi"
+  ],
+  "Arguments": null
+}

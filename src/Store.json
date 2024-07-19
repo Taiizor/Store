@@ -292,6 +292,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Tiger In Chains-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Heart Kitten-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -468,6 +474,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Face Off-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cute Naruto-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Blindfold Prisoner-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3134,6 +3152,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Tears of the Kingdom-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Elden Ring Embers-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5688,6 +5712,12 @@
     },
     "RGB": {
       "Wallpapers": {
+        "Razer Vortex-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Logo-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
