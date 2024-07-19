@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Purple Eclipse",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Purple Eclipse - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/purple-eclipse-live-wallpaper",
+  "Type": 3,
+  "Source": "pe.mp4",
+  "Tags": [
+    "Mountain",
+    "Night",
+    "Stars",
+    "Snow"
+  ],
+  "Arguments": null
+}

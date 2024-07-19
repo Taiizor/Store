@@ -456,6 +456,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Blindfold Prisoner-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Totoro and Mei-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Miyamoto Musashi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fenny Snowbreak-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5412,6 +5430,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Purple Eclipse-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Magma Volcano-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
