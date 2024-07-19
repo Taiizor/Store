@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Girl Umbrella Rain",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Girl Umbrella Rain - Live Wallpaper",
+  "Author": "π Wallpapers",
+  "License": null,
+  "Contact": "https://www.youtube.com/@Pi_Wallpapers",
+  "Type": 3,
+  "Source": "gur.mp4",
+  "Tags": [
+    "Raining"
+  ],
+  "Arguments": null
+}

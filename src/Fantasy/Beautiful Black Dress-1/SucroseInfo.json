@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Beautiful Black Dress",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Beautiful Black Dress - Live Wallpaper",
+  "Author": "π Wallpapers",
+  "License": null,
+  "Contact": "https://www.youtube.com/@Pi_Wallpapers",
+  "Type": 3,
+  "Source": "bbd.mp4",
+  "Tags": [
+    "Girl"
+  ],
+  "Arguments": null
+}

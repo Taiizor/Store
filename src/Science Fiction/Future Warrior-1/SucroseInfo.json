@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Future Warrior",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Future Warrior - Live Wallpaper",
+  "Author": "π Wallpapers",
+  "License": null,
+  "Contact": "https://www.youtube.com/@Pi_Wallpapers",
+  "Type": 3,
+  "Source": "fw.mp4",
+  "Tags": null,
+  "Arguments": null
+}
