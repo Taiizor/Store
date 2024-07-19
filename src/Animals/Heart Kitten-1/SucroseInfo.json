@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.17.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Heart Kitten",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,8 @@
   "Contact": "https://www.youtube.com/@Pi_Wallpapers",
   "Type": 3,
   "Source": "hk.mp4",
-  "Tags": null,
+  "Tags": [
+    "Cat"
+  ],
   "Arguments": null
 }

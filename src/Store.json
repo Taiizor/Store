@@ -1906,6 +1906,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Hot Summer Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Fantasy Gateway Portal-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Oni Mask Cyberpunk City-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3010,6 +3022,12 @@
     },
     "Galaxy": {
       "Wallpapers": {
+        "Dark Galaxy-1": {
+          "Source": "src/Galaxy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Galaxy Room-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
@@ -6114,6 +6132,12 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Electronic Circiut Energy-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ironman Hud-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
