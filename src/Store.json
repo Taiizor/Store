@@ -474,6 +474,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Summer in the City-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "See You Later Eren-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Face Off-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1924,6 +1936,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Going Through Hard Time-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hot Summer Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3152,6 +3170,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Dragon Trainer Tristana-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tears of the Kingdom-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5490,6 +5514,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "The Woods-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Purple Eclipse-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -5890,6 +5920,16 @@
           "Source": "src/Sky",
           "Cover": "thundersky.jpg",
           "Live": "livestorm.gif",
+          "Adult": false
+        }
+      }
+    },
+    "Software": {
+      "Wallpapers": {
+        "Python Logo-1": {
+          "Source": "src/Software",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
           "Adult": false
         }
       }
