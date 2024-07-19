@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Windows 10 Logo Shining",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Windows 10 Logo Shining - Live Wallpaper",
+  "Author": "",
+  "License": null,
+  "Contact": "https://www.youtube.com/@Pi_Wallpapers",
+  "Type": 3,
+  "Source": "w10ls.mp4",
+  "Tags": null,
+  "Arguments": null
+}

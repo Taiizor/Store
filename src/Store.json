@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Windows Logo Waves-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tides Head-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -286,6 +292,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Heart Kitten-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cute Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -5332,6 +5344,12 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Windows 10 Logo Shining-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Waving Cubes-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",
@@ -5652,6 +5670,12 @@
     },
     "RGB": {
       "Wallpapers": {
+        "Neon Logo-1": {
+          "Source": "src/RGB",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Gaming Room-1": {
           "Source": "src/RGB",
           "Cover": "thumbnail.jpg",
@@ -5704,6 +5728,12 @@
     },
     "Science": {
       "Wallpapers": {
+        "DNA Medical-1": {
+          "Source": "src/Science",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Periodic Table-1": {
           "Source": "src/Science",
           "Cover": "thumbnail.jpg",
