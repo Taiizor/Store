@@ -1854,6 +1854,70 @@
     "Clouds and Skies": {
       "Wallpapers": {}
     },
+    "Colorful": {
+      "Wallpapers": {
+        "Razer Vortex-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Neon Logo-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Neon Gaming Room-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ghost Rider Skull RGB-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Haeyong Razer RGB Room-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Skull-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Asus ROG-2": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Black Panther-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Asus ROG-1": {
+          "Source": "src/Colorful",
+          "Cover": "look.jpg",
+          "Live": "peek.gif",
+          "Adult": false
+        },
+        "Windows-1": {
+          "Source": "src/Colorful",
+          "Cover": "look.jpg",
+          "Live": "peek.gif",
+          "Adult": false
+        }
+      }
+    },
     "Colorful Gradients": {
       "Wallpapers": {}
     },
@@ -5826,70 +5890,6 @@
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
-          "Adult": false
-        }
-      }
-    },
-    "RGB": {
-      "Wallpapers": {
-        "Razer Vortex-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Neon Logo-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Neon Gaming Room-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Ghost Rider Skull RGB-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
-        "Haeyong Razer RGB Room-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Skull-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
-        "Asus ROG-2": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Black Panther-1": {
-          "Source": "src/RGB",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
-        "Asus ROG-1": {
-          "Source": "src/RGB",
-          "Cover": "look.jpg",
-          "Live": "peek.gif",
-          "Adult": false
-        },
-        "Windows-1": {
-          "Source": "src/RGB",
-          "Cover": "look.jpg",
-          "Live": "peek.gif",
           "Adult": false
         }
       }
