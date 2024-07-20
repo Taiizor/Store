@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Boba Fett Fortnite",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Boba Fett Fortnite - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/boba-fett-fortnite-live-wallpaper",
+  "Type": 3,
+  "Source": "bff.mp4",
+  "Tags": [
+    "Star Wars"
+  ],
+  "Arguments": null
+}

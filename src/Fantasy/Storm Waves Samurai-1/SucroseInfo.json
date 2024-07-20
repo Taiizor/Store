@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Storm Waves Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Storm Waves Samurai - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/storm-waves-samurai-live-wallpaper",
+  "Type": 3,
+  "Source": "sws.mp4",
+  "Tags": [
+    "Clouds",
+    "Water",
+    "Moon"
+  ],
+  "Arguments": null
+}

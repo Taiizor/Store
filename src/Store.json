@@ -474,6 +474,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Naruta and Pikachu-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Death Stranding Animated-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1942,6 +1948,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Storm Waves Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Beautiful Black Dress-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3206,6 +3218,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Boba Fett Fortnite-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Boss Fight-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5654,6 +5672,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Pink Panda Balloons-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyberpunk Lofi Girl-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
