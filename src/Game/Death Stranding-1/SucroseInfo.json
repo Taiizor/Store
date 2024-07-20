@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Death Stranding",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Death Stranding - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/death-stranding-live-wallpaper",
+  "Type": 3,
+  "Source": "ds.mp4",
+  "Tags": [
+    "Mountains",
+    "People",
+    "Smoke",
+    "Dark"
+  ],
+  "Arguments": null
+}

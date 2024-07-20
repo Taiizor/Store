@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Boss Fight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Boss Fight - Death Stranding - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/death-stranding-boss-fight-live-wallpaper",
+  "Type": 3,
+  "Source": "bfds.mp4",
+  "Tags": [
+    "Beached Thing",
+    "Giant"
+  ],
+  "Arguments": null
+}
