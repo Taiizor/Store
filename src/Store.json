@@ -474,6 +474,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Miku Nakano-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Naruto and Pikachu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1733,6 +1739,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Kunigami Rensuke-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Joker-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -2012,6 +2024,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Orange Carnation-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Blood Bride-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cyber Blade-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Storm Waves Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6476,6 +6506,24 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Toon Drift-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cars - I Dowt It-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Dodge Challenger SRT Demon-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Night Street-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

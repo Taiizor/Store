@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.20.0",
+  "Version": "1.0.0.0",
+  "Title": "Toon Drift",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Toon Drift- Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/toon-drift",
+  "Type": 3,
+  "Source": "td.mp4",
+  "Tags": [
+    "Colorful",
+    "Drifting",
+    "Cartoon",
+    "Racing",
+    "Wheels"
+  ],
+  "Arguments": null
+}

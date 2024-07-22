@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.20.0",
+  "Version": "1.0.0.0",
+  "Title": "Orange Carnation",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Orange Carnation - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/orange-carnation",
+  "Type": 3,
+  "Source": "oc.mp4",
+  "Tags": [
+    "Girl With Flower",
+    "Aesthetic",
+    "Beauty",
+    "Floral",
+    "Nature"
+  ],
+  "Arguments": null
+}
