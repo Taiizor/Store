@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Windows XP Bliss",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Windows XP Bliss - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/windows-xp-bliss-live-wallpaper",
+  "Type": 3,
+  "Source": "wxpb.mp4",
+  "Tags": [
+    "Operating System",
+    "Microsoft",
+    "Nature",
+    "Field",
+    "Stars"
+  ],
+  "Arguments": null
+}
