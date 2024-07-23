@@ -474,6 +474,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Maid Ellen Joe-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Changli-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Miku Nakano-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1739,6 +1751,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Train Station Just Listen To The Song-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Kunigami Rensuke-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -2024,6 +2042,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Lofi Summer Anime Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Orange Carnation-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3312,6 +3336,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ash-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jade Forbidden Fruit-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The War Within-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Boba Fett Fortnite-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

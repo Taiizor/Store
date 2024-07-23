@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Ash",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ash - Warframe - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/ash-warframe-live-wallpaper",
+  "Type": 3,
+  "Source": "aw.mp4",
+  "Tags": [
+    "Cyborg",
+    "Nikana",
+    "Sword",
+    "Neon"
+  ],
+  "Arguments": null
+}
