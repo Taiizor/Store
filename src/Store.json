@@ -474,6 +474,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hare Camping Starry Night Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Wise and Belle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Evil Obito-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2072,6 +2084,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Hoodie Anime Girl Smoking-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Neon Pool-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3372,6 +3390,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Silver Wolf-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Autumn Tree Sunset-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mortal Blade-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6608,6 +6638,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Synthwave Cyberpunk Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Motorcycle-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

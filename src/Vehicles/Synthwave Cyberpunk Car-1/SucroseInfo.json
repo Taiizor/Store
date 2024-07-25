@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Synthwave Cyberpunk Car",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Synthwave Cyberpunk Car - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/vehicle/synthwave-cyberpunk-car-live-wallpaper",
+  "Type": 3,
+  "Source": "scc.mp4",
+  "Tags": [
+    "Speed",
+    "Neon",
+    "Road"
+  ],
+  "Arguments": null
+}

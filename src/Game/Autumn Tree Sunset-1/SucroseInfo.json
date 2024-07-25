@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Autumn Tree Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Autumn Tree Sunset - Ghost of Tsushima - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/autumn-tree-sunset-ghost-of-tsushima-live-wallpaper",
+  "Type": 3,
+  "Source": "atsgot.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Landscape",
+    "Sunlight",
+    "Clouds",
+    "Nature"
+  ],
+  "Arguments": null
+}
