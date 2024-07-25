@@ -474,6 +474,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Evil Obito-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Deku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Tsunade-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Maid Ellen Joe-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2054,6 +2072,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Neon Pool-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lofi Summer Anime Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
