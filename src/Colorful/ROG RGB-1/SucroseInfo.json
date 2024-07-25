@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "ROG RGB",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "ROG RGB - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rog-rgb",
+  "Type": 3,
+  "Source": "rogrgb.mp4",
+  "Tags": [
+    "Republic Of Games",
+    "ASUS",
+    "Tech",
+    "Led"
+  ],
+  "Arguments": null
+}

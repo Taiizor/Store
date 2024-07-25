@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Mortal Blade",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mortal Blade - Sekiro: Shadows Die Twice - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mortal-blade-sekiro",
+  "Type": 3,
+  "Source": "mbssdt.mp4",
+  "Tags": [
+    "Fromsoftware",
+    "Samurai",
+    "Shinobi",
+    "Stealth",
+    "Sword"
+  ],
+  "Arguments": null
+}

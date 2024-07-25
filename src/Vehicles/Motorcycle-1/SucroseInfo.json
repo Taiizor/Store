@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Motorcycle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Motorcycle - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/motorcycle-smoke",
+  "Type": 3,
+  "Source": "m.mp4",
+  "Tags": [
+    "Motorbike",
+    "Sportbike",
+    "Biking",
+    "Riding",
+    "Speed"
+  ],
+  "Arguments": null
+}

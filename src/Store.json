@@ -1851,6 +1851,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Gwen Stacy-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gear 5 Comics-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -1886,6 +1892,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "ROG RGB-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Razer Vortex-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -3336,6 +3348,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Mortal Blade-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ash-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5189,6 +5207,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Summer Meteor-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Bliss Windows XP-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6560,6 +6584,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Motorcycle-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toon Drift-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
