@@ -440,6 +440,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Three in One Key-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Furry Aztec Queen-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
