@@ -46,10 +46,13 @@ body:
       description: Why are you reporting this wallpaper?
       multiple: false
       options:
+        - Spam
         - Other
-        - Nudity or Violence
+        - Nudity
+        - Harmful
+        - Violence
+        - Malicious
         - Copyright Violation
-        - Harmful or Malicious
         - Misleading Information
     validations:
       required: true
