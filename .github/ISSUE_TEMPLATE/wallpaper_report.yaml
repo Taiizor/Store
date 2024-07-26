@@ -54,7 +54,7 @@ body:
         - Malicious
         - Copyright Violation
         - Misleading Information
-    default: 1
+      default: 1
     validations:
       required: true
   - type: textarea
