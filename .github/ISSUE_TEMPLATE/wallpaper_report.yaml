@@ -8,7 +8,7 @@ body:
         Thank you for taking the time to report this wallpaper issue!
         Please provide us with the necessary information to help us understand and address the problem.
   - type: input
-    id: version
+    id: app-version
     attributes:
       label: Version
       description: Please provide the version of the application you are using.
