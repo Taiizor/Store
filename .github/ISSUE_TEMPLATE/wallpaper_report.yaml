@@ -23,6 +23,22 @@ body:
       placeholder: "Example: Game/Night City-1"
     validations:
       required: true
+  - type: input
+    id: wallpaper-version
+    attributes:
+      label: Wallpaper Version
+      description: Please provide the wallpaper version (enter "-" if unknown).
+      placeholder: "1.0.0.0"
+    validations:
+      required: true
+  - type: input
+    id: wallpaper-app-version
+    attributes:
+      label: Wallpaper App Version
+      description: Please provide the wallpaper app version (enter "-" if unknown).
+      placeholder: "24.7.23.0"
+    validations:
+      required: true
   - type: dropdown
     id: report-reason
     attributes:
@@ -47,21 +63,5 @@ body:
         - What specifically is wrong with the wallpaper?
         - Any additional information that might help us understand the problem.
       placeholder: Describe the issue...
-    validations:
-      required: true
-  - type: input
-    id: theme-version
-    attributes:
-      label: Theme Version
-      description: Please provide the theme version (enter "-" if unknown).
-      placeholder: "1.0.0.0"
-    validations:
-      required: true
-  - type: input
-    id: theme-app-version
-    attributes:
-      label: Theme App Version
-      description: Please provide the theme app version (enter "-" if unknown).
-      placeholder: "24.7.23.0"
     validations:
       required: true
