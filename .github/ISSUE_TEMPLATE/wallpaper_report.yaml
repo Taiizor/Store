@@ -8,6 +8,14 @@ body:
         Thank you for taking the time to report this wallpaper issue!
         Please provide us with the necessary information to help us understand and address the problem.
   - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Please provide the version of the application you are using.
+      placeholder: "24.7.25.0"
+    validations:
+      required: true
+  - type: input
     id: wallpaper-location
     attributes:
       label: Wallpaper Location
@@ -39,14 +47,6 @@ body:
         - What specifically is wrong with the wallpaper?
         - Any additional information that might help us understand the problem.
       placeholder: Describe the issue...
-    validations:
-      required: true
-  - type: input
-    id: version
-    attributes:
-      label: Version
-      description: Please provide the version of the application you are using.
-      placeholder: "24.7.25.0"
     validations:
       required: true
   - type: input
