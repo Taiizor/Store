@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Geralt In Cyberpunk 2077",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Geralt In Cyberpunk 2077 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/geralt-in-cyberpunk-2077-live-wallpaper",
+  "Type": 3,
+  "Source": "gic2077.mp4",
+  "Tags": [
+    "Geralt Of Rivia",
+    "Motorcycle",
+    "Buildings",
+    "City",
+    "Gun"
+  ],
+  "Arguments": null
+}
