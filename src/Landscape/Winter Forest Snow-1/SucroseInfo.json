@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Winter Forest Snow",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Winter Forest Snow - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/winter-forest-snow-2-live-wallpaper",
+  "Type": 3,
+  "Source": "wfs.mp4",
+  "Tags": [
+    "Nature",
+    "Trees"
+  ],
+  "Arguments": null
+}

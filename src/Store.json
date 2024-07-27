@@ -480,6 +480,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Changli Reading-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Hare Camping Starry Night Sky-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3396,6 +3402,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Furina Upside Down Underwater-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Midra Lord Of Frenzied Flame-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gorou-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Witcher Cyberpunk Geralt-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5315,6 +5339,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Winter Forest Snow-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Summer Meteor-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
