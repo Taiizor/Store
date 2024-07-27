@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Warrior Types",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Warrior Types - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/warrior-types",
+  "Type": 3,
+  "Source": "wt.mp4",
+  "Tags": [
+    "Female Fighters",
+    "Battle Maidens",
+    "Warrior Girls",
+    "Amazonian",
+    "Valkyrie"
+  ],
+  "Arguments": null
+}

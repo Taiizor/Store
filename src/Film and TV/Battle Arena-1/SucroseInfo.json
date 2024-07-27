@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "Battle Arena",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Alita: Battle Arena - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/alita-arena",
+  "Type": 3,
+  "Source": "aba.mp4",
+  "Tags": [
+    "Virtual Arena",
+    "Futuristic",
+    "Cyberpunk",
+    "High Tech",
+    "Robotics"
+  ],
+  "Arguments": null
+}

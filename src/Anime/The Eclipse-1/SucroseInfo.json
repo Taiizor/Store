@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "The Eclipse",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Berserk: The Eclipse - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/berserk-eclipse-guts",
+  "Type": 3,
+  "Source": "bte.mp4",
+  "Tags": [
+    "Kentaro Miura",
+    "Sacrifice",
+    "Griffith",
+    "Manga",
+    "Guts"
+  ],
+  "Arguments": null
+}

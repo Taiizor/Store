@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Geometry Dash-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Windows Logo Waves-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -480,6 +486,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "The Eclipse-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Changli Reading-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2096,6 +2108,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Warrior Types-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Red-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Black Haired Princess-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hoodie Anime Girl Smoking-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -2940,6 +2970,18 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Game of Thrones-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Battle Arena-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Spiderman In Japan Blossom-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -3290,6 +3332,12 @@
     },
     "Galaxy": {
       "Wallpapers": {
+        "Galaxy Home-1": {
+          "Source": "src/Galaxy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Galaxy-1": {
           "Source": "src/Galaxy",
           "Cover": "thumbnail.jpg",
@@ -5339,6 +5387,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Rolling Home-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Winter Forest Snow-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6158,6 +6212,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Forest Leaf Dragon-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Future Warrior-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

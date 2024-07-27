@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.25.0",
+  "Version": "1.0.0.0",
+  "Title": "The Red",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Red - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/red-girl",
+  "Type": 3,
+  "Source": "tr.mp4",
+  "Tags": [
+    "Vibrant Hair",
+    "Beautiful",
+    "Colorful",
+    "Red Hair",
+    "Stylish"
+  ],
+  "Arguments": null
+}
