@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Black Toyota Supra",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Black Toyota Supra - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/black-supra",
+  "Type": 3,
+  "Source": "bts.mp4",
+  "Tags": [
+    "Automobile",
+    "Automotive",
+    "Racing",
+    "Speed",
+    "Cool"
+  ],
+  "Arguments": null
+}

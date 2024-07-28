@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Toyota Supra Turbo A80",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Toyota Supra Turbo A80 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Toyota-Supra-Turbo-A80",
+  "Type": 3,
+  "Source": "tsta80.mp4",
+  "Tags": [
+    "Turbocharged",
+    "Automobile",
+    "Automotive",
+    "Raining",
+    "Speed"
+  ],
+  "Arguments": null
+}
