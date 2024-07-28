@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Katana Silver Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Katana Silver Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/katana-silver-girl",
+  "Type": 3,
+  "Source": "ksg.mp4",
+  "Tags": [
+    "Reflective Jacket",
+    "Cyberpunk",
+    "Intense",
+    "Samurai",
+    "Fierce"
+  ],
+  "Arguments": null
+}

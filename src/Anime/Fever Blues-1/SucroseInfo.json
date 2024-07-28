@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Fever Blues",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fever Blues - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fever-blues",
+  "Type": 3,
+  "Source": "fb.mp4",
+  "Tags": [
+    "Illustration",
+    "Anime Girl",
+    "Aesthetic",
+    "Blue Hair",
+    "Fantasy"
+  ],
+  "Arguments": null
+}

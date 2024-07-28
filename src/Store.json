@@ -492,6 +492,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Fever Blues-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shinobu Kocho Wisteria-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2192,6 +2198,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Katana Silver Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Sunset Battle-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3546,6 +3558,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "The Sisterhood Dune-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ahri-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
