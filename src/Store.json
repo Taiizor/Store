@@ -486,6 +486,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Chill-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Monkey D Luffy on Cliff-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Saori Drinking At Night-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3498,6 +3510,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Sword of Convallaria-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Furina Upside Down Underwater-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5435,6 +5453,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Zeppelin Over The Lake-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lake Louise-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6842,6 +6866,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "JDM Aesthetic-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "DeLorean Retro Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

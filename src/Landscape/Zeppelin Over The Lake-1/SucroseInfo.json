@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Zeppelin Over The Lake",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zeppelin Over The Lake - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/zeppelin-lake",
+  "Type": 3,
+  "Source": "zotl.mp4",
+  "Tags": [
+    "Aerial View",
+    "Tranquil",
+    "Airship",
+    "Vintage",
+    "Scenic"
+  ],
+  "Arguments": null
+}
