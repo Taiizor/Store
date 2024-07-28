@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Fire Sword",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fire Sword - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fire-sword",
+  "Type": 3,
+  "Source": "fs.mp4",
+  "Tags": [
+    "Enchanted Weapon",
+    "Flaming Blade",
+    "Epic Weapon",
+    "Magic Sword",
+    "Warrior"
+  ],
+  "Arguments": null
+}

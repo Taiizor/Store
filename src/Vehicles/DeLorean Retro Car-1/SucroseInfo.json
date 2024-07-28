@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "DeLorean Retro Car",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "DeLorean Retro Car - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/delorean-car",
+  "Type": 3,
+  "Source": "dlrc.mp4",
+  "Tags": [
+    "Back To The Future",
+    "Gullwing Doors",
+    "Time Machine",
+    "Classic Car",
+    "1980S"
+  ],
+  "Arguments": null
+}

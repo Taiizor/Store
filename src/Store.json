@@ -486,6 +486,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Saori Drinking At Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Train To School-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Arona and Plana-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellen Joe Maid-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Changli Playing Chess With You-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2126,6 +2150,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Fire Sword-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Warrior Types-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6812,6 +6842,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "DeLorean Retro Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Synthwave Cyberpunk Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
