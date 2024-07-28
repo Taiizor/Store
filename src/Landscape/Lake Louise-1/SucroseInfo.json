@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Lake Louise",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lake Louise - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/lake-louise-live-wallpaper",
+  "Type": 3,
+  "Source": "ll.mp4",
+  "Tags": [
+    "Mountains",
+    "Sunlight",
+    "Clouds",
+    "Nature",
+    "Water"
+  ],
+  "Arguments": null
+}

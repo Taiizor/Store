@@ -486,6 +486,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Changli Playing Chess With You-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellen Joe In Battle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Eclipse-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1905,6 +1917,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Venom Take Over Spider Man-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gwen Stacy-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5387,6 +5405,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Lake Louise-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Rolling Home-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -5962,6 +5986,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Night Flower Field-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Woods-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
