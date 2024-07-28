@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Ahri",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "K/DA Ahri - League of Legends - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/kda-ahri-lol",
+  "Type": 3,
+  "Source": "kdaalol.mp4",
+  "Tags": [
+    "Riot Games",
+    "Glamorous",
+    "Champion",
+    "Fantasy",
+    "LoL"
+  ],
+  "Arguments": null
+}
