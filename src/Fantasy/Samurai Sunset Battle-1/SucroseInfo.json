@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Sunset Battle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Sunset Battle - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/samurai-sunset-battle-live-wallpaper",
+  "Type": 3,
+  "Source": "ssb.mp4",
+  "Tags": [
+    "Landscape",
+    "Straw Hat",
+    "Katana"
+  ],
+  "Arguments": null
+}

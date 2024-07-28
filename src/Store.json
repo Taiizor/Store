@@ -492,6 +492,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shinobu Kocho Wisteria-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chill-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1859,6 +1865,18 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Aki Chainsaw Man Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Geto Rainbow Dragon-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Train Station Just Listen To The Song-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -1959,6 +1977,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Gwen Stacy On a Panel-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Venom Take Over Spider Man-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -2168,6 +2192,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Sunset Battle-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fire Sword-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
