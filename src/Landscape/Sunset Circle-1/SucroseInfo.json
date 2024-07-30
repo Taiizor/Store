@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset Circle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset Circle - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sunset-circle",
+  "Type": 3,
+  "Source": "sc.mp4",
+  "Tags": [
+    "Warm Tones",
+    "Abstract",
+    "Colorful",
+    "Creative",
+    "Scenic"
+  ],
+  "Arguments": null
+}

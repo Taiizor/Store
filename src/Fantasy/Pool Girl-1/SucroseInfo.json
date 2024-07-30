@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Pool Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pool Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/pool-girl-chill",
+  "Type": 3,
+  "Source": "pg.mp4",
+  "Tags": [
+    "Swimming Pool",
+    "Sunbathing",
+    "Swimsuit",
+    "Summer",
+    "Water"
+  ],
+  "Arguments": null
+}

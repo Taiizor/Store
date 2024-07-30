@@ -2240,6 +2240,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Pool Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Katana Silver Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5567,6 +5573,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Sunset Circle-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cherry Blossom Tree On Volcano-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
