@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Angell",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Angell - Path To Nowhere - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/angell-path-to-nowhere-live-wallpaper",
+  "Type": 3,
+  "Source": "aptn.mp4",
+  "Tags": [
+    "Buildings",
+    "Cyberpunk",
+    "Cat"
+  ],
+  "Arguments": null
+}

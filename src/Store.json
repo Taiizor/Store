@@ -304,6 +304,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Cat In The Swamp-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tiger In Chains-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -498,6 +504,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Angell-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Belle Lofi Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Storm Clouds-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3582,6 +3600,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Normandy SR-2-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Sisterhood Dune-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5543,6 +5567,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Cherry Blossom Tree On Volcano-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Zeppelin Over The Lake-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

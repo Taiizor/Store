@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Cat In The Swamp",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cat In The Swamp - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/animal/cat-in-the-swamp-live-wallpaper",
+  "Type": 3,
+  "Source": "cits.mp4",
+  "Tags": [
+    "Water"
+  ],
+  "Arguments": null
+}
