@@ -2181,12 +2181,6 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
-        "Lofi Sweet Dream-1": {
-          "Source": "src/Cartoon and Comics",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Gwen Stacy On a Panel-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5677,6 +5671,12 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Lofi Sweet Dream-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pokemon Cute Pikachu-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
