@@ -504,6 +504,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Taro Sakamoto-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Nekomata Okayu-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Satoru Gojo Blue Mist-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Demon Slayer Tanjiro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ultra Necrozma-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ultra Ego Vegeta-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pain of Gojo-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5943,6 +5979,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Railroad Signal-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Hole Beach-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

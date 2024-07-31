@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Nekomata Okayu",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nekomata Okayu - Hololive - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/hololive-nekomata-okayu",
+  "Type": 3,
+  "Source": "noh.mp4",
+  "Tags": [
+    "Virtual Youtuber",
+    "Streaming",
+    "Catgirl",
+    "Vtuber",
+    "Live"
+  ],
+  "Arguments": null
+}

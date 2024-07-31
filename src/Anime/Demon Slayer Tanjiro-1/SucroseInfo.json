@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Demon Slayer Tanjiro",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Demon Slayer Tanjiro - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/tanjiro-demon",
+  "Type": 3,
+  "Source": "dst.mp4",
+  "Tags": [
+    "Kimetsu No Yaiba",
+    "Nichirin Sword",
+    "Tanjiro Kamado",
+    "Shonen",
+    "Manga"
+  ],
+  "Arguments": null
+}

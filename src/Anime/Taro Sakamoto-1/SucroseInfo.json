@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Taro Sakamoto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Taro Sakamoto - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/taro-sakamoto",
+  "Type": 3,
+  "Source": "ts.mp4",
+  "Tags": [
+    "Sakamoto Days",
+    "Assassins",
+    "Comedy",
+    "Hitman",
+    "Shonen"
+  ],
+  "Arguments": null
+}
