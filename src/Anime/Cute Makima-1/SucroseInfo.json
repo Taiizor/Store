@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Cute Makima",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cute Makima - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/makima-cute",
+  "Type": 3,
+  "Source": "cm.mp4",
+  "Tags": [
+    "Chainsaw Man",
+    "Adorable",
+    "Red Hair",
+    "Kawaii",
+    "Manga"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "City of The Sea",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "City of The Sea - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/city-sea",
+  "Type": 3,
+  "Source": "cots.mp4",
+  "Tags": [
+    "Underwater City",
+    "Coastal City",
+    "Marine Life",
+    "Futuristic",
+    "Ocean City"
+  ],
+  "Arguments": null
+}

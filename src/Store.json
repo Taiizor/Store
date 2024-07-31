@@ -504,6 +504,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Pain of Gojo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Red Ryomen Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sukuna God-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Azure Lane Race Car-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cute Makima-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cute Shinobu Kocho-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "000-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2252,6 +2288,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Sunny Beach Day-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pool Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5597,6 +5639,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "City of The Sea-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Circle-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6282,6 +6330,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Retrowave Beach-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pink Panda Balloons-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",

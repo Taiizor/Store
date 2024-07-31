@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunny Beach Day",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunny Beach Day - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sunny-beach-day",
+  "Type": 3,
+  "Source": "sbd.mp4",
+  "Tags": [
+    "Sun Protection",
+    "Vacation",
+    "Coastal",
+    "Summer",
+    "Girl"
+  ],
+  "Arguments": null
+}

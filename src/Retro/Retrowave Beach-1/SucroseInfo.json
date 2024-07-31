@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Retrowave Beach",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Retrowave Beach - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/retrowave-beach",
+  "Type": 3,
+  "Source": "rb.mp4",
+  "Tags": [
+    "80S Aesthetic",
+    "Landscape",
+    "Synthwave",
+    "Vaporwave",
+    "Tropical"
+  ],
+  "Arguments": null
+}
