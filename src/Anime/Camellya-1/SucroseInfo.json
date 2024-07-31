@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Camellya",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Camellya - Wuthering Waves - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/camellya-wuthering-waves-live-wallpaper",
+  "Type": 3,
+  "Source": "cww.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Sunflower",
+    "Twintails",
+    "Chilling",
+    "Relaxing"
+  ],
+  "Arguments": null
+}

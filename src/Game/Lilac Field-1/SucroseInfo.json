@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Lilac Field",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lilac Field - Minecraft - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/lilac-field-minecraft-live-wallpaper",
+  "Type": 3,
+  "Source": "lfm.mp4",
+  "Tags": [
+    "Landscape",
+    "Clouds",
+    "Nature"
+  ],
+  "Arguments": null
+}
