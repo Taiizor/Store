@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Gojo Jujutsu Sorcerer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gojo Jujutsu Sorcerer - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/gojo-sorcerer",
+  "Type": 3,
+  "Source": "gjs.mp4",
+  "Tags": [
+    "Jujutsu Kaisen",
+    "Supernatural",
+    "Satoru Gojo",
+    "Sorcery",
+    "Shonen"
+  ],
+  "Arguments": null
+}

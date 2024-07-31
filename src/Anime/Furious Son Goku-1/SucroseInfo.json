@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Furious Son Goku",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Furious Son Goku - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/furious-goku",
+  "Type": 3,
+  "Source": "fsg.mp4",
+  "Tags": [
+    "Transformation",
+    "Dragon Ball",
+    "Intensity",
+    "Energy",
+    "Power"
+  ],
+  "Arguments": null
+}

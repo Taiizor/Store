@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Fluffy Grass Portal-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Windows Ventura-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -504,6 +510,66 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gojo Satoru Flame Eyes-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Furious Son Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Realistic Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hollow Technique Purple-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Bleach Captains-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Levi Ackerman Rage Mode-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Happy Luffy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Madara Obito Theme-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo Jujutsu Sorcerer-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gang-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Taro Sakamoto-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -1997,6 +2063,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Higuruma Hiromi-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Aki Chainsaw Man Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -2109,6 +2181,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Lofi Sweet Dream-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Gwen Stacy On a Panel-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Happy Luffy",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Happy Luffy - Gear 5 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/happy-luffy",
+  "Type": 3,
+  "Source": "hlg5.mp4",
+  "Tags": [
+    "Adventure",
+    "One Piece",
+    "Joy Boy",
+    "Battle",
+    "Shonen"
+  ],
+  "Arguments": null
+}
