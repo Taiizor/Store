@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Rain in Japan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rain in Japan - Dreamscape - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rain-dreamscape",
+  "Type": 3,
+  "Source": "rijd.mp4",
+  "Tags": [
+    "Meditative",
+    "Peaceful",
+    "Tranquil",
+    "Nature",
+    "Serene"
+  ],
+  "Arguments": null
+}

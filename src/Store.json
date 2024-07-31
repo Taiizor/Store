@@ -168,6 +168,12 @@
     },
     "Ambience": {
       "Wallpapers": {
+        "Rain in Japan-1": {
+          "Source": "src/Ambience",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Blue Moon Ocean-1": {
           "Source": "src/Ambience",
           "Cover": "thumbnail.jpg",
@@ -510,6 +516,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Demon Slayer Kokushibo 6 Eyes-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Blazing Power-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rengoku vs Akaza-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ultra Super Saiyan 4 Gogeta-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo Chromatic-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Gojo Satoru Flame Eyes-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2063,6 +2099,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Ascending Fury-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Higuruma Hiromi-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
