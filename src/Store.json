@@ -516,6 +516,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Madara Uchiha-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Demon Slayer Kokushibo 6 Eyes-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3810,6 +3816,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Moon Presence-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Bloodborne Animated-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Yae Miko and Kirara-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

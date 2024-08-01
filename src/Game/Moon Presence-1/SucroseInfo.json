@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Moon Presence",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moon Presence - Bloodborne - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/bloodborne-moon-presence-live-wallpaper",
+  "Type": 3,
+  "Source": "mpb.mp4",
+  "Tags": [
+    "Boss Fight",
+    "Gun"
+  ],
+  "Arguments": null
+}

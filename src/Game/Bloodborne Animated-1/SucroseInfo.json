@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.28.0",
+  "Version": "1.0.0.0",
+  "Title": "Bloodborne Animated",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bloodborne Animated - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/bloodborne-animated-wallpaper",
+  "Type": 3,
+  "Source": "ba.mp4",
+  "Tags": [
+    "Chair",
+    "Smoke"
+  ],
+  "Arguments": null
+}
