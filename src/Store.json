@@ -516,6 +516,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zoro Resting-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "March 7th HSR-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dark Pain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Nakamasa Ichika-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2468,6 +2486,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Blue Haired Blindfold Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunny Beach Day-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3840,6 +3864,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ahri-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Xiao-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aigis-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6147,6 +6183,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Water Village-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Railroad Signal-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -6540,6 +6582,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Blue Moon Rays-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Retrowave Beach-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
