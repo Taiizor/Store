@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Audi TT",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Audi TT - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/audi-tt",
+  "Type": 3,
+  "Source": "att.mp4",
+  "Tags": [
+    "German Engineering",
+    "Convertible",
+    "Luxury Car",
+    "Sports Car",
+    "Coupe"
+  ],
+  "Arguments": null
+}

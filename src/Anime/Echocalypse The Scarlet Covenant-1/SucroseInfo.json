@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Echocalypse The Scarlet Covenant",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Echocalypse The Scarlet Covenant - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Scarlet-Covenant",
+  "Type": 3,
+  "Source": "etsc.mp4",
+  "Tags": [
+    "Epic Storyline",
+    "Futuristic",
+    "Adventure"
+  ],
+  "Arguments": null
+}

@@ -516,6 +516,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Emotionless Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Echocalypse The Scarlet Covenant-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gojo Rush-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2510,6 +2522,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Lips-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Aeon Girl Fantasy-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Little Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Haired Blindfold Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3888,6 +3918,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Blue Mary-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Super Mario Bros-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6818,6 +6854,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Blue Cyber Girl-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Forest Leaf Dragon-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -7394,6 +7436,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Audi TT-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Yellow Ferrari 599-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
