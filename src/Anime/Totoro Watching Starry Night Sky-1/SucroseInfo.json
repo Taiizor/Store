@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Totoro Watching Starry Night Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Totoro Watching Starry Night Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/totoro-watching-starry-night-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "twsns.mp4",
+  "Tags": [
+    "My Neighbor Totoro",
+    "Shooting Star",
+    "Landscape",
+    "Ghibli",
+    "Stars"
+  ],
+  "Arguments": null
+}

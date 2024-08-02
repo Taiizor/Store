@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Aigis",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aigis - Persona 3 Reload - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/aigis-persona-3-reload-live-wallpaper",
+  "Type": 3,
+  "Source": "ap3r.mp4",
+  "Tags": [
+    "Blonde Hair",
+    "Robot"
+  ],
+  "Arguments": null
+}

@@ -516,6 +516,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Nakamasa Ichika-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jinhsi Dragon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Totoro Watching Starry Night Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ellen Joe In The Street-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Madara Uchiha-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3816,6 +3840,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Aigis-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Moon Presence-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
