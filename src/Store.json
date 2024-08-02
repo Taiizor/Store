@@ -516,6 +516,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gojo Rush-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yuji The Domain Expansion-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Berserk Eclipse-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Roronoa Zoro Split Face-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zoro Resting-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3864,6 +3888,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Super Mario Bros-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ahri-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -5704,6 +5734,12 @@
     },
     "Geometric Patterns": {
       "Wallpapers": {
+        "Playstation Shapes-1": {
+          "Source": "src/Geometric Patterns",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Triangles and Light-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
@@ -5879,6 +5915,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Lonely Island-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "City of The Sea-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6183,6 +6225,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chasing The Night-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Water Village-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7346,6 +7394,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Yellow Ferrari 599-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toyota Supra-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

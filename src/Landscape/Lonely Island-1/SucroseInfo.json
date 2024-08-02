@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Lonely Island",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lonely Island - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lonely-island",
+  "Type": 3,
+  "Source": "li.mp4",
+  "Tags": [
+    "Night Scene",
+    "Moonlight",
+    "Tranquil",
+    "Serene",
+    "Ocean"
+  ],
+  "Arguments": null
+}

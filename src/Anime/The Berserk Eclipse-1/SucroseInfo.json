@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "The Berserk Eclipse",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Berserk Eclipse - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/berserk-manga",
+  "Type": 3,
+  "Source": "tbe.mp4",
+  "Tags": [
+    "Band Of The Hawk",
+    "Griffith Eclipse",
+    "Golden Age Arc",
+    "Guts Berserk",
+    "God Hand"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.2.0",
+  "Version": "1.0.0.0",
+  "Title": "Playstation Shapes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Playstation Shapes - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/playstation-shapes",
+  "Type": 3,
+  "Source": "ps.mp4",
+  "Tags": [
+    "Console",
+    "Cross",
+    "Sony",
+    "PS4",
+    "PS5"
+  ],
+  "Arguments": null
+}
