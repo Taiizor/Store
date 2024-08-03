@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Stranger Things Clouds",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Stranger Things Clouds - Live Wallpaper",
+  "Author": "CHAGUY",
+  "License": null,
+  "Contact": "null27110@gmail.com",
+  "Type": 3,
+  "Source": "stc.mp4",
+  "Tags": [
+    "Lightning"
+  ],
+  "Arguments": null
+}

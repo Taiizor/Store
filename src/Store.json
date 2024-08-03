@@ -3438,6 +3438,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Stranger Things Clouds-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Game of Thrones-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -7078,6 +7084,12 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Deadpool-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Iron Man-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",

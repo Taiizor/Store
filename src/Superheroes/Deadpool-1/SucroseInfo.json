@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.7.23.0",
+  "Version": "1.0.0.0",
+  "Title": "Deadpool",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Deadpool - Live Wallpaper",
+  "Author": "CHAGUY",
+  "License": null,
+  "Contact": "null27110@gmail.com",
+  "Type": 3,
+  "Source": "dp.mp4",
+  "Tags": [
+    "Bullets",
+    "Blood",
+    "Guns"
+  ],
+  "Arguments": null
+}
