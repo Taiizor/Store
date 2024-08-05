@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Pokemon Mystery Dungeon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pokemon Mystery Dungeon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/pokemon-mystery-dungeon-live-wallpaper",
+  "Type": 3,
+  "Source": "pmd.mp4",
+  "Tags": null,
+  "Arguments": null
+}

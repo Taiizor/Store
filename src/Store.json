@@ -516,6 +516,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Ellen Joe Angry-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Elaina Rainy Sky Wandering Witch-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Garchomp Pokemon Cafe-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "How to Raise a Boring Girlfriend-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kikoru Shinomiya Kaiju No. 8-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Pokemon Mystery Dungeon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Emotionless Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3924,6 +3960,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Top Of The Mountain-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Yae Miko Sunset Sakura-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Syndra-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Mary-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6267,6 +6321,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Coffee Shop Train Station Rainy Day-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chasing The Night-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
