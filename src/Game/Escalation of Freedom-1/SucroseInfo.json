@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Escalation of Freedom",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Escalation of Freedom - Helldivers 2 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/helldivers-2-escalation-of-freedom-live-wallpaper",
+  "Type": 3,
+  "Source": "eofh2.mp4",
+  "Tags": [
+    "Monster",
+    "Mecha",
+    "Robot",
+    "Flag",
+    "Gun"
+  ],
+  "Arguments": null
+}

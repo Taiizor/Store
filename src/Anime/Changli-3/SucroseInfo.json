@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Changli",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Changli - Wuthering Waves - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/changli-wuthering-waves-live-wallpaper",
+  "Type": 3,
+  "Source": "cww.mp4",
+  "Tags": [
+    "Pink Hair",
+    "Sword"
+  ],
+  "Arguments": null
+}

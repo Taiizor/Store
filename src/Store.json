@@ -516,6 +516,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Changli-3": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Grace Howard-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Anime Girl Milky Way Stars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kuromi Serika With Cats-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ellen Joe Angry-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2558,6 +2582,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Medieval Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Lips-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -3960,6 +3990,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Escalation of Freedom-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Top Of The Mountain-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6716,6 +6752,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Crunchyroll Yuppie Psycho-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pixel Forest-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",

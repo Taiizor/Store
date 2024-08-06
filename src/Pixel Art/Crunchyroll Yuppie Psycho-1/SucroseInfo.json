@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Crunchyroll Yuppie Psycho",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Crunchyroll Yuppie Psycho - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/crunchyroll-yuppie-psycho-live-wallpaper",
+  "Type": 3,
+  "Source": "cyp.mp4",
+  "Tags": [
+    "Brian Pasternack",
+    "Rei Sintra"
+  ],
+  "Arguments": null
+}
