@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Kyojuro Rengoku Flames",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kyojuro Rengoku Flames - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/kyojuro-rengoku-flames",
+  "Type": 3,
+  "Source": "krf.mp4",
+  "Tags": [
+    "Kimetsu No Yaiba",
+    "Intense Battle",
+    "Flame Hashira",
+    "Demon Slayer",
+    "Fiery Sword"
+  ],
+  "Arguments": null
+}

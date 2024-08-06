@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Rengoku",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rengoku - Demon Slayer Forest - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rengoku-forest",
+  "Type": 3,
+  "Source": "rdsf.mp4",
+  "Tags": [
+    "Kimetsu No Yaiba",
+    "Lush Environment",
+    "Kyojuro Rengoku",
+    "Flame Hashira",
+    "Fiery Sword"
+  ],
+  "Arguments": null
+}

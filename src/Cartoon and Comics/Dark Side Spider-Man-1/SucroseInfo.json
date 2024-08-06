@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Side Spider-Man",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Side Spider-Man - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dark-spiderman",
+  "Type": 3,
+  "Source": "dssm.mp4",
+  "Tags": [
+    "Peter Parker",
+    "Black Suit",
+    "Symbiote",
+    "Marvel",
+    "Venom"
+  ],
+  "Arguments": null
+}

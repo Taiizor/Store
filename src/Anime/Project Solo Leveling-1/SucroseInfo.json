@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Project Solo Leveling",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Project: Solo Leveling - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/project-solo-leveling",
+  "Type": 3,
+  "Source": "psl.mp4",
+  "Tags": [
+    "Sung Jin-Woo",
+    "Dungeons",
+    "Webtoon",
+    "Manhwa",
+    "Magic"
+  ],
+  "Arguments": null
+}

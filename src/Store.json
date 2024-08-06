@@ -516,6 +516,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Project Solo Leveling-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rengoku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kyojuro Rengoku Flames-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Satoru Gojo Nike-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2397,6 +2415,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Dark Side Spider-Man-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gwen Stacy On a Panel-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -2612,6 +2636,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Side Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tattooed Dragon Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6414,6 +6444,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Verge Chill Beats Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Alone In Rain-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Coffee Shop Train Station Rainy Day-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
