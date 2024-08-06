@@ -516,6 +516,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Satoru Gojo Grey-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "One-Punch Man 3D-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Berserk Golden Age Arc-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kid Goku and Cat-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jujutsu Kaisen Gojo vs Louis Vuitton-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Flame Hashira Rengoku-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2315,6 +2345,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Manga Style Goku-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ascending Fury-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "One-Punch Man 3D",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "One-Punch Man 3D - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/one-punch-3d",
+  "Type": 3,
+  "Source": "opm3d.mp4",
+  "Tags": [
+    "Caped Baidy",
+    "Superhero",
+    "Saitama",
+    "Comedy",
+    "Genos"
+  ],
+  "Arguments": null
+}
