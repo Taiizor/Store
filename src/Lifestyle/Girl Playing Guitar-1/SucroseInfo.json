@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Girl Playing Guitar",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Girl Playing Guitar - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/guitar-girl",
+  "Type": 3,
+  "Source": "gpg.mp4",
+  "Tags": [
+    "Colorful",
+    "Dynamic",
+    "Fantasy",
+    "Vibrant",
+    "Music"
+  ],
+  "Arguments": null
+}

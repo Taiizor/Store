@@ -516,6 +516,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Flame Hashira Rengoku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Azusawa Kohane-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Hanying Zitherwoe-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yor Forger-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Project Solo Leveling-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2636,6 +2660,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Cyberpunk Oni Mask Babe-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Side Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6444,6 +6474,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Girl Playing Guitar-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Verge Chill Beats Lofi-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7661,6 +7697,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Street Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Audi TT-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

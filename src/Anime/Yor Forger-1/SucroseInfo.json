@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Yor Forger",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yor Forger - Spy x Family - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/street-car-rain",
+  "Type": 3,
+  "Source": "yfsxf.mp4",
+  "Tags": [
+    "Secret Identity",
+    "Thorn Princess",
+    "Anya Forger",
+    "Loid Forger",
+    "Assassin"
+  ],
+  "Arguments": null
+}
