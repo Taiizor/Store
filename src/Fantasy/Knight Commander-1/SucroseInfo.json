@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Knight Commander",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Knight Commander - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/knight-commander-live-wallpaper",
+  "Type": 3,
+  "Source": "kc.mp4",
+  "Tags": null,
+  "Arguments": null
+}
