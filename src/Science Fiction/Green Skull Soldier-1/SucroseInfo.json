@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Green Skull Soldier",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Green Skull Soldier - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/skull-soldier",
+  "Type": 3,
+  "Source": "gss.mp4",
+  "Tags": [
+    "Fantasy Soldier",
+    "Green Aesthetic",
+    "Spooky Soldier",
+    "Undead Warrior",
+    "Eerie Soldier"
+  ],
+  "Arguments": null
+}

@@ -516,6 +516,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Satoru Gojo Nike-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Guts Black Swordsman-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3543,6 +3549,9 @@
           "Adult": false
         }
       }
+    },
+    "Fashion": {
+      "Wallpapers": {}
     },
     "Film and TV": {
       "Wallpapers": {
@@ -7010,6 +7019,18 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Green Skull Soldier-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Solomon Kane-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Cyber Girl-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

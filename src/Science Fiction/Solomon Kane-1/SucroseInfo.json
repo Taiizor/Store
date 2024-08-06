@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.3.0",
+  "Version": "1.0.0.0",
+  "Title": "Solomon Kane",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Solomon Kane - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/solomon-kane",
+  "Type": 3,
+  "Source": "sk.mp4",
+  "Tags": [
+    "Sword and Sorcery",
+    "Dark Fantasy",
+    "Supernatural",
+    "Grim Hero",
+    "Antihero"
+  ],
+  "Arguments": null
+}
