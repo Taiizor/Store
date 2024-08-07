@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Topaz",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Topaz - Honkai: Star Rail - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/topaz-star-rail",
+  "Type": 3,
+  "Source": "thsr.mp4",
+  "Tags": [
+    "Futuristic",
+    "Gacha Game",
+    "Stellarons",
+    "Mihoyo",
+    "Aeons"
+  ],
+  "Arguments": null
+}

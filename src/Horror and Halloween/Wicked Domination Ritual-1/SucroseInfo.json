@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Wicked Domination Ritual",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Wicked Domination Ritual - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/domination-ritual",
+  "Type": 3,
+  "Source": "wdr.mp4",
+  "Tags": [
+    "Dark Magic",
+    "Forbidden",
+    "Sinister",
+    "Sorcery",
+    "Occuit"
+  ],
+  "Arguments": null
+}

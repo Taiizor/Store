@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Rei Ayanami",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rei Ayanami - Neon Genesis Evangelion - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/evangelion-rei-ayanami",
+  "Type": 3,
+  "Source": "range.mp4",
+  "Tags": [
+    "Blue Hair",
+    "Red Eyes",
+    "Clones",
+    "Mecha",
+    "Nerv"
+  ],
+  "Arguments": null
+}

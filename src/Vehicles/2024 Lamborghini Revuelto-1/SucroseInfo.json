@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "2024 Lamborghini Revuelto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "2024 Lamborghini Revuelto - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lamborghini-revuelto",
+  "Type": 3,
+  "Source": "2024lr.mp4",
+  "Tags": [
+    "Automotive",
+    "Luxury Car",
+    "V12 Engine",
+    "Supercar",
+    "Hybrid"
+  ],
+  "Arguments": null
+}

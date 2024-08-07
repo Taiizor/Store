@@ -516,6 +516,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sanctum Tower-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Topaz-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rei Ayanami-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Roronoa Zoro Green-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Satoru Gojo Grey-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -6051,6 +6075,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Wicked Domination Ritual-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Hallowen Demon Girl-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -6510,6 +6540,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Spring Blossoms Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Girl Playing Guitar-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7733,6 +7769,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "2024 Lamborghini Revuelto-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Street Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

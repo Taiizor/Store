@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Sanctum Tower",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sanctum Tower - Blue Archive - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sanctum-tower",
+  "Type": 3,
+  "Source": "stba.mp4",
+  "Tags": [
+    "Anime Style",
+    "Futuristic",
+    "Gacha Game",
+    "Students",
+    "Nexon"
+  ],
+  "Arguments": null
+}
