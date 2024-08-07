@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Firewatch Tower Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Firewatch Tower Sunset - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/firewatch-tower-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "fts.mp4",
+  "Tags": [
+    "Mountains",
+    "Clouds",
+    "Forest",
+    "Nature",
+    "Trees"
+  ],
+  "Arguments": null
+}

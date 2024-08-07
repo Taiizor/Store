@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Toad Riding Salamander",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Toad Riding Salamander - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/toad-riding-salamander-live-wallpaper",
+  "Type": 3,
+  "Source": "trs.mp4",
+  "Tags": [
+    "Nature"
+  ],
+  "Arguments": null
+}

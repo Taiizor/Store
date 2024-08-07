@@ -316,6 +316,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Toad Riding Salamander-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cat In The Swamp-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -516,6 +522,72 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Six Paths Madara vs Eight Gates Might Guy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Gaze of Signalis-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Miyamoto After The Battle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Acheron Slashed Dream Cries In Red-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Thousand Sunny Ship Moonlit Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gogeta Super Saiyan 4-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Koleda and Ben-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hitori and Psyduck-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Awakening-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Killua Zoldyck-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lightning Bolts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sasuke and Naruto Split-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -6248,6 +6320,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Firewatch Tower Sunset-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lonely Island-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Miyamoto After The Battle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Miyamoto After The Battle - Vagabond - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/miyamoto-after-the-battle-vagabond-live-wallpaper",
+  "Type": 3,
+  "Source": "matbv.mp4",
+  "Tags": [
+    "Musashi Miyamoto",
+    "Monochrome",
+    "Japanese",
+    "Samurai",
+    "Katana"
+  ],
+  "Arguments": null
+}
