@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Lake Foggy Mountains",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lake Foggy Mountains - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/lake-foggy-mountains-live-wallpaper",
+  "Type": 3,
+  "Source": "lfm.mp4",
+  "Tags": [
+    "Landscape",
+    "Trees"
+  ],
+  "Arguments": null
+}

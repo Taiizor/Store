@@ -516,6 +516,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sasuke and Naruto Split-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Xiao Vigilant Yaksha-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sanctum Tower-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2369,6 +2381,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Tanjiro Full Moon-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Manga Style Goku-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -6895,6 +6913,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Lake Foggy Mountains-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Night Flower Field-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -8148,6 +8172,12 @@
     },
     "War": {
       "Wallpapers": {
+        "Red Elite Team-1": {
+          "Source": "src/War",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Axel-1": {
           "Source": "src/War",
           "Cover": "thumbnail.jpg",
