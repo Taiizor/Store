@@ -522,6 +522,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Dio Brando Vampire JoJo's Bizarre-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Goku Moonlit Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Meliodas and Baby Elizabeth-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Meliodas Lost Humanity-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Billy Kid-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Future Trunks-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Six Paths Madara vs Eight Gates Might Guy-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2453,6 +2489,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Driving Under The Moonlight In The Forest-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tanjiro Full Moon-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -3765,6 +3807,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "The Terminator-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Stranger Things Clouds-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -4257,6 +4305,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Echoes of The Subway-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Escalation of Freedom-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6887,6 +6941,12 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Seven Deadly Sins-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Windows 10 Logo Shining-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",

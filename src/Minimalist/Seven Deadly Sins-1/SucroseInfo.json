@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Seven Deadly Sins",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Seven Deadly Sins - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/seven-deadly-sins-minimalist-theme-live-wallpaper",
+  "Type": 3,
+  "Source": "sds.mp4",
+  "Tags": [
+    "Elizabeth Liones",
+    "Escanor",
+    "Gowther",
+    "Diane",
+    "Ban"
+  ],
+  "Arguments": null
+}

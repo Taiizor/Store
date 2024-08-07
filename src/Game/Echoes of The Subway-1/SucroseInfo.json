@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "Echoes of The Subway",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Echoes of The Subway - Signalis - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/echoes-of-the-subway-signalis-live-wallpaper",
+  "Type": 3,
+  "Source": "eotss.mp4",
+  "Tags": [
+    "Depressed",
+    "Alone",
+    "Train",
+    "Dark"
+  ],
+  "Arguments": null
+}

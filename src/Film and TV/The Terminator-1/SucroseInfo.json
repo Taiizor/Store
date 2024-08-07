@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.7.0",
+  "Version": "1.0.0.0",
+  "Title": "The Terminator",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Terminator - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/movies/the-terminator-live-wallpaper",
+  "Type": 3,
+  "Source": "tt.mp4",
+  "Tags": [
+    "Sunglasses",
+    "Pistor",
+    "Robot",
+    "Gun"
+  ],
+  "Arguments": null
+}
