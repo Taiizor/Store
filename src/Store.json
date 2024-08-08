@@ -558,6 +558,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Yamato Anime Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Azure Lane Party-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2751,6 +2757,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Spider Gwen Stacy-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Side Spider-Man-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -2972,6 +2984,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Cyborg Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Girls with Guns-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Girl with Umbrella-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "On Vacation Pool Babe-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4443,6 +4473,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Furina-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Valeera-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Echoes of The Subway-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

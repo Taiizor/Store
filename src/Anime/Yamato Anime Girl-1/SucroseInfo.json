@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Yamato Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yamato Anime Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/yamato-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "yag.mp4",
+  "Tags": [
+    "White Hair",
+    "One Piece"
+  ],
+  "Arguments": null
+}

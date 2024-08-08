@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Girl with Umbrella",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Girl with Umbrella - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Girl-with-Umbrella-4K-Live-Wallpaper",
+  "Type": 3,
+  "Source": "gwu.mp4",
+  "Tags": [
+    "Raining",
+    "Rainy",
+    "Rain"
+  ],
+  "Arguments": null
+}

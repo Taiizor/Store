@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Furina",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Furina - Genshin Impact - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/furina-live-wallpaper",
+  "Type": 3,
+  "Source": "fgi.mp4",
+  "Tags": [
+    "Skulls",
+    "Blue",
+    "Evil",
+    "Girl"
+  ],
+  "Arguments": null
+}
