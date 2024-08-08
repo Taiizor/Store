@@ -522,6 +522,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shiroko Train Stop-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Firefly Falling Stars City-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Yor Forger-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Tanjiro Hinokami Kagura-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dio Brando Vampire JoJo's Bizarre-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
