@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Lenovo Legion-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fluffy Grass Portal-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -512,6 +518,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Liz Furry-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Elsa-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -558,6 +570,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Vegeta-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Yamato Anime Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2757,6 +2775,18 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Cool Miles Morales Spider-Man-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Wonder Woman-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Spider Gwen Stacy-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -2984,6 +3014,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Tiefling-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyborg Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4473,6 +4509,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Blind Night Elf-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The War Within-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Furina-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6399,6 +6447,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Salvius Julianus Malum Ludex-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Wicked Domination Ritual-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",

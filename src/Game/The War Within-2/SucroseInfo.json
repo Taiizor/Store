@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "The War Within",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The War Within - World of Warcraft - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/world-of-warcraft-the-war-within-live-wallpaper",
+  "Type": 3,
+  "Source": "twwwow.mp4",
+  "Tags": [
+    "Archer",
+    "Arrow",
+    "Sword",
+    "Bow",
+    "WoW"
+  ],
+  "Arguments": null
+}

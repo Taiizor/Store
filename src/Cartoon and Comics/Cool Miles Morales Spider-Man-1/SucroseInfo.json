@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Cool Miles Morales Spider-Man",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cool Miles Morales Spider-Man - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cool-miles-morales-spider-man-4k-live-wallpaper",
+  "Type": 3,
+  "Source": "cmmsm.mp4",
+  "Tags": [
+    "Spider Man"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Liz Furry",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Liz Furry - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Liz-Furry",
+  "Type": 3,
+  "Source": "lf.mp4",
+  "Tags": [
+    "Cartoon Character",
+    "Anthropomorphic",
+    "Cartoon",
+    "Mascot"
+  ],
+  "Arguments": null
+}

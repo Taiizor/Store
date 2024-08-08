@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Salvius Julianus Malum Ludex",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Salvius Julianus Malum Ludex - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Salvius-Julianus",
+  "Type": 3,
+  "Source": "sjml.mp4",
+  "Tags": [
+    "Latin Phrase",
+    "Preppy",
+    "Drip",
+    "Gun",
+    "RGB"
+  ],
+  "Arguments": null
+}

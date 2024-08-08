@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Blind Night Elf",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blind Night Elf - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Blind-Night-Elf",
+  "Type": 3,
+  "Source": "bne.mp4",
+  "Tags": [
+    "World of Warcraft",
+    "Night Elf Race",
+    "Elven Culture",
+    "Dark Vision",
+    "Blindless"
+  ],
+  "Arguments": null
+}
