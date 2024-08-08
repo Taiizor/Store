@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Huge Majestic Tree",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Huge Majestic Tree - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/huge-majestic-tree-live-wallpaper",
+  "Type": 3,
+  "Source": "hmt.mp4",
+  "Tags": [
+    "Clouds",
+    "Trees",
+    "Water"
+  ],
+  "Arguments": null
+}

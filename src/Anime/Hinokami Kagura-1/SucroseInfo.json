@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Hinokami Kagura",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hinokami Kagura - Kimetsu No Yaiba - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/hinokami-kagura",
+  "Type": 3,
+  "Source": "hkkny.mp4",
+  "Tags": [
+    "Nichirin Sword",
+    "Tanjiro Kamado",
+    "Sun Breathing",
+    "Demon Slayer",
+    "Fiery Dance"
+  ],
+  "Arguments": null
+}

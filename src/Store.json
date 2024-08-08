@@ -316,6 +316,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Breath of Wind Lofi-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toad Riding Salamander-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -522,6 +528,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Bianca Deep Scar PGR-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Imashino Misaki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kurokawa Akane Face-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hinokami Kagura-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mori Calliope Lofi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shiroko Train Stop-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7075,6 +7111,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Huge Majestic Tree-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lake Foggy Mountains-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

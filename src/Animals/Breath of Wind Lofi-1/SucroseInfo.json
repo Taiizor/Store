@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Breath of Wind Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Breath of Wind Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/nature-lofi",
+  "Type": 3,
+  "Source": "bowl.mp4",
+  "Tags": [
+    "Relaxing Music",
+    "Chill Beats",
+    "Ambient",
+    "Nature",
+    "Cat"
+  ],
+  "Arguments": null
+}

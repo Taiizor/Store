@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Mori Calliope Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mori Calliope Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mori-calliope",
+  "Type": 3,
+  "Source": "mcl.mp4",
+  "Tags": [
+    "Virtual Youtuber",
+    "Hololive",
+    "Reaper",
+    "Vtuber",
+    "Music"
+  ],
+  "Arguments": null
+}
