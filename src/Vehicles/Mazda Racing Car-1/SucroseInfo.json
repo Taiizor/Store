@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Mazda Racing Car",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mazda Racing Car - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Mazda-Racing-Car",
+  "Type": 3,
+  "Source": "mrc.mp4",
+  "Tags": [
+    "Anime Aesthetic",
+    "Racing Scene",
+    "Night Sky",
+    "Clouds",
+    "Rain"
+  ],
+  "Arguments": null
+}

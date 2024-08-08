@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Star God Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Star God Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/star-god-girl-4k-live-wallpaper",
+  "Type": 3,
+  "Source": "sgg.mp4",
+  "Tags": [
+    "Cute"
+  ],
+  "Arguments": null
+}

@@ -558,6 +558,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Azure Lane Party-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Girl Wars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Star God Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Star God Girl Bunny-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kenshi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Bianca Deep Scar PGR-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2942,6 +2972,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "On Vacation Pool Babe-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Demon Girl in Rain-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Moto Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyberpunk Oni Mask Babe-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6382,6 +6430,12 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Tangled-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lofi Sweet Dream-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
@@ -8033,6 +8087,18 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Lotus Elise Series-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Mazda Racing Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "2024 Lamborghini Revuelto-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Azure Lane Party",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Azure Lane Party - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/azure-lane-party",
+  "Type": 3,
+  "Source": "alp.mp4",
+  "Tags": [
+    "Naval Battle",
+    "Shipgirls",
+    "Gacha",
+    "Cute",
+    "Girl"
+  ],
+  "Arguments": null
+}

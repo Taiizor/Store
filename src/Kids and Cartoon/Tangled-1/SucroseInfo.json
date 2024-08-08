@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Tangled",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tangled - Disney - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/disney-tangled",
+  "Type": 3,
+  "Source": "td.mp4",
+  "Tags": [
+    "Fairy Tale",
+    "Adventure"
+  ],
+  "Arguments": null
+}

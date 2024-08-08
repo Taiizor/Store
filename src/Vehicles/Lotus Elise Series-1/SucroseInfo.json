@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lotus Elise Series",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lotus Elise Series - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Lotus-Elise-Series",
+  "Type": 3,
+  "Source": "les.mp4",
+  "Tags": [
+    "Lightweight",
+    "Automotive",
+    "Roadster",
+    "Cars",
+    "Girl"
+  ],
+  "Arguments": null
+}
