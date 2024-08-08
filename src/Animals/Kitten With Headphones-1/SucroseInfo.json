@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Kitten With Headphones",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kitten With Headphones - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cute/kitten-with-headphones-live-wallpaper",
+  "Type": 3,
+  "Source": "kwh.mp4",
+  "Tags": [
+    "Cat"
+  ],
+  "Arguments": null
+}

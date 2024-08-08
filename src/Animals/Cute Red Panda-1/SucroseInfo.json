@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Cute Red Panda",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cute Red Panda - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cute/cute-red-panda-live-wallpaper",
+  "Type": 3,
+  "Source": "crp.mp4",
+  "Tags": [
+    "Tree"
+  ],
+  "Arguments": null
+}

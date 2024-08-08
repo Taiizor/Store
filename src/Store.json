@@ -316,6 +316,36 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Beach Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cute Red Panda-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Rawr-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cute Tiger Cub-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kitten With Headphones-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Breath of Wind Lofi-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -6750,6 +6780,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Shadow Finger Puppet-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Spring Blossoms Lofi-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
