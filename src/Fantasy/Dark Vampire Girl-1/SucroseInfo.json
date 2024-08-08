@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Vampire Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Vampire Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dark-vampire",
+  "Type": 3,
+  "Source": "dvg.mp4",
+  "Tags": [
+    "Gothic Beauty",
+    "Supernatural",
+    "Mystery",
+    "Gothic",
+    "Horror"
+  ],
+  "Arguments": null
+}

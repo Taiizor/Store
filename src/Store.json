@@ -518,6 +518,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Soldier Girls-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Liz Furry-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -570,6 +576,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Toji Fushiguro-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Vegeta-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2852,6 +2864,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "Yuji Itadori RGB-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "ROG RGB-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -3014,6 +3032,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Vampire Girl-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tiefling-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4509,6 +4533,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "2B Lollipop-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Girl-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blind Night Elf-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7583,6 +7619,18 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Lone Samurai-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cyberpunk Assassin Squad-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Green Skull Soldier-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -8183,6 +8231,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Anime Race Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lotus Elise Series-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
