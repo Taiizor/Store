@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Attractive Particles",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Particles get attracted towards mouse position or repelled when you click.",
+  "Author": "George",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/gmihalios",
+  "Type": 2,
+  "Source": "Particles.html",
+  "Tags": [
+    "Gradiant",
+    "Parallax"
+  ],
+  "Arguments": null
+}
