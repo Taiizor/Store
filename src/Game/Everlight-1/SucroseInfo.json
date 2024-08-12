@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Everlight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Everlight - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/everlight-live-wallpaper",
+  "Type": 3,
+  "Source": "e.mp4",
+  "Tags": [
+    "White Hair"
+  ],
+  "Arguments": null
+}

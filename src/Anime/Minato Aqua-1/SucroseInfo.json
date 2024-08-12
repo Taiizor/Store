@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Minato Aqua",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Minato Aqua - Virtual Youtuber - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/minato-aqua-virtual-youtuber-live-wallpaper",
+  "Type": 3,
+  "Source": "mavy.mp4",
+  "Tags": [
+    "Rabbit Ear Headband",
+    "Anime Girl",
+    "Pink Hair",
+    "VYoutuber"
+  ],
+  "Arguments": null
+}

@@ -582,6 +582,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Reimu Hakurei Touhou-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Minato Aqua-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Junko New Year-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gojo Moonlight Stars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toji Fushiguro-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4539,6 +4563,36 @@
     },
     "Game": {
       "Wallpapers": {
+        "Everlight-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Acheron-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ganyu and Firefly-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Silver Wolf Jamming-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mitsuru Kirijo-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "2B Lollipop-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6656,6 +6710,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Mount Fuji Torii Sunset-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Firewatch Tower Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -6972,6 +7032,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Lofi Girl Chilling Night City-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shadow Finger Puppet-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

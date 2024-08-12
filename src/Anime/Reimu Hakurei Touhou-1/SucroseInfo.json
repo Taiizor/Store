@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Reimu Hakurei Touhou",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Reimu Hakurei Touhou - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/reimu-hakurei-touhou-2-live-wallpaper",
+  "Type": 3,
+  "Source": "rht.mp4",
+  "Tags": [
+    "Touhou Project",
+    "Lying Down"
+  ],
+  "Arguments": null
+}

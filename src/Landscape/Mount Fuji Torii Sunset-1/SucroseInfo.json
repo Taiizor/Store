@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Mount Fuji Torii Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mount Fuji Torii Sunset - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/mount-fuji-torii-sunset-live-wallpaper",
+  "Type": 3,
+  "Source": "mfts.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Autumn Tree",
+    "Sunlight",
+    "Clouds",
+    "Gate"
+  ],
+  "Arguments": null
+}
