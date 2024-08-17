@@ -524,6 +524,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Running on The Rings of Saturn-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Wandering Witch-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -3122,6 +3128,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Water Demon Witch-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Samurai Sun-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4635,6 +4653,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Wukong-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Everlight-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6782,6 +6806,18 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Beautiful Nature View Lofi-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Japan Lake Dreamscene-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Field of Grass Lofi-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7519,6 +7555,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Spring Lofi-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Glittering Stars-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -8447,6 +8489,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Lamborghini Countach LPI 800-4-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Nissan-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Beautiful Nature View Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Beautiful Nature View Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/nature-view-lofi",
+  "Type": 3,
+  "Source": "bnvl.mp4",
+  "Tags": [
+    "Scenic Landscape",
+    "Relaxing Music",
+    "Nature Sounds",
+    "Chill Beats",
+    "Tranquil"
+  ],
+  "Arguments": null
+}

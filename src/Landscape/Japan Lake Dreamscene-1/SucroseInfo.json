@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Japan Lake Dreamscene",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Japan Lake Dreamscene - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/japan-lake",
+  "Type": 3,
+  "Source": "jld.mp4",
+  "Tags": [
+    "Cherry Blossoms",
+    "Misty Mountains",
+    "Peaceful",
+    "Tranquil",
+    "Serene"
+  ],
+  "Arguments": null
+}
