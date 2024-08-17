@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Robot Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Robot Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/robot-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "rg.mp4",
+  "Tags": [
+    "Colorful",
+    "Tattoo",
+    "Mecha",
+    "RGB"
+  ],
+  "Arguments": null
+}

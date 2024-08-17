@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lofi Girl Smoking",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lofi Girl Smoking - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/lofi-girl-smoking-live-wallpaper",
+  "Type": 3,
+  "Source": "lgs.mp4",
+  "Tags": [
+    "Clouds",
+    "Birds",
+    "Stars",
+    "City",
+    "Car"
+  ],
+  "Arguments": null
+}

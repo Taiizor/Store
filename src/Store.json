@@ -582,6 +582,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Griffith The White Hawk-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ellen Joe Lying On The Sofa-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ayanami Rei-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Erii Uesugi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2881,6 +2899,12 @@
     },
     "Cities and Places": {
       "Wallpapers": {
+        "Silhouette Anime Girl Watching City-1": {
+          "Source": "src/Cities and Places",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cyberpunk City Flying-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
@@ -6722,6 +6746,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Peaceful Ruins-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mount Fuji Torii Sunset-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7044,6 +7074,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Alone In The Rain Vending Machine-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lofi Girl Smoking-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Pastel Cafe-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7715,6 +7757,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Robot Girl-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lone Samurai-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
