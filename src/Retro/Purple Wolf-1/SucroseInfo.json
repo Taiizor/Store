@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Purple Wolf",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Purple Wolf - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/purple-wolf",
+  "Type": 3,
+  "Source": "pw.mp4",
+  "Tags": [
+    "Night Setting",
+    "Glowing Eyes",
+    "Ethereal",
+    "Majestic",
+    "Mystical"
+  ],
+  "Arguments": null
+}

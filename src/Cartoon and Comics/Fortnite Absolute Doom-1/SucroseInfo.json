@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Fortnite Absolute Doom",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fortnite Absolute Doom - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fornite-doom",
+  "Type": 3,
+  "Source": "fad.mp4",
+  "Tags": [
+    "Victor Von Doom",
+    "Dark Aesthetic",
+    "Intense Combat",
+    "Apocalyptic",
+    "Futuristic"
+  ],
+  "Arguments": null
+}

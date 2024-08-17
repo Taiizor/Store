@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Hulk Workout",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hulk Workout - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/hulk-workout",
+  "Type": 3,
+  "Source": "hw.mp4",
+  "Tags": [
+    "Superhero Fitness",
+    "Intense Training",
+    "Muscle Building",
+    "Weightlifting",
+    "Powerlifting"
+  ],
+  "Arguments": null
+}

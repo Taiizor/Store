@@ -582,6 +582,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kyojin-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Griffith The White Hawk-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2841,6 +2847,24 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Fortnite Absolute Doom-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Marvel Doctor Doom-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hulk Workout-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cool Miles Morales Spider-Man-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -7569,6 +7593,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Purple Wolf-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Moon Rays-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
