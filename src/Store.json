@@ -524,6 +524,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Wandering Witch-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Soldier Girls-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -4125,6 +4131,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Calm Your Anxiety-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Terminator-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6770,6 +6782,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Field of Grass Lofi-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Peaceful Ruins-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7098,6 +7116,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Lofi Vending Machines-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Night Cigarette Snap Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Alone In The Rain Vending Machine-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7571,6 +7601,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Devil in Paris Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Crunchyroll Yuppie Psycho-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -8025,6 +8061,12 @@
     },
     "Sports": {
       "Wallpapers": {
+        "Space Jam Spongebob-1": {
+          "Source": "src/Sports",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Baseball Girl-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",
@@ -8405,6 +8447,18 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Black Nissan-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Violet Nissan GTR-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Race Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

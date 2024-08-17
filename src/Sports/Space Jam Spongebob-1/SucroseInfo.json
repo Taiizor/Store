@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Space Jam Spongebob",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Space Jam Spongebob - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Space-Jam-Spongebob-Live-Wallpaper",
+  "Type": 3,
+  "Source": "sjs.mp4",
+  "Tags": null,
+  "Arguments": null
+}

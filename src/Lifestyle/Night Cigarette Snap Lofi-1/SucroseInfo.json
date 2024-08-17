@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Night Cigarette Snap Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Night Cigarette Snap Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cigarette-lofi",
+  "Type": 3,
+  "Source": "ncsl.mp4",
+  "Tags": [
+    "Nighttime Vibe",
+    "Relaxing Music",
+    "Chill Beats",
+    "Calming",
+    "Moody"
+  ],
+  "Arguments": null
+}

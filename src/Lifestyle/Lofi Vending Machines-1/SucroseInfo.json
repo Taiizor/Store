@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lofi Vending Machines",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lofi Vending Machines - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Lofi-Vending-Machines-Live-Wallpaper",
+  "Type": 3,
+  "Source": "lvm.mp4",
+  "Tags": null,
+  "Arguments": null
+}

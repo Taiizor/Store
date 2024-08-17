@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Wandering Witch",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Wandering Witch - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/wandering-witch",
+  "Type": 3,
+  "Source": "ww.mp4",
+  "Tags": [
+    "Enchanted Journey",
+    "Magical Staff",
+    "Spellcasting",
+    "Mystical",
+    "Fantasy"
+  ],
+  "Arguments": null
+}

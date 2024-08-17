@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Field of Grass Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Field of Grass Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fields-lofi",
+  "Type": 3,
+  "Source": "fogl.mp4",
+  "Tags": [
+    "Relaxing Music",
+    "Chill Beats",
+    "Soothing",
+    "Ambient",
+    "Calming"
+  ],
+  "Arguments": null
+}
