@@ -582,6 +582,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Erii Uesugi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Reimu Hakurei Touhou-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3062,6 +3068,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Vampire Girl-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -7032,6 +7044,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Pastel Cafe-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lofi Girl Chilling Night City-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7405,6 +7423,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Glittering Stars-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Huge Majestic Tree-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

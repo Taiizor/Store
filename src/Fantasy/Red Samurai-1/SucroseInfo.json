@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Samurai - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/red-samurai-live-wallpaper",
+  "Type": 3,
+  "Source": "rs.mp4",
+  "Tags": [
+    "Forest",
+    "Katana",
+    "Trees"
+  ],
+  "Arguments": null
+}
