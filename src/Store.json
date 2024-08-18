@@ -594,6 +594,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Sukuna Evil Smile-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Uchiha Itachi Susanoo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Moca Commander-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Senadina-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cyberpunk Racer-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kyojin-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2859,6 +2889,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Miles Morales-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fortnite Absolute Doom-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -3128,6 +3164,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Lone Ronin-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Water Demon Witch-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4653,6 +4695,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ghost-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Zeri The Spark of Zaun-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Nier Automata vs Metal Gear Rising-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Wukong-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -6629,6 +6689,12 @@
     },
     "Holidays and Seasons": {
       "Wallpapers": {
+        "Vacation Cat-1": {
+          "Source": "src/Holidays and Seasons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Merry Christmas Tree-1": {
           "Source": "src/Holidays and Seasons",
           "Cover": "thumbnail.jpg",
@@ -8455,6 +8521,12 @@
     },
     "Underwater and Marine": {
       "Wallpapers": {
+        "Gojo in Deep Water-1": {
+          "Source": "src/Underwater and Marine",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Floating In The Ocean-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",
@@ -8489,6 +8561,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Speed Car-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lamborghini Countach LPI 800-4-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

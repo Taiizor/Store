@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghost",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghost - Call of Duty - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/ghost-cod",
+  "Type": 3,
+  "Source": "gcod.mp4",
+  "Tags": [
+    "Modern Warfare",
+    "Special Forces",
+    "Ghost Unit",
+    "Dystopian",
+    "Military"
+  ],
+  "Arguments": null
+}

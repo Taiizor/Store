@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Zeri The Spark of Zaun",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zeri The Spark of Zaun - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/zeri-zaun",
+  "Type": 3,
+  "Source": "ztsoz.mp4",
+  "Tags": [
+    "League of Legends",
+    "Electric Powers",
+    "Volt Charge",
+    "Lightning",
+    "Zaunite"
+  ],
+  "Arguments": null
+}

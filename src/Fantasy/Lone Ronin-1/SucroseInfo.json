@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lone Ronin",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lone Ronin - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/comics/lone-ronin-live-wallpaper",
+  "Type": 3,
+  "Source": "lr.mp4",
+  "Tags": [
+    "Samurai",
+    "Katana"
+  ],
+  "Arguments": null
+}

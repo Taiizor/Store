@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Cyberpunk Racer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cyberpunk Racer - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cyberpunk-racer",
+  "Type": 3,
+  "Source": "cr.mp4",
+  "Tags": [
+    "Dystopian City",
+    "Sleek Vehicles",
+    "Neon Lights",
+    "Futuristic",
+    "High Speed"
+  ],
+  "Arguments": null
+}
