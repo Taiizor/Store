@@ -594,6 +594,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shrek x Miku Driving a Motorbike-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sukuna Evil Smile-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -2747,6 +2753,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Shrek x Frieren Monochrome-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Driving Under The Moonlight In The Forest-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4698,6 +4710,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "Battle With 4 Heavenly Kings-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Snowfall-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Traditional Temple-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Wukong-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ghost-3": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",

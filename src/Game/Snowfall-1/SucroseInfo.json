@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Snowfall",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Snowfall - Black Myth: Wukong - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/snowfall-black-myth-wukong-live-wallpaper",
+  "Type": 3,
+  "Source": "sbmw.mp4",
+  "Tags": [
+    "Game Landscape",
+    "Sun Wukong",
+    "Chinese",
+    "Monkey",
+    "Tree"
+  ],
+  "Arguments": null
+}
