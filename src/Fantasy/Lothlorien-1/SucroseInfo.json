@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lothlorien",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lothlorien - The Lord of the Rings - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/lothlorien-the-lord-of-the-rings-live-wallpaper",
+  "Type": 3,
+  "Source": "ltlotr.mp4",
+  "Tags": [
+    "Fantasy Landscape",
+    "Water Stream",
+    "Watefall"
+  ],
+  "Arguments": null
+}

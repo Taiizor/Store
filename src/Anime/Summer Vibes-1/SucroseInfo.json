@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Summer Vibes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Summer Vibes - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/summer-vibes",
+  "Type": 3,
+  "Source": "sv.mp4",
+  "Tags": [
+    "Bright Colors",
+    "Warm Breeze",
+    "Palm Trees",
+    "Sunshine",
+    "Beach"
+  ],
+  "Arguments": null
+}

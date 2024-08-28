@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Happy Tiger Cub",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Happy Tiger Cub - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cute/happy-tiger-cub-live-wallpaper",
+  "Type": 3,
+  "Source": "htc.mp4",
+  "Tags": [
+    "Falling Leaves"
+  ],
+  "Arguments": null
+}

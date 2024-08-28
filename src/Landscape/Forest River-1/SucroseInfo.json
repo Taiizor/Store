@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest River",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Forest River - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/forest-river",
+  "Type": 3,
+  "Source": "fr.mp4",
+  "Tags": [
+    "Reflective Surface",
+    "Sunlight Filtering",
+    "Flowing Water",
+    "Lush Greenery",
+    "Serene Nature"
+  ],
+  "Arguments": null
+}

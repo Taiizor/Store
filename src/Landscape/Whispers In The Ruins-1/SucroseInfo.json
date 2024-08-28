@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Whispers In The Ruins",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Whispers In The Ruins - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/whisper-ruins_gKl",
+  "Type": 3,
+  "Source": "witr.mp4",
+  "Tags": [
+    "Mysterious",
+    "Abondoned",
+    "Haunting",
+    "Ancient",
+    "Eerie"
+  ],
+  "Arguments": null
+}

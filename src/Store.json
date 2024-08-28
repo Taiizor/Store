@@ -328,6 +328,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Happy Tiger Cub-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Voyage Of The Whales-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -600,6 +606,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Summer Vibes-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Asuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Berserk Ultimate Demon Slayer-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lonely Thorfinn-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shrek x Miku Driving a Motorbike-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3185,6 +3215,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Lothlorien-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lone Ronin-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6911,6 +6947,18 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Forest River-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Whispers In The Ruins-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Beautiful Nature View Lofi-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
