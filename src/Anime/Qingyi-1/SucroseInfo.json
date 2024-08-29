@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Qingyi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Qingyi - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/qingyi-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "qzzz.mp4",
+  "Tags": [
+    "Green Eyes",
+    "Leaves",
+    "Window"
+  ],
+  "Arguments": null
+}

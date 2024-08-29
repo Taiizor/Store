@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Medieval Tavern",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Medieval Tavern - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/medieval-tavern-live-wallpaper",
+  "Type": 3,
+  "Source": "mt.mp4",
+  "Tags": [
+    "Anime Girl",
+    "Smiling",
+    "Beer",
+    "Bar"
+  ],
+  "Arguments": null
+}
