@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Quick Nap",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Quick Nap - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/quick-nap",
+  "Type": 3,
+  "Source": "qn.mp4",
+  "Tags": [
+    "Gentle Expression",
+    "Warm Blanket",
+    "Anime Girl",
+    "Cozy",
+    "Rain"
+  ],
+  "Arguments": null
+}

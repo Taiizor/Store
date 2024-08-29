@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "No Gangs Land",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "No Gangs Land - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/no-gangs-land",
+  "Type": 3,
+  "Source": "ngl.mp4",
+  "Tags": [
+    "Street Life",
+    "Suspense",
+    "Gritty",
+    "Urban",
+    "Dark"
+  ],
+  "Arguments": null
+}

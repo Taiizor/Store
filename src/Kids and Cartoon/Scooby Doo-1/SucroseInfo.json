@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Scooby Doo",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Scooby Doo - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/scooby-doo",
+  "Type": 3,
+  "Source": "sd.mp4",
+  "Tags": [
+    "Talking Dog",
+    "Daphne",
+    "Shaggy",
+    "Velma",
+    "Fred"
+  ],
+  "Arguments": null
+}

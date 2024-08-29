@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Michaela",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Michaela - BrownDust2's Beachside - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/browndust-michaela",
+  "Type": 3,
+  "Source": "mbd2b.mp4",
+  "Tags": [
+    "Coastal",
+    "Stylish",
+    "Vibrant",
+    "Serene",
+    "Summer"
+  ],
+  "Arguments": null
+}

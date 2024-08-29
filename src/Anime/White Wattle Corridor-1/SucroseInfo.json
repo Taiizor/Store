@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "White Wattle Corridor",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "White Wattle Corridor - Dark Alley - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/white-wattle-corridor",
+  "Type": 3,
+  "Source": "wwcda.mp4",
+  "Tags": [
+    "Moody Atmosphere",
+    "Narrow Passage",
+    "Dimly Lit",
+    "Shadowy",
+    "Eerie"
+  ],
+  "Arguments": null
+}
