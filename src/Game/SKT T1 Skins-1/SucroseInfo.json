@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "SKT T1 Skins",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "SKT T1 Skins - League of Legends - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/skt-t1-skins-league-of-legends-live-wallpaper",
+  "Type": 3,
+  "Source": "sktt1slol.mp4",
+  "Tags": [
+    "Lee Sin",
+    "Orianna",
+    "Jayce",
+    "Bard",
+    "Jinx"
+  ],
+  "Arguments": null
+}

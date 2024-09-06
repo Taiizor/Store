@@ -2,6 +2,18 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Color Stain-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Calm Space Constellations-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Attractive Particles-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -606,6 +618,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Greninja-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Qingyi Read Newspaper-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kuchiki Byakuya-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Hatsune Miku Autumn-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Hayase Yuuka Drinking Coffee-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lucia Crimson Abyss-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4878,6 +4920,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "SKT T1 Skins-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sunset Sky-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Raze Bomb-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Shadow of the Erdtree-4": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Battle With 4 Heavenly Kings-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7931,6 +7997,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Sunset Lake Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Devil in Paris Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -8321,6 +8393,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Astronaut Anime Girl Floating In Space-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lonely Space Girl-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",

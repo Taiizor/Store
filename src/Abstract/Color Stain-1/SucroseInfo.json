@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Color Stain",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Color Stain - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/color-stain-live-wallpaper",
+  "Type": 3,
+  "Source": "cs.mp4",
+  "Tags": [
+    "Anime Girl",
+    "White Hair",
+    "Colorful"
+  ],
+  "Arguments": null
+}

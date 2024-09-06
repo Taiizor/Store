@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Calm Space Constellations",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Calm Space Constellations - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/calm-space-constellations-live-wallpaper",
+  "Type": 3,
+  "Source": "csc.mp4",
+  "Tags": [
+    "Abstraction",
+    "Colorful"
+  ],
+  "Arguments": null
+}

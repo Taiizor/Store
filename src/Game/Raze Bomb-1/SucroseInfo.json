@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Raze Bomb",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Raze Bomb - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/raze-bomb-valorant-live-wallpaper",
+  "Type": 3,
+  "Source": "rbv.mp4",
+  "Tags": [
+    "Gun"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Greninja",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Greninja - Pokemon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/greninja-pokemon-2-live-wallpaper",
+  "Type": 3,
+  "Source": "gp.mp4",
+  "Tags": [
+    "Raining",
+    "Storm"
+  ],
+  "Arguments": null
+}

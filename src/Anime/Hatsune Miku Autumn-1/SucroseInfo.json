@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Hatsune Miku Autumn",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Hatsune Miku Autumn - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/hatsune-miku-autumn-live-wallpaper",
+  "Type": 3,
+  "Source": "hma.mp4",
+  "Tags": [
+    "Japanese Traditions",
+    "Falling Leaves",
+    "Twintails",
+    "Kimono"
+  ],
+  "Arguments": null
+}

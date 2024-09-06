@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Sunset Lake Pixel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sunset Lake Pixel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/sunset-lake-pixel-2-live-wallpaper",
+  "Type": 3,
+  "Source": "slp.mp4",
+  "Tags": [
+    "Mountains",
+    "Clouds",
+    "Nature"
+  ],
+  "Arguments": null
+}
