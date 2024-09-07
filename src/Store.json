@@ -340,6 +340,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Anime Butterfly Girl-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Happy Tiger Cub-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -618,6 +624,66 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Dreamscape View-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Silver Wolf Chewing Her Bubble Gum-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yoriichi Tsugikuni-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Crumpets Room-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Nanally-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Yami Kawaii Menhera-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Streamer Moca-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ellen Joe-4": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl Breath-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jinx-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Hatsune Miku-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3425,6 +3491,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Cherry Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blue Flames Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4840,6 +4912,12 @@
     },
     "Food and Drinks": {
       "Wallpapers": {
+        "Space Milk 3D-1": {
+          "Source": "src/Food and Drinks",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cat Noodles-1": {
           "Source": "src/Food and Drinks",
           "Cover": "thumbnail.jpg",
@@ -4974,6 +5052,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "Bonfire-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Maid Keqing-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Leviatan-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "War Within Xalatath-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shadowheart-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7211,6 +7313,18 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Mesmeric Forest-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Green Room and Forest Rain View-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Forest River-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7569,6 +7683,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Anime Street View-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Late Night Rain Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Japanese Summer Tram-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pigeon In The Train-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -7978,6 +8110,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Under Swaying Leaves-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Spring Lofi-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -8905,6 +9043,12 @@
     },
     "Underwater and Marine": {
       "Wallpapers": {
+        "Well of Eternity-1": {
+          "Source": "src/Underwater and Marine",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Gojo in Deep Water-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",

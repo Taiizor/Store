@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Well of Eternity",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Well of Eternity - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/well-of-eternity",
+  "Type": 3,
+  "Source": "woe.mp4",
+  "Tags": [
+    "Submerged",
+    "Ethereal",
+    "Ancient",
+    "Fantasy",
+    "Glowing"
+  ],
+  "Arguments": null
+}

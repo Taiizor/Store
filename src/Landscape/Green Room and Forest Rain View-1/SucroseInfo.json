@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Green Room and Forest Rain View",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Green Room and Forest Rain View - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/room-forest-rain",
+  "Type": 3,
+  "Source": "grafrv.mp4",
+  "Tags": [
+    "Tranquil",
+    "Nature",
+    "Serene",
+    "Cozy",
+    "Lush"
+  ],
+  "Arguments": null
+}

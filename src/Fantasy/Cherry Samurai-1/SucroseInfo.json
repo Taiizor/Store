@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Cherry Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cherry Samurai - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cherry-samurai",
+  "Type": 3,
+  "Source": "cs.mp4",
+  "Tags": [
+    "Pink Petals",
+    "Japanese",
+    "Blossom",
+    "Warrior",
+    "Katana"
+  ],
+  "Arguments": null
+}

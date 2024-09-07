@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Nanally",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nanally - Neverness to Everness - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/nanally-neverness",
+  "Type": 3,
+  "Source": "nnte.mp4",
+  "Tags": [
+    "Otherworldy",
+    "Ethereal",
+    "Mystical",
+    "Fantasy",
+    "Journey"
+  ],
+  "Arguments": null
+}

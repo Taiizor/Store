@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Bonfire",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bonfire - Dark Souls - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dark-souls_hJk",
+  "Type": 3,
+  "Source": "bds.mp4",
+  "Tags": [
+    "Atmosphere",
+    "Medieval",
+    "Fantasy",
+    "Flames",
+    "Eerie"
+  ],
+  "Arguments": null
+}

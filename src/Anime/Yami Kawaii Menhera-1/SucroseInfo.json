@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Yami Kawaii Menhera",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yami Kawaii Menhera - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/Yami-Kawaii-Menhera",
+  "Type": 3,
+  "Source": "ykm.mp4",
+  "Tags": [
+    "Expressive",
+    "Dark Cute",
+    "Fashion",
+    "Stylish",
+    "Edgy"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Streamer Moca",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Streamer Moca - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/moca-streamer_hJk",
+  "Type": 3,
+  "Source": "sm.mp4",
+  "Tags": [
+    "Energetic",
+    "Colorful",
+    "Trendy",
+    "Vtuber",
+    "Tech"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Late Night Rain Lofi",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Late Night Rain Lofi - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/late-night-rain",
+  "Type": 3,
+  "Source": "lnrl.mp4",
+  "Tags": [
+    "Peaceful",
+    "Soothing",
+    "Serene",
+    "Quiet",
+    "Calm"
+  ],
+  "Arguments": null
+}

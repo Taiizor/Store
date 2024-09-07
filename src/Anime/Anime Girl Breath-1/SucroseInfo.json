@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Breath",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Breath - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/anime-breath",
+  "Type": 3,
+  "Source": "agb.mp4",
+  "Tags": [
+    "Ethereal",
+    "Tranquil",
+    "Gentle",
+    "Serene",
+    "Calm"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Street View",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Street View - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/anime-street",
+  "Type": 3,
+  "Source": "asv.mp4",
+  "Tags": [
+    "Brustling",
+    "Immersive",
+    "Vibrant",
+    "Lively",
+    "Urban"
+  ],
+  "Arguments": null
+}

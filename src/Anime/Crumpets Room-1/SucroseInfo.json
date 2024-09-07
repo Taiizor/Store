@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Crumpets Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Crumpets Room - Halloween - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/crumpets-room",
+  "Type": 3,
+  "Source": "crh.mp4",
+  "Tags": [
+    "Decorations",
+    "Candles",
+    "Festive",
+    "Haunted",
+    "Spooky"
+  ],
+  "Arguments": null
+}
