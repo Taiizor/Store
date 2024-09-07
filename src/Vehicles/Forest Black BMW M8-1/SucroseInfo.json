@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Forest Black BMW M8",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Forest Black BMW M8 - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/forest-black-bmw-m8-live-wallpaper",
+  "Type": 3,
+  "Source": "fbbmwm8.mp4",
+  "Tags": [
+    "Trees",
+    "Water"
+  ],
+  "Arguments": null
+}

@@ -618,6 +618,48 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Blue Hatsune Miku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Naruto Fire Halo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Fate Strange Fake-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gang-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Red Eyes Tanjiro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Greeen Halo Tanjiro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Rin Fate Stay Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Greninja-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3383,6 +3425,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Blue Flames Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lothlorien-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4416,6 +4464,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Wolverine and Deadpool-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Calm Your Anxiety-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -4920,6 +4974,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Shadowheart-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Logo-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "SKT T1 Skins-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7503,6 +7569,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Pigeon In The Train-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lofi Vending Machines-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -8393,6 +8465,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Mega Black Hole-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Astronaut Anime Girl Floating In Space-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",
@@ -8867,6 +8945,24 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Redline-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Forest Black BMW M8-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Bugatti Pink Trees-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Speed Car-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

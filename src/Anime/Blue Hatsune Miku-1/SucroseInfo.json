@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Blue Hatsune Miku",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blue Hatsune Miku - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/anime/blue-hatsune-miku-live-wallpaper",
+  "Type": 3,
+  "Source": "bhm.mp4",
+  "Tags": null,
+  "Arguments": null
+}

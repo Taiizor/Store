@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Shadowheart",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Shadowheart - Baldur's Gate 3 - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/shadowheart-baldurs-gate-3-live-wallpaper",
+  "Type": 3,
+  "Source": "sbg3.mp4",
+  "Tags": [
+    "Baldurs Gate"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Logo",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Logo - Baldur's Gate 3 - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/baldurs-gate-3-logo-live-wallpaper",
+  "Type": 3,
+  "Source": "lbg3.mp4",
+  "Tags": [
+    "Baldurs Gate"
+  ],
+  "Arguments": null
+}

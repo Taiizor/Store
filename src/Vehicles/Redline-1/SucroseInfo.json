@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Redline",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Redline - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/anime/redline-live-wallpaper",
+  "Type": 3,
+  "Source": "r.mp4",
+  "Tags": [
+    "Racing",
+    "Cars",
+    "Race"
+  ],
+  "Arguments": null
+}
