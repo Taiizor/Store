@@ -340,12 +340,6 @@
     },
     "Animals": {
       "Wallpapers": {
-        "Anime Butterfly Girl-1": {
-          "Source": "src/Animals",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Happy Tiger Cub-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -624,6 +618,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Butterfly Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dreamscape View-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
