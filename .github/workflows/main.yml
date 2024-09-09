@@ -1,0 +1,19 @@
+name: Congratulations
+
+on: [pull_request_target, issues]
+
+jobs:
+  Congratulation:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{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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}}
+        issue-message: "We're grateful you made your first issue notification. You can be sure that a response will be made as soon as possible."
+        pr-message: "We're grateful you made your first pull request notification. You can be sure that a response will be made as soon as possible."
