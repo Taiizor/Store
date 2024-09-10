@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Miles Morales Snow Day",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Miles Morales Snow Day - Spider Man - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/miles-morales-snow",
+  "Type": 3,
+  "Source": "mmsdsm.mp4",
+  "Tags": [
+    "Winter Setting",
+    "New York City",
+    "Cold Weather",
+    "Web-Slinging",
+    "Harlem"
+  ],
+  "Arguments": null
+}

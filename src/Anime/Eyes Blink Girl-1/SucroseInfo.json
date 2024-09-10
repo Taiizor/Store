@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Eyes Blink Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Eyes Blink Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/eyes-blink",
+  "Type": 3,
+  "Source": "ebg.mp4",
+  "Tags": [
+    "Expressive",
+    "Kawaii",
+    "Calm",
+    "Cute",
+    "Soft"
+  ],
+  "Arguments": null
+}

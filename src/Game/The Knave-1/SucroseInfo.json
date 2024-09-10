@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "The Knave",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Knave - Genshin Impact - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/knave-arlecchino",
+  "Type": 3,
+  "Source": "tkgi.mp4",
+  "Tags": [
+    "Arlecchino",
+    "Mysterious",
+    "Elegant",
+    "Fantasy",
+    "Unique"
+  ],
+  "Arguments": null
+}

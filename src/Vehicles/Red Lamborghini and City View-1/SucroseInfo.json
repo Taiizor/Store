@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Red Lamborghini and City View",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red Lamborghini and City View - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/red-lambo_fGh",
+  "Type": 3,
+  "Source": "rlacv.mp4",
+  "Tags": [
+    "Skyline",
+    "Luxury",
+    "Sleek",
+    "Urban",
+    "Car"
+  ],
+  "Arguments": null
+}

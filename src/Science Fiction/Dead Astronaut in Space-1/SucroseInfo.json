@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Dead Astronaut in Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dead Astronaut in Space - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dead-astro",
+  "Type": 3,
+  "Source": "dais.mp4",
+  "Tags": [
+    "Dark Cosmos",
+    "Empty Void",
+    "Weightless",
+    "Floating",
+    "Eerie"
+  ],
+  "Arguments": null
+}

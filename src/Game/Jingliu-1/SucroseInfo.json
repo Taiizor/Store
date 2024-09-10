@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Jingliu",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jingliu - Honkai: Star Rail - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/jingliu-honkai",
+  "Type": 3,
+  "Source": "jhsr.mp4",
+  "Tags": [
+    "Sword Wielding",
+    "Mystical",
+    "Sleek"
+  ],
+  "Arguments": null
+}

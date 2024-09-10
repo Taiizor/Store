@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Marvel Comics Gwenpool",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Marvel Comics Gwenpool - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/marvel-gwenpool",
+  "Type": 3,
+  "Source": "mcg.mp4",
+  "Tags": [
+    "Fourth Wall",
+    "Energetic",
+    "Pink Suit",
+    "Vibrant",
+    "Quirky"
+  ],
+  "Arguments": null
+}
