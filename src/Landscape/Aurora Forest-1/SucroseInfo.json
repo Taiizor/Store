@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Aurora Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aurora Forest - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/aurora-forest-live-wallpaper",
+  "Type": 3,
+  "Source": "af.mp4",
+  "Tags": [
+    "Nature",
+    "Trees",
+    "Sky"
+  ],
+  "Arguments": null
+}

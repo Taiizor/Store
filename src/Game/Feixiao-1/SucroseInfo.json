@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Feixiao",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Feixiao - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/feixiao-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "fhsr.mp4",
+  "Tags": [
+    "Animal Ears",
+    "White Hair",
+    "Sword",
+    "Gun"
+  ],
+  "Arguments": null
+}

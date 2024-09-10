@@ -618,6 +618,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Shiroko Night Beach-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jinhsi Wink-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Kuromi Serika-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Mikasa Ackerman-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lonely Anime Girl In The Snow-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Airi Eating Ice Cream-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Butterfly Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3491,6 +3527,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Purple Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Blood Moon Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cherry Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5052,6 +5100,78 @@
     },
     "Game": {
       "Wallpapers": {
+        "Feixiao-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Pagoda Realm-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Reyna-4": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Reyna-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Reyna-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Reyna-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kotone Shiomi-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rainy Day-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Metroid Dread-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lumine Lying In The Field-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ayaka x Ganyu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gekko-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Bonfire-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7313,6 +7433,24 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Aurora Lake Starry Night Sky-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Aurora Forest-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Starry Sky Moon Clouds-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mesmeric Forest-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7683,6 +7821,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Lofi House Falling Stars-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Street View-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -8685,6 +8829,12 @@
     },
     "Sports": {
       "Wallpapers": {
+        "Anime Girl Succubus Baseball-1": {
+          "Source": "src/Sports",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Space Jam Spongebob-1": {
           "Source": "src/Sports",
           "Cover": "thumbnail.jpg",

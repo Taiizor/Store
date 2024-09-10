@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Metroid Dread",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Metroid Dread - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/metroid-dread-live-wallpaper",
+  "Type": 3,
+  "Source": "md.mp4",
+  "Tags": [
+    "Robot"
+  ],
+  "Arguments": null
+}

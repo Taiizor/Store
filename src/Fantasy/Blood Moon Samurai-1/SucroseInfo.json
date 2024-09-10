@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Blood Moon Samurai",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Blood Moon Samurai - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/blood-moon-samurai-live-wallpaper",
+  "Type": 3,
+  "Source": "bms.mp4",
+  "Tags": [
+    "Straw Hat",
+    "Katana"
+  ],
+  "Arguments": null
+}

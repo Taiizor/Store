@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Gekko",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gekko - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/gekko-valorant-live-wallpaper",
+  "Type": 3,
+  "Source": "gv.mp4",
+  "Tags": [
+    "Green Hair",
+    "Gun"
+  ],
+  "Arguments": null
+}

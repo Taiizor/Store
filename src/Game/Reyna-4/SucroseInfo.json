@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Reyna",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Reyna - Valorant - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/reyna-valorant-live-wallpaper",
+  "Type": 3,
+  "Source": "rv.mp4",
+  "Tags": [
+    "Purple Eyes",
+    "Purple Hair",
+    "Tattoo",
+    "Agent"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Aurora Lake Starry Night Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aurora Lake Starry Night Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/aurora-lake-starry-night-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "alsns.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Nature",
+    "Moon"
+  ],
+  "Arguments": null
+}

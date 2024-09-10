@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Rainy Day",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rainy Day - Summerhouse - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/rainy-day-summerhouse-live-wallpaper",
+  "Type": 3,
+  "Source": "rds.mp4",
+  "Tags": [
+    "Game Landscape",
+    "Mountain",
+    "Raining",
+    "Water",
+    "Cafe"
+  ],
+  "Arguments": null
+}

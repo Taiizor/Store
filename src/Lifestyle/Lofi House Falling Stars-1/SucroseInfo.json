@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Lofi House Falling Stars",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lofi House Falling Stars - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/lofi-house-falling-stars-live-wallpaper",
+  "Type": 3,
+  "Source": "lhfs.mp4",
+  "Tags": [
+    "Anime Landscape",
+    "Rock N Roll",
+    "Night"
+  ],
+  "Arguments": null
+}

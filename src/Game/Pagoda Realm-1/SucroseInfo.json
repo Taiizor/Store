@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Pagoda Realm",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pagoda Realm - Black Myth: Wukong - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/pagoda-realm-black-myth-wukong-live-wallpaper",
+  "Type": 3,
+  "Source": "prbmw.mp4",
+  "Tags": [
+    "Sun Wukong",
+    "Snow"
+  ],
+  "Arguments": null
+}

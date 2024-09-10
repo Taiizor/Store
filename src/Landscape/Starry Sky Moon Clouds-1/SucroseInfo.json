@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Starry Sky Moon Clouds",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Starry Sky Moon Clouds - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/starry-sky-moon-clouds-live-wallpaper",
+  "Type": 3,
+  "Source": "ssmc.mp4",
+  "Tags": [
+    "Moonlit Night",
+    "Starry Night",
+    "Moonlight",
+    "Nature",
+    "Tree"
+  ],
+  "Arguments": null
+}

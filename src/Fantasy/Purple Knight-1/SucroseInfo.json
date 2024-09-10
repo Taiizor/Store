@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Purple Knight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Purple Knight - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/purple-knight-live-wallpaper",
+  "Type": 3,
+  "Source": "pk.mp4",
+  "Tags": [
+    "Purple Eyes",
+    "Warrior",
+    "Sword",
+    "Fire"
+  ],
+  "Arguments": null
+}
