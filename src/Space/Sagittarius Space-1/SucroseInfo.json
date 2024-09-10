@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Sagittarius Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sagittarius Space - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sagittarius-space",
+  "Type": 3,
+  "Source": "ss.mp4",
+  "Tags": [
+    "Constellation",
+    "Celestial",
+    "Cosmic",
+    "Zodiac",
+    "Stars"
+  ],
+  "Arguments": null
+}

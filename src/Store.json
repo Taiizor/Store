@@ -618,6 +618,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Inosuke Hashibira-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Japanese Anime Friendship-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shiroko Night Beach-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3081,7 +3093,14 @@
       }
     },
     "Architecture and Buildings": {
-      "Wallpapers": {}
+      "Wallpapers": {
+        "Tri Spires-1": {
+          "Source": "src/Architecture and Buildings",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
     },
     "Artificial Intelligence": {
       "Wallpapers": {}
@@ -3359,6 +3378,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "RGB Bubble-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Yuji Itadori RGB-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -3527,6 +3552,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Matrix Nun-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Purple Knight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5100,6 +5131,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "2B With Sword-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "School Rascal Jinx-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Feixiao-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7433,6 +7476,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Moonlight-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aurora Lake Starry Night Sky-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -8747,6 +8796,12 @@
     },
     "Space": {
       "Wallpapers": {
+        "Sagittarius Space-1": {
+          "Source": "src/Space",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mega Black Hole-1": {
           "Source": "src/Space",
           "Cover": "thumbnail.jpg",

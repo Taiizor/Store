@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Inosuke Hashibira",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Inosuke Hashibira - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/inosuke-hashibira-boar",
+  "Type": 3,
+  "Source": "ih.mp4",
+  "Tags": [
+    "Kimetsu No Yaiba",
+    "Beast Breathing",
+    "Demon Slayer",
+    "Dual Swords",
+    "Boar Mask"
+  ],
+  "Arguments": null
+}

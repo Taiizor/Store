@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Japanese Anime Friendship",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Japanese Anime Friendship - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/japan-anime-friends",
+  "Type": 3,
+  "Source": "jaf.mp4",
+  "Tags": [
+    "Yellow Eyes",
+    "Umbrella",
+    "Raining",
+    "Girl",
+    "Cat"
+  ],
+  "Arguments": null
+}

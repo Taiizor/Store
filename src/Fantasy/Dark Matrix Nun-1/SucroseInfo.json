@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.8.8.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Matrix Nun",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Matrix Nun - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/matrix-nun",
+  "Type": 3,
+  "Source": "dmn.mp4",
+  "Tags": [
+    "Futuristic",
+    "Mysterious",
+    "Cyberpunk",
+    "Edgy",
+    "Girl"
+  ],
+  "Arguments": null
+}
