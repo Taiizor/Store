@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Holy Cyber Nun",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -12,7 +12,7 @@
   "Source": "hcn.mp4",
   "Tags": [
     "Cybernetic",
-    "Cyperpunk",
+    "Cyberpunk",
     "Dystopian",
     "Spiritual",
     "Religion"
