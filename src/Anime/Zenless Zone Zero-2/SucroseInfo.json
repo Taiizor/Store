@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Zenless Zone Zero",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/zenless-zone-zero-2-live-wallpaper",
+  "Type": 3,
+  "Source": "zzz.mp4",
+  "Tags": [
+    "Watermelon",
+    "Robot"
+  ],
+  "Arguments": null
+}

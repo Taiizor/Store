@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "House of Dreams",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "House of Dreams - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/house-of-dreams-live-wallpaper",
+  "Type": 3,
+  "Source": "hod.mp4",
+  "Tags": [
+    "Shooting Star",
+    "Flower Field",
+    "Aesthetics",
+    "Clouds",
+    "Dreamy"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Arlecchino Idol Group",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Arlecchino Idol Group - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/arlecchino-idol-group-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "aiggi.mp4",
+  "Tags": [
+    "Wriothesley",
+    "Tartaglia",
+    "Singing",
+    "Stage",
+    "Band"
+  ],
+  "Arguments": null
+}

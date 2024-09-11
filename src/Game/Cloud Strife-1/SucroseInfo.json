@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Cloud Strife",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cloud Strife - Final Fantasy VII - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/cloud-strife-final-fantasy-vii-live-wallpaper",
+  "Type": 3,
+  "Source": "csffvii.mp4",
+  "Tags": [
+    "Closed Eyes",
+    "White Hair",
+    "Sword"
+  ],
+  "Arguments": null
+}

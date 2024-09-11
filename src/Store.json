@@ -548,6 +548,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Frogs Dancing In The Moonlight-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Running on The Rings of Saturn-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -618,6 +624,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Kid Naruto and Kurama-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Tanjiro Kamado-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "One For All-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Changli-4": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl Sleeping In The Rain-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Zenless Zone Zero-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Eyes Blink Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5203,6 +5245,66 @@
     },
     "Game": {
       "Wallpapers": {
+        "Simon Ghost Riley Neon-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lee-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mualani-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Jiaoqiu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "March 7th Celebration-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Night City-3": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "HK416 Klukai Rifle-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Zack x Cloud-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cloud Strife-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Arlecchino Idol Group-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Knave-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7578,6 +7680,18 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "House of Dreams-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Starry Night Sky Under The Moon-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dreamscene Forest-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -7984,6 +8098,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Abandoned House Lake-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lofi House Falling Stars-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -8742,6 +8862,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Bedroom Dystopian Cyberpunk City-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dead Astronaut in Space-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -9414,6 +9540,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Toyota AE86 Drifting Initial D-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Red Lamborghini and City View-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

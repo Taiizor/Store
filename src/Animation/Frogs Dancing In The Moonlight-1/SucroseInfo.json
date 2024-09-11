@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Frogs Dancing In The Moonlight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Frogs Dancing In The Moonlight - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/others/frogs-dancing-in-the-moonlight-live-wallpaper",
+  "Type": 3,
+  "Source": "fditm.mp4",
+  "Tags": [
+    "Moonlit Night",
+    "Forest",
+    "Moon"
+  ],
+  "Arguments": null
+}

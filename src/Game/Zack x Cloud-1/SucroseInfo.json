@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Zack x Cloud",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Zack x Cloud - Final Fantasy VII - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/zack-x-cloud-final-fantasy-vii-live-wallpaper/",
+  "Type": 3,
+  "Source": "zxcffvii.mp4",
+  "Tags": [
+    "Cloud Strife",
+    "White Hair",
+    "Zack Fair",
+    "Sword"
+  ],
+  "Arguments": null
+}

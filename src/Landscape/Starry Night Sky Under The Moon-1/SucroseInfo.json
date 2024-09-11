@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Starry Night Sky Under The Moon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Starry Night Sky Under The Moon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/starry-night-sky-under-the-moon-live-wallpaper",
+  "Type": 3,
+  "Source": "snsutm.mp4",
+  "Tags": [
+    "Moonlit Night",
+    "Shooting Star",
+    "Moonlight",
+    "Mountain",
+    "Clouds"
+  ],
+  "Arguments": null
+}

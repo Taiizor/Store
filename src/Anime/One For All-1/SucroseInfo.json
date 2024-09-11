@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "One For All",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "One For All - My Hero Academia - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/one-for-all-my-hero-academia-live-wallpaper",
+  "Type": 3,
+  "Source": "ofamha.mp4",
+  "Tags": [
+    "Izuku Midoriya",
+    "Boku No Hero",
+    "Deku"
+  ],
+  "Arguments": null
+}
