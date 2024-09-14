@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Vash the Stampede",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Vash the Stampede - Trigun - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/vash-stampede",
+  "Type": 3,
+  "Source": "vtst.mp4",
+  "Tags": [
+    "Adventurous",
+    "Gunslinger",
+    "Anti Hero",
+    "Red Coat",
+    "Unique"
+  ],
+  "Arguments": null
+}

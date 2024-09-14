@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Tracer",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tracer - Overwatch - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/tracer-overwatch",
+  "Type": 3,
+  "Source": "to.mp4",
+  "Tags": [
+    "Time Travel",
+    "Futuristic",
+    "Energetic",
+    "Bright",
+    "Agile"
+  ],
+  "Arguments": null
+}

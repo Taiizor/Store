@@ -548,6 +548,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Shrek Samurai Vice-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Frogs Dancing In The Moonlight-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -624,6 +630,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tengen Uzui-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Night-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Vash the Stampede-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kid Naruto and Kurama-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5245,6 +5269,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Tracer-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Simon Ghost Riley Neon-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8862,6 +8892,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Cyberpunk Soldiers-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Bedroom Dystopian Cyberpunk City-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
