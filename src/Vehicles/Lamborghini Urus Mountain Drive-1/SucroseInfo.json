@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Lamborghini Urus Mountain Drive",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Lamborghini Urus Mountain Drive - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/lamborghini-urus-mountain-drive",
+  "Type": 3,
+  "Source": "lumd.mp4",
+  "Tags": [
+    "Scenic Drive",
+    "Luxury Suv",
+    "Sports Car",
+    "Off Road"
+  ],
+  "Arguments": null
+}

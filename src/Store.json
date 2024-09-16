@@ -636,6 +636,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Luffy and Batman Faceoff-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Milk Time-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Luffy One Piece Bird Friendship-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Izuku Midoriya Deku Green Flame-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Anime Bride Girl-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4771,6 +4795,30 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Gravity Falls-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Marvel Awesome Loki Green-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Godzilla x Kong-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Heisenberg-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Wolverine and Deadpool-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -5287,6 +5335,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Nitara From Mortal Kombat-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Burning Warrior-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Agent Jett-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9606,6 +9666,18 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Lamborghini Urus Mountain Drive-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Orange Audi RS Q8-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "BMW M3-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

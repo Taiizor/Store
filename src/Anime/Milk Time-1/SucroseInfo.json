@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Milk Time",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Milk Time! - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/milk-time",
+  "Type": 3,
+  "Source": "mt.mp4",
+  "Tags": [
+    "Drinking Milk",
+    "Anime Girl",
+    "Whimsical",
+    "Bath Tub",
+    "Relaxing"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.14.0",
+  "Version": "1.0.0.0",
+  "Title": "Orange Audi RS Q8",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Orange Audi RS Q8 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/orange-audi-rs-q8",
+  "Type": 3,
+  "Source": "oarsq8.mp4",
+  "Tags": [
+    "Luxury Car",
+    "Sporty",
+    "Sleek"
+  ],
+  "Arguments": null
+}
