@@ -340,6 +340,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Zen Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Happy Tiger Cub-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -3282,6 +3288,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Train Ride From Work-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shrek x Frieren Monochrome-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -8230,6 +8242,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Sad Sailor Moon-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Nothing Much To Do-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
