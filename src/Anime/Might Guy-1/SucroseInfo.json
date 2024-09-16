@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Might Guy",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Might Guy - Eight Gates - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/eight-gates-might-guy-live-wallpaper",
+  "Type": 3,
+  "Source": "mgeg.mp4",
+  "Tags": [
+    "Naruto Shippuden"
+  ],
+  "Arguments": null
+}

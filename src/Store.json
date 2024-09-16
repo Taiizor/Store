@@ -636,6 +636,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Might Guy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dragon Jinhsi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Luffy and Batman Faceoff-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -7794,6 +7806,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Moonlight Night Sakura River-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "House of Dreams-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -8754,6 +8772,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Autumn River Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Lake Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -9666,6 +9690,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Subaru WRX STI 2004 Drifting-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lamborghini Urus Mountain Drive-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Autumn River Pixel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Autumn River Pixel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/autumn-river-pixel-live-wallpaper",
+  "Type": 3,
+  "Source": "arp.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Nature"
+  ],
+  "Arguments": null
+}
