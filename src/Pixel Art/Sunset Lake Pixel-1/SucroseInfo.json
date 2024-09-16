@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.8.8.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Sunset Lake Pixel",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -13,7 +13,8 @@
   "Tags": [
     "Mountains",
     "Clouds",
-    "Nature"
+    "Nature",
+    "Phases"
   ],
   "Arguments": null
 }
