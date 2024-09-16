@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Spongebob Cartoon Bubbles",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spongebob Cartoon Bubbles - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/spongebob-cartoon-bubbles",
+  "Type": 3,
+  "Source": "scb.mp4",
+  "Tags": [
+    "Undersea Wolrd",
+    "Fun Animation",
+    "Nickelodeon",
+    "Squarepants"
+  ],
+  "Arguments": null
+}

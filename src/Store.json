@@ -642,6 +642,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Goku Energy-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Might Guy-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4819,6 +4825,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Aesthetic Scarface Red-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Gravity Falls-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -7724,6 +7736,12 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Spongebob Cartoon Bubbles-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Scooby Doo-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
@@ -8786,7 +8804,14 @@
       "Wallpapers": {}
     },
     "Persons": {
-      "Wallpapers": {}
+      "Wallpapers": {
+        "NBA Youngboy Portrait Style-1": {
+          "Source": "src/Persons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
     },
     "Pixel Art": {
       "Wallpapers": {

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.12.0",
+  "Version": "1.0.0.0",
+  "Title": "Goku Energy",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Goku Energy - Dragon Ball Z - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/goku-energy-dbz",
+  "Type": 3,
+  "Source": "gedbz.mp4",
+  "Tags": [
+    "Action Scene",
+    "Energy Blast",
+    "Saiyan Power",
+    "Super Saiyan"
+  ],
+  "Arguments": null
+}
