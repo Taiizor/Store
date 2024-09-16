@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.14.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW M3",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW M3 - Need For Speed - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/bmw-m3-need-for-speed-live-wallpaper",
+  "Type": 3,
+  "Source": "bmwm3nfs.mp4",
+  "Tags": [
+    "Raining",
+    "Rainy"
+  ],
+  "Arguments": null
+}

@@ -548,6 +548,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Hua Li Train Ride-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Shrek Samurai Vice-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -630,6 +636,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Bride Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tengen Uzui-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3504,6 +3516,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "Broken Statue-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "RGB Bubble-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -5269,6 +5287,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Agent Jett-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tracer-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8128,6 +8152,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Nothing Much To Do-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Abandoned House Lake-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -8664,6 +8694,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Pixel Sunset Phases-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sunset Lake Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -9576,6 +9612,18 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "BMW M3-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "BMW M4 City Drive-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toyota AE86 Drifting Initial D-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
