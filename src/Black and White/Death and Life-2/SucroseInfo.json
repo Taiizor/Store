@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Death and Life",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Death and Life - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/death-and-life-2-live-wallpaper",
+  "Type": 3,
+  "Source": "dal.mp4",
+  "Tags": [
+    "Cherry Blossom",
+    "Flower Petals",
+    "Abstraction",
+    "Sakura"
+  ],
+  "Arguments": null
+}

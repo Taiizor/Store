@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Duckweed Pond Sky",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Duckweed Pond Sky - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/duckweed-pond-sky-live-wallpaper",
+  "Type": 3,
+  "Source": "dps.mp4",
+  "Tags": [
+    "Sunlight",
+    "Clouds",
+    "Nature"
+  ],
+  "Arguments": null
+}

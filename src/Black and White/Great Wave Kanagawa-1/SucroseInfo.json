@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Great Wave Kanagawa",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Great Wave Kanagawa  - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/great-wave-kanagawa-monochrome-live-wallpaper",
+  "Type": 3,
+  "Source": "gwk.mp4",
+  "Tags": [
+    "Japanese Traditions",
+    "The Great Wave",
+    "Monochrome"
+  ],
+  "Arguments": null
+}
