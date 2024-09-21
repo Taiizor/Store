@@ -642,6 +642,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Ready For Battle-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kurapika Clouds-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Motorcycle Desert-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Office Babe-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Tony Tony Chopper-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kurumi Lying In The Water-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3469,6 +3499,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Hellboy With Gun Orange-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Marvel Comics Gwenpool-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -3768,6 +3804,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Girl Elf Cyberpunk-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Blood Moon-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -4843,6 +4885,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Bart Simpson Skateboard Hype Art-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aesthetic Scarface Red-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -7693,6 +7741,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Creepy Face Cartoon-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Salvius Julianus Malum Ludex-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -9085,6 +9139,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Dark Fantasy Skull-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cyberpunk Soldiers-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

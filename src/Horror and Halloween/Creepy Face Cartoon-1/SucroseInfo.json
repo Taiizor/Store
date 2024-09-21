@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Creepy Face Cartoon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Creepy Face Cartoon - Beetlejuice - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/beetlehuice-creepy-face",
+  "Type": 3,
+  "Source": "cfcb.mp4",
+  "Tags": [
+    "Hallowen Vibes",
+    "Horror Comedy",
+    "Classic Film",
+    "Tim Burton",
+    "Spooky"
+  ],
+  "Arguments": null
+}

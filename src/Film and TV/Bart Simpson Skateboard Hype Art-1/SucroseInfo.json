@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Bart Simpson Skateboard Hype Art",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bart Simpson Skateboard Hype Art - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/bart-simpson-skateboard",
+  "Type": 3,
+  "Source": "bssha.mp4",
+  "Tags": [
+    "Graffiti Aesthetic",
+    "Street Style",
+    "The Simpsons",
+    "Cartoon"
+  ],
+  "Arguments": null
+}

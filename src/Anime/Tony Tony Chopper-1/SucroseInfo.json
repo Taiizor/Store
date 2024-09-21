@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Tony Tony Chopper",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tony Tony Chopper - One Piece - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/tony-tony-chopper",
+  "Type": 3,
+  "Source": "ttcop.mp4",
+  "Tags": [
+    "Straw Hat Pirates",
+    "Reindeer",
+    "Doctor",
+    "Manga"
+  ],
+  "Arguments": null
+}
