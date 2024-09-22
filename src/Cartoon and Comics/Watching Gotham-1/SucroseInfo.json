@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Watching Gotham",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Watching Gotham - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/comics/watching-gotham-live-wallpaper",
+  "Type": 3,
+  "Source": "wg.mp4",
+  "Tags": [
+    "Buildings",
+    "Batman",
+    "Night",
+    "City"
+  ],
+  "Arguments": null
+}

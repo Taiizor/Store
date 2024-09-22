@@ -3499,6 +3499,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Watching Gotham-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hellboy With Gun Orange-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -5437,6 +5443,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Victorious Link-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Fiend Queller Yone-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mansion-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9139,6 +9157,18 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Space Monster-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cat Ears Helmet Girl-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Fantasy Skull-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -9829,6 +9859,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "BMW M3 On The Run-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Subaru WRX STI 2004 Drifting-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

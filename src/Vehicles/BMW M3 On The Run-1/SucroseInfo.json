@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW M3 On The Run",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW M3 On The Run - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/bmw-m3-on-the-run-live-wallpaper",
+  "Type": 3,
+  "Source": "bmwm3otr.mp4",
+  "Tags": [
+    "Raining",
+    "Police",
+    "Rainy",
+    "Car"
+  ],
+  "Arguments": null
+}
