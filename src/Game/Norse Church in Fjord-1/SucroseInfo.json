@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Norse Church in Fjord",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,6 +11,7 @@
   "Type": 3,
   "Source": "ncifacv.mp4",
   "Tags": [
+    "Assassins Creed",
     "Landscape",
     "Mountain",
     "Snow"

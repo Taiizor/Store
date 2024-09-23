@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Eivor",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,6 +11,7 @@
   "Type": 3,
   "Source": "eacv.mp4",
   "Tags": [
+    "Assassins Creed",
     "Face Portrait",
     "Viking",
     "Beard"

@@ -1,15 +1,17 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Syndicate",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
-  "Description": "Assassin's Creed Syndicate - Live Wallpaper",
+  "Description": "Assassin's Creed: Syndicate - Live Wallpaper",
   "Author": "MyLiveWallpapers",
   "License": null,
   "Contact": "https://mylivewallpapers.com/games/assassins-creed-syndicate-live-wallpaper-2",
   "Type": 3,
   "Source": "acs.mp4",
-  "Tags": null,
+  "Tags": [
+    "Assassins Creed"
+  ],
   "Arguments": null
 }

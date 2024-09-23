@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.7.9.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Revelations",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,8 @@
   "Contact": "https://mylivewallpapers.com/games/assassins-creed-revelations-live-wallpaper",
   "Type": 3,
   "Source": "acr.mp4",
-  "Tags": null,
+  "Tags": [
+    "Assassins Creed"
+  ],
   "Arguments": null
 }
