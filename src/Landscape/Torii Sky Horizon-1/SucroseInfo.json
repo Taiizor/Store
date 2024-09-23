@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Torii Sky Horizon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Torii Sky Horizon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/torii-sky-horizon-live-wallpaper",
+  "Type": 3,
+  "Source": "tsh.mp4",
+  "Tags": [
+    "Starry Night",
+    "Clouds",
+    "Gate",
+    "Moon",
+    "Sea"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Kimono",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Kimono - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/anime-girl-kimono-live-wallpaper",
+  "Type": 3,
+  "Source": "agk.mp4",
+  "Tags": [
+    "Japanese Traditions",
+    "Blue Eyes",
+    "Umbrella",
+    "Flower"
+  ],
+  "Arguments": null
+}

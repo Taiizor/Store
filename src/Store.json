@@ -554,6 +554,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Microsoft Windows 98-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hua Li Train Ride-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -642,6 +648,48 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tendou Alice-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Bat Girl Succubus-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl Kimono-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Anime School Girl Cloudy Sky-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Control Devil Makima-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Frieren In The Field-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jane Doe-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Ready For Battle-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5443,6 +5491,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Jiaoqiu-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lingsha-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Victorious Link-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -7944,6 +8004,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Torii Sky Horizon-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Duckweed Pond Sky-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -8374,6 +8440,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Astronaut Cat Sitting On The Moon-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Child Watching The Stars-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sad Sailor Moon-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -9859,6 +9937,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Porsche 991.2 GT3 Drift-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "BMW M3 On The Run-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

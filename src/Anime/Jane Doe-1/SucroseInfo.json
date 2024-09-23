@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Jane Doe",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Jane Doe - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/jane-doe-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "jdzzz.mp4",
+  "Tags": [
+    "Short Hair",
+    "Rooftop",
+    "Smiling",
+    "Stars",
+    "Tail"
+  ],
+  "Arguments": null
+}

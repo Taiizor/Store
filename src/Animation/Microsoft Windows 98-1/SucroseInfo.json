@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Microsoft Windows 98",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Microsoft Windows 98 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/microsoft-windows-98-live-wallpaper",
+  "Type": 3,
+  "Source": "mw98.mp4",
+  "Tags": [
+    "Operating System",
+    "Technology"
+  ],
+  "Arguments": null
+}
