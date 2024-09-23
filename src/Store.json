@@ -3402,6 +3402,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Last Ronin-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Great Wave Kanagawa-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -3882,12 +3888,6 @@
     },
     "Fantasy": {
       "Wallpapers": {
-        "Last Ronin-1": {
-          "Source": "src/Fantasy",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Horned Angel-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
