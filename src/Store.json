@@ -648,6 +648,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Red-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Powerful Sukuna-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gogeta Ultra SS4-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Osamu Dazai-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tendou Alice-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3858,6 +3882,30 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Last Ronin-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Horned Angel-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Samurai Glowing Blade-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rage Samurai Warrior-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Girl Elf Cyberpunk-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5491,6 +5539,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Night Campfire-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Jiaoqiu-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8440,6 +8494,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Rain Train Track-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Astronaut Cat Sitting On The Moon-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -8891,6 +8951,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Peaceful Aurora-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pond Rain-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -9235,6 +9301,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Post Apocalyptic Alley-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Space Monster-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -9937,6 +10009,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Toyota Supra Night Drive-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Porsche 991.2 GT3 Drift-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
