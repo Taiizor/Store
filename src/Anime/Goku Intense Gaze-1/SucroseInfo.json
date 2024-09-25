@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Goku Intense Gaze",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Goku Intense Gaze - Dragon Ball Z - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/goku-intense-gaze",
+  "Type": 3,
+  "Source": "gig.mp4",
+  "Tags": [
+    "Focused Expression",
+    "Saiyan Warrior",
+    "Super Saiyan",
+    "Action Pose",
+    "Power Stare"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Dreamscape",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Dreamscape - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fantasy-dreamscape-scene",
+  "Type": 3,
+  "Source": "fd.mp4",
+  "Tags": [
+    "Surreal Landscape",
+    "Mystical World",
+    "Magical Realm",
+    "Imagination",
+    "Ethereal"
+  ],
+  "Arguments": null
+}

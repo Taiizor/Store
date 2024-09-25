@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Nissan Skyline GT-R R34 Drifting Night City",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nissan Skyline GT-R R34 Drifting Night City - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/nissan-skyline-gtr-r34-drifting",
+  "Type": 3,
+  "Source": "nsgtrr34dnc.mp4",
+  "Tags": [
+    "High Performance",
+    "Street Racing",
+    "Neon Lights",
+    "Urban Drift",
+    "Sports Car"
+  ],
+  "Arguments": null
+}

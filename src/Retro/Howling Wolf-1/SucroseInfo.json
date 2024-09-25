@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Howling Wolf",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Howling Wolf - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/howling-wolf_dNj",
+  "Type": 3,
+  "Source": "gvsk.mp4",
+  "Tags": [
+    "Moonlit Night",
+    "Dark Forest",
+    "Silhouette",
+    "Full Moon",
+    "Majestic"
+  ],
+  "Arguments": null
+}

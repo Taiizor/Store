@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Doom Slayer of Worlds",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Doom Slayer of Worlds - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/doom-slayer-of-worlds",
+  "Type": 3,
+  "Source": "dsow.mp4",
+  "Tags": [
+    "Dark Fantasy",
+    "Doom Eternal",
+    "Apocalypse"
+  ],
+  "Arguments": null
+}
