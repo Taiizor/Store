@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Aerith and Cloud",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Aerith and Cloud - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/aerith-and-cloud-live-wallpaper",
+  "Type": 3,
+  "Source": "aac.mp4",
+  "Tags": [
+    "Aerith Gainsborough",
+    "Final Fantasy",
+    "Cloud Strife"
+  ],
+  "Arguments": null
+}
