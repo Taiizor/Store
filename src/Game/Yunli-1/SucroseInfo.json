@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Yunli",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yunli - Honkai: Star Rail - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/yunli-honkai-star-rail-live-wallpaper",
+  "Type": 3,
+  "Source": "yhsr.mp4",
+  "Tags": [
+    "Dancing",
+    "Swords",
+    "Fire"
+  ],
+  "Arguments": null
+}

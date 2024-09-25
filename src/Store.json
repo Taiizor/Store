@@ -648,6 +648,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Assassin Anime Girl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Shiroko Terror-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yinlin-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5539,6 +5557,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Firefly Lying In The Water-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Yunli-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Night Campfire-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
