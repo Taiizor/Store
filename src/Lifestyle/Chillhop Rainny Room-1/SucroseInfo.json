@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.11.0",
+  "Version": "1.0.0.0",
+  "Title": "Chillhop Rainny Room",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chillhop Rainny Room - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/chillhop-room-live-wallpaper",
+  "Type": 3,
+  "Source": "crr.mp4",
+  "Tags": [
+    "Relaxing",
+    "Chilling",
+    "Coffee",
+    "Light",
+    "Bed"
+  ],
+  "Arguments": null
+}

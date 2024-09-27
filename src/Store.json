@@ -8644,6 +8644,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chillhop Rainny Room-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Rain Train Track-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
