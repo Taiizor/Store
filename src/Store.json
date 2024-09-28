@@ -654,6 +654,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "L Lawliet-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "İtachi Rampage-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Totoro Forest-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Pikachu Hot Bath-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Anime Girl Witch-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3498,6 +3522,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Musashi Lone Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Eren Yeager Dark-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -3920,6 +3950,16 @@
     "Comic Books": {
       "Wallpapers": {}
     },
+    "Cute": {
+      "Wallpapers": {
+        "Cute Fluff Ball Critter-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
+    },
     "Digital Art": {
       "Wallpapers": {}
     },
@@ -4008,6 +4048,24 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Lost Civilization Waterfall-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Arch Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Chill Swordswoman-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Horned Angel-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5107,6 +5165,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Rick and Morty Portal-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Godzilla vs Kong-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -5665,6 +5729,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Lady Boss Yae Miko-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ayaka and Ganyu-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Mona Witch-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8674,6 +8750,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Boat Boy-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chillhop Rainny Room-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -9499,6 +9581,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Space Life-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Post Apocalyptic Alley-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -10207,6 +10295,24 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Black Dodge Red Stripes-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "BMW Street Race-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Dodge SRT-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Nissan Skyline GT-R R34 Drifting Night City-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

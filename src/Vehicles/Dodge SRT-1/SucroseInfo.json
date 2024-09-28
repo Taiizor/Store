@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Dodge SRT",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dodge SRT - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/dodge-srt-live-wallpaper",
+  "Type": 3,
+  "Source": "dsrt.mp4",
+  "Tags": null,
+  "Arguments": null
+}

@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Rick and Morty Portal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rick and Morty Portal - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/movies/rick-and-morty-portal-live-wallpaper",
+  "Type": 3,
+  "Source": "ramp.mp4",
+  "Tags": null,
+  "Arguments": null
+}

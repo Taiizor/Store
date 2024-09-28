@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "BMW Street Race",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "BMW Street Race - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/bmw-street-race-live-wallpaper",
+  "Type": 3,
+  "Source": "bmwsr.mp4",
+  "Tags": null,
+  "Arguments": null
+}
