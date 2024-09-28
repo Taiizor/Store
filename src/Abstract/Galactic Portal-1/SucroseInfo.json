@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Galactic Portal",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Galactic Portal - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/galactic-portal-live-wallpaper",
+  "Type": 3,
+  "Source": "gp.mp4",
+  "Tags": [
+    "Abstraction",
+    "Glowing",
+    "Tunnel"
+  ],
+  "Arguments": null
+}

@@ -2,6 +2,48 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Pattern-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Mechanical Flame Owl-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Matrix-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Neon Leaves-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Galactic Portal-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Yin and Yang Flame-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Bitcoin-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Neon Rays-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -3843,7 +3885,14 @@
       }
     },
     "Brands": {
-      "Wallpapers": {}
+      "Wallpapers": {
+        "Coca Cola Neon Sign-1": {
+          "Source": "src/Brands",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
     },
     "Cartoon and Comics": {
       "Wallpapers": {
@@ -8247,6 +8296,12 @@
     },
     "Geometric Patterns": {
       "Wallpapers": {
+        "Neon Geometry Shapes-1": {
+          "Source": "src/Geometric Patterns",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Playstation Shapes-1": {
           "Source": "src/Geometric Patterns",
           "Cover": "thumbnail.jpg",
@@ -9295,6 +9350,12 @@
     },
     "Minimalist": {
       "Wallpapers": {
+        "Nebula Jelly-1": {
+          "Source": "src/Minimalist",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Seven Deadly Sins-1": {
           "Source": "src/Minimalist",
           "Cover": "thumbnail.jpg",

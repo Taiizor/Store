@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Matrix",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Matrix - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-matrix-live-wallpaper",
+  "Type": 3,
+  "Source": "m.mp4",
+  "Tags": [
+    "Abstraction"
+  ],
+  "Arguments": null
+}

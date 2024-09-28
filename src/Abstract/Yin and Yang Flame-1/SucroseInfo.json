@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Yin and Yang Flame",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Yin and Yang Flame - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/yin-and-yang-flame-live-wallpaper",
+  "Type": 3,
+  "Source": "yayf.mp4",
+  "Tags": [
+    "Yin Yang",
+    "Glowing",
+    "Flames",
+    "Fire",
+    "Ice"
+  ],
+  "Arguments": null
+}

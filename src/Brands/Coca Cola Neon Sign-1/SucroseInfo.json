@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Coca Cola Neon Sign",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Coca Cola Neon Sign - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/coca-cola-neon-sign-live-wallpaper",
+  "Type": 3,
+  "Source": "ccns.mp4",
+  "Tags": [
+    "Logo"
+  ],
+  "Arguments": null
+}

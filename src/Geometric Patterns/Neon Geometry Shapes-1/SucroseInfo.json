@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Neon Geometry Shapes",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neon Geometry Shapes - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/neon-geometry-shapes-live-wallpaper",
+  "Type": 3,
+  "Source": "ngs.mp4",
+  "Tags": [
+    "Abstraction",
+    "Glowing"
+  ],
+  "Arguments": null
+}

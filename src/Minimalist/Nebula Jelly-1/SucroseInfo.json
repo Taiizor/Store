@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Nebula Jelly",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nebula Jelly - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/nebula-jelly-live-wallpaper",
+  "Type": 3,
+  "Source": "nj.mp4",
+  "Tags": [
+    "Abstraction",
+    "Galaxy",
+    "Plate",
+    "Space",
+    "Spoon"
+  ],
+  "Arguments": null
+}

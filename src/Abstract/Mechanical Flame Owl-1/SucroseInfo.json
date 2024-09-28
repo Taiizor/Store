@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Mechanical Flame Owl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mechanical Flame Owl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/mechanical-flame-owl-live-wallpaper",
+  "Type": 3,
+  "Source": "mfo.mp4",
+  "Tags": [
+    "Glowing Eyes",
+    "Abstraction"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Neon Leaves",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Neon Leaves - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/neon-leaves-live-wallpaper",
+  "Type": 3,
+  "Source": "nl.mp4",
+  "Tags": [
+    "Abstraction"
+  ],
+  "Arguments": null
+}

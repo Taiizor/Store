@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Pattern",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pattern - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/abstract/abstract-pattern-live-wallpaper",
+  "Type": 3,
+  "Source": "p.mp4",
+  "Tags": [
+    "Abstraction",
+    "Waves"
+  ],
+  "Arguments": null
+}
