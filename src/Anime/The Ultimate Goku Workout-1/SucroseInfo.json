@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "The Ultimate Goku Workout",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Ultimate Goku Workout - Dragon Ball Z - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/goku-workout",
+  "Type": 3,
+  "Source": "tugwdbz.mp4",
+  "Tags": [
+    "Bodyweight Exercises",
+    "Agility Drills",
+    "Powerlifting",
+    "Endurance",
+    "Cardio"
+  ],
+  "Arguments": null
+}

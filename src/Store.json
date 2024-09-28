@@ -654,6 +654,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Pirate King's Fury": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Ultimate Goku Workout-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Neji Hyuga-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Aki Hayakawa Minimal-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Orochimaru-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sukuna Epic-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -9891,7 +9921,7 @@
     },
     "Sky": {
       "Wallpapers": {
-        "Howls Moving Castle Floating In The Sky-1": {
+        "Howl's Moving Castle Floating In The Sky": {
           "Source": "src/Sky",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Pirate King's Fury",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Pirate King's Fury - One Piece - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/pirate-king",
+  "Type": 3,
+  "Source": "pkfop.mp4",
+  "Tags": [
+    "Fiery Determination",
+    "Straw Hat Pirates",
+    "Monkey D Luffy",
+    "Gear Fourth",
+    "Manga"
+  ],
+  "Arguments": null
+}
