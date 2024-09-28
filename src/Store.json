@@ -1152,18 +1152,6 @@
           "Live": "preview.gif",
           "Adult": true
         },
-        "Gang-2": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
-        "Red Eyes Tanjiro-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Greeen Halo Tanjiro-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
