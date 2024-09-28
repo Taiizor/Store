@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Bionic Goku",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Bionic Goku - Dragon Ball - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/bionic-goku",
+  "Type": 3,
+  "Source": "bgdb.mp4",
+  "Tags": [
+    "Mechanical Limbs",
+    "Saiyan Warrior",
+    "Enchancements",
+    "Cybernetic",
+    "Futuristic"
+  ],
+  "Arguments": null
+}

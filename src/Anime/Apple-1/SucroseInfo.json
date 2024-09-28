@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Apple",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Apple - Death Note - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/death-note-apple",
+  "Type": 3,
+  "Source": "adn.mp4",
+  "Tags": [
+    "Red Apple",
+    "Shinigami",
+    "Eerie",
+    "Kira",
+    "Ryuk"
+  ],
+  "Arguments": null
+}
