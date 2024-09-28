@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Autumn Hilltop Castle",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Autumn Hilltop Castle - Night - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/autumn-hilltop-castle-night",
+  "Type": 3,
+  "Source": "ahcn.mp4",
+  "Tags": [
+    "Fantasy Landscape",
+    "Medieval Castle",
+    "Fall Colors",
+    "Moonlit Sky",
+    "Scenic View"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Furry Underwater",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Furry Underwater - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/furry-underwater",
+  "Type": 3,
+  "Source": "fu.mp4",
+  "Tags": [
+    "Aquatic Adventure",
+    "Ocean Depths",
+    "Scuba Diving",
+    "Marine Life",
+    "Anthro"
+  ],
+  "Arguments": null
+}

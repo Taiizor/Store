@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Red",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Red - Black Myth: Wukong - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/myth-wukong-red",
+  "Type": 3,
+  "Source": "rbmw.mp4",
+  "Tags": [
+    "Chinese Mythology",
+    "Mythical Warrior",
+    "Red Aesthetic",
+    "Monkey King",
+    "Sun Wukong"
+  ],
+  "Arguments": null
+}

@@ -3858,6 +3858,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "RGB Moon-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Broken Statue-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -5729,6 +5735,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "Red-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Guinaifen-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Ghost of Yotei-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lady Boss Yae Miko-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8302,6 +8326,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Autumn Hilltop Castle-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aesthetic Orange Autumn Forest-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -9381,6 +9411,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Violet Sasuke-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Howling Wolf-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -9581,6 +9617,24 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Astronaut in Clouds-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Above The Neon City-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Space Galaxy Bedroom-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Space Life-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
@@ -10249,6 +10303,12 @@
     },
     "Underwater and Marine": {
       "Wallpapers": {
+        "Furry Underwater-1": {
+          "Source": "src/Underwater and Marine",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Well of Eternity-1": {
           "Source": "src/Underwater and Marine",
           "Cover": "thumbnail.jpg",

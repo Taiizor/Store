@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Ghost of Yōtei",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ghost of Yōtei - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/ghost-of-yotei",
+  "Type": 3,
+  "Source": "goy.mp4",
+  "Tags": [
+    "Japanese Folklore",
+    "Haunted Mountain",
+    "Mythical Spirit",
+    "Dark Fantasy"
+  ],
+  "Arguments": null
+}

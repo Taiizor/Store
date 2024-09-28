@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "RGB Moon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "RGB Moon - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rgb-moon",
+  "Type": 3,
+  "Source": "rgbm.mp4",
+  "Tags": [
+    "Cosmic Scene",
+    "Glowing Moon",
+    "Neon Colors",
+    "Futuristic",
+    "Vaporwave"
+  ],
+  "Arguments": null
+}

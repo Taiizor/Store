@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Above The Neon City",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A car flies over a futuristic Cyberpunk / Bladerunner style city at night, mixed to some synthwave music, 12 hours, enjoy!",
+  "Author": "VISUALDON",
+  "License": null,
+  "Contact": "https://www.youtube.com/@visualdon",
+  "Type": 4,
+  "Source": "https://www.youtube.com/watch?v=pwuFTsvJL34",
+  "Tags": [
+    "Glowing Skyscrapers",
+    "Futuristic City",
+    "Neon Lights",
+    "Cityscape",
+    "Vaporwave"
+  ],
+  "Arguments": null
+}
