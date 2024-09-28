@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Naruto Artistic",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Naruto Artistic - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/naruto-artistic",
+  "Type": 3,
+  "Source": "na.mp4",
+  "Tags": [
+    "Abstract",
+    "Colorful",
+    "Detailed",
+    "Vibrant",
+    "Unique"
+  ],
+  "Arguments": null
+}

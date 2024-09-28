@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Limbus Company",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Limbus Company - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/limbus-company",
+  "Type": 3,
+  "Source": "lc.mp4",
+  "Tags": [
+    "Dark Fantasy",
+    "Project Moon",
+    "Dystopian",
+    "Surreal",
+    "Gothic"
+  ],
+  "Arguments": null
+}

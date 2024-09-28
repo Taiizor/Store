@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Luffy Sunset",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Luffy Sunset - One Piece - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/luffy-sunset",
+  "Type": 3,
+  "Source": "lsop.mp4",
+  "Tags": [
+    "Straw Hat",
+    "Vibrant",
+    "Pirate",
+    "Serene",
+    "Ocean"
+  ],
+  "Arguments": null
+}

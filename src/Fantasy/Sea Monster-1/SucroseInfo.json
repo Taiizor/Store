@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Sea Monster",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sea Monster - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/sea-monster",
+  "Type": 3,
+  "Source": "sm.mp4",
+  "Tags": [
+    "Tentacles",
+    "Deep Sea",
+    "Mythical",
+    "Giany",
+    "Ocean"
+  ],
+  "Arguments": null
+}
