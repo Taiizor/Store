@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Neon Rays-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Color Stain-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
@@ -648,6 +654,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Anime Girl Witch-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Son Goku Kakarot-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Naruto Gaara Of The Sand-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -5647,6 +5665,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Mona Witch-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Amber and Cat-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Aerith and Cloud-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9223,6 +9253,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "Anime Girl Watching Sunset Pixel-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autumn River Pixel-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",

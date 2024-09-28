@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Son Goku Kakarot",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Son Goku Kakarot - Dragon Ball Z - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/son-goku-kakarot-dragon-ball-z-live-wallpaper",
+  "Type": 3,
+  "Source": "sgkdbz.mp4",
+  "Tags": [
+    "Kakarotto"
+  ],
+  "Arguments": null
+}

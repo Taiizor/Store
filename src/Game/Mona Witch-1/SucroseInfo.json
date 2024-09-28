@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Mona Witch",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mona Witch - Genshin Impact - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/mona-witch-genshin-impact-live-wallpaper",
+  "Type": 3,
+  "Source": "mwgi.mp4",
+  "Tags": [
+    "Butterflies",
+    "Witch Hat"
+  ],
+  "Arguments": null
+}

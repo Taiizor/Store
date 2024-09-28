@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.9.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Girl Watching Sunset Pixel",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Girl Watching Sunset Pixel - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/pixel-art/anime-girl-watching-sunset-pixel-live-wallpaper",
+  "Type": 3,
+  "Source": "agwsp.mp4",
+  "Tags": [
+    "Chilling",
+    "Clouds",
+    "Coffee",
+    "Sun"
+  ],
+  "Arguments": null
+}
