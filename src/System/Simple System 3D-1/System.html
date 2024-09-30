@@ -424,7 +424,8 @@
                         intelGpu = data.Intel;
                         nvidiaGpu = data.Nvidia;
                         let highestNow = -Infinity;
-                        if (nvidiaGpu != null) {
+                        let manufacturer = data.Manufacturer;
+                        if (manufacturer == "Nvidia" && nvidiaGpu != null) {
                             nvidiaGpu.forEach(gpu => {
                                 if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
                                     highestNow = gpu.Now;
@@ -432,7 +433,7 @@
                             });
                             CurrentGpu = highestNow.toFixed(0);
                             gpuText = nvidiaGpu[0].Name + " " + highestNow.toFixed(0) + "%";
-                        } else if (amdGpu != null) {
+                        } else if (manufacturer == "Amd" && amdGpu != null) {
                             amdGpu.forEach(gpu => {
                                 if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
                                     highestNow = gpu.Now;
@@ -440,7 +441,7 @@
                             });
                             CurrentGpu = highestNow.toFixed(0);
                             gpuText = amdGpu[0].Name + " " + highestNow.toFixed(0) + "%";
-                        } else if (intelGpu != null) {
+                        } else if (manufacturer == "Intel" && intelGpu != null) {
                             intelGpu.forEach(gpu => {
                                 if (gpu.Type === "Load" && gpu.Now !== null && gpu.Now > highestNow) {
                                     highestNow = gpu.Now;
