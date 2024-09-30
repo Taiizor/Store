@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Penguin Ninja",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Penguin Ninja - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/penguin-ninja",
+  "Type": 3,
+  "Source": "pn.mp4",
+  "Tags": [
+    "Cute and Deadly",
+    "Animal Warrior",
+    "Cartoon",
+    "Stealth",
+    "Katana"
+  ],
+  "Arguments": null
+}

@@ -388,6 +388,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Penguin Ninja-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zen Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -602,6 +608,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "Anime Figure Box-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Microsoft Windows 98-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -696,6 +708,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Guts-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Water Breathing-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Makima Devil-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Mob Psycho 100-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Shorekeeper Lying In The Water-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4247,6 +4283,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Moon Girls-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dragon Samurai Meditate-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",

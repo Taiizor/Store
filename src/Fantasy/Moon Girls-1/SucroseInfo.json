@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Moon Girls",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Moon Girls - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/moon-girls",
+  "Type": 3,
+  "Source": "mg.mp4",
+  "Tags": [
+    "Celestial",
+    "Night Sky",
+    "Ethereal",
+    "Dreamy",
+    "Lunar"
+  ],
+  "Arguments": null
+}

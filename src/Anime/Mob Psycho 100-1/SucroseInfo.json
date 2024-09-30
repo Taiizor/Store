@@ -1,0 +1,19 @@
+{
+  "AppVersion": "24.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Mob Psycho 100",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mob Psycho 100 - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/mob-psycho_jNm",
+  "Type": 3,
+  "Source": "mp100.mp4",
+  "Tags": [
+    "Shigeo Kageyama",
+    "Reigen Arataka",
+    "Esper"
+  ],
+  "Arguments": null
+}

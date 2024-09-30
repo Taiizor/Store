@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.9.30.0",
+  "Version": "1.0.0.0",
+  "Title": "Anime Figure Box",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Anime Figure Box - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/anime-figure-box",
+  "Type": 3,
+  "Source": "afb.mp4",
+  "Tags": [
+    "Anime Memorabilia",
+    "Anime Merchandise",
+    "Collectible Box",
+    "Toy Display",
+    "Otaku"
+  ],
+  "Arguments": null
+}
