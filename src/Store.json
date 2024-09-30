@@ -696,6 +696,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "The Shorekeeper Lying In The Water-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ikuyo Dance-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Red-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
