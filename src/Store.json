@@ -4247,6 +4247,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dragon Samurai Meditate-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sea Monster-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -8991,6 +8997,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Farmstand-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Boat Boy-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10572,6 +10584,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Black Gold Dodge-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Dodge Red Stripes-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
