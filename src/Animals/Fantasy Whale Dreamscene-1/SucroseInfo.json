@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Fantasy Whale Dreamscene",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Fantasy Whale Dreamscene - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/fantasy-whale-dreamscene",
+  "Type": 3,
+  "Source": "fwd.mp4",
+  "Tags": [
+    "Dreamy Landscape",
+    "Underwater World",
+    "Dreamscape",
+    "Sky Whale",
+    "Ethereal"
+  ],
+  "Arguments": null
+}

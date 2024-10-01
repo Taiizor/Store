@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Chillout in Space",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Chillout in Space - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/chillout-in-space",
+  "Type": 3,
+  "Source": "cis.mp4",
+  "Tags": [
+    "Relaxing Music",
+    "Space Journey",
+    "Cosmic Vibes",
+    "Ambient",
+    "Astral"
+  ],
+  "Arguments": null
+}

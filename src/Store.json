@@ -388,6 +388,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Fantasy Whale Dreamscene-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Penguin Ninja-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -708,6 +714,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Arona Sleeping In Class-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Himmel First Encounter-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Guts-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -9039,6 +9057,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Take a Rest Lofi-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Farmstand-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -9888,6 +9912,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Chillout in Space-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Astronaut in Clouds-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
