@@ -8621,6 +8621,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Lighthouse Dreamscape-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autumn Hilltop Castle-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -9075,6 +9081,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Lofi Pet Relax-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Lofi Chill Sick-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Relax After Workout-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Bokeh Lights-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -9580,6 +9604,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Into The Wild-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Peaceful Aurora-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
@@ -9742,6 +9772,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Sukuna Cursed Energy-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Violet Sasuke-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -10304,6 +10340,12 @@
     },
     "Superheroes": {
       "Wallpapers": {
+        "Iron Man Aesthetic Red-1": {
+          "Source": "src/Superheroes",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Deadpool-1": {
           "Source": "src/Superheroes",
           "Cover": "thumbnail.jpg",

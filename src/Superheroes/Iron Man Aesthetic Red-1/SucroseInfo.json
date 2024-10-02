@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Iron Man Aesthetic Red",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Iron Man Aesthetic Red - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/iron-man-aesthetic-red",
+  "Type": 3,
+  "Source": "imar.mp4",
+  "Tags": [
+    "Stark Industries",
+    "Red and Gold",
+    "Tony Stark",
+    "Tech Suit",
+    "Avengers"
+  ],
+  "Arguments": null
+}
