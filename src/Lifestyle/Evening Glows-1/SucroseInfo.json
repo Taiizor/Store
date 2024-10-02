@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Evening Glows",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Evening Glows - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/lifestyle/evening-glows-live-wallpaper",
+  "Type": 3,
+  "Source": "eg.mp4",
+  "Tags": null,
+  "Arguments": null
+}
