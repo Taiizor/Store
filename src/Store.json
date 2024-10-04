@@ -714,6 +714,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Glowing Goku-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Totoro and Satsuki-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Chibi Roronoa Zoro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Team 7-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3774,6 +3792,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Black White Dragon Samurai-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Musashi Lone Samurai-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4313,6 +4337,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Red Sun Warrior-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dark Lantern-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Fantasy Butterfly Queen-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6018,6 +6054,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Acheron-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Limbus Company-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
