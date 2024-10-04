@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.8.8.0",
-  "Version": "1.0.0.0",
+  "Version": "1.0.0.1",
   "Title": "Blue Hatsune Miku",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -10,6 +10,10 @@
   "Contact": "https://mylivewallpapers.com/anime/blue-hatsune-miku-live-wallpaper",
   "Type": 3,
   "Source": "bhm.mp4",
-  "Tags": null,
+  "Tags": [
+    "Miku Vocaloid",
+    "Blue Eyes",
+    "Blue Hair"
+  ],
   "Arguments": null
 }

@@ -1536,12 +1536,6 @@
           "Live": "preview.gif",
           "Adult": false
         },
-        "Miku Vocaloid-1": {
-          "Source": "src/Anime",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Sunaookami Shiroko-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4158,7 +4152,7 @@
           "Live": "preview.gif",
           "Adult": false
         },
-        "Lo-Fi City-1": {
+        "Lofi City-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
           "Live": "preview.gif",
