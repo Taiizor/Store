@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Above The Clouds",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Above The Clouds - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/above-the-clouds",
+  "Type": 3,
+  "Source": "atc.mp4",
+  "Tags": [
+    "Calm Atmosphere",
+    "Girl Sleeping",
+    "Fantasy",
+    "Dreamy",
+    "Sky"
+  ],
+  "Arguments": null
+}

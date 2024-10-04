@@ -614,6 +614,12 @@
     },
     "Animation": {
       "Wallpapers": {
+        "One Last Drink-1": {
+          "Source": "src/Animation",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Anime Figure Box-1": {
           "Source": "src/Animation",
           "Cover": "thumbnail.jpg",
@@ -714,6 +720,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Luffy in Fifth Gear 5-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cute Nekomusume-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Enmu-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Glowing Goku-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3998,6 +4022,12 @@
     },
     "Cartoon and Comics": {
       "Wallpapers": {
+        "Spider-Man Miles Morales Power-1": {
+          "Source": "src/Cartoon and Comics",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Superman Red Son Dark-1": {
           "Source": "src/Cartoon and Comics",
           "Cover": "thumbnail.jpg",
@@ -4141,6 +4171,12 @@
     },
     "Colorful": {
       "Wallpapers": {
+        "RGB Matrix Girl-1": {
+          "Source": "src/Colorful",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "RGB Moon-1": {
           "Source": "src/Colorful",
           "Cover": "thumbnail.jpg",
@@ -4337,6 +4373,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Shadow Knight-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Red Sun Warrior-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6054,6 +6096,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Madkat Fortnite Glitch-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Acheron-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9123,6 +9171,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Above The Clouds-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dreamy Lofi Girl-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Lofi Pet Relax-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -9814,6 +9874,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Gojo Satoru Style-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Sukuna Cursed Energy-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -10776,6 +10842,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Gray Porsche-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dodge Challenger Burnout-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

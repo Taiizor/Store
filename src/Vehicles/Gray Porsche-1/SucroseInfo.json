@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Gray Porsche",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gray Porsche - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/gray-porsche-live-wallpaper",
+  "Type": 3,
+  "Source": "gp.mp4",
+  "Tags": [
+    "Falling Leaves",
+    "Automotive",
+    "Luxury Car",
+    "Trees"
+  ],
+  "Arguments": null
+}

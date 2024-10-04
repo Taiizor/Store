@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "RGB Matrix Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "RGB Matrix Girl - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rgb-matrix-girl",
+  "Type": 3,
+  "Source": "rgbmg.mp4",
+  "Tags": [
+    "Tech Aesthetic",
+    "Neon Lights",
+    "Cyber Girl",
+    "Glitch Art",
+    "Cyberpunk"
+  ],
+  "Arguments": null
+}

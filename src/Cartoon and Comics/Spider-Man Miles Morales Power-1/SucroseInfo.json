@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Spider-Man Miles Morales Power",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Spider-Man Miles Morales Power - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/spider-man-miles-morales-power",
+  "Type": 3,
+  "Source": "smmmp.mp4",
+  "Tags": [
+    "Spider Verse",
+    "Spider Man",
+    "SpiderMan",
+    "Superhero",
+    "Marvel"
+  ],
+  "Arguments": null
+}
