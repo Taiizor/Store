@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Torii Red Moon",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Torii Red Moon - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/torii-red-moon-live-wallpaper",
+  "Type": 3,
+  "Source": "trm.mp4",
+  "Tags": [
+    "Japanese Traditions",
+    "Fantasy Landscape",
+    "Blood Moon",
+    "Foggy",
+    "Gate"
+  ],
+  "Arguments": null
+}

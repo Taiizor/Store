@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Mountain Top",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Mountain Top - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/nature/mountain-top-live-wallpaper",
+  "Type": 3,
+  "Source": "mt.mp4",
+  "Tags": null,
+  "Arguments": null
+}

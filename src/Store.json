@@ -388,6 +388,24 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Tiny Baby Elephant-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Sakura Owl-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Night Whale Breach-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Fantasy Whale Dreamscene-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -720,6 +738,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Guts Red Eye-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Green Aura Roronoa Zoro-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo Satoru Blue Aura-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Arona Error-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Luffy in Fifth Gear 5-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4367,6 +4409,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Last Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Shadow Knight-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6090,6 +6138,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Aigis-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Madkat Fortnite Glitch-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8605,6 +8659,12 @@
     },
     "Kids and Cartoon": {
       "Wallpapers": {
+        "Sonic the Hedgehog-1": {
+          "Source": "src/Kids and Cartoon",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Spongebob Cartoon Bubbles-1": {
           "Source": "src/Kids and Cartoon",
           "Cover": "thumbnail.jpg",
@@ -8705,6 +8765,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Torii Red Moon-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Lighthouse Dreamscape-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
@@ -9572,6 +9638,16 @@
     "Line Art": {
       "Wallpapers": {}
     },
+    "Love": {
+      "Wallpapers": {
+        "Romantic Garden-1": {
+          "Source": "src/Love",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        }
+      }
+    },
     "Medieval": {
       "Wallpapers": {
         "For Honor-1": {
@@ -9700,6 +9776,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Mountain Top-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Into The Wild-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",

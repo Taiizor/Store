@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Guts Red Eye",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Guts Red Eye - Berserk - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/berserk-guts-red-eye",
+  "Type": 3,
+  "Source": "greb.mp4",
+  "Tags": [
+    "Berserk Armor",
+    "Kentaro Miura",
+    "Bloodlust",
+    "Revenge",
+    "Warrior"
+  ],
+  "Arguments": null
+}

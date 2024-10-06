@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Sonic the Hedgehog",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Sonic the Hedgehog - Live Wallpaper",
+  "Author": "maksa",
+  "License": null,
+  "Contact": "https://github.com/Taiizor/Store/tree/develop/src/Kids%20and%20Cartoon/Sonic%20the%20Hedgehog-1",
+  "Type": 0,
+  "Source": "sth.gif",
+  "Tags": null,
+  "Arguments": null
+}
