@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "The Shorekeeper Seaside",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Shorekeeper Seaside - Wuthering Waves - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/shorekeeper-seaside-wuthering-waves-live-wallpaper",
+  "Type": 3,
+  "Source": "tssww.mp4",
+  "Tags": [
+    "Fireflies",
+    "Water"
+  ],
+  "Arguments": null
+}

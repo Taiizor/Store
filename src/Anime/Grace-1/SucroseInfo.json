@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Grace",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Grace - Zenless Zone Zero - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/grace-zenless-zone-zero-live-wallpaper",
+  "Type": 3,
+  "Source": "gzzz.mp4",
+  "Tags": [
+    "Rifle",
+    "Gun"
+  ],
+  "Arguments": null
+}

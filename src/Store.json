@@ -744,6 +744,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Mitsuha Watching Shooting Stars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "The Shorekeeper Seaside-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "War Devil Yoru-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Plana x Arona-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Grace-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Tanjiro vs Nezuko-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3888,6 +3918,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Aki Hayakawa-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Black White Dragon Samurai-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -6192,6 +6228,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Sunday-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aigis-2": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8628,6 +8670,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Maid Anime Girl Halloween-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Creepy Face Cartoon-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -8819,6 +8867,12 @@
     },
     "Landscape": {
       "Wallpapers": {
+        "Green Home-1": {
+          "Source": "src/Landscape",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Torii Red Moon-1": {
           "Source": "src/Landscape",
           "Cover": "thumbnail.jpg",
