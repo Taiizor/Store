@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Tanjiro vs Nezuko",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Tanjiro vs Nezuko - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/tanjiro-vs-nezuko",
+  "Type": 3,
+  "Source": "tvsn.mp4",
+  "Tags": [
+    "Kimetsu no Yaiba",
+    "Tanjiro Kamado",
+    "Nezuko Kamado",
+    "Demon Slayer",
+    "Shonen"
+  ],
+  "Arguments": null
+}

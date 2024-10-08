@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Naruto in Blue Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Naruto in Blue Forest - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/naruto-blue-forest",
+  "Type": 3,
+  "Source": "nibf.mp4",
+  "Tags": [
+    "Shinobi Journey",
+    "Hidden Leaf",
+    "Chakra",
+    "Nature",
+    "Ninja"
+  ],
+  "Arguments": null
+}

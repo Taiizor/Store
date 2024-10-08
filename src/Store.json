@@ -388,6 +388,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Cute Fall Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Tiny Baby Elephant-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -738,6 +744,36 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Tanjiro vs Nezuko-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Sasuke Power Whirl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Naruto in Blue Forest-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Junpei Yoshino-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lucy-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Guts Red Eye-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4313,6 +4349,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Peaceful Sleep-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cute Fluff Ball Critter-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -4409,6 +4451,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Skull General-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Angel By The River-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Last Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -9231,6 +9285,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Walking Alone-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Above The Clouds-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10918,6 +10978,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Black Lamborghini-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Gray Porsche-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
