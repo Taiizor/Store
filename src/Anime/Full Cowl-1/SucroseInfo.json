@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.1.0",
+  "Version": "1.0.0.0",
+  "Title": "Full Cowl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Full Cowl - My Hero Academia - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/full-cowl-my-hero-academia",
+  "Type": 3,
+  "Source": "fcmha.mp4",
+  "Tags": [
+    "Izuku Midoriya",
+    "Superpower",
+    "Shonen",
+    "Quirk",
+    "Deku"
+  ],
+  "Arguments": null
+}

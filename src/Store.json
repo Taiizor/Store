@@ -744,6 +744,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Hollow Ichigo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Full Cowl-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Roronoa Zoro Meditation Minimalistic-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Shorekeeper-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Mitsuha Watching Shooting Stars-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4487,6 +4511,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Flaming Dragon Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Skull General-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6228,6 +6258,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Beach-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Lost Abyss Firefly-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Sunday-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11032,6 +11074,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Epic Bugatti-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Lamborghini-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
