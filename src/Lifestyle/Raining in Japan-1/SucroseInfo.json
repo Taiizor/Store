@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Raining in Japan",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Raining in Japan - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/raining-in-japan",
+  "Type": 3,
+  "Source": "rij.mp4",
+  "Tags": [
+    "Asian Aesthetic",
+    "Night City",
+    "Tokyo Rain",
+    "Peaceful",
+    "Drizzle"
+  ],
+  "Arguments": null
+}

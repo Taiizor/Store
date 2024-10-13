@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Slow Days",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Slow Days - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/slow-days",
+  "Type": 3,
+  "Source": "sd.mp4",
+  "Tags": [
+    "Quiet Night Sky",
+    "Chill Vibes",
+    "City View",
+    "Nighttime",
+    "Relaxing"
+  ],
+  "Arguments": null
+}

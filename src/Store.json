@@ -388,6 +388,18 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Halloween Night Vibes-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "The Cutest Witchy Cat-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Hamster Archer-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -6318,6 +6330,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Ultrahand-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "The Fire Keeper-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9471,6 +9489,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Raining in Japan-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Silent Whispers-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Slow Days-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Above The Clouds-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10414,6 +10450,24 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Undead Warrior-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Samurai Wolf-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Skull Violin-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Chillout in Space-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",

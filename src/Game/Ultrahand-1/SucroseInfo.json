@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Ultrahand",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Ultrahand - Zelda - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/ultrahand-zelda",
+  "Type": 3,
+  "Source": "uz.mp4",
+  "Tags": [
+    "Ancient Technology",
+    "Legend of Zelda",
+    "Power Glove",
+    "Hyrule",
+    "Link"
+  ],
+  "Arguments": null
+}

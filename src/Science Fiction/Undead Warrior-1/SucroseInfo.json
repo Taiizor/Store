@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.13.0",
+  "Version": "1.0.0.0",
+  "Title": "Undead Warrior",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Undead Warrior - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/undead-warrior",
+  "Type": 3,
+  "Source": "uw.mp4",
+  "Tags": [
+    "Skeleton Knight",
+    "Zombie Fighter",
+    "Dark Fantasy",
+    "Necromancer",
+    "Gothic"
+  ],
+  "Arguments": null
+}
