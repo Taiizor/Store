@@ -3972,6 +3972,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Wanted Man Joker-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Dark Portal-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4547,6 +4553,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Dark Demon Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Argonath-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5742,12 +5754,6 @@
     },
     "Film and TV": {
       "Wallpapers": {
-        "Wanted Man Joker-1": {
-          "Source": "src/Film and TV",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": true
-        },
         "Rick and Morty Portal-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
