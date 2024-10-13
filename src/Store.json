@@ -388,6 +388,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Hamster Archer-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cute Fall Cat-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -744,6 +750,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gang-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Cirno Eating Watermelon-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "The Shorekeeper Playing the Piano-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Danjin Autumn-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Hollow Ichigo-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -3942,6 +3972,12 @@
     },
     "Black and White": {
       "Wallpapers": {
+        "Dark Portal-1": {
+          "Source": "src/Black and White",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Aki Hayakawa-1": {
           "Source": "src/Black and White",
           "Cover": "thumbnail.jpg",
@@ -4511,6 +4547,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Argonath-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Resting by the River-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Flaming Dragon Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5694,6 +5742,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Wanted Man Joker-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Rick and Morty Portal-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6258,6 +6312,24 @@
     },
     "Game": {
       "Wallpapers": {
+        "The Fire Keeper-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Zhongli Dragon-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "MapleStory-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Beach-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8712,6 +8784,18 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Murder Drones-2": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Ahri Halloween-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Maid Anime Girl Halloween-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
