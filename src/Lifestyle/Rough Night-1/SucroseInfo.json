@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Rough Night",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Rough Night - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/rough-night",
+  "Type": 3,
+  "Source": "rn.mp4",
+  "Tags": [
+    "Girl in Bed",
+    "Exhaustion",
+    "Sleepless",
+    "Restless",
+    "Tired"
+  ],
+  "Arguments": null
+}

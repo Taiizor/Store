@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Girl Looks at You",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Girl Looks at You - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/girl-looks-at-you",
+  "Type": 3,
+  "Source": "glay.mp4",
+  "Tags": [
+    "Intense Gaze",
+    "Captivating",
+    "Eye Contact",
+    "Connection",
+    "Emotion"
+  ],
+  "Arguments": null
+}

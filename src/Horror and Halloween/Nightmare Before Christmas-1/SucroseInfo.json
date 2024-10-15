@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Nightmare Before Christmas",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Nightmare Before Christmas - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/4k-3840x2160/nightmare-before-christmas-live-wallpaper",
+  "Type": 3,
+  "Source": "nbc.mp4",
+  "Tags": [
+    "Pumpkin",
+    "Moon"
+  ],
+  "Arguments": null
+}

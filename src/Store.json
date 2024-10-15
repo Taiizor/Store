@@ -762,6 +762,24 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Samurai on Ocean Waves-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Musashi Miyamoto-2": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Zoro With White Suit-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gang-2": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4565,6 +4583,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Girl Looks at You-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Demon Samurai-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6330,6 +6354,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Planet of Lana-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Ultrahand-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8808,6 +8838,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Nightmare Before Christmas-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Murder Drones-2": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -9489,6 +9525,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Chill on Bridge-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Tranquil Lofi Mornings-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Rough Night-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Raining in Japan-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

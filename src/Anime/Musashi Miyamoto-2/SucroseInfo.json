@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Musashi Miyamoto",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Musashi Miyamoto - Vagabond - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/musashi-miyamoto-vagabond",
+  "Type": 3,
+  "Source": "mmv.mp4",
+  "Tags": [
+    "Japanese Aesthetic",
+    "Red and Black",
+    "Swordsmanship",
+    "Dark Colors",
+    "Samurai"
+  ],
+  "Arguments": null
+}

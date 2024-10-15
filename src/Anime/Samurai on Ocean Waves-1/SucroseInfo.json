@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.16.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai on Ocean Waves",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai on Ocean Waves - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/samurai-on-ocean-waves",
+  "Type": 3,
+  "Source": "soow.mp4",
+  "Tags": [
+    "Tranquility",
+    "Bushido",
+    "Nature",
+    "Water",
+    "Sea"
+  ],
+  "Arguments": null
+}
