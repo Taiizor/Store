@@ -12,7 +12,7 @@ body:
     attributes:
       label: App Version
       description: Please provide the version of the application you are using.
-      placeholder: "24.10.15.0"
+      placeholder: "24.12.15.0"
     validations:
       required: true
   - type: input
@@ -36,7 +36,7 @@ body:
     attributes:
       label: Wallpaper App Version
       description: Please provide the wallpaper app version (enter "-" if unknown).
-      placeholder: "24.7.23.0"
+      placeholder: "24.10.30.0"
     validations:
       required: true
   - type: dropdown
