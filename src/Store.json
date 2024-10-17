@@ -9579,6 +9579,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Crashed In a Motel-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Cafe Fall Season-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10302,6 +10308,18 @@
     },
     "Persons": {
       "Wallpapers": {
+        "Specky Girl-1": {
+          "Source": "src/Persons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Beach Babe-1": {
+          "Source": "src/Persons",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "NBA Youngboy Portrait Style-1": {
           "Source": "src/Persons",
           "Cover": "thumbnail.jpg",
@@ -10582,6 +10600,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Cyberpunk Girl Claw-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Undead Warrior-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
