@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Samurai Torii",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Samurai Torii - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/fantasy/samurai-torii-live-wallpaper",
+  "Type": 3,
+  "Source": "st.mp4",
+  "Tags": [
+    "Straw Hat",
+    "Katana"
+  ],
+  "Arguments": null
+}

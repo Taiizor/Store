@@ -762,6 +762,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "The Shorekeeper Butterflies-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Otori Emu-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4493,6 +4499,12 @@
     },
     "Cute": {
       "Wallpapers": {
+        "Anya Forger-1": {
+          "Source": "src/Cute",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Peaceful Sleep-1": {
           "Source": "src/Cute",
           "Cover": "thumbnail.jpg",
@@ -4595,6 +4607,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Samurai Torii-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Girl Looks at You-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6366,6 +6384,12 @@
     },
     "Game": {
       "Wallpapers": {
+        "Kindred Eternal Hunters-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Luocha-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -8856,6 +8880,12 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Black Cat With Candles-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Oni Anime Girl-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -9549,6 +9579,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Cafe Fall Season-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Kivotos Midnight-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10136,6 +10172,12 @@
     },
     "Nature": {
       "Wallpapers": {
+        "Fall Garden-1": {
+          "Source": "src/Nature",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Green Forest-1": {
           "Source": "src/Nature",
           "Cover": "thumbnail.jpg",
