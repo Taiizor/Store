@@ -10,9 +10,9 @@ body:
   - type: input
     id: app-version
     attributes:
-      label: Version
+      label: App Version
       description: Please provide the version of the application you are using.
-      placeholder: "24.7.25.0"
+      placeholder: "24.10.15.0"
     validations:
       required: true
   - type: input
