@@ -388,6 +388,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Cartoon Paris View-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Halloween Night Vibes-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -762,6 +768,30 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Thorfinn-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Gojo Rose-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Luffy Sea Breeze-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Dark Hollow Ichigo-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "The Shorekeeper Butterflies-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4607,6 +4637,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Chained-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Samurai Torii-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -8880,6 +8916,18 @@
     },
     "Horror and Halloween": {
       "Wallpapers": {
+        "Bart Halloween Chill Smoke-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Echoed Reflections-1": {
+          "Source": "src/Horror and Halloween",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Black Cat With Candles-1": {
           "Source": "src/Horror and Halloween",
           "Cover": "thumbnail.jpg",
@@ -9579,6 +9627,24 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Autumn is Here-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Cozy Autumn Coffee-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Relaxing and Stress Relief-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Crashed In a Motel-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Cozy Autumn Coffee",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cozy Autumn Coffee - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cozy-autumn-coffe",
+  "Type": 3,
+  "Source": "cac.mp4",
+  "Tags": [
+    "Chill Atmosphere",
+    "Eiffel Tower",
+    "Coffee",
+    "Warmth",
+    "Paris"
+  ],
+  "Arguments": null
+}

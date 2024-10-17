@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Cartoon Paris View",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Cartoon Paris View - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/cartoon-paris-view",
+  "Type": 3,
+  "Source": "cpv.mp4",
+  "Tags": [
+    "French Aesthetic",
+    "Cozy Atmosphere",
+    "Eiffel Tower",
+    "Cityscape",
+    "Cat"
+  ],
+  "Arguments": null
+}

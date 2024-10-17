@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Echoed Reflections",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Echoed Reflections - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/echoed-reflections",
+  "Type": 3,
+  "Source": "er.mp4",
+  "Tags": [
+    "Deep Thoughts",
+    "Introspection",
+    "Pumpkins",
+    "Duality",
+    "Ghost"
+  ],
+  "Arguments": null
+}

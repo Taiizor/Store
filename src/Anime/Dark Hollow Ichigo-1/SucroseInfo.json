@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Dark Hollow Ichigo",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Dark Hollow Ichigo - Live Wallpaper",
+  "Author": "DesktopHut",
+  "License": null,
+  "Contact": "https://www.desktophut.com/dark-ichigo",
+  "Type": 3,
+  "Source": "dhi.mp4",
+  "Tags": [
+    "Transformation",
+    "Inner Hollow",
+    "Black Wings",
+    "Shinigami",
+    "Bleach"
+  ],
+  "Arguments": null
+}
