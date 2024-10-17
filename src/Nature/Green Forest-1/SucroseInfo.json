@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Green Forest",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Green Forest - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/landscape/green-forest-2-live-wallpaper",
+  "Type": 3,
+  "Source": "gf.mp4",
+  "Tags": [
+    "Raining",
+    "Trees"
+  ],
+  "Arguments": null
+}

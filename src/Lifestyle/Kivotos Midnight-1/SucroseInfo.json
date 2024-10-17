@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Kivotos Midnight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Kivotos Midnight - Blue Archive - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/kivotos-midnight-blue-archive-live-wallpaper",
+  "Type": 3,
+  "Source": "kmba.mp4",
+  "Tags": [
+    "Clouds",
+    "Night"
+  ],
+  "Arguments": null
+}

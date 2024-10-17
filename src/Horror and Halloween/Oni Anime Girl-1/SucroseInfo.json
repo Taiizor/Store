@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Oni Anime Girl",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Oni Anime Girl - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/oni-anime-girl-live-wallpaper",
+  "Type": 3,
+  "Source": "oag.mp4",
+  "Tags": [
+    "Face Portrait",
+    "Smiling",
+    "Blood",
+    "Horns"
+  ],
+  "Arguments": null
+}
