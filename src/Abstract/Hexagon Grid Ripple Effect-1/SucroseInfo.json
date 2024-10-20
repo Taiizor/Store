@@ -1,0 +1,18 @@
+{
+  "AppVersion": "24.7.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Hexagon Grid Ripple Effect",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "A dynamic hexagon grid showcasing an engaging ripple effect, complemented by two versatile themes. Utilize the theme switcher to seamlessly alternate between the vibrant synthwave and the sleek Vision UI theme.",
+  "Author": "Konstantin Denerz",
+  "License": "License.txt",
+  "Contact": "https://codepen.io/konstantindenerz",
+  "Type": 2,
+  "Source": "Hexagon.html",
+  "Tags": [
+    "Interactive",
+    "Honeycomb"
+  ],
+  "Arguments": null
+}

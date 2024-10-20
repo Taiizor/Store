@@ -1,0 +1,14 @@
+{
+  "PropertyListener": "SucrosePropertyListener('{0}', {1});",
+  "PropertyList": {
+    "bgImage": {
+      "title": "Select Background Image",
+      "type": "filedropdown",
+      "value": "vision-pro-palm.jpg",
+      "text": "Background image",
+      "desc": "Image Files",
+      "filter": "*.jpg|*.jpeg|*.png|*.webp|*.gif",
+      "folder": "img"
+    }
+  }
+}

@@ -2,6 +2,12 @@
   "Categories": {
     "Abstract": {
       "Wallpapers": {
+        "Hexagon Grid Ripple Effect-1": {
+          "Source": "src/Abstract",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Pattern-1": {
           "Source": "src/Abstract",
           "Cover": "thumbnail.jpg",
