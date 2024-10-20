@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Night Traffic",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Night Traffic - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/cars/night-traffic-live-wallpaper",
+  "Type": 3,
+  "Source": "nt.mp4",
+  "Tags": [
+    "Cars"
+  ],
+  "Arguments": null
+}

@@ -768,6 +768,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Trafalgar D. Water Law-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Kikoru Kaiju No 8-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Goku Berserker-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4679,6 +4691,18 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Warrior vs Tiger-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Heavenly Gates-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Purple Thundercloud-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5904,6 +5928,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Joker Walking on Fire-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Rick and Morty Portal-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
@@ -6468,6 +6498,30 @@
     },
     "Game": {
       "Wallpapers": {
+        "Capitano-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Wanderer-2": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Wanderer-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Jingliu Crystal Moon-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Brookhaven Hospital-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -11506,6 +11560,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Night Traffic-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Toyota AE86 Trueno Drifting Initial D-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",
