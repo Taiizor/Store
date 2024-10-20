@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Night City",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Night City - Cyberpunk 2077 - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/sci-fi/night-city-cyberpunk-2077-3-live-wallpaper",
+  "Type": 3,
+  "Source": "ncc2077.mp4",
+  "Tags": [
+    "Game Landscape",
+    "Flying Cars",
+    "Skyscrapers",
+    "Buildings"
+  ],
+  "Arguments": null
+}

@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Gin",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Gin - Hotarubi no Mori E - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/gin-hotarubi-no-mori-e-live-wallpaper",
+  "Type": 3,
+  "Source": "ghnme.mp4",
+  "Tags": [
+    "Anime Boy",
+    "Butterfly",
+    "Fox Mask",
+    "Clouds",
+    "Trees"
+  ],
+  "Arguments": null
+}

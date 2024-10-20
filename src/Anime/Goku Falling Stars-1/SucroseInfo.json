@@ -1,0 +1,21 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Goku Falling Stars",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Goku Falling Stars - Dragon Ball - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/anime/goku-falling-stars-dragon-ball-live-wallpaper",
+  "Type": 3,
+  "Source": "gfsdb.mp4",
+  "Tags": [
+    "Falling Star",
+    "Kakarotto",
+    "Son Goku",
+    "Clouds",
+    "Stars"
+  ],
+  "Arguments": null
+}

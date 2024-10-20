@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Purple Thundercloud",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Purple Thundercloud - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/fantasy/purple-thundercloud-live-wallpaper",
+  "Type": 3,
+  "Source": "pt.mp4",
+  "Tags": [
+    "Genshin Impact",
+    "Seiral Island",
+    "Thunder",
+    "Clouds"
+  ],
+  "Arguments": null
+}

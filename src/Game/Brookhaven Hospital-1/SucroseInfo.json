@@ -1,0 +1,17 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Brookhaven Hospital",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Brookhaven Hospital - Silent Hill 2 Remake - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/games/brookhaven-hospital-silent-hill-2-remake-live-wallpaper",
+  "Type": 3,
+  "Source": "bhsh2r.mp4",
+  "Tags": [
+    "Horror"
+  ],
+  "Arguments": null
+}

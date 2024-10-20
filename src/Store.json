@@ -768,6 +768,42 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Burnice White Burning Desires-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "The Shorekeeper Blue Sea-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Anime Girl Maid Dance-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Gin-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Murokasa Akane-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Goku Falling Stars-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Thorfinn-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4637,6 +4673,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Purple Thundercloud-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Chained-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -6420,6 +6462,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "Brookhaven Hospital-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Night City-4": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Kindred Eternal Hunters-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9627,6 +9681,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Touch Grass-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autumn is Here-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -11440,6 +11500,12 @@
     },
     "Vehicles": {
       "Wallpapers": {
+        "Toyota AE86 Trueno Drifting Initial D-1": {
+          "Source": "src/Vehicles",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Epic Bugatti-1": {
           "Source": "src/Vehicles",
           "Cover": "thumbnail.jpg",

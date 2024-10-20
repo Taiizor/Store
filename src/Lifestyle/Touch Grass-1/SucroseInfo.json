@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.17.0",
+  "Version": "1.0.0.0",
+  "Title": "Touch Grass",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "Touch Grass - Live Wallpaper",
+  "Author": "MoeWalls",
+  "License": null,
+  "Contact": "https://moewalls.com/lifestyle/touch-grass-live-wallpaper",
+  "Type": 3,
+  "Source": "tg.mp4",
+  "Tags": [
+    "Computer",
+    "Nature",
+    "Trees",
+    "PC"
+  ],
+  "Arguments": null
+}
