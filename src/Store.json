@@ -768,6 +768,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Goku Berserker-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Burnice White Burning Desires-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
