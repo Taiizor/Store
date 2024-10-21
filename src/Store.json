@@ -4697,6 +4697,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Duel of Legends-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Warrior vs Tiger-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -5934,6 +5940,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Dark Lord of the Sith-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Joker Walking on Fire-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
