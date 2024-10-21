@@ -77,11 +77,11 @@ function changeCSS(){//更换颜色
     }
 }
 
-function changeTheme(Index){
+function themeMode(index){
     var obj = document.getElementById("cssstyle");
     console.log(obj);
 
-    if(Index == 0){
+    if(index == 0){
         console.log("ChangeStyle1");
         obj.setAttribute("href","./css/dark.css");
     }
@@ -89,6 +89,14 @@ function changeTheme(Index){
         console.log("ChangeStyle2");
         obj.setAttribute("href","./css/light.css");
     }
+}
+
+function themeChange(visible){
+    if (visible){
+		$('#changeButton').show();
+	}else{
+		$('#changeButton').hide();
+	}
 }
 
 var now = new Date;

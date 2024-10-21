@@ -9,6 +9,11 @@
         "Dark",
         "Light"
       ]
+    },
+    "themeChange": {
+      "type": "checkbox",
+      "value": false,
+      "text": "Theme Change"
     }
   }
 }

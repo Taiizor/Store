@@ -4,15 +4,18 @@ function SucrosePropertyListener(name, val) {
 			switch (val.value) {
 				case 0:
 					//Dark
-					changeTheme(0);
+					themeMode(0);
 					break;
 				case 1:
 					//Light
-					changeTheme(1);
+					themeMode(1);
 					break;
 				default:
 					break;
 			}
+			break;
+		case "themeChange":
+			themeChange(val.value)
 			break;
 		default:
 			break;
