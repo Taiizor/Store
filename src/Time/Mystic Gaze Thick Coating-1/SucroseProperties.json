@@ -4,11 +4,11 @@
     "bgImage": {
       "title": "Select Background Image",
       "type": "filedropdown",
-      "value": "vision-pro-palm.jpg",
+      "value": "girl.jpg",
       "text": "Background Image",
       "desc": "Image Files",
       "filter": "*.jpg|*.jpeg|*.png|*.webp|*.gif",
-      "folder": "img"
+      "folder": "assets/img"
     }
   }
 }
