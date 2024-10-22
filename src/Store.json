@@ -394,6 +394,12 @@
     },
     "Animals": {
       "Wallpapers": {
+        "Elastic Morty Face-1": {
+          "Source": "src/Animals",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cartoon Paris View-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",

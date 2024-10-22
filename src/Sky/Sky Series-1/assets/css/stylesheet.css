@@ -11,6 +11,7 @@ body {
     background-size: cover;
     background-position: top center;
     background-color: #fff;
+    user-select: none;
 }
 
 .content {

@@ -1,0 +1,20 @@
+{
+  "AppVersion": "24.10.21.0",
+  "Version": "1.0.0.0",
+  "Title": "Elastic Morty Face",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "This animated wallpaper, features an interactive 3D face that stretches and contorts in response to movements. The expressive, cartoonish design is set against a dark background, highlighting the character's playful and engaging nature.",
+  "Author": "dasbrokkoli",
+  "License": null,
+  "Contact": "https://steamcommunity.com/id/dasbrokkoli",
+  "Type": 2,
+  "Source": "Face.html",
+  "Tags": [
+    "Rick and Morty",
+    "Interaction",
+    "Morty Smith",
+    "Cartoon"
+  ],
+  "Arguments": null
+}
