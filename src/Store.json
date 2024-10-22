@@ -774,6 +774,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Gogeta Blue-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Trafalgar D. Water Law-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -9765,6 +9771,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Autmun Rain Sleep-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Touch Grass-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
