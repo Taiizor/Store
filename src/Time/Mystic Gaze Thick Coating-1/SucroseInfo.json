@@ -1,6 +1,6 @@
 {
   "AppVersion": "24.10.21.0",
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.2",
   "Title": "Mystic Gaze Thick Coating",
   "Thumbnail": "thumbnail.jpg",
   "Preview": "preview.gif",
@@ -11,7 +11,10 @@
   "Type": 2,
   "Source": "Mystic.html",
   "Tags": [
-    "Abstract"
+    "Abstract",
+    "Clock",
+    "Date",
+    "Time"
   ],
   "Arguments": null
 }

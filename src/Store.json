@@ -11036,6 +11036,12 @@
     },
     "Sky": {
       "Wallpapers": {
+        "Sky Series-1": {
+          "Source": "src/Sky",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Howl's Moving Castle Floating In The Sky-1": {
           "Source": "src/Sky",
           "Cover": "thumbnail.jpg",
