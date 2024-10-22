@@ -394,12 +394,6 @@
     },
     "Animals": {
       "Wallpapers": {
-        "Elastic Morty Face-1": {
-          "Source": "src/Animals",
-          "Cover": "thumbnail.jpg",
-          "Live": "preview.gif",
-          "Adult": false
-        },
         "Cartoon Paris View-1": {
           "Source": "src/Animals",
           "Cover": "thumbnail.jpg",
@@ -5946,6 +5940,12 @@
     },
     "Film and TV": {
       "Wallpapers": {
+        "Elastic Morty Face-1": {
+          "Source": "src/Film and TV",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Dark Lord of the Sith-1": {
           "Source": "src/Film and TV",
           "Cover": "thumbnail.jpg",
