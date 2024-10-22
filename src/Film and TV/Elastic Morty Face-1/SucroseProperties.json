@@ -9,11 +9,6 @@
         "High",
         "Medium"
       ]
-    },
-    "qualityChange": {
-      "type": "checkbox",
-      "value": false,
-      "text": "Quality Change"
     }
   }
 }
