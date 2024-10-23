@@ -1,0 +1,15 @@
+{
+  "AppVersion": "24.10.23.0",
+  "Version": "1.0.0.0",
+  "Title": "The Knight",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": "preview.gif",
+  "Description": "The Knight - Live Wallpaper",
+  "Author": "MyLiveWallpapers",
+  "License": null,
+  "Contact": "https://mylivewallpapers.com/games/the-knight-live-wallpaper",
+  "Type": 3,
+  "Source": "tk.mp4",
+  "Tags": null,
+  "Arguments": null
+}

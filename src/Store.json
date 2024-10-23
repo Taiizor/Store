@@ -774,6 +774,12 @@
     },
     "Anime": {
       "Wallpapers": {
+        "Zhezhi-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gogeta Blue-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4464,6 +4470,12 @@
     },
     "Cities and Places": {
       "Wallpapers": {
+        "Neighborhood Train-1": {
+          "Source": "src/Cities and Places",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Silhouette Anime Girl Watching City-1": {
           "Source": "src/Cities and Places",
           "Cover": "thumbnail.jpg",
@@ -6528,6 +6540,18 @@
     },
     "Game": {
       "Wallpapers": {
+        "The Knight-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Dan Heng-1": {
+          "Source": "src/Game",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Capitano-1": {
           "Source": "src/Game",
           "Cover": "thumbnail.jpg",
@@ -9771,6 +9795,12 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Thirsty-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Autmun Rain Sleep-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10822,6 +10852,12 @@
     },
     "Science Fiction": {
       "Wallpapers": {
+        "Cyberpunk Machine City-1": {
+          "Source": "src/Science Fiction",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Cyberpunk Girl Claw-1": {
           "Source": "src/Science Fiction",
           "Cover": "thumbnail.jpg",
