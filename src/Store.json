@@ -774,6 +774,18 @@
     },
     "Anime": {
       "Wallpapers": {
+        "M4 SOPMOD II-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
+        "Stronger Person-1": {
+          "Source": "src/Anime",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Zhezhi-1": {
           "Source": "src/Anime",
           "Cover": "thumbnail.jpg",
@@ -4715,6 +4727,12 @@
     },
     "Fantasy": {
       "Wallpapers": {
+        "Water Dragon Samurai-1": {
+          "Source": "src/Fantasy",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Duel of Legends-1": {
           "Source": "src/Fantasy",
           "Cover": "thumbnail.jpg",
@@ -9795,6 +9813,18 @@
     },
     "Lifestyle": {
       "Wallpapers": {
+        "Ocean Evening With Cat-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
+        "Watching the Train-1": {
+          "Source": "src/Lifestyle",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Thirsty-1": {
           "Source": "src/Lifestyle",
           "Cover": "thumbnail.jpg",
@@ -10582,6 +10612,12 @@
     },
     "Pixel Art": {
       "Wallpapers": {
+        "16 Bit Ranni-1": {
+          "Source": "src/Pixel Art",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Walking Alone-1": {
           "Source": "src/Pixel Art",
           "Cover": "thumbnail.jpg",
@@ -10634,6 +10670,12 @@
     },
     "Retro": {
       "Wallpapers": {
+        "Neon 3D Itachi-1": {
+          "Source": "src/Retro",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": true
+        },
         "Gojo Satoru Style-1": {
           "Source": "src/Retro",
           "Cover": "thumbnail.jpg",
@@ -11442,6 +11484,12 @@
     },
     "Technology": {
       "Wallpapers": {
+        "Hacker Workstation-1": {
+          "Source": "src/Technology",
+          "Cover": "thumbnail.jpg",
+          "Live": "preview.gif",
+          "Adult": false
+        },
         "Electronic Circiut Energy-1": {
           "Source": "src/Technology",
           "Cover": "thumbnail.jpg",
