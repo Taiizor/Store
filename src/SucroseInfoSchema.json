@@ -1,23 +1,132 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Sucrose Wallpaper Info Schema",
-  "description": "JSON schema for defining wallpaper app information.",
+  "description": "JSON schema for defining wallpaper app information, including optional localization support.",
   "type": "object",
   "properties": {
-    "AppVersion": { "type": "string", "description": "Version of the app." },
-    "Version": { "type": "string", "description": "Version of the wallpaper." },
-    "Title": { "type": "string", "description": "Title of the wallpaper.", "maxLength": 50 },
-    "Thumbnail": { "type": "string", "description": "Thumbnail image of the wallpaper." },
-    "Preview": { "type": "string", "description": "Preview image or animation of the wallpaper." },
-    "Description": { "type": "string", "description": "Description of the wallpaper.", "maxLength": 500 },
-    "Author": { "type": "string", "description": "Author of the wallpaper.", "maxLength": 50 },
-    "License": { "type": ["string", "null"], "description": "License information for the wallpaper (string or null)." },
-    "Contact": { "type": "string", "description": "Contact information for the wallpaper.", "maxLength": 250 },
-    "Type": { "type": "integer", "description": "Type of the wallpaper." },
-    "Source": { "type": "string", "description": "Source location of the wallpaper." },
-    "Tags": { "type": ["array", "null"], "items": { "type": "string", "minLength": 1, "maxLength": 20 }, "minItems": 1, "maxItems": 5, "description": "Tags associated with the wallpaper (array or null)." },
-    "Arguments": { "type": ["string", "null"], "description": "Arguments for the wallpaper (string or null).", "maxLength": 250 }
+    "AppVersion": {
+      "type": "string",
+      "description": "Version of the app."
+    },
+    "Version": {
+      "type": "string",
+      "description": "Version of the wallpaper."
+    },
+    "Title": {
+      "type": "string",
+      "description": "Title of the wallpaper.",
+      "maxLength": 50
+    },
+    "Thumbnail": {
+      "type": "string",
+      "description": "Thumbnail image of the wallpaper."
+    },
+    "Preview": {
+      "type": "string",
+      "description": "Preview image or animation of the wallpaper."
+    },
+    "Description": {
+      "type": "string",
+      "description": "Description of the wallpaper.",
+      "maxLength": 500
+    },
+    "Author": {
+      "type": "string",
+      "description": "Author of the wallpaper.",
+      "maxLength": 50
+    },
+    "License": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "License information for the wallpaper (string or null)."
+    },
+    "Contact": {
+      "type": "string",
+      "description": "Contact information for the wallpaper.",
+      "maxLength": 250
+    },
+    "Type": {
+      "type": "integer",
+      "description": "Type of the wallpaper."
+    },
+    "Source": {
+      "type": "string",
+      "description": "Source location of the wallpaper."
+    },
+    "Tags": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 20
+      },
+      "minItems": 1,
+      "maxItems": 5,
+      "description": "Tags associated with the wallpaper (array or null)."
+    },
+    "Arguments": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Arguments for the wallpaper (string or null).",
+      "maxLength": 250
+    },
+    "Localization": {
+      "description": "Localized titles and descriptions for different languages (optional, dynamic keys like EN, TR, ES, etc.).",
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "patternProperties": {
+            "^[A-Z]{2,3}$": {
+              "type": "object",
+              "properties": {
+                "Title": {
+                  "type": "string",
+                  "maxLength": 50,
+                  "description": "Localized title."
+                },
+                "Description": {
+                  "type": "string",
+                  "maxLength": 500,
+                  "description": "Localized description."
+                }
+              },
+              "required": [
+                "Title",
+                "Description"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "minProperties": 1,
+          "additionalProperties": false
+        }
+      ]
+    }
   },
-  "required": ["AppVersion", "Version", "Title", "Thumbnail", "Preview", "Description", "Author", "License", "Contact", "Type", "Source", "Tags", "Arguments"],
+  "required": [
+    "AppVersion",
+    "Version",
+    "Title",
+    "Thumbnail",
+    "Preview",
+    "Description",
+    "Author",
+    "License",
+    "Contact",
+    "Type",
+    "Source",
+    "Tags",
+    "Arguments"
+  ],
   "additionalProperties": false
 }
