@@ -18,6 +18,12 @@
                 "^[a-zA-Z0-9_-]+$": {
                   "type": "object",
                   "properties": {
+                    "Size": {
+                      "type": "integer",
+                      "format": "int64",
+                      "minimum": 0,
+                      "description": "Size of the wallpaper in bytes."
+                    },
                     "Source": {
                       "type": "string",
                       "description": "Source location of the wallpaper."
